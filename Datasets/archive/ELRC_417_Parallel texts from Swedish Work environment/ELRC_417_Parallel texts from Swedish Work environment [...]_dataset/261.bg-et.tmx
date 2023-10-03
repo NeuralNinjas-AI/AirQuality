@@ -1,0 +1,2112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T125225Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="bg">
+    <prop type="x-tucount">263</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="bg">
+        <seg>Рискьт за злополуки се намалява и работата става по-ефективна.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Väheneb vigastuste oht ja töö muutub tõhusamaks.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="bg">
+        <seg>Сьветьт за условията на труд (Arbetsmiljöverket) е дьржавна институция за инспекция в областа Условия на труд.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töökeskkonnaamet (Arbetsmiljöverket) on Rootsi riiklik institutsioon, mis teostab kontrolli töökeskkonna suhtes.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="bg">
+        <seg>Ние инспектираме условията на труд на строителни работни площадки и можем, ако се налага да поставяме изисквания за вземане на мерки водещи до приемливи условия при работа.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Me kontrollime ehitus- ja rajatisplatside töökeskkonda ning meil on õigus esitada nõudmisi meetmete kasutuselevõtuks töökeskkonna turvalisusnõuetele vastavaks muutmisel.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="bg">
+        <seg>Ако се установят значителни рискове имаме право да забраним продьлжаване на дейността докато взети мерки за подобрение не бьдат изпълнени.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui riskid on liiga suured, on meil õigus edasine töö ehitusplatsil keelata seniks, kuni töökeskkonda on parendatud.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="bg">
+        <seg>Такава забрана трябва да се подпише при врьчване, но подписа означава само квитанция, че е получен документьт с решението.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Keeld tuleb allkirjastada, kuid allkiri tõendab ühtlasi, et tööandja on vastu võtnud kirjaliku koopia ettekirjutustest.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="bg">
+        <seg>Много строителни работници претърпяват трудови злополуки и професионални заболявания.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Paljude ehitustöölistega tuleb ette õnnetusi ja tööst tingitud haigestumisi või vigastusi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="bg">
+        <seg>Човек може да падне, да работи в неправилно положение, да прави тежки вдигания или да бьде наранен от машини.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Võib juhtuda, et tööline kukub, töötab vales tööasendis, tõstab midagi rasket või vigastab end mõne masinaga töötades.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="bg">
+        <seg>Лошото планиране и недостига на време повишават риска за злополуки.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Halb planeerimine ja ajaressursi vähesus tõstab õnnetuste riske.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="bg">
+        <seg>Извьршването на строителни дейности е урегулирано в законодателството и наредбите на Съвета за условия на труд.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töökeskkonnaameti välja antud seadused ja ettekirjutused näevad ette, kuidas ehitustöid tuleb läbi viia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="bg">
+        <seg>В тази брошура са отбелязани някои минимални изискквания.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Käesolevast brožüürist võite lugeda mõnigatest minimaalsetest nõuetest.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="bg">
+        <seg>Работата по строеж, преустройство, ремонт, поддръжка или събаряне на сгради или обекти е урегулирана в Закона за условия на труда и наредбите касаещи строителство издадени от Съвета за условията на труд.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ehitiste ja hoonete ehitamise, muutmise, rekonstrueerimise, hoolduse või lammutustega seonduvad töid reguleerivad Töökeskkonnaseadus ja Töökeskkonnaameti ehituseeskirjad.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="bg">
+        <seg>Шведските правила за условията на труд се отнасят и за работна сила от чужбина използвана в Швеция без значение дали ресурса е назначен от фирма извън страната, нает под наем от друг шведски работодател или работещ в собствена фирма.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Rootsi töökeskkonna reeglid kehtivad Rootsis töötava välismaise tööjõu puhul olenemata sellest, kas tööline on tööle võetud välismaise ettevõtte poolt, palgatud lepinguliselt rootsi tööandja poolt või töötab iseseisva ettevõtjana.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="bg">
+        <seg>Или с други думи както към собственика на фирма така и към назначените се прилагат првилата без да се взема предвид формата на назначение.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Reeglid käivad nii ettevõtte omaniku kui töövõtja kohta, olenemata töövõtuvormist.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="bg">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="bg">
+        <seg>Намаляване на риска от падане от високо</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kukkumiste ohu vähendamine</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="bg">
+        <seg>Падане от високо е най-обикновената причина за смърт и злополуки на строителни работни обекти.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kukkumine on ehitusplatsidel kõige tavalisemaks surmade või õnnetuste põhjuseks.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="bg">
+        <seg>Рискът за падане трябва да е предотвратяем.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kukkummiste oht peab olema ennetatud.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="bg">
+        <seg>Ако има разлика в нивата по-голяма от два метра по правило е необходима някаква форма за обезопасяване.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui kahe tasandivaheline vahe on üle kahe meetri, on reeglina vajalik mingit tüüpi kaitse.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="bg">
+        <seg>Предпазни парапети, работни платформи и кошове, скелета или подобни средства се използват на първо място.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kaitsepiirded, tööplatvormid, töökorvid, ehitustellingud või muu sarnane kaitse tuleb kasutusele võtta esmajärjekorras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="bg">
+        <seg>Зашита може да е необходима и на по-малки разлики в нивата като например над вода или наличие на остри предмети отдолу.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kaitse võib osutuda tarvilikuks ka väiksemate tasandite vahe puhul, nt kui allpool asetseb vesi või teravad esemed.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="bg">
+        <seg>Парапетите трябва:</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kaitsepiirded peavad:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="bg">
+        <seg>да са стабилно закачени</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>olema turvalised</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="bg">
+        <seg>да са най-малко един метър високи да имат горно и средни перила и запънка в основата.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>olema vähemalt ühe meetri kõrgused koosnema ülemisest, keskmisest ja alumisest piirdest.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="bg">
+        <seg>При работа на покрив обикновено трябва да има защитни парапети или друго оборудване, което осигурява съответното обезопасяване.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Katustel läbiviidavate tööde puhul peab tavaliselt olemas olema kaitsepiire või muu varustus, mis tagab vajaliku kaitse.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="bg">
+        <seg>Парапетите се монтират на долния край на покрива или на скеле, което завършва точно под долния край.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Monteerige kaitsepiire katuseräästa külge või katuseräästa juures lõppevate ehitustellingute külge.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="bg">
+        <seg>Може да са необходими подсилени перила за да издържат човек плъзнал се по стръмен покрив.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Vaja võib minna eriti vastupidavaid tõkkeid, et peatada inimene, kes järsult katuselt kõrge kiirusega alla kukkuma hakkab.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="bg">
+        <seg>Колан през кръста може да причини големи наранявания и не трябва да се използва.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kinnitage ohutusnöör mingi kindla ja turvalise konstruktsiooni külge katusel.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="bg">
+        <seg>Връзките се проверяват за сигурност.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kontrollige, et kinnitused on turvalised.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="bg">
+        <seg>Ако не може да се привърже въжето към стабилно съоръжение то се превърта около стабилно закачено съоръжение и се държи опънато от друг човек.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui ohutusnööri pole võimalik kuhugi kinnitada, võib selle siduda ümber turvalise konstruktsiooni ning mõni teine inimene peab seda pingul hoidma.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="bg">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="bg">
+        <seg>При някои работи е добре да използва зашитна мрежа.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Osade tööde puhul on vajalik kasutada kaitsevõrku.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="bg">
+        <seg>Важно е компетентно лице да провери мрежата и монтирането и преди тя да се използва.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Enne kasutamist peab võrgu ja selle paigalduse üle kontrollima pädev isik.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="bg">
+        <seg>Ако някой трябва да работи повече от четири часа върху малка площ на покрив с наклон по-голям от 1:4, трябва работната площ да е хоризонтална.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui keegi peab töötama katusel väiksel tööpinnal üle nelja tunni ning katuse kalle on rohkem kui 1:4, peab tagatud olema horistonaaltne tööpind.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="bg">
+        <seg>Защитните каска и обувки обикновено трябва да се ползват.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tavaliselt tuleb kasutada kaitsekiivrit ning kaitsejalanõusid.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="bg">
+        <seg>Понякога са необходими и защитни очила, шумозаглушителни наушници и ръкавици.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Vahel on tarvis kasutada ka silmakaitseid, kuulmekaitseid ja kindaid.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="bg">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="bg">
+        <seg>Тежки вдигания и неправилни положения при работа натоварват човешкото тяло</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Rasked tõsted ja väärad tööasendid koormavad keha</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="bg">
+        <seg>Затова трябва да има оборудване за вдигане и транспортиране на строителен материал.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ehitustöö on tihti raske ja koormav kehale ning seetõttu on ehitusmaterjalide transpordiks vajalik tõsteseadmed.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="bg">
+        <seg>Машините и инструментите трябва да са ергономично оформени.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Masinad ja tööriistad peavad olema ergonoomilised.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="bg">
+        <seg>Да се работи на стълба по-дълго време не е добре за тялото.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Pikemat aega redelilt töötamine pole kehale hea.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="bg">
+        <seg>Стъпването върху равна повърхност, което например се постига при ползване на вдигаемоспускаеми платформи, дава възможност за по-добра работна стойка на тялото.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Parema tööasendi tagab tasane pind, nt sellised platvormid, mida on võimalik tõsta või langetada.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="bg">
+        <seg>Мускулите на тялото трябва да могат да се възстановят след натоварване.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Pärast pingutamist peavad lihased kehas taastuma.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="bg">
+        <seg>Трябва да се избягват едностранните натоварвания на мускули посредством вариране в работния процес.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Erinevaid töid tehes väldite lihaste ühekülgset pingutust.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="bg">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="bg">
+        <seg>Правила за химическите вещества в Швеция</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Keemiliste ainete kohta käivad reeglid Rootsis</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="bg">
+        <seg>В строителния бранш се използват много отровни, кансерогенни, разяждащи или алергопричиняващи вещества.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ehitusalal kasutatakse mitmeid mürgiseid, kantserogeenseid, söövitavaid või allergiaid tekitavaid aineid.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="bg">
+        <seg>Например бетон и хоросан съдържат цимент, който при продължителен контакт с кожата може да причини рани.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Näiteks sisaldab betooni, müürimört ja krohv tsementi, mis võib pikemaajalisel kokkupuutel nahaga tekitada söövitushaavu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="bg">
+        <seg>За химически продукти съдържащи едно или повече опасни вещества трябва има на работното място предоставената от доставчика информация за безопасност.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Keemiliste toodete puhul, mis sisaldavad ühte või enamat ohtlikku ainet, peab tööplatsil saadaval olema ka edasimüüja ohutusalane teabeleht.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="bg">
+        <seg>За продукти закупени в Швеция информацията за безопасност трябва да е на шведски.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui tegemist on Rootsis ostetud toodetega, peab ohutusalane teabeleht olema rootsikeelne.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="bg">
+        <seg>Предприятие, което вкарва в Швеция опасен химически продукт за собствена употреба, отговаря за наличието на писмена информация за рискове и безопасност на език, който ползуващите веществото разбират.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ettevõte, kes toob Rootsi sisse ohtlikke keemilisi tooteid oma tarbeks kasutamiseks, vastutab selle eest, et toote kohta on töökohal olemas kirjalik ohutus- ja turvaalane teave töötajatele arusaadavas keeles.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="bg">
+        <seg>На строителните работни места трябва да има опис на всички опасни химически вещества.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ehitusplatsil peab olema tagatud loetelu kõigi ohtlike keemiliste toodete kohta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="bg">
+        <seg>Всеки отделен работодател носи отговорност за това.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Igal tööandal lasub sellealane vastutus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="bg">
+        <seg>Работодателят трябва да информира работниците за рисковете относно опасните химически продукти и да е наясно, че работниците са разбрали информацията.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tööandja peab töövõtjaid teavitama keemiliste toodetega kaasnevatest riskidest ning veenduma, et töövõtjad on teabest aru saanud.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="bg">
+        <seg>За някои опасни вещества важат изключително строги правила:</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Teatud ohtlike ainete puhul kehtivad eriti ranged reeglid:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="bg">
+        <seg>Азбест: За боравене и премахване на азбест на предпиятието,което ще извършва работата е необходимо разрешително от Съвета за условия на труд.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Asbest: asbestiga töötamiseks ja selle eemaldamiseks on töid läbiviival ettevõttel tarvis hankida Töökeskkonnaametilt luba.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="bg">
+        <seg>За получаване на разрешителнио е необходимо да се представят документ за специално обучение и медицинско свидетелство.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Loa saamiseks on vajalik esitada dokumendid vastava väljaõppe kohta ning arstitõend.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="bg">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="bg">
+        <seg>Маршрути за движение и транспортиране</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ühenduskohad ja transport</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="bg">
+        <seg>На строителните учстъци трябва да са подсигурени безопасни места за минаване като например стълбище или рампа между различни етажи.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ehitusplatsil peavad olema turvalised ühenduskohad, nt trepp või kaldtee erinevate tasandite vahel.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="bg">
+        <seg>При разлика в нивата по-голяма от десет метра трябва да има асансьор, при чиято липса работещия е принуден да ходи много пъти по стълбището.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui töövõtja peab palju treppe kasutama, peab üle 10-meetriste tasanditevahelise vahede puhul olema tööplatsil tagatud lifti olemasolu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="bg">
+        <seg>При наличието на автомобилни пътища на работния учстък трябва да се подсигури достатъчно разстояние за безопасност или или да се поставят защитни съоръжения.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ehitusplatsile jäävate autoteede puhul peab turvalisus olema tagatud kas piisava vahemaa kindlustamise või kaitseseadmete olemasolu läbi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="bg">
+        <seg>Ако това не е възможно, транспортът трябва да се извършва посредством приемателен мостик, товарни отвори във фасадата, рампи или специални транспортни системи.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui see pole võimalik, tuleb transpordiks kasutada laadimisplatvorme, fassaadis olevaid koormaavausi, rampe või erilisi transpordisüsteeme.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="bg">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="bg">
+        <seg>Инструкции за работа с повдигащи устройства, машини и някои други продукти</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tõsteseadmete, masinate ja teatud muude toodete kasutusjuhendid</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="bg">
+        <seg>Повдигащи устройства или машини трябва да са придружени при доставка и започване на работа в Швеция с писмени инструкции за работа с тях на шведски.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Masina või tõsteseadme kohale toimetamisel või kasutuselevõtul Rootsis, peab seade või masin olema varustatud kirjaliku rootsikeelse kasutusjuhendiga.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="bg">
+        <seg>За това отговаря доставчика.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Selle eest vastutab edasimüüja.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="bg">
+        <seg>За доставчик се счита и лице, което внася машина за ползване в Швеция.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Edasimüüjaks loetakse ka ettevõtet või isikut, kes toob masina maale Rootsis kasutamiseks.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="bg">
+        <seg>Информация за необходимото съдържание на инструкциите може да се намери в наредбите за машини на Съвета за условия на труд.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Teave kasutusjuhendi kohustusliku sisu kohta on saadaval Rootsi Töökeskkonnaameti reeglistikus masinate kohta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="bg">
+        <seg>Дори за префабрицирани скелета трябва да има инструкции на шведски при доставката и те трябва да са достъпни след това на работния участък.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Eelnevalt kokkupandud ehitustellingute puhul peavad kirjalikud rootsikeelsed juhendid seadmete kohale toimetamisel kaasas olema ning need peavad olema ehitustööplatsil kättesaadavad.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="bg">
+        <seg>В наредбите на Съвета за условията на труд за скелета е отбелязано какво да е съдържанието на инструкциите.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Teave kasutusjuhendi kohustusliku sisu kohta on saadaval Rootsi Töökeskkonaaameti reeglistikus ehitustellingute kohta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="bg">
+        <seg>Работник, който ще използва машина, повдигащо устройство, скеле и прочие трябва да има достъп до инструкциите.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui masinat, tõsteseadet või tellinguid jne kasutatakse ehitustöödel, peab asjasse puutuval töövõtjal olema ligipääs ülalnimetatud seadmete kasutusjuhendite kohta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="bg">
+        <seg>Те трябва да са на език, който той разбира.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Juhendid peavad olema töötajale arusaadavas keeles.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="bg">
+        <seg>CE-маркировка, удостоверение за типово удобряване и технически преглед на повдигащи устройства, машини и някои други продукти</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tõsteseadmete, masinate ja mõne muu toote CE-märk, tüübikinnitus ja ülevaatus</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="bg">
+        <seg>Префабрицираните скелета и стълби трябва, ако се доставят в Швеция, да са типово удобрени (за стълби като алтернатива с издаден сертификат) от акредитиран орган.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Rootsi toimetatavad eelnevalt kokkupandud ehitustellingud ja redelid peavad olema saanud volitatud organi poolt tüübikinnituse (redelite puhul ka sertifitseeringu).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="bg">
+        <seg>На много машини и повдигащи устройства трябва периодически да се прави контролен преглед за да може да се използват.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Paljud masinad ja tõsteseadmed peavad selleks, et neid jätkuvalt kasutada tohiks, läbima korrapäraseid ülevaatusi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="bg">
+        <seg>Наказуемо е да се използват машини и повдигащи устройства, ако не им е правен контролен преглед или посочени на преглед недостатъци не са отстранени.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui ülevaatust pole tehtud või kui ülevaatuse korras esile toodud puudusi pole kõrvaldatud, on masina või tõsteseadme kasutamine karistatav.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="bg">
+        <seg>Контролният преглед трябва да е направен според шведските изисквания.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ülevaatus tuleb läbi viia vastavuses Rootsi seadusandlusega.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="bg">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="bg">
+        <seg>Още нещо за което да се помисли...</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Mida veel meeles pidada</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="bg">
+        <seg>Сериозни злополуки могат да се случат, ако складиран строителен материал се задвижи поради например силен вятър.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tõsiseid õnnetusi võib põhjustada ladustatud ehitusmaterjali liikumine, nt põhjustatuna tugevast tuulest.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="bg">
+        <seg>Затова е важно материалите да се стабилизират.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Seetõttu on oluline materjali püsistamine.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="bg">
+        <seg>Понякога може да е необходимо и строителите да са предпазени от вятър и студ.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Mõnikord on vajalik ka töövõtjate kaitsmine ilmastiku tingimuste (nt tuulte ja külma) vastu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="bg">
+        <seg>Участъци, в които има риск за падащи предмети се ограждат и маркират.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Alad, kus on kukkuvate esemete oht, tuleb blokeerida.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="bg">
+        <seg>Ако все пак те трябва да се посещават е необходим обезопасяващ покрив.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui neile aladele on siiski vaja juurde pääseda, on vajalik kaitsekatuse olemasolu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="bg">
+        <seg>Изкопните работи се планират така, че земната площ да не се излага на по-силен натиск от този, който може да понесе.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Maapinnatööd tuleb planeerida nii, et maapinda ei koormataks rohkem, kui see välja kannatab.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86">
+      <tuv xml:lang="bg">
+        <seg>Ако е необходимо трябва да се обезопаси срещу свличане.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Vajadusel tuleb kindlustada kaitse maalihke suhtes.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87">
+      <tuv xml:lang="bg">
+        <seg>Проверява се за кабели или опасни вещества в земята и дали няма риск машини да пропаднат в изкопите.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Veenduge, et maapinnas poleks kaableid ega ohtlikke aineid ning et välistatud oleks masinate süvenditesse kukkumise oht.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88">
+      <tuv xml:lang="bg">
+        <seg>Движението на МПС трябва да е на достатъяно разстояние от шахтите.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Sõidukid tuleb süvenditest eemal hoida.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89">
+      <tuv xml:lang="bg">
+        <seg>Минаването на МПС до работните участъци е риск.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ehitusplatsidelt mööduvad sõidukid kujutavad endast ohtu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90">
+      <tuv xml:lang="bg">
+        <seg>На първо място трябва движението да се отбие.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Esmajärjekorras tuleb liiklus ümber suunata.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91">
+      <tuv xml:lang="bg">
+        <seg>Работещ на участък, който не е отделен от движението на МПС рябва да носи сигнално облекло с рефлекси.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Liiklusest eraldamata tööplatsil töötav isik peab kandma helkuritega varustatud kõrgnähtavust tagavaid riideid.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92">
+      <tuv xml:lang="bg">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93">
+      <tuv xml:lang="bg">
+        <seg>Ако нещо се случи</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui midagi juhtub</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94">
+      <tuv xml:lang="bg">
+        <seg>Всички трябва бързо и сигурно да могат да напуснат работното място например при пожар.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kõik peavad suutma turvaliselt ja kiiresti tööplatsilt lahkuda, nt tulekahju puhul.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95">
+      <tuv xml:lang="bg">
+        <seg>Евакуационните пътища и местата за събиране трябва да са маркирани с табелки.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Väljapääsud ja kogunemiskohad peavad olema siltidega varustatud.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96">
+      <tuv xml:lang="bg">
+        <seg>Вратите за евакуация трябва да се отварят навън и трябва да има лесен достъп до противопожарните уреди.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Evakuatsiooniuksed peavad avanema sissepoole ning tulekustutusvahenditele peab olema tagatud hõlbus ligipääs.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97">
+      <tuv xml:lang="bg">
+        <seg>Трябва да може да се дава първа помощ и помещенията и оборудването за такава трябва да са отбелязани с табелки.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Alati peab olema valmisolek esmaabi osutamiseks ning sellise abi osutamiseks vajalikele ruumidele ja varustusele ligipääs peab olema siltidega viidastatud.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98">
+      <tuv xml:lang="bg">
+        <seg>На видно място трябва да има информация за телефоните на бърза помощ и спасителната служба, адреса на работното място и евентуално описание как се стига до него.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Samuti peab töökohas olema teabesilt, millelt on loetavad kiirabi ja päästeameti telefoninumbrid, töökoha aadress ja vajadusel ka teejuhised.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99">
+      <tuv xml:lang="bg">
+        <seg>Обаждащия се трябва да може да комуницира с шведската спасителна служба.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Helistaja peab suutma suhelda Rootsi Päästeametiga.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100">
+      <tuv xml:lang="bg">
+        <seg>Обикновено те разбират английски.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tavapäraselt oskavad Päästeameti töötajad inglise keelt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="101">
+      <tuv xml:lang="bg">
+        <seg>Ако спиране на електричеството води до специални рискове в работата трябва да има аварийно осветление.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui voolukatkestus toob endaga kaasa erilisi ohutusalaseid riske töökohas, peab töökoht olema varustatud avariivalgustusega.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="102">
+      <tuv xml:lang="bg">
+        <seg>Това се отнася например при работа със строителни режещи инструменти или при монтиране на скеле.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>See kehtib nt tööde puhul, mis on seotud ehitussaega või ehitustellingute ülesseadmisega.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="103">
+      <tuv xml:lang="bg">
+        <seg>План за условията на труд</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töökeskkonna plaan</seg>
+      </tuv>
+    </tu>
+    <tu tuid="104">
+      <tuv xml:lang="bg">
+        <seg>Преди да се открие строителния работен участък трябва да се изготви план за условията на труд за целия обект.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töökeskkonna plaan tuleb välja töötada juba enne ehitustöödega alustamist.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="105">
+      <tuv xml:lang="bg">
+        <seg>На първо място за изработката на такъв отговаря кординатора за планиране и проектиране на условията на труд на строежа.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Eelkõige vastutab planeerimis- ja projekteerimisala ehitustöökeskkonna koordinaator plaani välja töötamise eest.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="106">
+      <tuv xml:lang="bg">
+        <seg>Строителния инвеститор или предприемач, който е поел отговорноста му отговаря и за изработването на плана.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Projektijuht või vastutava objektiülema vastutusalasse kuulub ka plaani rakendamine.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="107">
+      <tuv xml:lang="bg">
+        <seg>Целта е плана за условията на труд впоследствие да се използва през цялото времетраене на строежа.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töökeskkonna plaani kasutatakse kogu ehitusaja jooksul.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="108">
+      <tuv xml:lang="bg">
+        <seg>Координатора за изпълнение на работата по строежа трябва да се погрижи плана да е на разположение на строителния работен участък още при самото му откриване.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ehitustöökeskkonna koordinaatori ülesandeks on vastutada selle eest, et plaan oleks kättesaadav töökohal niipea, kui ehitustöödega on alustatud.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="109">
+      <tuv xml:lang="bg">
+        <seg>Координатора трябва да извърши и необходимите евентуални промени.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Koordinaatori ülesandeks on ka plaani vajalike muudatuste ja kohanduste tegemine.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="110">
+      <tuv xml:lang="bg">
+        <seg>Ако строителните работи ще се извършват на място, където едновременно ще има и друга дейност, то това трябва да е съобразено в плана за условията на труд.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui ehitus- või rajatistöid viiakse läbi kohtades, kus samaaegselt jääb toimuma mingi muu tegevus, tuleb seda töökeskkonna plaanis arvesse võtta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="111">
+      <tuv xml:lang="bg">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="112">
+      <tuv xml:lang="bg">
+        <seg>Плана трябва да съдържа следното:</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Plaanis peab sisalduma alljärgnev:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="113">
+      <tuv xml:lang="bg">
+        <seg>Правилата, които ще се прилагат на строителния работен участък</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>tööplatsil rakendatavad reeglid</seg>
+      </tuv>
+    </tu>
+    <tu tuid="114">
+      <tuv xml:lang="bg">
+        <seg>работа с риск от падане</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>kukkumisohuga seotud tööd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="115">
+      <tuv xml:lang="bg">
+        <seg>шахтьорска работа с риск от свличане</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>maalihke ohuga seotud süvenditööd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="116">
+      <tuv xml:lang="bg">
+        <seg>работа с някои химически или биологически вещества</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>teatud keemiliste või bioloogiliste ainetega seotud tööd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="117">
+      <tuv xml:lang="bg">
+        <seg>работа в близост до проводници с високо напрежение</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>tööd kõrgepingeliinide läheduses</seg>
+      </tuv>
+    </tu>
+    <tu tuid="118">
+      <tuv xml:lang="bg">
+        <seg>работа при която има риск от удавяне</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>uppumisohuga seotud tööd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="119">
+      <tuv xml:lang="bg">
+        <seg>работа в кладенци и тунели</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>kaevude ja tunnelitega seotud tööd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="120">
+      <tuv xml:lang="bg">
+        <seg>работа при която се използват взривни вещества</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>lõhkemisainete kasutamisega seotud tööd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="121">
+      <tuv xml:lang="bg">
+        <seg>Предварително оведомление</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Eelnev avaldus</seg>
+      </tuv>
+    </tu>
+    <tu tuid="122">
+      <tuv xml:lang="bg">
+        <seg>Предварителното уведомление трябва да се постави от инвеститора на видно място на строителния участък и да се осъвременява.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töödeülem vastutab ka selle eest, et avalduse koopia pannakse üles ehitustööde platsil ning seda ajakohastatakse.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="123">
+      <tuv xml:lang="bg">
+        <seg>11</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="124">
+      <tuv xml:lang="bg">
+        <seg>Планиране и информация</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Planeerimine ja teave</seg>
+      </tuv>
+    </tu>
+    <tu tuid="125">
+      <tuv xml:lang="bg">
+        <seg>Всяка работа трябва да се планира и да се прецени навреме от гледна точка на рисковете за да може да се извърши сигурно.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kõiki töid tuleb eelnevalt planeerida ja riski suhtes hinnata, et nende läbiviimine oleks turvaline.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="126">
+      <tuv xml:lang="bg">
+        <seg>Трябва да се планират площи за временни помещения, работилници и складове, както и маршрути за движение и транспорти.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Laohooned, töökojad ja hoidlad ning ühendused ja transport tuleb eelnevalt planeerida.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="127">
+      <tuv xml:lang="bg">
+        <seg>Важно е да има решение с възможен достъп до всички работни места.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Oluline on leida lahendus töökohtadele pääsemiseks.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="128">
+      <tuv xml:lang="bg">
+        <seg>Работата трябва да се планира така, че да няма сблъсъци с различните дейности по начин, който води до риск за здравето или до злополуки.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töö tuleb planeerida nii, et erinevad tegevused ei satuks kokku viisil, mis võib põhjustada õnnetusi või ohtu tervisele.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="129">
+      <tuv xml:lang="bg">
+        <seg>Планиране на действителното времетраене е особено важно, ако работата е значителна по обем, а срока за строителство е кратко.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ajaplaneerimine on eriti oluline kui töö on ulatuslik kuid ehitusaeg lühike.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="130">
+      <tuv xml:lang="bg">
+        <seg>Трябва да се изберат методи на работа и оборудване, които:</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Valida tuleb töömeetodeid või varustust, mis:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="131">
+      <tuv xml:lang="bg">
+        <seg>противодействат на злополуки от падане или свличане,</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>väldivad õnnetuste juhtumist seoses maalihete või kukkumistega seoses,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="132">
+      <tuv xml:lang="bg">
+        <seg>означват, че опасни за здравето или излишно изтощаващи натоварвания на тялото се избягват, водят до ниско експониране на силен шум, вибрации, опасни вещества и замърсен въздух.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>tagavad terviskahjustavate või ebavajalikult keha väsitavate koormuste välti mise, toovad kaasa madala müra- ja vibratsioonitaseme, ohtlike ainete ja õhusaaste taseme.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="133">
+      <tuv xml:lang="bg">
+        <seg>Работниците трябва да се информират за работата, какви мерки за условията на труд са взети или планирани и какви правила важат.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töövõtjaid teavitatakse tööst ja töökeskkonnaalaste meetmete rakendamisest või nende planeerimisest ning kehtivatest reeglitest.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="134">
+      <tuv xml:lang="bg">
+        <seg>Те могат да имат нужда от специално обучение или инструкции за нови продукти и работни методи, които ще се използват.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töötajad võivad vajada eriväljaõpet või juhiseid uute toodete või töömeetodite kasutuselevõtul.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="135">
+      <tuv xml:lang="bg">
+        <seg>На строителните обекти стават постоянни и бързи промени с много рискове.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ehitusplatsil toimub pidevalt ja kiiresti mitmeid ohte kaasa toovaid muutusi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="136">
+      <tuv xml:lang="bg">
+        <seg>Затова е важно да се правят редовни прегледи по охрана на труда.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Seetõttu on vajalikud reeglipärased turvaalased ringkäigud.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="137">
+      <tuv xml:lang="bg">
+        <seg>12</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu tuid="138">
+      <tuv xml:lang="bg">
+        <seg>Кой за какво отговаря?</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kes vastutab mille eest?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="139">
+      <tuv xml:lang="bg">
+        <seg>Освен това е важно всички страни да си сътрудничат и строителните работници да съдействат в работата за условията на труд.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ehitusplatsil hea töökeskkonna loomiseks on väga oluline ennetav töökeskkonnaalane töö ning kõigi asjaosaliste vastutus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="140">
+      <tuv xml:lang="bg">
+        <seg>Строителния инвеститор носи също отговорност за изработването на предварително уведомление, план за условията на труд, документация и има грижата да бъде определен координатор за условията на труд, който да се грижи за планиране и проектиране.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Projektijuht vastutab ka selle eest, et ajakohastataks eelnev avaldus, töökeskkonnaplaan ja dokumentatsioon ning et keegi määratakse planeerimise ja projekteerimise ajaks töökeskkonna koordinaatoriks.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="141">
+      <tuv xml:lang="bg">
+        <seg>Инвеститора освен това носи и отговорност строителния процес да се координира от гледна точка на условията на труд и за целта трябва да определи и координатор на строителните условия за извършване на строежа.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Projektijuht peab ka vastutama selle eest, et ehitus- ja rajatistööd on vastavuses töökeskkonna reeglitega ning määrab ka ehitus- või rajatistööde läbiviimise ajaks töökeskkonna koordinaatori.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="142">
+      <tuv xml:lang="bg">
+        <seg>При частично такова отговорността не може да се прехвърля.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Osalise töövõtulepingu korral ei saa projektijuht sellist vastutust üle anda.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="143">
+      <tuv xml:lang="bg">
+        <seg>Кординатора за условията на труд отговарящ за планиране и проектиране трябва да кординира проектирането отнасящо се до условията на труд и да се погрижи за изработването на план за условията на труд и документация.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ehitustöökeskkonna koordinaator planeerimise- ja projekteerimise alal koordineerib projekteerimist lähtudes töökeskkonnast ning vastutab töökeskkonna plaani ja dokumentatsiooni koostamise eest.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="144">
+      <tuv xml:lang="bg">
+        <seg>13</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>13</seg>
+      </tuv>
+    </tu>
+    <tu tuid="145">
+      <tuv xml:lang="bg">
+        <seg>Всички работещи на общото работно място са длъжни да спазват правилата за ред и обезопасеност, които координатора на условията на труд определя.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kõik ühisel tööpaigal tegutsevad inimesed peavad järgima ehitustöökeskkonna koordinaatori välja antud juhiseid ja turvareegleid.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="146">
+      <tuv xml:lang="bg">
+        <seg>Всеки работодател носи главна отговорност за условията на труд на своите работници.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Igal tööandjal lasub põhivastutus oma töötajate töökeskkonna suhtes.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="147">
+      <tuv xml:lang="bg">
+        <seg>Отговорността на работодателя важи изцяло дори когато например се носи едновременно подобна такава от извършители на проектирането, производители на използвана в работния процес машина или координатор на строителните условия.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tööandja vastutus oma töövõtjate suhtes kehtib täielikult ka siis, kui tööandja vastutab lisaks veel projekteerimise eest, tööl kasutatava masina tootja eest või töökeskkonna koordinaatori eest.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="148">
+      <tuv xml:lang="bg">
+        <seg>Самостоятелно заетите лица и онези работещи във фамилни фирми без наети работници трябва да спазват общо погледнато същите правила при строителна дейност, които важат за работодатели и работници.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Iseseisev ettevõtja ja need, kes töötavad pereettevõtetes, kus pole töövõtjaid, peavad ehitis- ja rajatistööde puhul järgima suures osas samu reegleid, mis on kehtivad tööandja ja töövõtja puhul.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="149">
+      <tuv xml:lang="bg">
+        <seg>Строителния работник трябва да съдейства в работата за условията на труд, да спазва съответните разпоредби и да използва съществуващите обезопасителни съоръжения.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ehitustöötajad osalevad töökeskkonnaalases töös, järgivad kehtivaid ettekirjutusi ja kasutavad olemasolevaid kaitsevahendeid ja -seadmeid.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="150">
+      <tuv xml:lang="bg">
+        <seg>Отговорниците за охрана на труда представляват работниците по въпроси касаещи безопасността.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ohutusvolinik esindab töövõtjaid turvaalastes küsimustes.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="151">
+      <tuv xml:lang="bg">
+        <seg>Ако някоя работна дейност означава непосредствена и сериозна опасност за живота или здравето и работодателя не отстрани незабавно риска, отговорникът за охрана на труда има право да прекрати работата в очакване на решение от страна на Съвета за охрана на труда.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui mingi töö tegemine toob kaasa vahetu ja tõsise ohu elule või tervisele ning tööandja ei kõrvalda otsekohe sellist ohtu, on ohutusvolinikul õigus töö katkestada selleks ajaks, kui Töökeskkonnaamet esitab olukorra kohta oma seisukoha.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="152">
+      <tuv xml:lang="bg">
+        <seg>Производители, вносители или наемодатели на технически съоръжения имат отговорност продуктите им да са безопасни.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tootja, maaletooja ja tehniliste seadmete rendile andja vastutavad oma toodete ohutuse eest.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="153">
+      <tuv xml:lang="bg">
+        <seg>Производители и вносители на химически продукти и други вещества имат също подобна отговорност.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Keemiliste toodete ja muude ainete tootjatel ja maaletoojatel on sarnane vastutus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="154">
+      <tuv xml:lang="bg">
+        <seg>Производители, вносители и наемодатели трябва да предоставят и необходимата информация за продуктите си за предпазване от злополуки и нарушаване на здравето.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tootja, maaletooja ja rendile andja peavad andma ka vajaliku tooteteabe terviserikete ja õnnetuste ennetamiseks.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="155">
+      <tuv xml:lang="bg">
+        <seg>В закона за условията на труд има и разпореждания за отговорност на лица, които наемат работна сила и лица, които се разпореждат на дадено работно място.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töökeskkonnaseadus reguleerib ka ajutiste lepingutega töötajaid värbava tööandja kui ka töökoha eest vastutava isiku vastutusala.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="156">
+      <tuv xml:lang="bg">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="157">
+      <tuv xml:lang="bg">
+        <seg>Swedish Work Environment Authority, publication services, 112 79 Stockholm.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Swedish Work Environment Authority, publication services, 112 79 Stockholm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="158">
+      <tuv xml:lang="bg">
+        <seg>Tel.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tel.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="159">
+      <tuv xml:lang="bg">
+        <seg>+46-(0)8-730 97 00</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>+46-(0)8-730 97 00</seg>
+      </tuv>
+    </tu>
+    <tu tuid="160">
+      <tuv xml:lang="bg">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="161">
+      <tuv xml:lang="bg">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+    </tu>
+    <tu tuid="162">
+      <tuv xml:lang="bg">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+    </tu>
+    <tu tuid="163">
+      <tuv xml:lang="bg">
+        <seg>ADI 539 Bul Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>ADI 539 Est Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+    </tu>
+    <tu tuid="164">
+      <tuv xml:lang="bg">
+        <seg>Настоящото е информационна брошура от Ведомството за работната среда за онези, които искат да работят като берачи на горски плодове в Швеция.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui Sul on kavas tulla marjakorjajana Rootsi tööle, leiad käesolevast Töökeskkonna ameti infovoldikust kasulikku teavet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="165">
+      <tuv xml:lang="bg">
+        <seg>Ведомството за работната среда е държавният орган, който контролира спазването и изпълнението на Закона за работната среда, Закона за работно време и другите правила за условията на труд на шведските работни места.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töökeskkonna amet on riiklik ametiasutus, kes kontrollib, et Rootsis peetaks töökohtadel kinni töökeskkonna seaduse ja tööaja seaduse sätetest ning järgitaks ka teisi töökeskkonnaga seotud ettekirjutusi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="166">
+      <tuv xml:lang="bg">
+        <seg>Начиная от летния сезон 2010 Миграционното ведомство ще разглежда заявките за разрешителни за работа на берачите на горски плодове по същия начин, както относно всяко друго заявление за разрешително за работа.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Migratsiooniamet otsustas vaadata alates 2010. aastast metsmarjakorjajate tööloataotlusi läbi samadel alustel nagu menetletakse teisigi tööloataotlusi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="167">
+      <tuv xml:lang="bg">
+        <seg>Какво означава това, можете да прочетете повече по-долу.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Mida see tähendab, on täpsemalt kirjas allpool.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="168">
+      <tuv xml:lang="bg">
+        <seg>За тези, които искат да работят като берачи на горски плодове в Швеция</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui Sa soovid töötada Rootsis marjakorjajana</seg>
+      </tuv>
+    </tu>
+    <tu tuid="169">
+      <tuv xml:lang="bg">
+        <seg>Ако искате да работите като берачи на горски плодове в Швеция и не идвате от страна на ЕС, обикновено трябва да имате разрешително за работа.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui Sa ei ole Euroopa Liidu liikmesriigi kodanik ning soovid töötada Rootsis marjakorjajana, peab Sul üldjuhul olema tööluba.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="170">
+      <tuv xml:lang="bg">
+        <seg>В повечето случаи, гражданите на страни извън ЕС се нуждаят и от виза за пребиваване Швеция.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Isikul, kes ei ole Euroopa Liidu liikmesriigi kodanik, peab olema Rootsis viibimiseks enamasti ka viisa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="171">
+      <tuv xml:lang="bg">
+        <seg>Ако ще работите в Швеция за повече от три месеца, се нуждаете освен от разрешение за работа, и от разрешение за пребиваване в страната.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui Sa kavatsed töötada Rootsis rohkem kui kolm kuud, peab Sul olema tööloale lisaks ka elamisluba.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="172">
+      <tuv xml:lang="bg">
+        <seg>Имиграционните власти, в лицето на Миграционното ведомство, отговарят за правилата за разрешителни за работа и пребиваване.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töö- ja elamislubadega seotud küsimustega tegeleb Migratsiooniamet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="173">
+      <tuv xml:lang="bg">
+        <seg>Вие трябва да кандидатствате за разрешение преди да отпътувате за Швеция.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Luba pead taotlema enne Rootsi tulekut.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="174">
+      <tuv xml:lang="bg">
+        <seg>Можете да кандидатствате за пребиваване и работа на уебсайта на Миграционното ведомство, www.migrationsverket.se.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Elamis- ja tööluba saad taotleda Migratsiooniameti veebilehe www.migrationsverket.se kaudu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="175">
+      <tuv xml:lang="bg">
+        <seg>Можете също така да представите своята кандидатура на шведското посолство или консулство във Вашата страна.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Avalduse võid esitada ka oma kodumaal Rootsi saatkonda või konsulaati.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="176">
+      <tuv xml:lang="bg">
+        <seg>Ако искате да работите в Швеция за по-малко време от три месеца и се нуждаете от виза за влизане в Швеция, трябва да подадете молбата си за разрешително за работа в шведско посолство или консулство.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui Sa kavatsed töötada Rootsis vähem kui kolm kuud ja Sa vajad Rootsi sissesõitmiseks viisat, pead tööloataotluse esitama Rootsi saatkonna või konsulaadi kaudu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="177">
+      <tuv xml:lang="bg">
+        <seg>Какво се изисква за получаване на разрешително за работа?</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Mida on vaja, et saada tööluba?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="178">
+      <tuv xml:lang="bg">
+        <seg>Какви условия за наемане на работа важат по шведските колективни трудови договори за берачите на горски плодове?</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Millised töölevõtu tingimused kehtivad marjakorjajatele Rootsi kollektiivlepingute järgi?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="179">
+      <tuv xml:lang="bg">
+        <seg>За да получите разрешение за работа е необходимо не само да Ви се заплаща най-малко 13 000 шв. крони на месец.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tööloa saamiseks ei piisa sellest, et Su palk on vähemalt 13 000 SEK kuus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="180">
+      <tuv xml:lang="bg">
+        <seg>Нужно е също така условията на труда да бъдат равно-стойни на шведските колективни трудови договори (или това, което е прието в съответната професия или отрасъл).</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ka töölevõtu tingimused peavad vastama Rootsi kollektiivlepingute tasemele (või olema kooskõlas vastava eriala või majandusharu tingimustega).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="181">
+      <tuv xml:lang="bg">
+        <seg>Договорената минимална заплата в договора, е 18</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Selle kokkuleppe järgi on minimumpalk</seg>
+      </tuv>
+    </tu>
+    <tu tuid="182">
+      <tuv xml:lang="bg">
+        <seg>542 шв. крони на месец.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>18 542 SEK kuus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="183">
+      <tuv xml:lang="bg">
+        <seg>Ако сте служител, назначен на чужда компания, която няма дейност в Швеция, например, агенция за осигуряване на персонал, валиден ще бъде договора за работа.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kol-lektiivlepingus on reguleeritud ka tunnipalgaliste töötajate minimaalne tunnipalk, mis kehtib neile, kes saavad töötasu töötundide alusel.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="184">
+      <tuv xml:lang="bg">
+        <seg>Това важи независимо от това дали чуждестранната компания е подписала колективен трудов договор или не.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>See leping kehtib sõltuma-ta sellest, kas välismaal asuv firma on kollektiivlepingule alla kirjutanud või mitte.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="185">
+      <tuv xml:lang="bg">
+        <seg>Тя се предлага преведена на няколко различни езици.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Selles on reguleeritud miinimumpalga, tööaegade, kindlustuste ja muud küsimused.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="186">
+      <tuv xml:lang="bg">
+        <seg>Как да берем плодове, без да сме назначени на работа</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Marjakorjamine ilma tööandjata</seg>
+      </tuv>
+    </tu>
+    <tu tuid="187">
+      <tuv xml:lang="bg">
+        <seg>Възможно е тези, които са получили виза за посещение на роднини да берат плодове в качеството си на частни лица.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui Sul on viisa, et külastada oma Rootsis elavaid sugulasi, võid Sa korjata marju eraisikuna.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="188">
+      <tuv xml:lang="bg">
+        <seg>Постъпленията/приходите от беритбата на плодове не се облагат с такси или данъци до размер 12 500 шв. крони на човек годишно.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Eraisikute marja- korjamisest saadud tulu ei maksustata, kui see ei ületa 12 500 SEK aastas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="189">
+      <tuv xml:lang="bg">
+        <seg>Работна среда и работно време</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töökeskkond ja tööaeg</seg>
+      </tuv>
+    </tu>
+    <tu tuid="190">
+      <tuv xml:lang="bg">
+        <seg>Вашият работодател трябва да съблюдават правилата на шведския Закон за работната среда, подзаконовите правила за работната среда органа и работното време, издадени от Ведомството за работната среда за времето, през което ще работите в Швеция.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ajal, kui Sa töötad Rootsis, on Sinu tööandja kohustatud pidama kinni Rootsi töökeskkonna seadusest, Töökeskkonna ameti eeskirjadest ja tööaja seadusest.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="191">
+      <tuv xml:lang="bg">
+        <seg>В Закона за работната среда се съдържат правила относно задълженията на работодателите и други служители по обезопасяването за предотвратяване на заболявания и трудовите злополуки.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töökeskkonna seadus sätestab tööandjate ja teiste ohutuse eest vastutavate isikute kohustused, et hoida ära tööst tingitud tervisekahjustusi ja õnnetusjuhtumeid.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="192">
+      <tuv xml:lang="bg">
+        <seg>В работната среда се включва всичко, от факта, че машините и оборудването трябва да отговарят на изискванията за безопасност, които са им наложени, до това нивото на стреса да не е твърде високо.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töökeskkond hõlmab kõiki tööga seotud asjaolusid ja tingimusi, s.t kõike alates sellest, et masinad ja tööriistad vastaksid ohutusnõuetele kuni selleni, et stressitase ei oleks liiga kõrge.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="193">
+      <tuv xml:lang="bg">
+        <seg>Законът за работното време съдържа правила за това, колко можете да работите на ден, на седмица и на година.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tööaja seadus sätestab, kui palju on lubatud ööpäeva, nädala ja aasta jooksul kokku töötada.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="194">
+      <tuv xml:lang="bg">
+        <seg>Вие например, имате право на отпуск най-малко 11 после- до-вателни часа за всеки период от 24 часа.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Nii näiteks on Sul õigus omada iga 24 tunni jooksul 11 tundi järjest vaba aega.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="195">
+      <tuv xml:lang="bg">
+        <seg>Това се нарича дневна почивка.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Seda kutsutakse tööpäevade vaheliseks puhkeajaks.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="196">
+      <tuv xml:lang="bg">
+        <seg>Стандартната работна седмица не може да надвишава 40 часа седмично.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Normaaltööaeg ei tohi ületada 40 tundi nädalas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="197">
+      <tuv xml:lang="bg">
+        <seg>Обикновено трябва да работите по 8 часа на ден.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Üldjuhul on tööaeg 8 tundi päevas ajavahemikus 07.00 – 17.00.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="198">
+      <tuv xml:lang="bg">
+        <seg>Когато има особена нужда, можете да работите извънредно, но не повече от 48 часа в продължение на четири седмици или 50 часа в продължение на един календарен месец.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Erivajadusel võid Sa teha ületunnitööd, kuid nelja nädala jooksul mitte rohkem kui 48 tundi ja kalendrikuu jooksul kõige rohkem 50 tundi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="199">
+      <tuv xml:lang="bg">
+        <seg>Извънредният труд не може да надвишава 200 часа за една календарна година.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Aasta jooksul on ületunnitööd lubatud teha kuni 200 tundi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="200">
+      <tuv xml:lang="bg">
+        <seg>Ведомството за работната среда носи отговорност за това работодателите да спазват правилата съгласно Закона за работната среда и Закона за работното време.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töökeskkonna ameti ülesanne on jälgida, et tööandjad peaksid töökeskkonna seaduse ja tööaja seaduse sätetest kinni.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="201">
+      <tuv xml:lang="bg">
+        <seg>Инспекторите на Ведомството посещават различни работни места и контролират дали работодателите спазват законите.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töökeskkonna ameti inspektorid käivad kohtadel kontrollimas, kas tööandjad peavad seadustest kinni.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="202">
+      <tuv xml:lang="bg">
+        <seg>Ако разпоредбите на Закона за работната среда не се спазват, може например изпълнението на някои задачи да бъде забранено.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui seda ei tehta, võidakse mingite tööülesannete täitmine ära keelata.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="203">
+      <tuv xml:lang="bg">
+        <seg>Ако мислите, че Вашият работодател нарушава правилата, свържете се с Ведомството за работната среда.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui Sa oled arvamusel, et Sinu tööandja rikub eeskirju, võta ühendust Töökeskkonna ametiga.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="204">
+      <tuv xml:lang="bg">
+        <seg>Можете да се обърнете и към Профсъюза Комунал, който има регионални отговорници по охраната на труда, които са длъжностни лица за налюдение и защита на добрите условия на труд и работната среда.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Võid pöörduda ka Munitsipaaltöötajate Liidu (Kommunal) poole, kellel on töökaitse alal oma regionaalvolinikud, kes jälgivad, et töökeskkond vastaks nõuetele.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="205">
+      <tuv xml:lang="bg">
+        <seg>Законът за работното време може да бъде дерогиран по силата на споразумение чрез колективно договаряне.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tööaja seaduse kohaldamisest võib loobuda kollektiivlepinguga poolte kokkuleppel.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="206">
+      <tuv xml:lang="bg">
+        <seg>Тогава Ведомството не може и да разреши изключения от някои правила на закона.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Sellisel juhul ei saa Töökeskkona amet lubada ka erandeid tööaja seadusega kehtestatud reeglitest.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="207">
+      <tuv xml:lang="bg">
+        <seg>Ако се разболеете</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui Sa haigestud</seg>
+      </tuv>
+    </tu>
+    <tu tuid="208">
+      <tuv xml:lang="bg">
+        <seg>В шведската система за социално осигуряване има привилегии, базиращи се на работа, така например платен отпуск по болест и по майчинство или бащинство, които се основават на факта дали имате работа.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Rootsi sotsiaalkindlustussüsteemis on ette nähtud hüvitised – nt haigusraha ja vanematoetus –, mis põhinevad sellel, et Sul on töö.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="209">
+      <tuv xml:lang="bg">
+        <seg>Освен това има и привилегии, които се базират на основата на пребиваване в страната.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>On olemas veel elukohal põhinevad hüvitised.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="210">
+      <tuv xml:lang="bg">
+        <seg>Хората, които работят само временно в Швеция обикновено не се обхващат от тези обезщететителни привилегии.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Rootsis ajutiselt töötavatele isikutele need üldjuhul ei laiene.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="211">
+      <tuv xml:lang="bg">
+        <seg>Ако ще пребивавате в Швеция за по-малко от една година, се счита, че нямате место-пребиваване в Швеция и не можете да ползвате привилегиите, базирани на основата на пребиваване.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui Sinu eeldatav Rootsis viibimine ei kesta rohkem kui aasta, Sind Rootsi alaliseks elanikuks ei loeta ning elukohal põhinevad hüvitised Sinule ei laiene.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="212">
+      <tuv xml:lang="bg">
+        <seg>Берачи на горски плодове, които идват от друга държава на ЕС се обхващат от специални правила, което означава, че те могат да имат право на привилегии, както на основата на пребиваване, така и базирани на работа, ако работят само в Швеция.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Teisest Euroopa Liidu riigist tulnud marjakorjajatele kehtivad erireeglid, mistõttu on võimalik, et neile laienevad nii elukohal kui ka tööl põhinevad sotsiaalkindlustushüvitised, kui nad töötavad ainult Rootsis.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="213">
+      <tuv xml:lang="bg">
+        <seg>Шведското управление за социално осигуряване решава дали едно лице е осигурено в Швеция и има право на привилегии и обезщетение.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kas isik kuulub Rootsi sotsiaalkindlustussüsteemi kaitse alla ja kas ta oma õigust hüvitistele, seda otsustab Rootsi sotsiaalkindlustuskassa (försäkringskassa).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="214">
+      <tuv xml:lang="bg">
+        <seg>Вие можете да се регистрирате доброволно в Управлението за козиално осигуравяне, когато дойдете да работите в Швеция.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui Sa tuled Rootsi tööle, võid registreerida end vabatahtlikult sotsiaalkindlustuskassas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="215">
+      <tuv xml:lang="bg">
+        <seg>Заявлението за регистрация не влияе и не засяга правото на ев. привилегии или обезщетение.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>See ei mõjuta Sinu võimalikku õigust hüvitistele.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="216">
+      <tuv xml:lang="bg">
+        <seg>Прочетете повече на уебсайта на Управлението за обществено осигуряване, www.forsakringskassan.se.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Täpsemat teavet saad sotiaalkindlustu- kassa veebilehelt www.forsakringskassan.se.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="217">
+      <tuv xml:lang="bg">
+        <seg>Трябва ли да плащате данък в Швеция?</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kas ma pean maksma Rootsis tulumaksu</seg>
+      </tuv>
+    </tu>
+    <tu tuid="218">
+      <tuv xml:lang="bg">
+        <seg>Налице е специфично изключение от задължението да се плащат данъци за онези, които са наети от работодатели в родните им страни и които работят само временно в Швеция.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Isikutele, kelle tööandja asub kodumaal ja kes töötavad Rootsis vaid ajutiselt, kehtib tulumaksu osas erand.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="219">
+      <tuv xml:lang="bg">
+        <seg>Доходите са без такси и данъци, при условие, че работата не превишава 183 дни за период от една година.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Nende isikute sissetulekut ei tulumaksustata, kui nad ei tööta aasta jooksul rohkem kui 183 päeva.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="220">
+      <tuv xml:lang="bg">
+        <seg>В тази връзка, обаче, съществуват също изисквания и към работодателя.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Ka tööandjale kehtib sel juhul tingimus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="221">
+      <tuv xml:lang="bg">
+        <seg>За да може да се приложи изключението за освобождаване от данъци, трябва работодателят да няма място за стопанска дейност в Швеция.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Selleks, et eelnimetatud erand kehtiks, ei tohi välismaa tööandja omada Rootsis alalist tegevuskohta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="222">
+      <tuv xml:lang="bg">
+        <seg>Постоянно място за стопанска дейност могат да бъдат офис, фабрика или нещо подобно.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Alaline tegevuskot on näiteks kontor, vabrik ja muu taoline.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="223">
+      <tuv xml:lang="bg">
+        <seg>Ако Вашият работодател има място за стопанска дейност в Швеция, е наложително Ние да заплащате специален данък общ доход, наречен СИНК (SINK), при положение че останете в Швеция за повече от шест месеца.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui Sinu tööandjal on Rootsis alaline tegevuskoht ja Sa viibid Rootsis kuni kuus kuud, oled Sa kohustatud tasuma eritulumaksu (särskild inkomstskatt, rootsikeelne lühend SINK).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="224">
+      <tuv xml:lang="bg">
+        <seg>Данъчната ставка е 25 процента.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Eritulumaksu suurus on 25 protsenti.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="225">
+      <tuv xml:lang="bg">
+        <seg>След шест месеца вие се считате за данъчно пребиваващ в Швеция и следва да заплатщате данък в съответствие с обичайните правила.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Pärast kuue kuu möödumist loetakse tulumaksu arvestamisel, et Sa oled Rootsi elanik ning siis pead Sa maksma tulumaksu juba Rootsi tavaliste tulumaksuseaduste järgi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="226">
+      <tuv xml:lang="bg">
+        <seg>Това може да бъде приложено и в случаите, когато престоят Ви в Швеция се повтаря.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tavapäraseid tulumaksustamise reegleid võidakse kohaldada ka korduva Rootsis viibimise korral.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="227">
+      <tuv xml:lang="bg">
+        <seg>Изпращане или командироване на работа и дислокация</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Täpsemat teavet leiad Maksuameti veebilehelt www.skatteverket.se.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="228">
+      <tuv xml:lang="bg">
+        <seg>Специални разпоредби в шведското законодателство се прилагат, в случаите когато сте изпратени/командировани на работа, тоест, ако Вашият работодател в родната Ви страна, Ви изпрати в Швеция на временна работа тук.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Lähetatud töötaja Kui Sa oled lähetatud töötaja, s.t. kui Su kodumaal olev tööandja saatis Sind ajutiselt Rootsi tööle, laienevad Sinule Rootsi seadusandluse erisätted.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="229">
+      <tuv xml:lang="bg">
+        <seg>Ако например, Вие сте назначен от агенция за наемане на работна сила в родната си страна и тя Ви изпрати в Швеция, за да работите тук в продължение на няколко месеца, Вие се считате за командирован на работа.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui Sa oled näiteks kodumaal võetud tööle tööjõuvahendusfirmasse ja Sind saadetakse paariks kuuks Rootsi tööle, oled Sa tööle lähetatud.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="230">
+      <tuv xml:lang="bg">
+        <seg>За командированите работници важат например разпоредби за почивка/отпуска и отпуск по майчинство.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Lähetatud töötajatele laienevad Rootsis näiteks puhkusi ja sünnituspuhkusi puudutavad reeglid.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="231">
+      <tuv xml:lang="bg">
+        <seg>Ведомството за работната среда е т. нар. служба за връзка по въпросите на изпращане/командировки и дислокация и може да предостави информация за това, с какви права разполагате.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töökeskkonna amet on nn. kontaktbüroo, mis tegeleb lähetatud töötajatega seotud küsimustega.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="232">
+      <tuv xml:lang="bg">
+        <seg>Специални разпоредби в шведското законодателство се прилагат, в случаите когато сте изпратени/командировани на работа, тоест, ако Вашият работодател в родната Ви страна, Ви изпрати в Швеция на временна работа тук.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Lähetatud töötaja Kui Sa oled lähetatud töötaja, s.t. kui Su kodumaal olev tööandja saatis Sind ajutiselt Rootsi tööle, laienevad Sinule Rootsi seadusandluse erisätted.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="233">
+      <tuv xml:lang="bg">
+        <seg>Ако например, Вие сте назначен от агенция за наемане на работна сила в родната си страна и тя Ви изпрати в Швеция, за да работите тук в продължение на няколко месеца, Вие се считате за командирован на работа.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Kui Sa oled näiteks kodumaal võetud tööle tööjõuvahendusfirmasse ja Sind saadetakse paariks kuuks Rootsi tööle, oled Sa tööle lähetatud.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="234">
+      <tuv xml:lang="bg">
+        <seg>За командированите работници важат например разпоредби за почивка/отпуска и отпуск по майчинство.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Lähetatud töötajatele laienevad Rootsis näiteks puhkusi ja sünnituspuhkusi puudutavad reeglid.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="235">
+      <tuv xml:lang="bg">
+        <seg>Ведомството за работната среда е т. нар. служба за връзка по въпросите на изпращане/командировки и дислокация и може да предостави информация за това, с какви права разполагате.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töökeskkonna amet on nn. kontaktbüroo, mis tegeleb lähetatud töötajatega seotud küsimustega.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="236">
+      <tuv xml:lang="bg">
+        <seg>За повече информация вижте сайта на Данъчното ведомство, www.skatteverket.se.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Lähetatud töötajate kohta loe täpsemalt aadressilt www.posting.se.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="237">
+      <tuv xml:lang="bg">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="238">
+      <tuv xml:lang="bg">
+        <seg>Swedish Work Environment Authority, publicationservices, 112 79 Stockholm.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Swedish Work Environment Authority, publicationservices, 112 79 Stockholm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="239">
+      <tuv xml:lang="bg">
+        <seg>Tel.</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tel.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="240">
+      <tuv xml:lang="bg">
+        <seg>+46-(0)8-730 97 00</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>+46-(0)8-730 97 00</seg>
+      </tuv>
+    </tu>
+    <tu tuid="241">
+      <tuv xml:lang="bg">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se ADI 653 Bul</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se ADI 653 Est</seg>
+      </tuv>
+    </tu>
+    <tu tuid="242">
+      <tuv xml:lang="bg">
+        <seg>Информация за контакти</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Contact information</seg>
+      </tuv>
+    </tu>
+    <tu tuid="243">
+      <tuv xml:lang="bg">
+        <seg>Ведомството за работната среда</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Töökeskkonna amet</seg>
+      </tuv>
+    </tu>
+    <tu tuid="244">
+      <tuv xml:lang="bg">
+        <seg>Tfn: +46-(0)8-730 90 00 www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tfn: +46-(0)8-730 90 00 www.av.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="245">
+      <tuv xml:lang="bg">
+        <seg>Противопожарната служба</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tuletõrje</seg>
+      </tuv>
+    </tu>
+    <tu tuid="246">
+      <tuv xml:lang="bg">
+        <seg>Tfn: 112</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tfn: 112</seg>
+      </tuv>
+    </tu>
+    <tu tuid="247">
+      <tuv xml:lang="bg">
+        <seg>Управлението за обществено осигуряване</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Sotsiaalkindlustuskassa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="248">
+      <tuv xml:lang="bg">
+        <seg>Tfn: +46-(0)498-200 700 Tfn: +46-(0)771-524 524 www.forsakringskassan.se</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tfn: +46-(0)771-524 524 www.forsakringskassan.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="249">
+      <tuv xml:lang="bg">
+        <seg>Миграционното ведомство</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Migratsiooniamet</seg>
+      </tuv>
+    </tu>
+    <tu tuid="250">
+      <tuv xml:lang="bg">
+        <seg>Tfn: +46-(0)771-19 44 00 Tfn: +46-(0)771-235 235 www.migrationsverket.se</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tfn: +46-(0)771-235 235 www.migrationsverket.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="251">
+      <tuv xml:lang="bg">
+        <seg>Полицията</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Politsei</seg>
+      </tuv>
+    </tu>
+    <tu tuid="252">
+      <tuv xml:lang="bg">
+        <seg>Tfn: 112 (emergency),</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tfn: 112 (emergency),</seg>
+      </tuv>
+    </tu>
+    <tu tuid="253">
+      <tuv xml:lang="bg">
+        <seg>Tfn: +46-(0)77-114 14 00 (non-emergency) www.polisen.se</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tfn: +46-(0)77-114 14 00 (non-emergency) www.polisen.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="254">
+      <tuv xml:lang="bg">
+        <seg>Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+    </tu>
+    <tu tuid="255">
+      <tuv xml:lang="bg">
+        <seg>Комунал - професионалния съюз на общинските работници</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Munitsipaaltöötajate Liit</seg>
+      </tuv>
+    </tu>
+    <tu tuid="256">
+      <tuv xml:lang="bg">
+        <seg>Tfn: +46-(0)10-442 70 00 www.kommunal.se</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tfn: +46-(0)10-442 70 00 www.kommunal.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="257">
+      <tuv xml:lang="bg">
+        <seg>Данъчното ведомство</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Maksuamet</seg>
+      </tuv>
+    </tu>
+    <tu tuid="258">
+      <tuv xml:lang="bg">
+        <seg>Tfn: +46-(0)771-778 778 www.skatteverket.se</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tfn: +46-(0)771-567 567 www.skatteverket.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="259">
+      <tuv xml:lang="bg">
+        <seg>SOS Аларма</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>SOS Alarm</seg>
+      </tuv>
+    </tu>
+    <tu tuid="260">
+      <tuv xml:lang="bg">
+        <seg>Tfn: 112 www.sosalarm.se</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tfn: 112 www.sosalarm.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="261">
+      <tuv xml:lang="bg">
+        <seg>Шведският институт www.sweden.se</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Rootsi Instituut www.sweden.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="262">
+      <tuv xml:lang="bg">
+        <seg>Министерството на външните работи</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Välisministeerium</seg>
+      </tuv>
+    </tu>
+    <tu tuid="263">
+      <tuv xml:lang="bg">
+        <seg>Tfn: +46-(0)8-405 10 00 www.regeringen.se www.sweden.gov.se</seg>
+      </tuv>
+      <tuv xml:lang="et">
+        <seg>Tfn: +46-(0)8-405 10 00 www.regeringen.se www.sweden.gov.se</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

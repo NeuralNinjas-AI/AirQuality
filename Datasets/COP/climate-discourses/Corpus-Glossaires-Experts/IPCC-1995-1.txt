@@ -1,0 +1,77 @@
+Glossary
+Aerosols
+
+Airborne particles. The term has also come to be associated, erroneously, with
+the propellant used in "aerosol sprays".
+Climate change (FCCC usage)
+A change of climate which is attributed directly or indirectly to human activity
+that alters the composition of the global atmosphere and which is in addition to
+natural climate variability observed over comparable time periods.
+Climate change (IPCC usage)
+Climate change as referred to in the observational record of climate occurs
+because of internal changes within the climate system or in the interaction
+between its components, or because of changes in external forcing either for
+natural reasons or because of human activities. It is generally not possible clearly
+to make attribution between these causes. Projections of future climate change
+reported by I P C C generally consider only the influence on climate of
+anthropogenic increases in greenhouse gases and other human-related factors.
+Climate sensitivity
+In IPCC reports, climate sensitivity usually refers to the long-term (equilibrium)
+change in global mean surface temperature following a doubling of atmospheric
+C O j (or equivalent C O 2 ) concentration. More generally, it refers to the
+equilibrium change in surface air temperature following a unit change in
+radiative forcing (°CAVm~2).
+Diurnal temperature range
+The difference between maximum and minimum temperature over a period of 24
+hours
+Equilibrium climate experiment
+An experiment where a step change is applied to the forcing of a climate model
+and the model is then allowed to reach a new equilibrium. Such experiments
+provide information on the difference between the initial and final states of the
+model, but not on the time-dependent response.
+Equivalent C O j
+The concentration of CO^ that would cause the same amount of radiative forcing
+as the given mixture of C O j and other greenhouse gases.
+Evapotranspiration
+The combined process of evaporation from the Earth's surface and transpiration
+from vegetation.
+Greenhouse gas
+A gas that absorbs radiation at specific wavelengths within the spectrum of
+radiation (infrared radiation) emitted by the Earth's surface and by clouds. The
+gas in turn emits infrared radiation from a level where the temperature is colder
+than the surface. The net effect is a local trapping of part of the absorbed energy
+and a tendency to warm the planetary surface. Water vapour (HjO), carbon
+dioxide (COj), nitrous oxide ( N 2 O ) , methane (CH^) and ozone ( O 3 ) are the
+primary greenhouse gases in the Earth's atmosphere.
+Ice-cap A dome-shaped glacier usually covering a highland near a water divide.
+Ice sheet A glacier more than 50,000 km^ in area forming a continuous cover over a land
+surface or resting on a continental shelf.
+Radiative forcing A simple measure of the importance of a potential climate change mechanism.
+Radiative forcing is the perturbation to the energy balance of the Earth-
+atmosphere system (in Wm^^) following, for example, a change in the
+concentration of carbon dioxide or a change in the output of the Sun; the climate
+system responds to the radiative forcing so as to re-establish the energy balance.
+A positive radiative forcing tends to warm the surface and a negative radiative
+forcing tends to cool the surface. The radiative forcing is normally quoted as a
+global and annual mean value. A more precise definition of radiative forcing, as
+used in IPCC reports, is the perturbation of the energy balance of the surface-
+troposphere system, after allowing for the sti'atosphere to re-adjust to a state of
+global mean radiative equilibrium (see Chapter 4 of IPCC (1994)). Sometimes
+called "climate forcing".
+Spatial scales continental 10 - 100 million square kilometres (km^)
+regional 100 thousand - 10 million km^
+local less than 100 thousand km^
+Soil moisture Water stored in or at the continental surface and available for evaporation. In
+IPCC (1990) a single store (or "bucket") was commonly used in climate models.
+Today's models which incorporate canopy and soil processes view soil moisture
+as the amount held in excess of plant "wilting point".
+Stratosphere The highly stratified and stable region of the atmosphere above the troposphere
+{qv.) extending from about 10 km to about 50 km.
+Thermohaline circulation Large scale density-driven circulation in the oceans, driven by differences in
+temperature and salinity.
+Transient climate experiment A n analysis of the time-dependent response of a climate model to a time-varying
+change of forcing.
+Troposphere The lowest part of the atmosphere from the surface to about 10 km in altitude in
+mid-latitudes (ranging from 9 km in high latitudes to 16 km in the tropics on
+average) where clouds and "weather" phenomena occur. The troposphere is
+defined as the region where temperatures generally decrease with height.

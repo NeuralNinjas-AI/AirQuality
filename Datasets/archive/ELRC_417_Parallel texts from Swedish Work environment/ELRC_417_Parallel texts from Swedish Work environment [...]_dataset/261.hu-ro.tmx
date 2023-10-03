@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T130031Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="hu">
+    <prop type="x-tucount">156</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="hu">
+        <seg>Az Arbetsmiljöverket (az Országos Munkavédelmi Hivatal) a munkakörnyezeti kérdések állami felügyeleti szerve Svédországban.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Administraţia mediului de Muncă [Arbetsmiljöverket] este autoritatea suedeză de stat care veghează asupra mediului de muncă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="hu">
+        <seg>A rossz munkaszervezés és az időhiány növeli a balesetek kockázatát.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Planificarea proastă şi lipsa de timp amplifică riscurile de accidente.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="hu">
+        <seg>Törvények és a Munkavédelmi Hivatal előírásai szabályozzák az építési munkák véghezvitelét.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Exiată legi şi norme de la Administraţia Mediului de Muncă despre modul în care trebuie să se desfăşoare o anumită lucrare de construcţii.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="hu">
+        <seg>Ebben a füzetben néhány minimális követelményt ismertetünk.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>În această broşură puteţi citi despre câteva condiţii minime în acest sens.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="hu">
+        <seg>Mind a munkaadót, mind pedig a munkavállalót kötelezik tehát ezek a szabályok, alkalmazási formától függetlenül.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Deci atât patronii cât şi personalul sunt supuşi acestor reguli, indiferent de statutul lor profesional.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="hu">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="hu">
+        <seg>Csökkentse a lezuhanás kockázatát</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Reducerea riscului de cădere</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="hu">
+        <seg>Az építőtelepeken történő balesetek és halálesetek leggyakoribb oka a lezuhanás.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Căderea este cea mai frecventă cauză de accidente mortale şi alte accidente din şantierele de construcţii.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="hu">
+        <seg>A lezuhanás kockázatát meg kell előzni.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Riscul de cădere poare fi însă prevenit.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="hu">
+        <seg>Két méternél nagyobb szintkülönbség esetén rendszerint valamilyen típusú védőeszközre van szükség.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Dacă diferenţa de nivel depăşeşte doi metri este nevoie de obicei de o formă de protecţie.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="hu">
+        <seg>Védőkorlátot, munkaemelvényt, munkakosarat, állványzatot vagy hasonló védőeszközt kell első sorban használni.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>În primul rând trebuiesc folosite parapete de protecţie, platforme de muncă, coşuri de muncă, schele sau alte forme de protecţie asemănătoare.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="hu">
+        <seg>Védelmi intézkedésekre kisebb szintkülönbség esetén is szükség lehet, például víz vagy éles tárgyak felett.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Măsuri de protecţie pot fi necesare şi pentru diferenţe de nivel mai mici dacă, de exemplu, sub locul de muncă se află apă sau obiecte ascuţite.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="hu">
+        <seg>A védőkorlátnak</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Parapetele de protecţie trebuie:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="hu">
+        <seg>szilárdnak kell lennie,</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>să fie rezistente</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="hu">
+        <seg>legkevesebb egy méter magasnak, karfával, középléccel és lábdeszkával ellátottnak.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>să aibă o înălţime de cel puţin un metru să aibă bară de mână, de mijloc şi protecţie la picioare.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="hu">
+        <seg>Más kivitelezésű is lehet, de minimum ugyanolyan jó védelmet kell nyújtania.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Pot fi confecţionate în alt fel, dar protecţia oferită trebuie să fie cel puţin la fel de bună.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="hu">
+        <seg>Tetőn végzett munkák esetén védőkorlátnak vagy egyéb, hasonló védelmet nyújtó védőeszköznek kell lennie.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>La munca pe acoperiş în mod normal trebuie să existe parapete de protecţie sau alte dispozitive care să ofere o protecţie corespunzătoare.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="hu">
+        <seg>A korlátot az eresz- hez, vagy az eresz alatt közvetlenül elhelyezett állványzathoz kell rögzíteni.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Montaţi parapetul pe streaşină sau pe schela care ajunge până imediat sub streaşină.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="hu">
+        <seg>Különösen erős korlátra van szükség, amely fel tud fogni egy meredek tetőn hirtelen lecsúszó személyt.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>S-ar putea să fie nevoie de parapete foarte rezistente pentru a putea împiedica o persoană care vine cu viteză mare, alunecând pe un acoperiş abrupt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="hu">
+        <seg>Ha csoportos védőeszköz felszerelésére nincs lehetőség, akkor egyéni védőfelszerelést kell használni, biztonsági kötéllel és hevederrel.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Dacă nu se poate monta un dispozitiv de protecţie fix, trebuie folosit un dispozitiv de protecţie la cădere, bazat pe un sistem cu ham de sigutanţă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="hu">
+        <seg>Derékövet ne alkalmazzanak, mert ennek has- ználata súlyos sérülésekhez vezethet.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Se evită folosirea centurilor la mijlocul corpului, deoarece acestea pot cauza răni grave.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="hu">
+        <seg>Rögzítse a biztonsági kötelet a tető valamilyen szilárd részéhez.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Fixaţi frânghia pe un dispozitiv fix pe acoperiş.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="hu">
+        <seg>Győződjön meg arról, hogy a rögzítés megbízható.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Controlaţi ca fixarea să fie stabilă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="hu">
+        <seg>Ha a kötelet nem lehet máshogy rögzíteni, akkor egy szilárdan álló szerkezet köré kell tekerni, és egy másik személy által feszesen tartani.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Dacă frânghia nu poate fi fixată undeva, aceasta poate fi înfăşurată în jurul unui dispozitiv fix şi menţinută întinsă de o altă persoană.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="hu">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="hu">
+        <seg>Bizonyos munkálatoknál védőháló használata a megfelelő.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>La anumitee lucrări este bine să folosiţi plase de protecţie.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="hu">
+        <seg>Fontos, hogy használat- bavétel előtt egy hozzáértő személy ellenőrizze a hálót és annak felszerelését.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Este bine ca o persoană competentă să verifice oichiurile plasei şi montarea acesteia înainte de folosire.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="hu">
+        <seg>Ha valakinek négy óránál többet kell dolgoznia egy 1:4 dőlésarányúnál merede- kebb tető kis felületén, akkor ott vízszintes munkaemelvénynek kell lennie.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Dacă o persoană trebuie să lucreze mai mult de patru ore pe o suprafaţă redusă pe un acoperiş, iar înclinarea acoperişului depăşeşte 1:4, trebuie folosit un nivel de muncă orizontal.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="hu">
+        <seg>Védősisakot és védőlábbelit szokás szerint viselni kell.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>În mod normal trebuie să se folosească cască şi încălţăminte de protecţie.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="hu">
+        <seg>Néha védőszemüvegre, hallásvédőre és munkakesztyűre is szükség van.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Uneori este nevoie şi de material de protecţie a ochilor, a auzului şi de mănuşi de protecţie.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="hu">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="hu">
+        <seg>Súlyos tárgyak emelése és hibás testhelyzet megterheli a testet</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Ridicarea obiectelor grele şi poziţii de muncă neergonomice supun corpul la solicitări</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="hu">
+        <seg>Az építőmunka gyakran nehéz, és megterhelő a testre, ezért az építőanyagok szállításához anyagmozgató szerkezetekre van szükség.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Munca în construcţii este deseori grea şi supune corpul la solicitări, de aceea există dispozitive de ridicat pentru a transporta materiale de construcţii.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="hu">
+        <seg>A gépeknek és szerszá- moknak ergonómikus kialakításúaknak kell lenniük.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Maşinile şi uneltele trebuie să aibă forme ergonomice.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="hu">
+        <seg>Az izmoknak megerőltetés után szükségük van lazításra.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Evitaţi solicitări monotone prin diversificarea muncii.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="hu">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="hu">
+        <seg>Vegyi anyagokra vonatkozó szabályok Svédországban</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Reguli despre substanţe chimice în Suedia</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="hu">
+        <seg>Az építőiparban sok mérgező, rákkeltő, maró vagy allergiakeltő anyagot használnak.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>În domeniul construcţiilor se folosesc multe substanţe nocive, care cauzează cancer, substanţe acide sau care cauzează alergii.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="hu">
+        <seg>A beton, a malter és a vakolat például cementet tartalmaz, amely hos- szabb idejű érintkezés esetén kimarhatja a bőrt.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Betonul şi mortarul de ziduri şi fasade conţin ciment, care poate da naştere la răni dacă se folosesc mai mult timp.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="hu">
+        <seg>Egyéb olyan termékek, amelyek gyakran tartalmaznak káros anyagokat: a ragasztók, festékek, kétkomponenses termékek, stb.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Printre alte produse care deseori con ţin substanţe nocive se pot menţiona substanţele de lipit, de vopsit, produsele din două componente şi altele.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="hu">
+        <seg>Az építési port és az ásványi gyapot rostjait is veszélyesnek te- kintjük, mert belélegzés esetén károsíthatják a légutakat.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Şi praful de construcţii şi fibrele de sticlă minerală sunt considerate ca periculoase, deoarece la inhalare pot afecta căile respiratorii.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="hu">
+        <seg>Az olyan vegyi termékekről, amelyek egy vagy több veszélyes anyagot tartalmaz- nak, lennie kell egy, a szállító által kiállított, biztonsági adatlapnak a munkahelyen.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>În cazul produselor care conţin una sau mai multe substanţe periculoase, la locurile de muncă trebuie să existe fişa de date a furnizorului.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="hu">
+        <seg>A Svédországban vásárolt termékek adatlapja svédül kell, hogy legyen írva.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>În cazul produselor cumpărate în Suedia, fişa de date trebuie să fie scrisă în limba suedeză.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="hu">
+        <seg>Az a cég, amely veszélyes vegyi terméket hoz be Svédországba saját használatra, felelős azért, hogy erről írott kockázati és védelmi információ legyen a munka- helyen, olyan nyelven, amit a felhasználók is értenek.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Întreprinderile care introduc produse chimice periculoase în Suedia pentru întrebuinţare proprie, au răspunderea ca la locul de muncă să existe informaţii în scris despre riscuri şi protecţie, iar limbajul folosit trebuie să fie înţeles de beneficiari.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="hu">
+        <seg>Az építőtelepen lennie kell egy feljegyzésnek az összes veszélyes vegyi termékekről.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>În şantierele de construcţii trebuie săexiste o listă cu toate produsele chimice periculoase.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="hu">
+        <seg>Ez minden munkaadó felelőssége.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Fiecare loc de muncă are obligaţia respectării acestei norme.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="hu">
+        <seg>A munkaadónak tájékoztatnia kell a munkavállalókat a veszélyes vegyi termékek- kel járó kockázatokról, és meg kell győződnie arról, hogy a munkavállaló meg is értette azt.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Angajatorii trebuie să-i informeze pe angajaţi despre riscurile pe care le implică produsele chimice periculoase şi să fie siguri că angajaţii înţeleg aceste in formaţii.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="hu">
+        <seg>Bizonyos veszélyes anyagokra különösen szigorú előírások vonatkoznak:</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Pentru anumite substanţe sunt valabile reguli deosebit de dure:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="hu">
+        <seg>Azbeszt: Az azbeszt kezeléséhez és bontásához az azt elvégző cégnek a Mun- kavédelmi Hivatal engedélyével kell rendelkeznie.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Azbest: Întreprinderile care lucrează cu azbest şi îndepărtează lucrări din acest material trebuie să aibă autorizaţie de la Administraţia Mediului de Muncă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="hu">
+        <seg>Az engedélyhez hivatalosan igazolt külön kiképzésre és orvosi igazolványra van szükség.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Pentru a primi o astfel de autorizaţie este nevoie de pregătire specială demonstrată prin acte şi de certificat medical.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="hu">
+        <seg>Szilárduló műanyagok: Szilárduló műanyagokkal történő munkához (pl. izoci- anátokat tartalmazó szigetelő habok, epoxiragasztók, epoxifestékek, stb.)</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Material plastic de întărire: Şi pentru munca cu material plastic de întărire (cum ar fi spuma de îmbinare cu conţinut de izocianaţi, lipici şi vopseli pe bază de epoxy, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="hu">
+        <seg>orvosi vizsgálatra és kiképzésre van szükség, a munka megkezdése előtt.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>este nevoie de certificat medical şi pregătire înainte de începerea lucrului.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="hu">
+        <seg>Az előírások megszegése büntetendő cselekmény és nagy pénzbírsággal járhat.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Încălcarea acestor reguli este pasibilă de pedeapsă cu amenzi considerabile.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="hu">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="hu">
+        <seg>Közlekedési utak és anyagmozgatás</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Căi de legătură şi transporturi</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="hu">
+        <seg>Egy építőtelepen biztonságos közlekedési utaknak, pl. lépcsőknek vagy rámpáknak kell a különböző szintek között lenniük.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Pe un şantier de construcţii trebuie să existe căi de legătură sigure, de exemplu scări sau rampe între nivele diferite.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="hu">
+        <seg>Tíz méternél nagyobb szintkülönbség esetén felvonónak is kell lennie, ha a munkavállaló egyébként sok lépcsőjárásra kényszerülne.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>La diferenţe de nivel care depăşesc zece metri trebuie să existe lift în cazul în care angajatul fără lift ar trebui să folosească mult scările.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="hu">
+        <seg>Az építőtelepen belüli autóutak mentén megfelelő biztonsági távolságoknak vagy védőeszközöknek kell lenniük.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>În interiorul unui şantier de construcţii trebuie să existe distanţe de siguranţă sufiecient de mari sau dispozitive de protecţie.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="hu">
+        <seg>A különböző szintek közötti anyagmozgatást úgy kell megszervezni, hogy ne legyen szükség a védőkorlátok vagy egyéb védelmi eszközök eltávolítására.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Transporturile între niveluri diferite trebuie să poată fi efectuate fără să fie nevoie de îndepărtarea parapetelor sau altor dispozitive de protecţie.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="hu">
+        <seg>Ha ez nem lehetséges, akkor az anyagmozgatásnak rakodóállások, a homlokzaton levő rakodónyílások, rámpák vagy különleges anyagmozgatási rendszerek segítségével kell történnie.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Dacă aceasta nu este posibil, transporturile trebuiesc efectuate pe punţi de intrare, deschideri de încărcare şi descărcare în fasade, rămpi sau sisteme de transport speciale.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="hu">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="hu">
+        <seg>Emelőszerkezetek, gépek és bizonyos egyéb termékek használati utasításai</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Manuale de instrucţiuni pentru dispozitive de ridicat, maşini şi alte produse</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="hu">
+        <seg>Ha egy gépet vagy emelőszerkezetet Svédországba szállítanak, vagy itt vesznek használatba, akkor annak svéd nyelven írott használati utasítással kell rendelkez- nie.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Furnizarea sau punerea în funcţiune a unei maşi sau a unui dispozitiv de ridicat în Suedia trebuie să fie însoţită de un manual de instrucţiuni în limba suedeză.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="hu">
+        <seg>Ezért a szállító felelős.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Furnizorul are această răspundere.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="hu">
+        <seg>Szállítónak számít az is, aki Svédországban történő használatra hoz be egy gépet az országba.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Ca furnizori se consideră şi cei care aduc o maşină care să fie folosită în Suedia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="hu">
+        <seg>A Munkavédelmi Hivatal gépekre vonatkozó előírásaiban tájákoztatást lehet kapni arról, hogy mit kell a használati utasításoknak tartalmazniuk.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Informaţii despre ce trebuie să conţină manualele de instrucţiuni se găsesc în normele pentru maşini de la Administraţia Mediului de Muncă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="hu">
+        <seg>Az előregyártott munkaállványokhoz is kell leszállításkor svéd használati utasítást mellékelni, amelyet azután a munkahelyen kell tartani.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Şi schelele prefabricate trebuie să fie însoţite de instrucţiuni în limba suedeză la livrare, iar după aceea, aceste instrucţiuni trebuie să fie accesibile la locurile de muncă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="hu">
+        <seg>A Munkavédelmi Hivatal munkaállványokra vonatkozó előírásaiban megtalálható, hogy mit kell a használati utasításnak tartalmaznia.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Normele de la Administraţia Mediului de Muncă despre schele descriu conţinutul instrucţiunilor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="hu">
+        <seg>Egy gép, emelőszerkezet, állványzat, stb. építési munkához való használatakor, az érintett munkaadónak rendelkeznie kell az ezekhez tartozó használati utasítások- kal.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Angajaţii care folosesc maşini, dispozitive de ridicat, schele etc. într-un şantier de construcţii, trebuie să aibă acces la instrucţiunile respective.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="hu">
+        <seg>A használati utasításoknak a munkavállaló által is értett nyelven írottnak kell lenniük.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Instrucţiunile trebuiesc scrise într-un limbaj pe care angajaţii să-l poată înţelege.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="hu">
+        <seg>CE-jelölés, típusbizonyítvány és műszaki vizsga, emelőszerkezetek, gépek és bizonyos egyéb termékek számára</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Marcarea CE, omologarea de tip şi revizia tehnică a dispozitivelor de ridicat, maşinilor şi altor produse</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="hu">
+        <seg>Az előregyártott állványzatoknak és a létráknak akkreditált szerv által elvégzett típusellenőrzésen kellett átesniük (vagy a létrák- nak certifikáltaknak kell lenniük).</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Schelele prefabricate şi scările furnizate în Suedia trebuiesc să fie supuse controalelor de tip (iar scările trebuiesc cerificate) de către o insituţie competentă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="hu">
+        <seg>Sok gépet és emelőszerkezetet rendszeres műszaki vizsgának kell alávetni ahhoz, hogy használatuk engedélyezett legyen.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Multe maşini şi dispozitive de ridicat trebuie să fie supuse reviziilor tehnice periodice pentru a putea fi folosite.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="hu">
+        <seg>Műszaki vizsgával nem rendelkező, vagy az észrevételezett hiányosságoktól nem mentesített gépek és emelőszerkezetek használata büntetendő.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Folosirea maşinilor şi dispozitivelor de ridicat fără efectuarea reviziilor tehnice sau fără luarea de măsuri adecvate, în ciuda lipsurilor constatate, sunt pasibile de pedeapsă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="hu">
+        <seg>A műszaki vizsgát a svéd előírások szerint kell elvégezni.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Reviziile tehnice trebuiesc făcute conform normelor suedeze.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="hu">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="hu">
+        <seg>Erre is kell gondolni…</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Mai multe de gândit...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="hu">
+        <seg>Súlyos balesetek történhetnek, ha a lerakott építőanyag, pl. erős szél következté- ben, mozgásba jön.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Când materialeele de construcţii depozitate sunt puse în mişcare, de exemplu din cauza vânturilor puternice, acestea pot produce accidente grave.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="hu">
+        <seg>Fontos ezért az építőanyag rögzítése.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>De aceea este important ca materialul să fie stabilizat.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="hu">
+        <seg>Néha az építőmunkások számára is szükség lehet szél és hideg elleni védőeszközökre.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Uneori, muncitorii constructori pot avea nevoie de protecţie de vânt şi frig.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="hu">
+        <seg>Kerítsék el és jelöljék meg azokat a területeket, ahol leeső tárgyak kockázata forog fenn.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Blocaţi şţi marcaţi zonele în care există risc de obiecte care pot cădea.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="hu">
+        <seg>Ha mégis kell ott járni, akkor építsenek felé védőfedelet.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Dacă deplasarea în aceste zone este inevitabilă, trebuie folosit un acoperiş de protecţie.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="hu">
+        <seg>A földmunkák megszervezésénél figyelni kell arra, hogy a talaj ne legyen nagyobb megterhelésnek kitéve, mint amit kibír.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Planificaţi munca solului în aşa fel încât solul să nu fie supus la sarcini superioare celor pe care le poate suporta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="hu">
+        <seg>Szükség esetén omlás elleni védőeszközt kell használni.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Dacă este nevoie, trebuie să existe protecţie împotriva surpărilor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="hu">
+        <seg>Ellenőrizzék azt, hogy vannak-e vezetékek vagy veszélyes anyagok a földben, és, hogy a gépek nem csúsznak-e be a gödörbe.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Verificaţi dacă există cabluri sau substanţe periculoase în sol şi să nu fie riscul ca maşinile să cadă în gropi de puţuri.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86">
+      <tuv xml:lang="hu">
+        <seg>A kiásott gödröktől a járműforgalmat távol kell tartani.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Circulaţia vehiculilor trebuie menţinută la distanţă de astfel de gropi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87">
+      <tuv xml:lang="hu">
+        <seg>Az építőtelep melletti járműforgalom kockázatot jelent.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Circulaţia vehiculelor în şantierele de construcţii constituie un risc.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88">
+      <tuv xml:lang="hu">
+        <seg>A forgalmat elsősorban el kell terelni.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>În primul rând trebuie redirecţionată circulaţia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89">
+      <tuv xml:lang="hu">
+        <seg>A járműforgalomtól nem mentes helyeken dolgozóknak fényvisszaverő biztonsági ruhát kell viselniük.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Cei care muncesc într-un loc care nu poate fi separat de circulaţie trebuie să folosească îmbrăcăminte cu avertizare şi reflexe.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90">
+      <tuv xml:lang="hu">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91">
+      <tuv xml:lang="hu">
+        <seg>Ha valami történik</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Dacă se întâmplă ceva</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92">
+      <tuv xml:lang="hu">
+        <seg>Mindenkinek gyors és biztonságos módon el kell tudnia hagyni a munkahelyét pl. tűz esetén.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>În caz de incendiu, de exemplu, toţi trebuie să poată părăsi locul de muncă repede şi sigur.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93">
+      <tuv xml:lang="hu">
+        <seg>A menekülési utakat és találkozási pontokat táblákkal kell jelezni.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Căile de evacuare şi locurile de readunare trebuiesc marcate cu indicatoare.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94">
+      <tuv xml:lang="hu">
+        <seg>A menekülési úton levő ajtóknak kifelé kell nyílniuk, és a tűzoltófelszerelésnek könnyen hozzáférhetőnek kell lennie.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Uşile de evacuare trebuiesc deschise în afară iar dispozitivele de combatere a incendiilor trebuie să fie uşor accesibile.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95">
+      <tuv xml:lang="hu">
+        <seg>Mindig kell elsősegélynyújtási lehetőségnek lennie, és táblákkal kell jelezni, hogy hol van erre hely és felszerelés.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Totdeauna trebuie să fie uşor de dat primul ajutor şi trebuie să existe indicatoare, care să arate unde sunt spaţii şi echipamente folosite pentru astfel de ajutoare.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96">
+      <tuv xml:lang="hu">
+        <seg>Kifüggesztve kell lennie a mentők és tűzoltók telefonszáma, a munkahely címe, és esetleg az oda vezető út leírása is.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Trebuie de asemenea să existe afişiere cu numărul de telefon la salvare şi serviciul de salvare, adresa la locul de muncă şi o eventuală descriere a drumului.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97">
+      <tuv xml:lang="hu">
+        <seg>Arra is kell gondolni, hogy a telefonálónak tudnia kell értekezni a mentőszolgálattal.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Gândiţi- vă la faptul că persoana care telefonează trebuie să poată comunica cu personalul de la Serviciul de salvare [Räddningstjänsten].</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98">
+      <tuv xml:lang="hu">
+        <seg>Ott rendszerint tudnak angolul is.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>De obicei, aceştia înţeleg engleza.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99">
+      <tuv xml:lang="hu">
+        <seg>Ha egy áramszünet külön kockázattal jár, akkor vészvilágításnak is kell lennie.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Dacă o întrerupere de curent ar aduce riscuri deosebite în efectuarea muncii, trebuie să existe iluminare de urgenţă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100">
+      <tuv xml:lang="hu">
+        <seg>Ilyen eset forog fenn pl. villanyfűrész használatakor, vagy állványzat építésénél.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Acesta este cazul, de exemplu, la munca cu ferestrăul de construcţii sau la montarea schelelor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="101">
+      <tuv xml:lang="hu">
+        <seg>Munkavédelmi terv</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Planul mediului de muncă</seg>
+      </tuv>
+    </tu>
+    <tu tuid="102">
+      <tuv xml:lang="hu">
+        <seg>Már az építőtelep beindítása előtt el kell készíteni az egész építkezésre érvényes munkavédelmi tervet.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Un plan al mediului de muncă trebuie elaborat pentru toată construcţia înainte de deschiderea şantierului de construcţii.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="103">
+      <tuv xml:lang="hu">
+        <seg>Az építtető, vagy a tőle a megbízatást átvállaló személy is felelős a terv elkészítéséért.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Intenţia este aceea ca planul mediului de muncă să fie folosit apoi pe parcursul întregului proces de construcţie.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="104">
+      <tuv xml:lang="hu">
+        <seg>Az építési munkavédelmi koordinátor feladata gon- doskodni arról, hogy az építőtelep beindításától fogva a terv rendelkezésre álljon a munkahelyen.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Coordonatorul mediului de muncă al executării muncii este cel care răspunde ca planul să fie accesibil în şantier imediat după elaborare.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="105">
+      <tuv xml:lang="hu">
+        <seg>A koordinátornak kell elvégeznie a terv szükséges módosításait is.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Coordonatorul trebuie de asemenea să efectueze adaptările necesare ale planului.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="106">
+      <tuv xml:lang="hu">
+        <seg>Ha az építési munkálatok olyan helyen történnek, ahol azzal egyidejűleg más tevékenység is folyik, akkor a munkavédelmi tervben azt is figyelembe kell venni.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Dacă lucrările de coostrucţii sau inginerie civilă trebuiesc efectuate într-un loc în care se vor desfăşura alte activităţi în acelaşi timp, acest aspect trebuie menţionat în planul mediului de muncă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="107">
+      <tuv xml:lang="hu">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="108">
+      <tuv xml:lang="hu">
+        <seg>A munkavédelmi tervnek az alábbiakat kell tartalmaznia:</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Planul trebuie să conţină următoarele:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="109">
+      <tuv xml:lang="hu">
+        <seg>Az építőtelepen érvényes szabályokat</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Regulile care se vor aplica în şantier,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="110">
+      <tuv xml:lang="hu">
+        <seg>Ez többek között a következő típusú munkákat érinti:</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Aceasta este valabil, printre altele, la următoarele lucrări:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="111">
+      <tuv xml:lang="hu">
+        <seg>lezuhanás kockázatával járó munka</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>munca unde exiastă risc de cădere</seg>
+      </tuv>
+    </tu>
+    <tu tuid="112">
+      <tuv xml:lang="hu">
+        <seg>beomlás kockázatával járó földmunka</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>munca la puţuri cu risc de surpare</seg>
+      </tuv>
+    </tu>
+    <tu tuid="113">
+      <tuv xml:lang="hu">
+        <seg>vegyi vagy biológiai anyagokkal végzett munka</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>munca cu anumite substanţe chimice sau biologice</seg>
+      </tuv>
+    </tu>
+    <tu tuid="114">
+      <tuv xml:lang="hu">
+        <seg>magasfeszültségű vezetékek közelében végzett munka</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>munca în apropierea cablurilor de înaltă tensiune</seg>
+      </tuv>
+    </tu>
+    <tu tuid="115">
+      <tuv xml:lang="hu">
+        <seg>vízbefulladás veszélyével járó munka</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>munca cu risc de înnecat</seg>
+      </tuv>
+    </tu>
+    <tu tuid="116">
+      <tuv xml:lang="hu">
+        <seg>aknákban és alagútakban végzett munka</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>munca în fântâni şi tunele</seg>
+      </tuv>
+    </tu>
+    <tu tuid="117">
+      <tuv xml:lang="hu">
+        <seg>robbanóanyagok használatával egybekötött munka</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>munca unde sunt folosite substanţe explozive</seg>
+      </tuv>
+    </tu>
+    <tu tuid="118">
+      <tuv xml:lang="hu">
+        <seg>súlyos építőelemekkel végzett munka</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>munca de montare de elemente de construcţii grele</seg>
+      </tuv>
+    </tu>
+    <tu tuid="119">
+      <tuv xml:lang="hu">
+        <seg>gépjárműforgalom közelében végzett munka, valamint statikai megterhelésnek kitett szerkezetek vagy egészségre káros anyagok bontása</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>munca în locuri sau zone cu circulaţie de vehicule şi demolarea construcţiilor purtătoare sau cu materiale sau substanţe nocive</seg>
+      </tuv>
+    </tu>
+    <tu tuid="120">
+      <tuv xml:lang="hu">
+        <seg>Előzetes bejelentés</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Anunţ prealabil</seg>
+      </tuv>
+    </tu>
+    <tu tuid="121">
+      <tuv xml:lang="hu">
+        <seg>Az építtetőnek (kisebb munkálatok kivételével) előzetes bejelentést kell tennie az Országos Munkavédelmi Hivatal legközelebbi kirendeltségén, még a munkálatok megkezdése előtt (lásd az előírások 7. cikkét).</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Cu excepţia lucrărilor mai mici antreprenorul trebuie să anunţe Administraţia Mediului de Muncă (din districtul cel mai apropiat) înainte de începerea lucrărilor, vezi § 7 din prevederi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="122">
+      <tuv xml:lang="hu">
+        <seg>Az építtető feledata az is, hogy a bejelentés másolatát az építkezés helyén kitűzze és annak aktualitását megőrizze.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Antreprenorul trebuie de asemenea să afişeze o copie a anunţului pe afişierul de pe şantier şi să menţină acest anunţ la curent cu eventualele schimbări sau adăugiri.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="123">
+      <tuv xml:lang="hu">
+        <seg>11</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="124">
+      <tuv xml:lang="hu">
+        <seg>Szervezés és tájékoztatás</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Planificare şi informaţii</seg>
+      </tuv>
+    </tu>
+    <tu tuid="125">
+      <tuv xml:lang="hu">
+        <seg>A biztonságos munkavégzés érdekében minden munkálatot időben meg kell szervezni, és az azzal járó kockázatokat elemezni.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Toate lucrările trebuiesc planificate iar riscurile analizate în timp, pentru ca acestea să fie executate cu siguranţă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="126">
+      <tuv xml:lang="hu">
+        <seg>Meg kell tervezni a felvonulási épületek, műhelyek és raktározási helyek, valamint az összekötő és anyagmoz- gatási utak elhelyezését.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Spaţiile pentru acoperişuri, ateliere şi depozite precum şi căile de legătură şi transporturile trebuiesc planificate.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="127">
+      <tuv xml:lang="hu">
+        <seg>Fontos tudni, hogy hogyan lehet az összes munkahelyre eljutni.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Este important să se rezolve problema accesului la toate locurile de muncă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="128">
+      <tuv xml:lang="hu">
+        <seg>A munkát úgy kell megszervezni, hogy a különböző munkálatok ne ütköz- zenek egymással egészségi károsodás vagy baleset kockázatát előidéző módon.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Lucrările trebuesc planificate în aşa fel încât activităţile să nu se suprapună într-o astfel de măsură încât să pericliteze sănătatea sau să dea naştere la accidente de muncă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="129">
+      <tuv xml:lang="hu">
+        <seg>Az időrend megtervezése különösen fontos, ha nagyobb terjedelmű munkáról és rövid időről van szó.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Planificarea timpului este deosebit de importantă în cazul în care lucrările sunt cuprinzătoare iar perioada de construcţie este scurtă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="130">
+      <tuv xml:lang="hu">
+        <seg>Olyan munkamódszereket és felszerelést kell választani, amelyek</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Trebuiesc alese metode de lucru şi echipament tehnic care:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="131">
+      <tuv xml:lang="hu">
+        <seg>megakadályozzák a lezuhanás vagy beomlás okozta baleseteket</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>combat accidentele cauzate de căderi sau surpări,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="132">
+      <tuv xml:lang="hu">
+        <seg>kiküszöbölik a test egészségtelen vagy fárasztó megterhelését alacsony szinten tartják a munkások zajnak, rezgéseknek, veszélyes anyagoknak és levegőszennyeződésnek való kitételét .</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>duc la evitarea expunerii corpului la solicitări acre afectează sănătatea sau duc la oboseli inutile, reduc expunerea la zgomot, vibraţii, substanţe periculoase sau poluarea aerului.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="133">
+      <tuv xml:lang="hu">
+        <seg>A munkavállalókat tájékoztatni kell a munkáról, a megvalósított vagy eltervezett munkavédelmi intézkedésekről, és az érvényes szabályokról.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Angajaţii trebuie să fie informaţi despre lucrări, despre măsurile întreprinse sau planificate pentru mediul de muncă şi despre regulile valabile.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="134">
+      <tuv xml:lang="hu">
+        <seg>Külön kiképzésre vagy eligazításra is lehet szükségük új termékek vagy munkamódszerek használata esetén.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>S-ar putea ca aceştia să aibă nevoie de pregătire specială sau de instrucţiuni despre produse noi sau metodele de muncă ce vor fi folosite.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="135">
+      <tuv xml:lang="hu">
+        <seg>Egy építőtelepen folyamatosan és gyorsan történnek a sok kockázattal járó vál- tozások.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Într-un şantier de construcţii au loc schimbări rapide, care pot duce la multe riscuri.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="136">
+      <tuv xml:lang="hu">
+        <seg>Ezért fontos a rendszeres munkavédelmi ellenörző körút.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>De aceea, este important să se efectueze ronduri de protecţie periodice.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="137">
+      <tuv xml:lang="hu">
+        <seg>12</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu tuid="138">
+      <tuv xml:lang="hu">
+        <seg>Kire milyen felelősség hárul?</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Cine răspunde de ce?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="139">
+      <tuv xml:lang="hu">
+        <seg>Ahhoz, hogy az építőtelepen jó munkakörnyezetet biztosítsunk, fontos a megelőző munkavédelmi munka, és, hogy minden résztvevő vállalja a rá háruló felelősséget.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Pentru crearea unui mediu de muncă bun în şantierul de construcţii este foarte important să se depună eforturi de prevenire în ceea ce priveşte mediul de muncă şi ca toţi cei implicaţi în aceste activităţi să-şi asume răspundetrea lor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="140">
+      <tuv xml:lang="hu">
+        <seg>Fontos az is, hogy a résztvevők együttműködjenek, és, hogy az építőmunkások is részt vállaljanak a munkavédelmi tevékenységből.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>De asemenea, este important ca cei implicaţi în diferite activităţi să coopereze între ei şi ca muncitorii constructori să contribuie la eforturile legate de mediul de muncă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="141">
+      <tuv xml:lang="hu">
+        <seg>Az építési munkát végeztetőre (az építtetőre) hárul a fő felelősség azért, hogy az építkezés során létrejövő munkakörnyezetet már az építési munkálatok előkészítésekor (a szervezésnél és a tervezésnél) figyelembe vegyék.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Cel care efectuează lucrările de construcţii şi inginerie civilă (antreprenorul) are răspunderea principală pentru ca mediul de muncă în cursul procesului de construcţie să fie tratat în faza de pregătire a proiectului de construcţie (planificare şi proiectare).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="142">
+      <tuv xml:lang="hu">
+        <seg>Az építtető felelős az előzetes bejelentés, a munkavédelmi terv és a dokumentáció elkészíté- séért, valamint egy tervezési és szervezési munkavédelmi koordinátor kinevezé- séért.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Antreprenorul mai are şi răspunderea anunţului prealabil, a planului mediului de muncă şi a elaborării documentaţiei precum şi răspunderea numirii unui coordonator al mediului de muncă al construcţiei pentru planificare şi proiectare.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="143">
+      <tuv xml:lang="hu">
+        <seg>Ez akkor lehetséges, ha a vállalkozás önálló felelősséggel jár az építkezés teljes megszervezése, megtervezése és/vagy véghezvitele tekintetében, pl. fővállalkozás esetén.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Aceasta se poate face dacă sarcina înseamnă răspunderea independentă a întregii planificări şi proiectări şi/sau întreaga executare a proiectului, de exemplu în cazul antreprenadei generale sau totale.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="144">
+      <tuv xml:lang="hu">
+        <seg>Megosztott vállakozásnál az építtető felelőssége nem ruházható át.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>În cazul antreprenadei parţiale, răspunderea antreprenorului nu poate fi cedată.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="145">
+      <tuv xml:lang="hu">
+        <seg>is hárul az a felelősség, hogy a megbízatásuk keretein belül már az építkezés előkészítése során figyelembe vegyék az építéskor létrejövő munkakörnyezetet.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Proiectanţii (arhitecţi, consulţi şi alţii), au de asemenea răspunderea ca în cadrul misiunii lor mediul de muncă pentru procesul de construcţie să fie tratat în faza de pregătire a proiectului de construcţie</seg>
+      </tuv>
+    </tu>
+    <tu tuid="146">
+      <tuv xml:lang="hu">
+        <seg>13</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>13</seg>
+      </tuv>
+    </tu>
+    <tu tuid="147">
+      <tuv xml:lang="hu">
+        <seg>Mindenki, aki a közös munkahelyen tevékenykedik, köteles tiszteletben tartani azokat a rend- és biztonsági szabályokat, amelyeket a munkavédelmi koordinátor előír.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Toţi cei care muncesc în acelaşi şantier trebuie să respecte regulile de ordine şi protecţie elaborate de coordonatorul mediului de muncă al construcţiei.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="148">
+      <tuv xml:lang="hu">
+        <seg>A munkaadóké a fő felelősség a munkavállalóik munkakörnyezetéért.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Fiecare angajator are răspunderea principală a mediului de muncă pentru angajaţii lui.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="149">
+      <tuv xml:lang="hu">
+        <seg>A mun- kaadó felelőssége a saját munkavállalóival szemben akkor is teljes, ha ugyanakkor még más valaki, például a munkagép tervezője vagy a munkavédelmi koordinátor is tartozik bizonyos felelősséggel.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Răspunderea angajatorului pentru angajaţii lui este valabilă în întregime, chiar dacă cei care proiectează, fac o maşină folosită în muncă sau cel care este coordonator al mediului construcţiei au şi ei răspunderea lor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="150">
+      <tuv xml:lang="hu">
+        <seg>A magánvállalkozók, és azok, akik alkalmazottak nélküli családi vállalkozás- ban végeznek építőmunkát, kötelesek ugyanazokat az előírásokat követni, mint amelyek a munkaadókra és munkavállalókra érvényesek.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Antreprenorii care lucrează pe cont propriu (ensamföretagare) şi cei care lucrează în întreprinderi de familie, fără a avea angajaţi, trebuie ca în cadrul lucrărilor de construcţii şi inginerie civilă să respecte în mare aceleaşi hotărâri care sunt valabile pentru angajatori şi angajaţi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="151">
+      <tuv xml:lang="hu">
+        <seg>Az építőmunkásoknak is közre kell működniük a munkavédelemben, tisztelet- ben kell tartaniuk az érvényes előírásokat, és használniuk kell a rendelkezésükre álló védelmi eszközöket.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Muncitorii constructori trebuie să contribuie la activităţile legate de mediul de muncă, să respecte normele în vigoare şi să folosească echipamentul de protecţie existent.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="152">
+      <tuv xml:lang="hu">
+        <seg>A munkavédelmi bizalmi a munkavállalók képviselője munkavédelmi kérdé- sekben.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Reprezentantul protecţiei îi reprezintă pe angajaţi în probleme legate de protecţie.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="153">
+      <tuv xml:lang="hu">
+        <seg>Ha egy munka emberéletre vagy egészségre azonnali és komoly veszély jelent, és a munkaadó nem hárítja el azonnal a kockázatot, akkor a munkavédelmi bizalminak joga van, a Munkavédelmi Hivatal hozzáállására várva, leállítani a munkát.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Dacă o anumită muncă implică un pericol imediat şi grav de viţă sau boală, iar angajatorul nu elimină riscul imediat, reprezentantul protecţiei are dreptul să întrerupă munca în aşteptarea poziţiei pe care o ia Administraţia Mediului de Muncă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="154">
+      <tuv xml:lang="hu">
+        <seg>A műszaki felszerelés gyártói, importálói és bérbeadói felelősek azért, hogy a termékeik biztonságosak legyenek.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Manufacturieirii, importatorii şi cei care închiriază echipament tehnic au răspunderea ca produsele lor să fie sigure.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="155">
+      <tuv xml:lang="hu">
+        <seg>Vegyszerek és egyéb anyagok gyártóinak és importálóinak hasonló felelősségük van.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Manufacturierii şi importatorii de produse chimice şi alte substanţe au o răspundere asemănătoare.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="156">
+      <tuv xml:lang="hu">
+        <seg>Biztonságosabb építkezési munkák</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>ADI 539 Rum Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

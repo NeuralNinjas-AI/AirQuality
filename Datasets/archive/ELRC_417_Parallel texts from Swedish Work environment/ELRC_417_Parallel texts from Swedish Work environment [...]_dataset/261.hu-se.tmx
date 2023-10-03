@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T130035Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="hu">
+    <prop type="x-tucount">25</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="hu">
+        <seg>Tel.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljön behöver alltså förbättras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="hu">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsräcken ska:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="hu">
+        <seg>Csökkentse a lezuhanás kockázatát</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>vara hållfasta,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="hu">
+        <seg>A lezuhanás kockázatát meg kell előzni.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Jobba säkrare på tak</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="hu">
+        <seg>Kerítse el az ilyen felületeket.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Lutande tak</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="hu">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="hu">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="hu">
+        <seg>Vegyi anyagokra vonatkozó szabályok Svédországban</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>45-47 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="hu">
+        <seg>Az építőtelepen lennie kell egy feljegyzésnek az összes veszélyes vegyi termékekről.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Använd skivhissar och stativ för skruvdra- gare som avlastar vid arbete i tak.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="hu">
+        <seg>Ez minden munkaadó felelőssége.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skruvdragare med magasin är tunga.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="hu">
+        <seg>Bizonyos veszélyes anyagokra különösen szigorú előírások vonatkoznak:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Variera arbetet</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="hu">
+        <seg>Az előírások megszegése büntetendő cselekmény és nagy pénzbírsággal járhat.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Stativ till skruvdragare eller borrmaskin</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="hu">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skivhiss</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="hu">
+        <seg>Közlekedési utak és anyagmozgatás</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="hu">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>38-41,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="hu">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Brand</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="hu">
+        <seg>A forgalmat elsősorban el kell terelni.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tänk på vindpåverkan!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="hu">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="hu">
+        <seg>Ha valami történik</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>64 §</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="hu">
+        <seg>Ott rendszerint tudnak angolul is.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Intäckning med väderskydd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="hu">
+        <seg>Megosztott vállakozásnál az építtető felelőssége nem ruházható át.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Information och instruktion</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="hu">
+        <seg>A tervezőkre (műépítészekre, tanácsadókra, stb.)</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>14</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="hu">
+        <seg>13</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsronder</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="hu">
+        <seg>15</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Februari 2013</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="hu">
+        <seg>Biztonságosabb építkezési munkák</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Februari 2013</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

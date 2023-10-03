@@ -1,0 +1,1041 @@
+Annex II
+Glossary
+Absorption (Refrigeration)
+A process by which a material (the absorbent) extracts one or
+more substances (absorbates) from a liquid or gaseous medium
+that it is in contact with and changes chemically, physically
+or both. The process is accompanied by a change in entropy,
+which makes it a useful mechanism for a refrigeration cycle.
+Water-lithium bromine and ammonia-water →chillers are examples
+of absorption chillers.
+Adjustment Time
+See: →Lifetime in relation to atmospheric concentrations, or →
+response time in relation to the climate system.
+Aerosol
+A suspension of very fine solid or liquid particles in a gas.
+Aerosol is also used as a common name for a spray (or ‘aerosol’)
+can, in which a container is filled with a product and a
+propellant and is pressurized so as to release the product in a
+fine spray.
+Age of Air
+The length of time that a stratospheric air mass has been out of
+contact with the well-mixed →troposphere. The content of a
+unit element of air at a particular location and particular time
+of year in the →stratosphere can be thought of as a mixture of
+different air parcels that have taken different routes from the →
+tropopause to arrive at that location. The mean age of air at a
+specific location is defined as the average transit times of the
+elements since their last contact with the tropopause.
+Alcohols
+→Hydrocarbon derivatives in which at least one hydrogen atom
+has been replaced by an -OH group. Alcohols are sometimes
+used as solvents.
+Annex B Countries/Parties (Kyoto Protocol)
+The group of countries included in Annex B in the →Kyoto
+Protocol that have agreed to a target for their →greenhouse-gas
+emissions. It includes all the →Annex I countries (as amended
+in 1998) except Turkey and Belarus. See also: →Non-Annex I
+countries/parties.
+Annex I Countries/Parties (Climate Convention)
+The group of countries included in Annex I (as amended in 1998)
+to the →United Nations Framework Convention on Climate
+Change (UNFCCC). It includes all the developed countries in
+the Organisation of Economic Co-operation and Development
+(OECD), and →countries with economies in transition. By
+default, the other countries are referred to as →Non-Annex I
+countries. See also: →Annex B countries/parties.
+Anthropogenic
+Resulting from or produced by human beings.
+Aqueous Cleaning
+Cleaning parts of equipment with water, to which may be added
+suitable detergents, saponifiers or other additives.
+Article 5(1) Countries (Montreal Protocol)
+Developing countries that are →Party to the →Montreal
+Protocol. These countries are permitted a ten-year grace period
+in the phase-out schedule in the →Montreal Protocol compared
+with developed countries.
+Note: The definitions in this glossary refer to the use of the terms in the context of this report. A ‘→’ indicates that the following
+term is also contained in this glossary. The glossary provides an explanation of specific terms as the lead authors intend them to
+be interpreted in this report.
+450 IPCC/TEAP Special Report: Safeguarding the Ozone Layer and the Global Climate System
+Atmosphere
+The gaseous envelope surrounding the Earth. The dry atmosphere
+consists almost entirely of nitrogen (N2) (78.1% volume
+→mixing ratio) and oxygen (O2) (20.9% volume mixing ratio).
+The remaining 1% consists of trace gases, such as argon (Ar)
+(0.93% volume mixing ratio), helium (He), and radiatively
+active →greenhouse gases such as →carbon dioxide (CO2)
+(0.037% volume mixing ratio in 2004) and →ozone (O3). In addition,
+the atmosphere contains water vapour, whose amount is
+highly variable, clouds and both liquid and particulate aerosols.
+Most of the matter in the atmosphere occurs in the →troposphere
+immediately above the Earth’s surface and the overlying
+→stratosphere.
+Atmospheric Lifetime
+A measure of the average time that a molecule remains intact
+once released into the →atmosphere. See also: →Lifetime.
+Azeotrope (Refrigeration)
+A →blend consisting of one or more →refrigerants of different
+volatilities that does not appreciably change in composition or
+temperature as it evaporates (boils) or condenses (liquefies) under
+constant pressure. Refrigerant blends assigned an R-500 series
+number designation by ANSI/ASHRAE 34 are azeotropes.
+Compare with: →Zeotrope.
+Banks
+Banks are the total amount of substances contained in existing
+equipment, chemical stockpiles, foams and other products not
+yet released to the atmosphere.
+Baseline
+A non-intervention →scenario used as a base in the analysis of
+intervention scenarios. See also: →Business-As-usual (BAU)
+Scenario.
+Best Practice
+For this Report, best practice is considered the lowest achievable
+value of halocarbon emission at a given date, using commercially
+proven technologies in the production, use, substitution,
+recovery and destruction of halocarbon or halocarbon-based
+products.
+Blends/Mixtures (Refrigeration)
+A mixture of two or more pure fluids. Blends are used to achieve
+properties that fit many refrigeration purposes. For example, a
+mixture of flammable and nonflammable components can result
+in a nonflammable blend. Blends can be divided into three
+categories: →azeotropic, →non-azeotropic and near-azeotropic
+blends.
+Blowing Agent (Foams)
+A gas, volatile liquid or chemical that generates gas during the
+foaming process. The gas creates bubbles or cells in the plastic
+structure of a foam.
+Bottom-Up Models
+A modelling approach that aggregates information from diverse
+sources, often including technological and engineering details
+in the analysis. Compare with: →Top-down models.
+Business-As-Usual (BAU) Scenario (2015, This Report)
+A →baseline scenario for the use of →halocarbons and their
+alternatives, which assumes that all existing regulation and →
+phase-out measures, including the →Montreal Protocol and relevant
+national regulations, continue to 2015. The usual practices
+(including end-of-life recovery) and emission rates are kept
+unchanged up to 2015.
+Capital Costs
+Costs associated with capital or investment expenditure on land,
+plant, equipment and inventories. Unlike labour and operating
+costs, capital costs are independent of the level of output for a
+given capacity of production.
+Carbon Dioxide (CO2)
+A naturally occurring gas which occurs as a byproduct of burning
+→fossil fuels and biomass, as well as other industrial processes
+and land-use changes. It is the principal →anthropogenic
+→greenhouse gas that affects the Earth’s radiative balance and
+is the reference gas against which other greenhouse gases are
+generally measured.
+Catalyst
+A chemical that acts to speed up or facilitate a chemical reaction,
+but is not physically changed or used up in the reaction.
+Chiller
+A cooling system that removes heat from one medium (water)
+and deposits it into another (ambient air or water).
+Chlorine Loading
+The total amount of chlorine (generally expressed as a →mixing
+ratio, or fraction of all air molecules), accounting for the
+amount of all chlorine-bearing substances and the number of
+atoms of chlorine in each substance.
+Chlorocarbons
+→Halocarbons containing carbon and chlorine atoms, but no
+other →halogen atoms.
+Chlorofluorocarbons (CFCs)
+→Halocarbons containing only chlorine, fluorine and carbon
+atoms. CFCs are both →ozone-depleting substances (ODSs)
+and →greenhouse gases.
+Class A Fire (Fire Protection)
+Fire in ordinary combustible materials, such as wood, cloth, paper,
+rubber and many plastics.
+Annex II: Glossary 451
+Class B Fire (Fire Protection)
+Fire in flammable liquids, oils, greases, tars, oil-base paints,
+lacquers and flammable gases.
+Class C Fire (Fire Protection)
+Fire that involves energized electrical equipment where the electrical
+resistivity of the extinguishing media is of importance.
+Clean Agent (Fire Protection)
+An electrically non-conducting, volatile or gaseous fire-extinguishing
+agent that does not leave a residue upon evaporation.
+Clean Development Mechanism (CDM)
+Defined in Article 12 of the →Kyoto Protocol, the Clean
+Development Mechanism is intended to meet two objectives:
+(1) to assist →non-Annex I Parties in achieving sustainable development
+and in contributing to the ultimate objective of the
+convention; and (2) to assist →Annex I Parties in achieving
+compliance with their quantified emission limitation and reduction
+commitments. Certified emission reductions from Clean
+Development Mechanism projects undertaken in non-Annex I
+countries that limit or reduce →greenhouse-gas emissions, when
+certified by operational entities designated by the→Conference
+of the Parties/Meeting of the Parties, can be accrued to the investor
+(government or industry) from Parties in →Annex B. A
+share of the proceeds from the certified project activities is used
+to cover administrative expenses as well as to assist developing
+country Parties that are particularly vulnerable to the adverse
+effects of →climate change to meet the costs of adaptation.
+Climate
+Climate in a narrow sense is usually defined as the ‘average
+weather’, or more rigorously, as the statistical description in
+terms of the mean and variability of relevant quantities over a
+period of time ranging from months to thousands or millions
+of years. The classical period is 30 years, as defined by the →
+World Meteorological Organization (WMO). These quantities
+are most often surface variables such as temperature, precipitation,
+and wind. Climate in a wider sense is the state, including a
+statistical description, of the climate system.
+Climate Change
+Climate change refers to a statistically significant variation in
+either the mean state of the →climate or in its variability, persisting
+for an extended period (typically decades or longer).
+Climate change may be due to natural internal processes or external
+forcings, or to persistent →anthropogenic changes in the
+composition of the atmosphere or in land use.
+Note that Article 1 of the →Framework Convention on
+Climate Change (UNFCCC) defines ‘climate change’ as ‘a
+change of climate which is attributed directly or indirectly to
+human activity that alters the composition of the global atmosphere
+and which is in addition to natural climate variability,
+observed over comparable time periods’. The UNFCCC thus
+makes a distinction between ‘climate change’ attributable to human
+activities altering the atmospheric composition, and ‘climate
+variability’ attributable to natural causes.
+Climate Feedback
+An interaction mechanism between processes in the →climate
+system occurring when the result of an initial process triggers
+changes in a second process that in turn influences the initial
+one. A positive feedback intensifies the original process, whereas
+a negative feedback weakens it.
+Climate Scenario
+A plausible and often simplified representation of the future
+climate, based on a coherent and internally consistent set of
+driving forces and key relations, that has been constructed for
+use in investigating the potential consequences of →anthropogenic
+→climate change, and often serves as input to impact
+models. Climate →projections often serve as the raw material
+for constructing climate scenarios, but climate scenarios usually
+require additional information, such as the baseline current
+climate. A climate-change scenario is the difference between a
+climate scenario and the current climate.
+Climate Sensitivity
+In IPCC Reports, equilibrium climate sensitivity refers to the
+equilibrium change in global mean surface temperature following
+a doubling of the atmospheric (→equivalent) →carbon
+dioxide (CO2) concentrations. More generally, equilibrium climate
+sensitivity refers to the equilibrium change in surface air
+temperature following a unit change in →radiative forcing (in
+units of °C per (W m–2)).
+In practice, the evaluation of the equilibrium climate sensitivity
+requires very long simulations with coupled general
+circulation models. The effective climate sensitivity is a related
+measure that circumvents this requirement. It is evaluated from
+model output for evolving non-equilibrium conditions. It is a
+measure of the strengths of the →feedbacks at a particular time
+and may vary with forcing history and climate state.
+Climate System
+The highly complex system that consists of five major components:
+the →atmosphere, the hydrosphere, the cryosphere, the
+land surface and the biosphere, as well as of the interactions
+between them. The climate system evolves over time under the
+influence of its own internal dynamics and because of external
+forcings, such as volcanic eruptions, solar variations and human-
+induced forcings (such as the changing composition of the
+atmosphere and land-use change).
+Climate Variability
+Variations in the mean state and other statistics (such as the
+standard deviation and the occurrence of extremes) of the →
+climate on all temporal and spatial scales beyond that of individual
+weather events. Climate variability may be caused by
+natural internal processes within the →climate system (internal
+variability), or by variations in natural or anthropogenic external
+forcings (external variability). See also: →Climate change.
+452 IPCC/TEAP Special Report: Safeguarding the Ozone Layer and the Global Climate System
+CO2-Equivalent
+The amount of →carbon dioxide (CO2) that would cause the
+same amount of →radiative forcing as a given amount of another
+→greenhouse gas. When used with concentrations this refers
+to the instantaneous radiative forcing caused by the greenhouse
+gas or the equivalent amount of CO2. When used with emissions
+this refers to the time-integrated radiative forcing over a
+specified time horizon caused by the change in concentration
+produced by the emissions. See also: →Global warming potential.
+Coefficient of Performance (COP) (Refrigeration)
+A measure of the energy efficiency of a refrigerating system.
+It is defined as the ratio between the refrigerating capacity and
+the electric power consumed by the system. The COP is primarily
+dependant on the working cycle and the temperature levels
+(evaporating/condensing temperature) as well as on the properties
+of the →refrigerant, system design and size.
+Column Ozone
+The total amount of →ozone in a vertical column above the
+Earth’s surface. Column ozone is measured in →Dobson units
+(DU).
+Commercialization
+A sequence of actions necessary to achieve market entry and
+general market competitiveness of new technologies, processes
+and products.
+Compressor Discharge Temperature (Refrigeration)
+The temperature of a gas at the high-pressure outlet from the
+compressor (superheated gas). The gas temperature is typically
+30°C to 40°C higher than the condensing temperature at saturation
+pressure, mainly depending on the evaporating/condensing
+temperature, →refrigerant properties and the compressor
+energy efficiency.
+Conference of the Parties (COP) (Climate Convention)
+The supreme body of the →United Nations Framework
+Convention on Climate Change (UNFCCC), comprising countries
+that have ratified or acceded to the UNFCCC. See also: →
+Conference of the Parties/Meeting of the Parties and →Meeting
+of the Parties.
+Conference of the Parties/Meeting of the Parties (COP/
+MOP) (Climate Convention)
+The →Conference of the Parties of the →United Nations
+Framework Convention on Climate Change (UNFCCC) will
+serve as the →Meeting of the Parties (MOP), the supreme body
+of the →Kyoto Protocol, but only Parties to the Kyoto Protocol
+may participate in deliberations and make decisions.
+Containment (Refrigeration)
+The application of service techniques or special equipment designed
+to preclude or reduce loss of →refrigerant from equipment
+during installation, operation, service or disposal of refrigeration
+and air-conditioning equipment.
+Controlled Substance
+Under the →Montreal Protocol, any →ozone-depleting substance
+(ODS) that is subject to control measures, such as a →
+phase-out requirement.
+Cost Effective
+A criterion that specifies that a technology or measure delivers
+a good or service at equal or lower cost than current practice, or
+the least-cost alternative for the achievement of a given target.
+Countries with Economies in Transition (CEITs)
+Countries with national economies in the process of changing
+from a planned economic system to a market economy.
+Destruction
+Destruction of →ozone-depleting substances (ODSs) by approved
+destruction plants, in order to avoid their emissions.
+Detergent
+A product designed to render, for example, oils and greases
+soluble in water; usually made from synthetic →surfactants.
+Dobson Unit (DU)
+A unit to measure total →column ozone. The number of Dobson
+units is the thickness, in units of 10–5 m, that the ozone column
+would occupy if compressed into a layer of uniform density at
+a pressure of 1013 hPa and a temperature of 0°C. One DU corresponds
+to a column of ozone containing 2.69 × 1020 molecules
+per square meter. Although column ozone can vary greatly, 300
+DU is a typical value.
+Drop-In Replacement (Refrigeration)
+The procedure for replacing →CFC refrigerants with non-CFC
+refrigerants in existing refrigerating, air-conditioning and heatpump
+plants without doing any plant modifications. However,
+drop-in procedures are normally referred to as →retrofitting because
+plants need minor modifications, such as the change of
+lubricant, and the replacement of the expansion device and the
+desiccant material.
+Dry Powder Inhaler (DPI) (Medical Aerosols)
+An alternate technology to →metered dose inhalers (MDIs) that
+can be used if the medication being dispensed can be satisfactorily
+formulated as microfine powder, thus eliminating the use
+of a chemical propellant.
+Emission Factor
+The coefficient that relates actual →emissions to activity data
+as a standard rate of emission per unit of activity.
+Emissions
+The release of gases or →aerosols into the →atmosphere over a
+specified area and period of time.
+Annex II: Glossary 453
+Emission Scenario
+A plausible representation of the future development of →emissions
+of substances that are potentially radiatively active (e.g.,
+→greenhouse gases and →aerosols), based on a coherent and
+internally consistent set of assumptions about driving forces
+(such as demographic and socio-economic development, and
+technological change) and their key relationships. See also: →
+Scenario (generic) and →climate scenario.
+The IPCC Special Report on Emission Scenarios (2000)
+presented emission scenarios, known as the →SRES scenarios,
+which have been used as a basis for the climate projections in
+the IPCC Third Assessment Report (2001) and in this report.
+Energy Balance
+Averaged over the globe and over long time periods, the energy
+budget of the →climate system must be in balance. Because the
+climate system derives all its energy from the Sun, this balance
+implies that, globally, the amount of incoming →solar radiation
+must on average be equal to the sum of the outgoing reflected
+solar radiation and the outgoing →thermal infrared radiation
+emitted by the climate system. A perturbation of this global radiation
+balance, be it →anthropogenic or natural, is called →
+radiative forcing.
+Equivalent-CO2
+See →CO2-Equivalent.
+Equivalent Effective Stratospheric Chlorine (EESC)
+An index of the amount of chlorine (Cl) and bromine (Br) that is
+present in the →stratosphere in forms that can contribute to the
+depletion of →ozone. The EESC value takes into account different
+fractional releases of chlorine or bromine from different
+halocarbons and the much higher efficiency of bromine in the
+catalytic removal of ozone. See also: →Chlorine loading.
+Ethers
+Organic compounds with formula R-O-R, where O is an oxygen
+atom and R is not a hydrogen atom (H).
+Expansion Control Devices (Refrigeration)
+A device, such as an expansion valve, expansion orifice, turbine
+or capillary tube, that is used to control the mass flow of a →
+refrigerant from the high-pressure side to the low-pressure side
+of a refrigeration system.
+External Costs
+The costs arising from any human activity when the agent responsible
+for the activity does not take full account of the negative
+impacts on others of his or her actions. Similarly, when
+the impacts are positive and not accounted for in the actions of
+the agent responsible, they are referred to as external benefits.
+Emissions of particulate pollution from an industrial installation
+affect the health of people in the vicinity, but this is not
+often considered, or is given inadequate weight, in private decision
+making and there is no market for such impacts. Such
+a phenomenon is referred to as an externality, and the costs it
+imposes are referred to as the external costs.
+External Forcing
+See: →Climate system.
+Externality
+See: →External costs.
+Feedback
+See: →Climate feedback.
+Fluorinated Ethers
+→Ethers in which one or more hydrogen atoms have been replaced
+by fluorine.
+Fluorocarbons
+→Halocarbons containing fluorine atoms, including →chlorofluorocarbons
+(CFCs), →hydrochlorofluorocarbons (HCFCs),
+→hydrofluorocarbons (HFCs), and →perfluorocarbons
+(PFCs).
+Fluoroketones (FKs)
+Organic compounds in which two fully fluorinated alkyl
+groups are attached to a carbonyl group (C=O).
+Fossil Fuels
+Carbon-based fuels derived from geological (fossil) carbon deposits.
+Examples include coal, oil and natural gas.
+Framework Convention on Climate Change
+See:→United Nations Framework Convention on Climate
+Change (UNFCCC).
+Global Warming Potential (GWP)
+An index comparing the climate impact of an emission of a
+greenhouse gas relative to that of emitting the same amount of
+→carbon dioxide. GWPs are determined as the ratio of the timeintegrated
+→radiative forcing arising from a pulse emission of
+1 kg of a substance relative to that of 1 kg of carbon dioxide,
+over a fixed time horizon. See also: →Radiative forcing.
+Greenhouse Effect
+→Greenhouse gases in the →atmosphere effectively absorb the
+→thermal infrared radiation that is emitted by the Earth’s surface,
+by the atmosphere itself, and by clouds. The atmosphere
+emits radiation in all directions, including downward to the
+Earth’s surface. Greenhouse gases trap heat within the surfacetroposphere
+system and raise the temperature of the Earth’s surface.
+This is called the natural greenhouse effect.
+An increase in the concentration of greenhouse gases leads to
+increased absorption of infrared radiation and causes a →radiative
+forcing, or energy imbalance, that is compensated for by an
+increase in the temperature of the surface-troposphere system.
+This is the enhanced greenhouse effect.
+454 IPCC/TEAP Special Report: Safeguarding the Ozone Layer and the Global Climate System
+Greenhouse Gases (GHGs)
+The gaseous constituents of the →atmosphere, both natural and
+→anthropogenic, that absorb and emit radiation within the spectrum
+of the →thermal infrared radiation that is emitted by the
+Earth’s surface, by the atmosphere and by clouds. This property
+causes the →greenhouse effect. The primary greenhouse gases
+in the Earth’s atmosphere are water vapour (H2O), →carbon dioxide
+(CO2), nitrous oxide (N2O), methane (CH4) and →ozone
+(O3). Moreover, there are a number of entirely →anthropogenic
+greenhouse gases in the atmosphere, such as the →halocarbons
+and other chlorine- and bromine-containing substances that are
+covered by the →Montreal Protocol. Some other trace gases,
+such as sulphur hexafluoride (SF6), hydrofluorocarbons (HFCs),
+and perfluorocarbons (PFCs), are also greenhouse gases.
+Halocarbons
+Chemical compounds containing carbon atoms, and one or
+more atoms of the →halogens chlorine (Cl), fluorine (F), bromine
+(Br) or iodine (I). Fully halogenated halocarbons contain
+only carbon and halogen atoms, whereas partially halogenated
+halocarbons also contain hydrogen (H) atoms. Halocarbons
+that release chlorine, bromine or iodine into the →stratosphere
+cause →ozone depletion. Halocarbons are also →greenhouse
+gases. Halocarbons include →chlorofluorocarbons (CFCs),
+→hydrochlorofluorocarbons (HCFCs), →hydrofluorocarbons
+(HFCs), →perfluorocarbons (PFCs) and →halons.
+Halogens
+A family of chemical elements with similar chemical properties
+that includes fluorine (F), chlorine (Cl), bromine (Br) and
+iodine (I).
+Halons
+Fully halogenated →halocarbons that contain bromine and fluorine
+atoms.
+Hermetic
+An airtight sealed system.
+Hermetic Compressors (Refrigeration)
+Compressors whose motors are sealed within the →refrigerant
+loop and are often cooled by the flow of the →refrigerant-lubricant
+mixture directly over the motor windings.
+Hydrocarbons (HCs)
+Chemical compounds consisting of one or more carbon atoms
+surrounded only by hydrogen atoms.
+Hydrochlorofluorocarbons (HCFCs)
+→Halocarbons containing only hydrogen, chlorine, fluorine and
+carbon atoms. Because HCFCs contain chlorine, they contribute
+to →ozone depletion. They are also →greenhouse gases.
+Hydrofluorocarbons (HFCs)
+→Halocarbons containing only carbon, hydrogen and fluorine
+atoms. Because HFCs contain no chlorine, bromine or iodine,
+they do not deplete the →ozone layer. Like other halocarbons
+they are potent →greenhouse gases.
+Hydrofluoroethers (HFEs)
+Chemicals composed of hydrogen, fluorine and →ether, which
+have similar performance characteristics to certain →ozone-depleting
+substances (ODSs) that are used as solvents.
+Implementation Costs
+Costs involved in the implementation of →mitigation options.
+These costs are associated with the necessary institutional
+changes, information requirements, market size, opportunities
+for technology gain and learning, and economic incentives
+(grants, subsidies and taxes).
+Intergovernmental Panel on Climate Change (IPCC)
+The Intergovernmental Panel on Climate Change (IPCC) was
+jointly established by the →World Meteorological Organization
+(WMO) and the →United Nations Environment Programme
+(UNEP) in 1988 to assess scientific, technical and socio-economic
+information relevant for the understanding of climate
+change, its potential impacts and options for adaptation and
+mitigation. It is open to all Members of the UN and of WMO.
+The IPCC provides, on request, scientific, technical and socioeconomic
+advice to the →Conference of the Parties (COP) to the
+→United Nations Framework Convention on Climate Change
+(UNFCCC). The IPCC has produced a series of Assessment
+Reports, Special Reports, Technical Papers, methodologies,
+and other products that have become standard works of reference
+and that are widely used by policymakers, scientists, and
+other experts.
+Kyoto Protocol
+The Kyoto Protocol to the →United Nations Framework
+Convention on Climate Change (UNFCCC) was adopted at the
+Third Session of the →Conference of the Parties (COP) to the
+UNFCCC in 1997 in Kyoto, Japan. It contains legally binding
+commitments, in addition to those included in the UNFCCC.
+Countries included in →Annex B of the Protocol (most OECD
+countries and →countries with economies in transition) agreed
+to reduce their →anthropogenic →greenhouse-gas emissions
+(specifically →carbon dioxide (CO2), methane (CH4), nitrous
+oxide (N2O), →hydrofluorocarbons (HFCs), →perfluorocarbons
+(PFCs) and sulfur hexafluoride (SF6)) by at least 5% below
+1990 levels in the commitment period 2008 to 2012. The
+Kyoto Protocol entered into force on 16 February 2005.
+Life Cycle Assessment (LCA)
+An assessment of the overall environmental impact of a product
+over its entire life cycle (manufacture, use and recycling or
+disposal).
+Life Cycle Climate Performance (LCCP)
+A measure of the overall global-warming impact of equipment
+based on the total related →emissions of →greenhouse gases
+over its entire life cycle. LCCP is an extension of the →total
+Annex II: Glossary 455
+equivalent warming impact (TEWI). LCCP also takes into account
+the direct fugitive emissions arising during manufacture,
+and the greenhouse gas emissions associated with their embodied
+energy.
+Lifetime
+Lifetime is a general term used for various time scales characterizing
+the rates of processes affecting the concentration of
+trace gases. The following lifetimes may be distinguished:
+Turnover time (T) is the ratio of the mass (M) of a reservoir
+(e.g., a gaseous compound in the →atmosphere) and the total
+rate of removal (S) from the reservoir: T = M/S. Separate turnover
+times can be defined for each removal process.
+Adjustment time or response time (Ta) is a time scale characterizing
+the decay of an instantaneous pulse input into the reservoir.
+The term adjustment time is also used to characterize the
+adjustment of the mass of a reservoir following a step change in
+the source strength. Half-life or decay constant is used to quantify
+a first-order exponential decay process. See: →Response
+time, for a different definition pertinent to climate variations.
+The term lifetime is sometimes used, for simplicity, as a surrogate
+for adjustment time.
+In simple cases, such as CFC-11, where the global removal
+rate of the compound is proportional to the total mass of the
+reservoir, the adjustment time equals the turnover time: T = Ta.
+In more complex cases removal rates are not proportional to the
+reservoir mass – for example because of feedback effects – and
+this equality no longer holds.
+Longwave Radiation
+See: →Thermal infrared radiation.
+Lower Flammability Limit (LFL)
+‘The minimum concentration of a combustible substance that is
+capable of propagating a flame through a homogeneous mixture
+of the combustible and gaseous oxidizer under the specified
+conditions of test’ (ASTM Standard E 681-85). The conditions
+of test usually reported for →refrigerants are in dry air in ambient
+temperature and pressure.
+Lubricant
+Typically a substance introduced between moving surfaces to
+reduce the friction and wear between them.
+Materials Safety Data Sheet (MSDS)
+A safety advisory bulletin prepared by chemical producers for a
+specific →refrigerant or compound.
+Meeting of the Parties (to the Kyoto Protocol) (MOP)
+→Conference of the Parties to the →United Nations Framework
+Convention on Climate Change serving as the Meeting of the
+Parties (MOP) to the →Kyoto Protocol. It is the supreme body
+of the Kyoto Protocol. See also: →Conference of the Parties/
+Meeting of the parties (COP/MOP).
+Meeting of the Parties (to the Montreal Protocol) (MOP)
+The supreme body of the Montreal Protocol.
+Metered Dose Inhalers (MDIs) (Medical Aerosols)
+A method of dispensing inhaled pulmonary drugs. See also: →
+Dry powder inhaler (DPI).
+Miscible
+The ability of two liquids or gases to uniformly dissolve into
+each other. Immiscible liquids will separate into two distinguishable
+layers.
+Mitigation
+A human intervention to reduce the sources or enhance the sinks
+of →greenhouse gases.
+Mixing Ratio
+Mixing ratio, or mole fraction, is the ratio of the number of
+moles of a constituent in a given volume to the total number of
+moles of all constituents in that volume. It is usually reported
+for dry air. Typical values for long-lived →greenhouse gases
+range from μmol/mol (parts per million: ppm), nmol/mol (parts
+per billion: ppb), to fmol/mol (parts per trillion: ppt). Correcting
+the mixing ratio for the non-ideality of gases gives the volume
+mixing ratio (sometimes expressed in ppmv, etc.).
+Mole Fraction
+See: →Mixing ratio
+Montreal Protocol
+The Montreal Protocol on Substances that Deplete the Ozone
+Layer was adopted in Montreal in 1987 and subsequently adjusted
+and amended in London (1990), Copenhagen (1992),
+Vienna (1995), Montreal (1997) and Beijing (1999). It controls
+the consumption and production of chlorine- and bromine-containing
+chemicals (known as →ozone-depleting substances,
+ODSs) that destroy the stratospheric →ozone layer.
+Multilateral Fund
+Part of the financial mechanism under the →Montreal Protocol,
+established by the →Parties to provide financial and technical
+assistance to →Article 5 Parties.
+Non-Annex I Parties/Countries (Climate Convention)
+The countries that have ratified or acceded to the →United
+Nations Framework Convention on Climate Change (UNFCCC)
+that are not included in →Annex I of the Climate Convention.
+Non-Azeotropic (Refrigeration)
+A →blend or mixture where the compositions of coexisting liquid
+and vapour differ and condensation and evaporation occur
+over a range of temperatures. This effect can in some applications
+give improved performance in plants with heating/cooling
+demand with gliding temperatures. Heating of hot tap water is
+one example. Equipment has to be modified to use a non-azeotropic
+blend. See also: →zeotropic, →azeotropic.
+456 IPCC/TEAP Special Report: Safeguarding the Ozone Layer and the Global Climate System
+Non-Condensable Gases (Refrigeration)
+Gases with very low temperature boiling points, which are not
+easily condensed. Nitrogen and oxygen are the most common
+ones found in →chillers.
+Nonlinearity
+A process is called ‘nonlinear’ when there is no simple proportional
+relation between cause and effect. The →climate system
+contains many nonlinear processes, resulting in a system with
+potentially very complex behaviour. Such complexity may lead
+to rapid climate change.
+Normal Boiling Point (NBP)
+The boiling point of a compound at atmospheric pressure (1013
+hPa).
+Not-in-Kind Technologies (NIK)
+Not-in-kind technologies achieve the same product objective
+without the use of →halocarbons, typically with an alternative
+approach or unconventional technique. Examples include the
+use of stick or spray pump deodorants to replace CFC-12 aerosol
+deodorants; the use of mineral wool to replace CFC, HFC
+or HCFC insulating foam; and the use of dry powder inhalers
+(DPIs) to replace CFC or HFC metered dose inhalers (MDIs).
+One-Component Foam (OCF)
+A foam in which the →blowing agent acts both as a frothing
+agent and as a propellant. These foams are primarily used for
+gap filling (to prevent air infiltration) rather than for thermal insulation
+per se. As such the use of blowing agent is fully emissive.
+Open Drive (Refrigeration)
+A compressor drive motor that is outside the →refrigerant loop
+and therefore not directly exposed to the circulating refrigerant.
+Ozone
+The triatomic form of oxygen (O3), which is a gaseous →atmospheric
+constituent. In the →troposphere it is created by
+photochemical reactions involving gases occurring naturally
+and resulting from →anthropogenic activities (→‘smog’).
+Tropospheric ozone acts as a →greenhouse gas. In the →stratosphere
+ozone is created by the interaction between solar →
+ultraviolet radiation and molecular oxygen (O2). Stratospheric
+ozone plays a major role in the stratospheric radiative balance.
+Its concentration is highest in the →ozone layer.
+Ozone-Depleting Substances (ODSs)
+Substances known to deplete the stratospheric →ozone layer.
+The ODSs controlled under the →Montreal Protocol and its
+Amendments are →chlorofluorocarbons (CFCs), →hydrochlorofluorocarbons
+(HCFCs), →halons, methyl bromide (CH3Br),
+carbon tetrachloride (CCl4), methyl chloroform (CH3CCl3),
+hydrobromofluorocarbons (HBFCs) and bromochloromethane
+(CH2BrCl).
+Ozone Depletion
+Accelerated chemical destruction of the stratospheric →ozone
+layer by the presence of substances produced by human activities.
+Ozone Depletion Potential (ODP)
+A relative index indicating the extent to which a chemical product
+may cause →ozone depletion compared with the depletion
+caused by CFC-11. Specifically, the ODP of an →ozone-depleting
+substance (ODS) is defined as the integrated change in total
+ozone per unit mass emission of that substance relative to
+the integrated change in total ozone per unit mass emission of
+CFC-11.
+Ozone Layer
+The layer in the →stratosphere where the concentration of →
+ozone is greatest. The layer extends from about 12 to 40 km.
+This layer is being depleted by →anthropogenic emissions
+of chlorine and bromine compounds. Every year, during the
+Southern Hemisphere spring, a very strong depletion of the
+ozone layer takes place over the Antarctic region. This depletion
+is caused by anthropogenic chlorine and bromine compounds in
+combination with the specific meteorological conditions of that
+region. This phenomenon is called the Antarctic ozone hole.
+Party
+A country that signs and/or ratifies an international legal instrument
+(e.g., a protocol or an amendment to a protocol), indicating
+that it agrees to be bound by the rules set out therein. Parties
+to the →Montreal Protocol or →Kyoto Protocol are countries
+that have signed and ratified these Protocols.
+Perfluorocarbons (PFCs)
+Synthetically produced →halocarbons containing only carbon
+and fluorine atoms. They are characterized by extreme stability,
+non-flammability, low toxicity, zero →ozone depleting potential
+and high →global warming potential.
+Phase-Out
+The ending of all production and consumption of a chemical
+controlled under the →Montreal Protocol.
+Phase-Out Plan
+The part of the Country Programme under the →Montreal
+Protocol that describes the strategy statement of a government
+defining the →phase-out time schedule for each controlled substance
+and the government actions to be taken for achieving
+phase-out. It contains a prioritized list of projects to be undertaken
+and takes into account the specific industrial, political and
+legislative situation in the country.
+Polar Stratospheric Clouds (PSCs)
+A class of clouds composed of particles, including nitric acid
+hydrates and ice, that occur at high altitudes (of about 15 to 30
+km) in the polar →stratosphere. They occur when the temperature
+is very low (below about –95°C), such as in the Antarctic
+→polar vortex, and have been observed mainly over Antarctica
+Annex II: Glossary 457
+in the winter and spring, and occasionally over the Arctic. PSCs
+play a major role in →ozone depletion because chlorine is converted
+to forms that are highly reactive with ozone through
+chemical reactions on or within the cloud particles.
+Polar Vortex
+A dynamical structure that occurs during the polar winter in
+which →stratospheric air acquires a cyclonic circulation about
+the pole, with an area of relatively still air in its centre. The
+vortex core air (above 16 km in altitude) becomes effectively
+isolated from mid-latitude air. The polar vortex over Antarctica
+is usually colder and lasts longer (throughout the austral spring)
+than the polar vortex over the Arctic.
+ppm, ppb, ppt
+See: →Mixing ratio.
+Precursors
+Atmospheric compounds which themselves are not →greenhouse
+gasses or →aerosols, but which have an effect on greenhouse-
+gas or aerosol concentrations by taking part in physical
+or chemical processes regulating their production or destruction
+rates.
+Present Value Cost
+The sum of all costs over all time periods, with future costs
+discounted.
+Projection (Generic)
+A potential future evolution of a quantity or set of quantities,
+often computed with the aid of a model. Projections are distinguished
+from predictions in order to emphasize that projections
+involve assumptions concerning, for example, future socio-economic
+and technological developments that may or may not be
+realized, and are therefore subject to substantial uncertainty.
+Propellant
+The component of an →aerosol spray that acts as a forcing
+agent to expel the product from the aerosol canister.
+Purge System (Refrigeration)
+A device used on low-pressure chillers to expel air and other
+non-condensables from the circulating →refrigerant.
+Push-Pull Method (Refrigeration)
+A method for →recovering and →recycling →refrigerant from
+a system using a negative pressure (suction) on one side to pull
+the old refrigerant out and pumping recycled refrigerant vapour
+to the other side to push the old refrigerant through the system.
+Radiative Efficiency
+A measure of the efficiency of a gas in changing →radiative
+forcing. It is calculated as the marginal change in radiative forcing
+per unit increase in gas concentration and typically given in
+units of W m–2 ppb–1.
+Radiative Forcing
+Radiative forcing is the change in the net irradiance (expressed
+in Watts per square meter: W m–2) at the →tropopause due to
+an internal change or a change in the external forcing of the
+→climate system, such as a change in the concentration of →
+carbon dioxide (CO2) in the atmosphere or in the output of the
+Sun. Usually radiative forcing is computed after allowing for
+stratospheric temperatures to readjust to radiative equilibrium,
+but with all tropospheric properties held fixed at their unperturbed
+values. Radiative forcing is called instantaneous if no
+change in stratospheric temperature is accounted for. See also:
+→Global warming potential.
+Radiative Forcing Scenario
+A plausible representation of the future development of →radiative
+forcing associated, for example, with →anthropogenic
+changes in atmospheric composition or in land-use, or with
+natural factors such as variations in →solar activity. Radiative
+forcing scenarios can be used as input into simplified climate
+models to compute climate projections.
+Radical
+A molecular entity possessing an unpaired electron.
+Reclamation
+Reprocessing and upgrading of a recovered controlled substance
+through mechanisms such as filtering, drying, distillation
+and chemical treatment in order to restore the substance to
+a specified standard of performance. Chemical analysis is required
+to determine that appropriate product specifications are
+met. It often involves processing off-site at a central facility.
+Recovery
+The collection and storage of controlled substances from machinery,
+equipment, containment vessels, etc., during servicing
+or prior to disposal without necessarily testing or processing it
+in any way.
+Recycling
+Reuse of a recovered controlled substance following a basic
+cleaning process such as filtering and drying. For →refrigerants,
+recycling normally involves recharge back into equipment
+and it often occurs ‘on-site’.
+Refrigerant (Refrigeration)
+A heat transfer agent, usually a liquid, used in equipment such
+as refrigerators, freezers and air conditioners.
+Relief Valve (Refrigeration)
+A device that vents refrigerant when the pressure in a →chiller
+becomes dangerously high. Newer relief valves have a resealing
+mechanism so that when the pressure of the chiller returns to a
+normal level they reseal and prevent further refrigerant loss.
+Research, Development and Demonstration
+Scientific or technical research and development of new pro-
+458 IPCC/TEAP Special Report: Safeguarding the Ozone Layer and the Global Climate System
+duction processes or products, coupled with analysis and measures
+that provide information to potential users regarding the
+application of the new products or processes, such demonstration
+tests and studies of the feasibility of pilot plants and other
+pre-commercial applications.
+Response Time (Climate System)
+The response time or adjustment time is the time needed for
+the →climate system or its components to re-equilibrate to a
+new state, following a forcing resulting from external or internal
+processes. Different components of the climate system can
+have very different response times. The response time of the →
+troposphere is relatively short, from days to weeks, whereas the
+response time of the →stratosphere is typically a few months.
+The oceans have much longer response times, of decades to
+millennia, because of their large heat capacity. The response
+time of the strongly coupled surface-troposphere system is
+mainly determined by the oceans, and is therefore slow compared
+with that of the stratosphere. The biosphere can respond
+quickly, for example to droughts, but it can also respond very
+slowly to other imposed changes.
+See: →Lifetime, for the definition of response time in relation
+to atmospheric concentrations.
+Retrofit
+The upgrading or adjustment of equipment so that it can be used
+under altered conditions; for example, of refrigeration equipment
+to be able to use a non-ozone depleting refrigerant in place
+of a →chlorofluorocarbon (CFC).
+Saturated Vapour Pressure
+The maximum vapour pressure of a substance at a given temperature
+when accumulated over its liquid or solid state in a
+confined space.
+Scenario (Generic)
+A plausible and often simplified description of how the future
+may develop, based on a coherent and internally consistent
+set of driving forces and key relationships. Scenarios may be
+derived from →projections, but are often based on additional
+information from other sources, sometimes combined with a
+‘narrative storyline’. See also: →SRES scenarios, →climate
+scenario and →emission scenarios.
+Semi-Aqueous Cleaning
+Cleaning with a non-water-based cleaner, followed by a water
+rinse.
+Servicing (Refrigeration)
+In the refrigeration sector, all kinds of work that may be performed
+by a service technician, from installation, operations,
+inspection, repair, retrofitting, redesign and decommissioning
+of refrigeration systems to handling, storage, recovery and recycling
+of refrigerants, as well as record-keeping.
+Shortwave Radiation
+See: →Solar radiation.
+Smog
+The buildup of high levels of pollution, generally in association
+with urban areas. Photochemical smog occurs in the →troposphere
+where sunlight causes chemical reactions in polluted air,
+one effect of which is the generation of →ozone.
+Solar Radiation
+Radiation emitted by the Sun, most of which is shortwave radiation
+at wavelengths less than about 1 μm and is determined
+by the temperature of the Sun. See also: →Ultraviolet radiation;
+compare with: →thermal infrared radiation.
+Solvent
+Any product (aqueous or organic) designed to clean a component
+or assembly by dissolving the contaminants present on its
+surface.
+Specific Costs (of Abatement Options)
+The difference in costs of an abatement option as compared
+with a reference case, expressed in relevant specific units. In
+this Report the specific costs of →greenhouse gas emission reduction
+options are generally expressed in US$ per tonne of
+avoided →CO2-equivalents (US$/tCO2-eq).
+SRES Scenarios
+→Emission scenarios developed by the IPCC Special Report
+on Emission Scenarios (2000).
+Stratosphere
+The highly stratified region of the →atmosphere above the →
+troposphere. It extends from an altitude of about 8 km in high
+latitudes and 16 km in the tropics to an altitude of about 50
+km. This region is characterized by increasing temperature with
+altitude.
+Stratospheric Polar Vortex
+See: →Polar vortex
+Surfactant
+A product designed to reduce the surface tension of water. Also
+referred to as a tension-active agent/tenside. Detergents are
+made up principally from surfactants.
+Technology and Economic Assessment Panel (TEAP)
+A standing subsidiary body of the Parties to the →Montreal
+Protocol, which was established in 1988 under Article 6 of the
+Montreal Protocol and is coordinated by the →United Nations
+Environment Programme (UNEP) Ozone Secretariat. It comprises
+hundreds of experts from around the world. TEAP is responsible
+for conducting assessments and for reporting to the
+Parties on (a) the state of art of production and use technology,
+options to →phase-out the use of →ozone-depleting substances
+(ODSs), recycling, reuse and destruction techniques; and (b)
+Annex II: Glossary 459
+the economic effects of ozone layer modification and the economic
+aspects of technology.
+Thermal Infrared Radiation
+Radiation emitted by the Earth’s surface, the →atmosphere and
+the clouds, with wavelengths longer than the wavelength of the
+red colour in the visible part of the spectrum. It is also known
+as terrestrial or longwave radiation. The spectrum of infrared
+radiation is distinct from that of →solar or shortwave radiation
+because of the large difference in temperature between the surface
+of the Sun and the Earth.
+Thermoplastic
+A material that can repeatedly become plastic on heating and
+harden on cooling. Compare with: →Thermosetting.
+Thermosetting
+A material that sets permanently on heating. Compare with: →
+Thermoplastic.
+Threshold Limit Values (TLVs)
+Exposure safety guidelines established by the American
+Conference of Governmental and Industrial Hygienists
+(ACGIH) based on an inhalation →time-weighted average.
+TLVs ‘represent conditions under which it is believed that nearly
+all workers can be repeatedly exposed day after day without
+adverse effects.’ For volatile substances, such as →refrigerants,
+TLVs are expressed as parts per million volume concentrations
+in air (ppm).
+Time-Weighted Average (TWA)
+A technique used to measure the average exposure of workers
+to a chemical over a given period of time.
+Top-Down Models
+A modelling approach that evaluates a system from aggregate
+variables. An example of a top-down model is that of applied
+macroeconomic theory and econometric techniques applied to
+historical data on consumption, prices, incomes and factor costs
+to model final demand for goods and services, and supply from
+main sectors, like the energy sector, transportation, agriculture
+and industry. Compare with: →Bottom-up models.
+Total Equivalent Warming Impact (TEWI)
+A measure of the overall global-warming impact of equipment
+based on the total related →emissions of →greenhouse gases
+during the operation of the equipment and the disposal of the
+operating fluids at the end-of-life. TEWI takes into account
+both direct fugitive emissions, and indirect emissions produced
+through the energy consumed in operating the equipment. TEWI
+is measured in units of mass of →CO2 equivalent. See also: →
+Life cycle climate performance (LCCP).
+Transitional Substance (Montreal Protocol)
+Under the →Montreal Protocol, a chemical whose use is permitted
+as a replacement for →ozone-depleting substances (ODSs),
+but only temporarily because the substance’s →ozone depletion
+potential (ODP) is non-zero.
+Tropopause
+The boundary between the →troposphere and the →stratosphere.
+Troposphere
+The lowest part of the →atmosphere above the Earth’s surface,
+where clouds and ‘weather’ phenomena occur. The thickness
+of the troposphere is on average 9 km in high latitudes, 10 km
+in mid-latitudes, and 16 km in the tropics. Temperatures in the
+troposphere generally decrease with height.
+Ultraviolet Radiation (UV)
+Radiation from the Sun with wavelengths between visible light
+and X-rays. UV-B (280–320 nm), one of three bands of UV
+radiation, is harmful to life on the Earth’s surface and is mostly
+absorbed by the →ozone layer.
+United Nations Environment Programme (UNEP)
+Established in 1972, UNEP is the specialized agency of the
+United Nations for environmental protection.
+United Nations Framework Convention on Climate
+Change (UNFCCC)
+An international convention whose ultimate objective is the
+‘stabilization of →greenhouse-gas concentrations in the atmosphere
+at a level that would prevent dangerous →anthropogenic
+interface with the →climate system’. The Convention was
+adopted on 9 May 1992 in New York and signed at the 1992
+Earth Summit in Rio de Janeiro by more than 150 countries and
+the European Community. It contains commitments for all →
+Parties and entered into force in March 1994. See also: →Kyoto
+Protocol.
+Venting (Refrigeration)
+A service practice where the →refrigerant vapour is allowed
+to escape into the →atmosphere after the refrigerant liquid has
+been recovered.
+Volatile Organic Compounds (VOCs)
+Organic compounds that evaporate at their temperature of use.
+Many VOCs contribute to the formation of →tropospheric →
+ozone and →smog.
+Voluntary Agreement
+An agreement between a government authority and one or
+more private parties, as well as a unilateral commitment that
+is recognized by the public authority, to achieve environmental
+objectives or to improve environmental performance beyond
+compliance.
+Voluntary Measures
+Measures to reduce →greenhouse-gas emissions that are adopted
+by firms or other actors in the absence of government man-
+460 IPCC/TEAP Special Report: Safeguarding the Ozone Layer and the Global Climate System
+dates. Voluntary measures help make climate-friendly products
+or processes more readily available or encourage consumers to
+incorporate environmental values in their market choices.
+Well-Mixed Greenhouse Gases
+→Greenhouse gases with lifetimes that are long compared with
+the mixing time between the two hemispheres (about 1 year),
+so that their mixing ratios do not have large gradients except,
+possibly, close to source regions.
+World Meteorological Organization (WMO)
+Established in 1950, WMO is the specialized agency of the
+United Nations for meteorology (weather and climate), operational
+hydrology and related geophysical sciences.
+Zeotrope (Refrigeration)
+A blend consisting of several →refrigerants of different volatilities
+that appreciably changes in composition or temperature
+as it evaporates (boils) or condenses (liquefies) at a given pressure.
+A refrigerant blend assigned an R-400 series number designation
+in ANSI/ASHRAE 34 is a zeotrope. Compare with: →
+Azeotrope

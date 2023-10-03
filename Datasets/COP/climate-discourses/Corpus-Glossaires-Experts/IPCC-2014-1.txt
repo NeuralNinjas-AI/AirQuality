@@ -1,0 +1,2401 @@
+Annexes
+
+
+I
+ANNEX
+
+
+Glossary
+This glossary defines some specific terms as the Lead Authors
+intend them to be interpreted in the context of this report. Glossary
+entries (highlighted in bold) are by preference subjects; a
+main entry can contain subentries, in bold and italic, for example,
+Primary Energy is defined under the entry Energy. Blue, italicized
+words indicate that the term is defined in the Glossary. The
+glossary is followed by a list of acronyms and chemical symbols.
+Please refer to Annex II for standard units, prefixes, and unit conversion
+(Section A.II.1) and for regions and country groupings
+(Section A.II.2).
+Abrupt climate change: A large-scale change in the climate system
+that takes place over a few decades or less, persists (or is anticipated
+to persist) for at least a few decades, and causes substantial disruptions
+in human and natural systems. See also Climate threshold.
+Adaptability: See Adaptive capacity.
+Adaptation: The process of adjustment to actual or expected climate
+and its effects. In human systems, adaptation seeks to moderate or
+avoid harm or exploit beneficial opportunities. In some natural systems,
+human intervention may facilitate adjustment to expected climate
+and its effects.1
+Adaptation Fund: A Fund established under the Kyoto Protocol in
+and officially launched in 2007. The Fund finances adaptation
+projects and programmes in developing countries that are Parties to
+the Kyoto Protocol. Financing comes mainly from sales of Certified
+Emissions Reductions (CERs) and a share of proceeds amounting to
+% of the value of CERs issued each year for Clean Development
+Mechanism (CDM) projects. The Adaptation Fund can also receive
+funds from government, private sector, and individuals.
+Adaptive capacity: The ability of systems, institutions, humans, and
+other organisms to adjust to potential damage, to take advantage of
+opportunities, or to respond to consequences.2
+Additionality: Mitigation projects (e. g., under the Kyoto Mechanisms),
+mitigation policies, or climate finance are additional if they go
+beyond a business-as-usual level, or baseline. Additionality is required
+to guarantee the environmental integrity of project-based offset mechanisms,
+but difficult to establish in practice due to the counterfactual
+nature of the baseline.
+Reflecting progress in science, this glossary entry differs in breadth and focus from
+the entry used in the Fourth Assessment Report and other IPCC reports.
+This glossary entry builds from definitions used in previous IPCC reports and the
+Millennium Ecosystem Assessment (MEA, 2005).
+Adverse side-effects: The negative effects that a policy or measure
+aimed at one objective might have on other objectives, without yet
+evaluating the net effect on overall social welfare. Adverse side-effects
+are often subject to uncertainty and depend on, among others, local
+circumstances and implementation practices. See also Co-benefits,
+Risk, and Risk tradeoff.
+Aerosol: A suspension of airborne solid or liquid particles, with a
+typical size between a few nanometres and 10 μm that reside in the
+atmosphere for at least several hours. For convenience the term aerosol,
+which includes both the particles and the suspending gas, is often
+used in this report in its plural form to mean aerosol particles. Aerosols
+may be of either natural or anthropogenic origin. Aerosols may influence
+climate in several ways: directly through scattering and absorbing
+radiation, and indirectly by acting as cloud condensation nuclei or ice
+nuclei, modifying the optical properties and lifetime of clouds. Atmospheric
+aerosols, whether natural or anthropogenic, originate from two
+different pathways: emissions of primary particulate matter (PM), and
+formation of secondary PM from gaseous precursors. The bulk of aerosols
+are of natural origin. Some scientists use group labels that refer
+to the chemical composition, namely: sea salt, organic carbon, black
+carbon (BC), mineral species (mainly desert dust), sulphate, nitrate, and
+ammonium. These labels are, however, imperfect as aerosols combine
+particles to create complex mixtures. See also Short-lived climate pollutants
+(SLCPs).
+Afforestation: Planting of new forests on lands that historically have
+not contained forests. Afforestation projects are eligible under a number
+of schemes including, among others, Joint Implementation (JI) and
+the Clean Development Mechanism (CDM) under the Kyoto Protocol
+for which particular criteria apply (e. g., proof must be given that the
+land was not forested for at least 50 years or converted to alternative
+uses before 31 December 1989).
+For a discussion of the term forest and related terms such as afforestation,
+reforestation and deforestation, see the IPCC Special Report on
+Land Use, Land-Use Change and Forestry (IPCC, 2000). See also the
+report on Definitions and Methodological Options to Inventory Emissions
+from Direct Human-induced Degradation of Forests and Devegetation
+of Other Vegetation Types (IPCC, 2003).
+Agreement: In this report, the degree of agreement is the level of concurrence
+in the literature on a particular finding as assessed by the
+authors. See also Evidence, Confidence, Likelihood, and Uncertainty.
+Agricultural emissions: See Emissions.
+Agriculture, Forestry and Other Land Use (AFOLU): Agriculture,
+Forestry and Other Land Use plays a central role for food security and
+sustainable development (SD). The main mitigation options within
+AFOLU involve one or more of three strategies: prevention of emissions
+to the atmosphere by conserving existing carbon pools in soils
+or vegetation or by reducing emissions of methane (CH4) and nitrous
+
+
+oxide (N2O); sequestration — increasing the size of existing carbon
+pools, and thereby extracting carbon dioxide (CO2) from the atmosphere;
+and substitution — substituting biological products for fossil
+fuels or energy-intensive products, thereby reducing CO2 emissions.
+Demand-side measures (e. g., by reducing losses and wastes of food,
+changes in human diet, or changes in wood consumption) may also
+play a role. FOLU (Forestry and Other Land Use) — also referred to as
+LULUCF (Land use, land-use change, and forestry) — is the subset of
+AFOLU emissions and removals of greenhouse gases (GHGs) resulting
+from direct human-induced land use, land-use change and forestry
+activities excluding agricultural emissions.
+Albedo: The fraction of solar radiation reflected by a surface or object,
+often expressed as a percentage. Snow-covered surfaces have a high
+albedo, the albedo of soils ranges from high to low, and vegetationcovered
+surfaces and oceans have a low albedo. The earth’s planetary
+albedo varies mainly through varying cloudiness, snow, ice, leaf area
+and land cover changes.
+Alliance of Small Island States (AOSIS): The Alliance of Small Island
+States (AOSIS) is a coalition of small islands and low-lying coastal
+countries with a membership of 44 states and observers that share
+and are active in global debates and negotiations on the environment,
+especially those related to their vulnerability to the adverse effects of
+climate change. Established in 1990, AOSIS acts as an ad-hoc lobby and
+negotiating voice for small island development states (SIDS) within the
+United Nations including the United Nations Framework Convention
+on Climate Change (UNFCCC) climate change negotiations.
+Ancillary benefits: See Co-benefits.
+Annex I Parties / countries: The group of countries listed in Annex
+I to the United Nations Framework Convention on Climate Change
+(UNFCCC). Under Articles 4.2 (a) and 4.2 (b) of the UNFCCC, Annex
+I Parties were committed to adopting national policies and measures
+with the non-legally binding aim to return their greenhouse gas (GHG)
+emissions to 1990 levels by 2000. The group is largely similar to the
+Annex B Parties to the Kyoto Protocol that also adopted emissions
+reduction targets for 2008 – 2012. By default, the other countries are
+referred to as Non-Annex I Parties.
+Annex II Parties / countries: The group of countries listed in Annex
+II to the United Nations Framework Convention on Climate Change
+(UNFCCC). Under Article 4 of the UNFCCC, these countries have a special
+obligation to provide financial resources to meet the agreed full
+incremental costs of implementing measures mentioned under Article
+, paragraph 1. They are also obliged to provide financial resources,
+including for the transfer of technology, to meet the agreed incremental
+costs of implementing measures covered by Article 12, paragraph
+and agreed between developing country Parties and international
+entities referred to in Article 11 of the UNFCCC. This group of countries
+shall also assist countries that are particularly vulnerable to the
+adverse effects of climate change.
+Annex B Parties / countries: The subset of Annex I Parties that have
+accepted greenhouse gas (GHG) emission reduction targets for the
+period 2008 – 2012 under Article 3 of the Kyoto Protocol. By default,
+the other countries are referred to as Non-Annex I Parties.
+Anthropogenic emissions: See Emissions.
+Assigned Amount (AA): Under the Kyoto Protocol, the AA is the
+quantity of greenhouse gas (GHG) emissions that an Annex B country
+has agreed to as its cap on its emissions in the first five-year commitment
+period (2008 – 2012). The AA is the country’s total GHG emissions
+in 1990 multiplied by five (for the five-year commitment period) and by
+the percentage it agreed to as listed in Annex B of the Kyoto Protocol
+(e. g., 92 % for the EU). See also Assigned Amount Unit (AAU).
+Assigned Amount Unit (AAU): An AAU equals 1 tonne (metric ton) of
+CO2-equivalent emissions calculated using the Global Warming Potential
+(GWP). See also Assigned Amount (AA).
+Atmosphere: The gaseous envelope surrounding the earth, divided
+into five layers — the troposphere which contains half of the earth’s
+atmosphere, the stratosphere, the mesosphere, the thermosphere,
+and the exosphere, which is the outer limit of the atmosphere. The
+dry atmosphere consists almost entirely of nitrogen (78.1 % volume
+mixing ratio) and oxygen (20.9 % volume mixing ratio), together
+with a number of trace gases, such as argon (0.93 % volume mixing
+ratio), helium and radiatively active greenhouse gases (GHGs) such
+as carbon dioxide (CO2) (0.035 % volume mixing ratio) and ozone
+(O3). In addition, the atmosphere contains the GHG water vapour
+(H2O), whose amounts are highly variable but typically around 1 %
+volume mixing ratio. The atmosphere also contains clouds and aerosols.
+Backstop technology: Models estimating mitigation often use an
+arbitrary carbon-free technology (often for power generation) that
+might become available in the future in unlimited supply over the horizon
+of the model. This allows modellers to explore the consequences
+and importance of a generic solution technology without becoming
+enmeshed in picking the actual technology. This ‘backstop’ technology
+might be a nuclear technology, fossil technology with Carbon Dioxide
+Capture and Storage (CCS), solar energy, or something as yet unimagined.
+The backstop technology is typically assumed either not to currently
+exist, or to exist only at higher costs relative to conventional
+alternatives.
+Banking (of Assigned Amount Units) : Any transfer of Assigned
+Amount Units (AAUs) from an existing period into a future commitment
+period. According to the Kyoto Protocol [Article 3 (13)], Parties
+included in Annex I to the United Nations Framework Convention on
+Climate Change (UNFCCC) may save excess AAUs from the first commitment
+period for compliance with their respective cap in subsequent
+commitment periods (post-2012).
+
+
+Baseline / reference: The state against which change is measured.
+In the context of transformation pathways, the term ‘baseline scenarios’
+refers to scenarios that are based on the assumption that no
+mitigation policies or measures will be implemented beyond those that
+are already in force and / or are legislated or planned to be adopted.
+Baseline scenarios are not intended to be predictions of the future,
+but rather counterfactual constructions that can serve to highlight
+the level of emissions that would occur without further policy effort.
+Typically, baseline scenarios are then compared to mitigation scenarios
+that are constructed to meet different goals for greenhouse gas
+(GHG) emissions, atmospheric concentrations, or temperature change.
+The term ‘baseline scenario’ is used interchangeably with ‘reference
+scenario’ and ‘no policy scenario’. In much of the literature the term
+is also synonymous with the term ‘business-as-usual (BAU) scenario,’
+although the term ‘BAU’ has fallen out of favour because the idea of
+‘business-as-usual’ in century-long socioeconomic projections is hard
+to fathom. See also Climate scenario, Emission scenario, Representative
+concentration pathways (RCPs), Shared socio-economic pathways,
+Socio-economic scenarios, SRES scenarios, and Stabilization.
+Behaviour: In this report, behaviour refers to human decisions and
+actions (and the perceptions and judgments on which they are based)
+that directly or indirectly influence mitigation or the effects of potential
+climate change impacts (adaptation). Human decisions and actions
+are relevant at different levels, from international, national, and subnational
+actors, to NGO, tribe, or firm-level decision makers, to communities,
+households, and individual citizens and consumers. See also
+Behavioural change and Drivers of behaviour.
+Behavioural change: In this report, behavioural change refers to
+alteration of human decisions and actions in ways that mitigate climate
+change and / or reduce negative consequences of climate change
+impacts. See also Drivers of behaviour.
+Biochar: Biomass stabilization can be an alternative or enhancement
+to bioenergy in a land-based mitigation strategy. Heating biomass
+with exclusion of air produces a stable carbon-rich co-product (char).
+When added to soil a system, char creates a system that has greater
+abatement potential than typical bioenergy. The relative benefit of biochar
+systems is increased if changes in crop yield and soil emissions of
+methane (CH4) and nitrous oxide (N2O) are taken into account.
+Biochemical oxygen demand (BOD): The amount of dissolved oxygen
+consumed by micro-organisms (bacteria) in the bio-chemical oxidation
+of organic and inorganic matter in wastewater. See also Chemical
+oxygen demand (COD).
+Biodiversity: The variability among living organisms from terrestrial,
+marine, and other ecosystems. Biodiversity includes variability at the
+genetic, species, and ecosystem levels.3
+This glossary entry builds from definitions used in the Global Biodiversity Assessment
+(Heywood, 1995) and the Millennium Ecosystem Assessment (MEA, 2005).
+Bioenergy: Energy derived from any form of biomass such as recently
+living organisms or their metabolic by-products.
+Bioenergy and Carbon Dioxide Capture and Storage (BECCS):
+The application of Carbon Dioxide Capture and Storage (CCS) technology
+to bioenergy conversion processes. Depending on the total lifecycle
+emissions, including total marginal consequential effects (from
+indirect land use change (iLUC) and other processes), BECCS has the
+potential for net carbon dioxide (CO2) removal from the atmosphere.
+See also Sequestration.
+Bioethanol: Ethanol produced from biomass (e. g., sugar cane or
+corn). See also Biofuel.
+Biofuel: A fuel, generally in liquid form, produced from organic matter
+or combustible oils produced by living or recently living plants.
+Examples of biofuel include alcohol (bioethanol), black liquor from the
+paper-manufacturing process, and soybean oil.
+First-generation manufactured biofuel: First-generation manufactured
+biofuel is derived from grains, oilseeds, animal fats, and
+waste vegetable oils with mature conversion technologies.
+Second-generation biofuel: Second-generation biofuel uses
+non-traditional biochemical and thermochemical conversion processes
+and feedstock mostly derived from the lignocellulosic fractions
+of, for example, agricultural and forestry residues, municipal
+solid waste, etc.
+Third-generation biofuel: Third-generation biofuel would
+be derived from feedstocks such as algae and energy crops by
+advanced processes still under development.
+These second- and third-generation biofuels produced through new
+processes are also referred to as next-generation or advanced biofuels,
+or advanced biofuel technologies.
+Biomass: The total mass of living organisms in a given area or volume;
+dead plant material can be included as dead biomass. In the context of
+this report, biomass includes products, by-products, and waste of biological
+origin (plants or animal matter), excluding material embedded
+in geological formations and transformed to fossil fuels or peat.
+Traditional biomass: Traditional biomass refers to the biomass
+— fuelwood, charcoal, agricultural residues, and animal
+dung — used with the so-called traditional technologies such as
+open fires for cooking, rustic kilns and ovens for small industries.
+Widely used in developing countries, where about 2.6 billion people
+cook with open wood fires, and hundreds of thousands smallindustries.
+The use of these rustic technologies leads to high pollution
+levels and, in specific circumstances, to forest degradation
+and deforestation. There are many successful initiatives around
+the world to make traditional biomass burned more efficiently
+
+
+and cleanly using efficient cookstoves and kilns. This last use of
+traditional biomass is sustainable and provides large health and
+economic benefits to local populations in developing countries,
+particularly in rural and peri-urban areas.
+Modern biomass: All biomass used in high efficiency conversion
+systems.
+Biomass burning: Biomass burning is the burning of living and dead
+vegetation.
+Biosphere (terrestrial and marine): The part of the earth system
+comprising all ecosystems and living organisms, in the atmosphere, on
+land (terrestrial biosphere) or in the oceans (marine biosphere), including
+derived dead organic matter, such as litter, soil organic matter and
+oceanic detritus.
+Black carbon (BC): Operationally defined aerosol species based on
+measurement of light absorption and chemical reactivity and / or thermal
+stability. It is sometimes referred to as soot. BC is mostly formed
+by the incomplete combustion of fossil fuels, biofuels, and biomass
+but it also occurs naturally. It stays in the atmosphere only for days or
+weeks. It is the most strongly light-absorbing component of particulate
+matter (PM) and has a warming effect by absorbing heat into the
+atmosphere and reducing the albedo when deposited on ice or snow.
+Burden sharing (also referred to as Effort sharing): In the context
+of mitigation, burden sharing refers to sharing the effort of reducing
+the sources or enhancing the sinks of greenhouse gases (GHGs) from
+historical or projected levels, usually allocated by some criteria, as well
+as sharing the cost burden across countries.
+Business-as-usual (BAU): See Baseline / reference.
+Cancún Agreements: A set of decisions adopted at the 16th Session
+of the Conference of the Parties (COP) to the United Nations Framework
+Convention on Climate Change (UNFCCC), including the following,
+among others: the newly established Green Climate Fund (GCF),
+a newly established technology mechanism, a process for advancing
+discussions on adaptation, a formal process for reporting mitigation
+commitments, a goal of limiting global mean surface temperature
+increase to 2 °C, and an agreement on MRV — Measuring, Reporting
+and Verifying for those countries that receive international support for
+their mitigation efforts.
+Cancún Pledges: During 2010, many countries submitted their existing
+plans for controlling greenhouse gas (GHG) emissions to the Climate
+Change Secretariat and these proposals have now been formally
+acknowledged under the United Nations Framework Convention on
+Climate Change (UNFCCC). Developed countries presented their plans
+in the shape of economy-wide targets to reduce emissions, mainly
+up to 2020, while developing countries proposed ways to limit their
+growth of emissions in the shape of plans of action.
+Cap, on emissions: Mandated restraint as an upper limit on emissions
+within a given period. For example, the Kyoto Protocol mandates
+emissions caps in a scheduled timeframe on the anthropogenic greenhouse
+gas (GHG) emissions released by Annex B countries.
+Carbon budget: The area under a greenhouse gas (GHG) emissions
+trajectory that satisfies assumptions about limits on cumulative emissions
+estimated to avoid a certain level of global mean surface temperature
+rise. Carbon budgets may be defined at the global level, national,
+or sub-national levels.
+Carbon credit: See Emission allowance.
+Carbon cycle: The term used to describe the flow of carbon (in various
+forms, e. g., as carbon dioxide) through the atmosphere, ocean, terrestrial
+and marine biosphere and lithosphere. In this report, the reference
+unit for the global carbon cycle is GtC or GtCO2 (1 GtC corresponds
+to 3.667 GtCO2). Carbon is the major chemical constituent of most
+organic matter and is stored in the following major reservoirs: organic
+molecules in the biosphere, carbon dioxide (CO2) in the atmosphere,
+organic matter in the soils, in the lithosphere, and in the oceans.
+Carbon dioxide (CO2): A naturally occurring gas, also a by-product
+of burning fossil fuels from fossil carbon deposits, such as oil, gas and
+coal, of burning biomass, of land use changes (LUC) and of industrial
+processes (e. g., cement production). It is the principal anthropogenic
+greenhouse gas (GHG) that affects the earth’s radiative balance. It is
+the reference gas against which other GHGs are measured and therefore
+has a Global Warming Potential (GWP) of 1. See Annex II.9.1 for
+GWP values for other GHGs.
+Carbon Dioxide Capture and Storage (CCS): A process in which
+a relatively pure stream of carbon dioxide (CO2) from industrial and
+energy-related sources is separated (captured), conditioned, compressed,
+and transported to a storage location for long-term isolation
+from the atmosphere. See also Bioenergy and carbon capture and storage
+(BECCS), CCS-ready, and Sequestration.
+Carbon dioxide fertilization: The enhancement of the growth of
+plants as a result of increased atmospheric carbon dioxide (CO2) concentration.
+Carbon Dioxide Removal (CDR): Carbon Dioxide Removal methods
+refer to a set of techniques that aim to remove carbon dioxide (CO2)
+directly from the atmosphere by either (1) increasing natural sinks for
+carbon or (2) using chemical engineering to remove the CO2, with the
+intent of reducing the atmospheric CO2 concentration. CDR methods
+involve the ocean, land, and technical systems, including such methods
+as iron fertilization, large-scale afforestation, and direct capture
+of CO2 from the atmosphere using engineered chemical means. Some
+CDR methods fall under the category of geoengineering, though this
+may not be the case for others, with the distinction being based on
+the magnitude, scale, and impact of the particular CDR activities. The
+
+
+boundary between CDR and mitigation is not clear and there could be
+some overlap between the two given current definitions (IPCC, 2012,
+p. 2). See also Solar Radiation Management (SRM).
+Carbon footprint: Measure of the exclusive total amount of emissions
+of carbon dioxide (CO2) that is directly and indirectly caused by
+an activity or is accumulated over the life stages of a product (Wiedmann
+and Minx, 2008).
+Carbon intensity: The amount of emissions of carbon dioxide (CO2)
+released per unit of another variable such as gross domestic product
+(GDP), output energy use, or transport.
+Carbon leakage: See Leakage.
+Carbon pool: See Reservoir.
+Carbon price: The price for avoided or released carbon dioxide (CO2)
+or CO2-equivalent emissions. This may refer to the rate of a carbon
+tax, or the price of emission permits. In many models that are used to
+assess the economic costs of mitigation, carbon prices are used as a
+proxy to represent the level of effort in mitigation policies.
+Carbon sequestration: See Sequestration.
+Carbon tax: A levy on the carbon content of fossil fuels. Because virtually
+all of the carbon in fossil fuels is ultimately emitted as carbon
+dioxide (CO2), a carbon tax is equivalent to an emission tax on CO2
+emissions.
+CCS-ready: New large-scale, stationary carbon dioxide (CO2) point
+sources intended to be retrofitted with Carbon Dioxide Capture and
+Storage (CCS) could be designed and located to be ‘CCS-ready’ by
+reserving space for the capture installation, designing the unit for optimal
+performance when capture is added, and siting the plant to enable
+access to storage locations. See also Bioenergy and Carbon Dioxide
+Capture and Storage (BECCS).
+Certified Emission Reduction Unit (CER): Equal to one metric
+tonne of CO2-equivalent emissions reduced or of carbon dioxide (CO2)
+removed from the atmosphere through the Clean Development Mechanism
+(CDM) (defined in Article 12 of the Kyoto Protocol) project, calculated
+using Global Warming Potentials (GWP). See also Emissions
+Reduction Units (ERU) and Emissions trading.
+Chemical oxygen demand (COD): The quantity of oxygen required
+for the complete oxidation of organic chemical compounds in water;
+used as a measure of the level of organic pollutants in natural and
+waste waters. See also Biochemical oxygen demand (BOD).
+Chlorofluorocarbons (CFCs): A chlorofluorocarbon is an organic
+compound that contains chlorine, carbon, hydrogen, and fluorine and
+is used for refrigeration, air conditioning, packaging, plastic foam,
+insulation, solvents, or aerosol propellants. Because they are not
+destroyed in the lower atmosphere, CFCs drift into the upper atmosphere
+where, given suitable conditions, they break down ozone (O3).
+It is one of the greenhouse gases (GHGs) covered under the 1987
+Montreal Protocol as a result of which manufacturing of these gases
+has been phased out and they are being replaced by other compounds,
+including hydrofluorocarbons (HFCs) which are GHGs covered under
+the Kyoto Protocol.
+Clean Development Mechanism (CDM): A mechanism defined
+under Article 12 of the Kyoto Protocol through which investors (governments
+or companies) from developed (Annex B) countries may
+finance greenhouse gas (GHG) emission reduction or removal projects
+in developing (Non-Annex B) countries, and receive Certified Emission
+Reduction Units (CERs) for doing so. The CERs can be credited towards
+the commitments of the respective developed countries. The CDM is
+intended to facilitate the two objectives of promoting sustainable
+development (SD) in developing countries and of helping industrialized
+countries to reach their emissions commitments in a cost-effective
+way. See also Kyoto Mechanisms.
+Climate: Climate in a narrow sense is usually defined as the average
+weather, or more rigorously, as the statistical description in terms of
+the mean and variability of relevant quantities over a period of time
+ranging from months to thousands or millions of years. The classical
+period for averaging these variables is 30 years, as defined by the
+World Meteorological Organization. The relevant quantities are most
+often surface variables such as temperature, precipitation and wind.
+Climate in a wider sense is the state, including a statistical description,
+of the climate system.
+Climate change: Climate change refers to a change in the state of
+the climate that can be identified (e. g., by using statistical tests) by
+changes in the mean and / or the variability of its properties, and that
+persists for an extended period, typically decades or longer. Climate
+change may be due to natural internal processes or external forcings
+such as modulations of the solar cycles, volcanic eruptions and persistent
+anthropogenic changes in the composition of the atmosphere or
+in land use. Note that the United Nations Framework Convention on
+Climate Change (UNFCCC), in its Article 1, defines climate change as:
+‘a change of climate which is attributed directly or indirectly to human
+activity that alters the composition of the global atmosphere and which
+is in addition to natural climate variability observed over comparable
+time periods’. The UNFCCC thus makes a distinction between climate
+change attributable to human activities altering the atmospheric composition,
+and climate variability attributable to natural causes. See also
+Climate change commitment.
+Climate change commitment: Due to the thermal inertia of the
+ocean and slow processes in the cryosphere and land surfaces, the climate
+would continue to change even if the atmospheric composition
+were held fixed at today’s values. Past change in atmospheric composition
+leads to a committed climate change, which continues for
+
+
+as long as a radiative imbalance persists and until all components of
+the climate system have adjusted to a new state. The further change
+in temperature after the composition of the atmosphere is held constant
+is referred to as the constant composition temperature commitment
+or simply committed warming or warming commitment. Climate
+change commitment includes other future changes, for example in
+the hydrological cycle, in extreme weather events, in extreme climate
+events, and in sea level change. The constant emission commitment is
+the committed climate change that would result from keeping anthropogenic
+emissions constant and the zero emission commitment is the
+climate change commitment when emissions are set to zero. See also
+Climate change.
+Climate (change) feedback: An interaction in which a perturbation
+in one climate quantity causes a change in a second, and the change
+in the second quantity ultimately leads to an additional change in
+the first. A negative feedback is one in which the initial perturbation
+is weakened by the changes it causes; a positive feedback is one in
+which the initial perturbation is enhanced. In this Assessment Report, a
+somewhat narrower definition is often used in which the climate quantity
+that is perturbed is the global mean surface temperature, which in
+turn causes changes in the global radiation budget. In either case, the
+initial perturbation can either be externally forced or arise as part of
+internal variability.
+Climate engineering: See Geoengineering.
+Climate finance: There is no agreed definition of climate finance.
+The term ‘climate finance’ is applied both to the financial resources
+devoted to addressing climate change globally and to financial flows
+to developing countries to assist them in addressing climate change.
+The literature includes several concepts in these categories, among
+which the most commonly used include:
+Incremental costs: The cost of capital of the incremental investment
+and the change of operating and maintenance costs for a
+mitigation or adaptation project in comparison to a reference project.
+It can be calculated as the difference of the net present values
+of the two projects. See also Additionality.
+Incremental investment: The extra capital required for the initial
+investment for a mitigation or adaptation project in comparison to
+a reference project. See also Additionality.
+Total climate finance: All financial flows whose expected effect is
+to reduce net greenhouse gas (GHG) emissions and / or to enhance
+resilience to the impacts of climate variability and the projected
+climate change. This covers private and public funds, domestic and
+international flows, expenditures for mitigation and adaptation to
+current climate variability as well as future climate change.
+Total climate finance flowing to developing countries:The
+amount of the total climate finance invested in developing countries
+that comes from developed countries. This covers private and
+public funds.
+Private climate finance flowing to developing countries:
+Finance and investment by private actors in / from developed countries
+for mitigation and adaptation activities in developing countries.
+Public climate finance flowing to developing countries:
+Finance provided by developed countries’ governments and bilateral
+institutions as well as by multilateral institutions for mitigation
+and adaptation activities in developing countries. Most of the
+funds provided are concessional loans and grants.
+Climate model (spectrum or hierarchy): A numerical representation
+of the climate system based on the physical, chemical and biological
+properties of its components, their interactions and feedback processes,
+and accounting for some of its known properties. The climate
+system can be represented by models of varying complexity, that is,
+for any one component or combination of components a spectrum or
+hierarchy of models can be identified, differing in such aspects as the
+number of spatial dimensions, the extent to which physical, chemical
+or biological processes are explicitly represented, or the level at which
+empirical parametrizations are involved. Coupled Atmosphere-Ocean
+General Circulation Models (AOGCMs) provide a representation of the
+climate system that is near or at the most comprehensive end of the
+spectrum currently available. There is an evolution towards more complex
+models with interactive chemistry and biology. Climate models
+are applied as a research tool to study and simulate the climate, and
+for operational purposes, including monthly, seasonal and interannual
+climate predictions.
+Climate prediction: A climate prediction or climate forecast is the
+result of an attempt to produce (starting from a particular state of the
+climate system) an estimate of the actual evolution of the climate in
+the future, for example, at seasonal, interannual, or decadal time scales.
+Because the future evolution of the climate system may be highly sensitive
+to initial conditions, such predictions are usually probabilistic in
+nature. See also Climate projection, and Climate scenario.
+Climate projection: A climate projection is the simulated response of
+the climate system to a scenario of future emission or concentration of
+greenhouse gases (GHGs) and aerosols, generally derived using climate
+models. Climate projections are distinguished from climate predictions
+by their dependence on the emission / concentration / radiative forcing
+scenario used, which is in turn based on assumptions concerning, for
+example, future socioeconomic and technological developments that
+may or may not be realized. See also Climate scenario.
+Climate scenario: A plausible and often simplified representation
+of the future climate, based on an internally consistent set of climatological
+relationships that has been constructed for explicit use in
+investigating the potential consequences of anthropogenic climate
+
+
+change, often serving as input to impact models. Climate projections
+often serve as the raw material for constructing climate scenarios,
+but climate scenarios usually require additional information such as
+the observed current climate. See also Baseline / reference, Emission
+scenario, Mitigation scenario, Representative concentration pathways
+(RCPs), Scenario, Shared socio-economic pathways, Socio-economic
+scenario, SRES scenarios, Stabilization, and Transformation pathway.
+Climate sensitivity: In IPCC reports, equilibrium climate sensitivity
+(units: °C) refers to the equilibrium (steady state) change in the annual
+global mean surface temperature following a doubling of the atmospheric
+CO2-equivalent concentration. Owing to computational constraints,
+the equilibrium climate sensitivity in a climate model is sometimes
+estimated by running an atmospheric general circulation model
+(GCM) coupled to a mixed-layer ocean model, because equilibrium
+climate sensitivity is largely determined by atmospheric processes.
+Efficient models can be run to equilibrium with a dynamic ocean. The
+climate sensitivity parameter (units: °C (W m – 2) – 1) refers to the equilibrium
+change in the annual global mean surface temperature following
+a unit change in radiative forcing.
+The effective climate sensitivity (units: °C) is an estimate of the global
+mean surface temperature response to doubled carbon dioxide (CO2)
+concentration that is evaluated from model output or observations for
+evolving non-equilibrium conditions. It is a measure of the strengths of
+the climate feedbacks at a particular time and may vary with forcing
+history and climate state, and therefore may differ from equilibrium
+climate sensitivity.
+The transient climate response (units: °C) is the change in the global
+mean surface temperature, averaged over a 20-year period, centred at
+the time of atmospheric CO2 doubling, in a climate model simulation
+in which CO2 increases at 1 % yr – 1. It is a measure of the strength and
+rapidity of the surface temperature response to greenhouse gas (GHG)
+forcing.
+Climate system: The climate system is the highly complex system
+consisting of five major components: the atmosphere, the hydrosphere,
+the cryosphere, the lithosphere and the biosphere, and the interactions
+between them. The climate system evolves in time under the influence
+of its own internal dynamics and because of external forcings such as
+volcanic eruptions, solar variations and anthropogenic forcings such
+as the changing composition of the atmosphere and land use change
+(LUC).
+Climate threshold: A limit within the climate system that, when
+crossed, induces a non-linear response to a given forcing. See also
+Abrupt climate change.
+Climate variability: Climate variability refers to variations in the
+mean state and other statistics (such as standard deviations, the occurrence
+of extremes, etc.) of the climate on all spatial and temporal
+scales beyond that of individual weather events. Variability may be due
+to natural internal processes within the climate system (internal variability),
+or to variations in natural or anthropogenic external forcing
+(external variability). See also Climate change.
+CO2-equivalent concentration: The concentration of carbon dioxide
+(CO2) that would cause the same radiative forcing as a given mixture
+of CO2 and other forcing components. Those values may consider only
+greenhouse gases (GHGs), or a combination of GHGs, aerosols, and
+surface albedo changes. CO2-equivalent concentration is a metric for
+comparing radiative forcing of a mix of different forcing components
+at a particular time but does not imply equivalence of the corresponding
+climate change responses nor future forcing. There is generally
+no connection between CO2-equivalent emissions and resulting CO2-
+equivalent concentrations.
+CO2-equivalent emission: The amount of carbon dioxide (CO2) emission
+that would cause the same integrated radiative forcing, over a
+given time horizon, as an emitted amount of a greenhouse gas (GHG)
+or a mixture of GHGs. The CO2-equivalent emission is obtained by multiplying
+the emission of a GHG by its Global Warming Potential (GWP)
+for the given time horizon (see Annex II.9.1 and WGI AR5 Table 8.A.1
+for GWP values of the different GHGs). For a mix of GHGs it is obtained
+by summing the CO2-equivalent emissions of each gas. CO2-equivalent
+emission is a common scale for comparing emissions of different GHGs
+but does not imply equivalence of the corresponding climate change
+responses. See also CO2-equivalent concentration.
+Co-benefits: The positive effects that a policy or measure aimed at
+one objective might have on other objectives, without yet evaluating
+the net effect on overall social welfare. Co-benefits are often subject
+to uncertainty and depend on, among others, local circumstances and
+implementation practices. Co-benefits are often referred to as ancillary
+benefits. See also Adverse side-effect, Risk, and Risk tradeoff.
+Cogeneration: Cogeneration (also referred to as combined heat and
+power, or CHP) is the simultaneous generation and useful application
+of electricity and useful heat.
+Combined-cycle gas turbine: A power plant that combines two processes
+for generating electricity. First, fuel combustion drives a gas turbine.
+Second, exhaust gases from the turbine are used to heat water to
+drive a steam turbine.
+Combined heat and power (CHP): See Cogeneration.
+Computable General Equilibrium (CGE) Model: See Models.
+Conference of the Parties (COP): The supreme body of the United
+Nations Framework Convention on Climate Change (UNFCCC), comprising
+countries with a right to vote that have ratified or acceded to
+the convention. See also Meeting of the Parties (CMP).
+
+
+Confidence: The validity of a finding based on the type, amount,
+quality, and consistency of evidence (e. g., mechanistic understanding,
+theory, data, models, expert judgment) and on the degree of agreement.
+In this report, confidence is expressed qualitatively (Mastrandrea
+et al., 2010). See WGI AR5 Figure 1.11 for the levels of confidence
+and WGI AR5 Table 1.2 for the list of likelihood qualifiers. See also
+Uncertainty.
+Consumption-based accounting: Consumption-based accounting
+provides a measure of emissions released to the atmosphere in order
+to generate the goods and services consumed by a certain entity (e. g.,
+person, firm, country, or region). See also Production-based accounting.
+Contingent valuation method: An approach to quantitatively
+assess values assigned by people in monetary (willingness to pay)
+and non-monetary (willingness to contribute with time, resources
+etc.) terms. It is a direct method to estimate economic values for
+ecosystem and environmental services. In a survey, people are asked
+their willingness to pay / contribute for access to, or their willingness
+to accept compensation for removal of, a specific environmental service,
+based on a hypothetical scenario and description of the environmental
+service.
+Conventional fuels: See Fossil fuels.
+Copenhagen Accord: The political (as opposed to legal) agreement
+that emerged at the 15th Session of the Conference of the Parties
+(COP) at which delegates ‘agreed to take note’ due to a lack of consensus
+that an agreement would require. Some of the key elements
+include: recognition of the importance of the scientific view on the
+need to limit the increase in global mean surface temperature to 2°
+C; commitment by Annex I Parties to implement economy-wide emissions
+targets by 2020 and non-Annex I Parties to implement mitigation
+actions; agreement to have emission targets of Annex I Parties
+and their delivery of finance for developing countries subject to Measurement,
+Reporting and Verification (MRV) and actions by developing
+countries to be subject to domestic MRV; calls for scaled up financing
+including a fast track financing of USD 30 billion and USD 100 billion
+by 2020; the establishment of a new Green Climate Fund (GCF); and
+the establishment of a new technology mechanism. Some of these elements
+were later adopted in the Cancún Agreements.
+Cost-benefit analysis (CBA): Monetary measurement of all negative
+and positive impacts associated with a given action. Costs and benefits
+are compared in terms of their difference and / or ratio as an indicator
+of how a given investment or other policy effort pays off seen from the
+society’s point of view.
+Cost of conserved energy (CCE): See Levelized cost of conserved
+energy (LCCE).
+Cost-effectiveness: A policy is more cost-effective if it achieves a
+goal, such as a given pollution abatement level, at lower cost. A critical
+condition for cost-effectiveness is that marginal abatement costs
+be equal among obliged parties. Integrated models approximate costeffective
+solutions, unless they are specifically constrained to behave
+otherwise. Cost-effective mitigation scenarios are those based on a
+stylized implementation approach in which a single price on carbon
+dioxide (CO2) and other greenhouse gases (GHGs) is applied across the
+globe in every sector of every country and that rises over time in a way
+that achieves lowest global discounted costs.
+Cost-effectiveness analysis (CEA): A tool based on constrained
+optimization for comparing policies designed to meet a prespecified
+target.
+Crediting period, Clean Development Mechanism (CDM): The
+time during which a project activity is able to generate Certified Emission
+Reduction Units (CERs). Under certain conditions, the crediting
+period can be renewed up to two times.
+Cropland management: The system of practices on land on which
+agricultural crops are grown and on land that is set aside or temporarily
+not being used for crop production (UNFCCC, 2002).
+Decarbonization: The process by which countries or other entities
+aim to achieve a low-carbon economy, or by which individuals aim to
+reduce their carbon consumption.
+Decomposition approach: Decomposition methods disaggregate the
+total amount of historical changes of a policy variable into contributions
+made by its various determinants.
+Deforestation: Conversion of forest to non-forest is one of the major
+sources of greenhouse gas (GHG) emissions. Under Article 3.3 of the
+Kyoto Protocol, “the net changes in greenhouse gas emissions by
+sources and removals by sinks resulting from direct human-induced
+land-use change and forestry activities, limited to afforestation,
+reforestation and deforestation since 1990, measured as verifiable
+changes in carbon stocks in each commitment period, shall be sued
+to meet the commitments under this Article of each Party included in
+Annex I”. Reducing emissions from deforestation is not eligible for
+Joint Implementation (JI) or Clean Development Mechanism (CDM)
+projects but has been introduced in the program of work under REDD
+(Reducing Emissions from Deforestation and Forest Degradation)
+under the United Nations Framework Convention on Climate Change
+(UNFCCC).
+For a discussion of the term forest and related terms such as afforestation,
+reforestation, and deforestation see the IPCC Special Report on
+Land Use, Land-Use Change and Forestry (IPCC, 2000). See also the
+report on Definitions and Methodological Options to Inventory Emissions
+from Direct Human-induced Degradation of Forests and Devegetation
+of Other Vegetation Types (IPCC, 2003).
+
+
+Dematerialization: The ambition to reduce the total material inputs
+required to deliver a final service.
+Descriptive analysis: Descriptive (also termed positive) approaches to
+analysis focus on how the world works or actors behave, not how they
+should behave in some idealized world. See also Normative analysis.
+Desertification: Land degradation in arid, semi-arid, and dry subhumid
+areas resulting from various factors, including climatic variations
+and human activities. Land degradation in arid, semi-arid, and
+dry sub-humid areas is a reduction or loss of the biological or economic
+productivity and complexity of rainfed cropland, irrigated cropland,
+or range, pasture, forest, and woodlands resulting from land uses
+or from a process or combination of processes, including processes
+arising from human activities and habitation patterns, such as (1) soil
+erosion caused by wind and / or water; (2) deterioration of the physical,
+chemical, biological, or economic properties of soil; and (3) long-term
+loss of natural vegetation (UNCCD, 1994).
+Designated national authority (DNA): A designated national
+authority is a national institution that authorizes and approves Clean
+Development Mechansim (CDM) projects in that country. In CDM host
+countries, the DNA assesses whether proposed projects assist the host
+country in achieving its sustainable development (SD) goals, certification
+of which is a prerequisite for registration of the project by the
+CDM Executive Board.
+Developed / developing countries: See Industrialized / developing
+countries.
+Development pathway: An evolution based on an array of technological,
+economic, social, institutional, cultural, and biophysical characteristics
+that determine the interactions between human and natural
+systems, including consumption and production patterns in all countries,
+over time at a particular scale.
+Direct Air Capture (DAC): Chemical process by which a pure carbon
+dioxide (CO2) stream is produced by capturing CO2 from the ambient
+air.
+Direct emissions: See Emissions.
+Discounting: A mathematical operation making monetary (or other)
+amounts received or expended at different times (years) comparable
+across time. The discounter uses a fixed or possibly time-varying discount
+rate (> 0) from year to year that makes future value worth less
+today. See also Present value.
+Double dividend: The extent to which revenue-generating instruments,
+such as carbon taxes or auctioned (tradable) emission permits
+can (1) contribute to mitigation and (2) offset at least part of the
+potential welfare losses of climate policies through recycling the revenue
+in the economy to reduce other taxes likely to cause distortions.
+Drivers of behaviour: Determinants of human decisions and actions,
+including peoples’ values and goals and the factors that constrain
+action, including economic factors and incentives, information access,
+regulatory and technological constraints, cognitive and emotional
+processing capacity, and social norms. See also Behaviour and Behavioural
+change.
+Drivers of emissions: Drivers of emissions refer to the processes,
+mechanisms and properties that influence emissions through factors.
+Factors comprise the terms in a decomposition of emissions. Factors
+and drivers may in return affect policies, measures and other drivers.
+Economic efficiency: Economic efficiency refers to an economy’s allocation
+of resources (goods, services, inputs, productive activities). An
+allocation is efficient if it is not possible to reallocate resources so as
+to make at least one person better off without making someone else
+worse off. An allocation is inefficient if such a reallocation is possible.
+This is also known as the Pareto Criterion for efficiency. See also Pareto
+optimum.
+Economies in Transition (EITs): Countries with their economies
+changing from a planned economic system to a market economy. See
+Annex II.2.1.
+Ecosystem: A functional unit consisting of living organisms, their nonliving
+environment, and the interactions within and between them. The
+components included in a given ecosystem and its spatial boundaries
+depend on the purpose for which the ecosystem is defined: in some
+cases they are relatively sharp, while in others they are diffuse. Ecosystem
+boundaries can change over time. Ecosystems are nested within
+other ecosystems, and their scale can range from very small to the
+entire biosphere. In the current era, most ecosystems either contain
+people as key organisms, or are influenced by the effects of human
+activities in their environment.
+Ecosystem services: Ecological processes or functions having monetary
+or non-monetary value to individuals or society at large. These
+are frequently classified as (1) supporting services such as productivity
+or biodiversity maintenance, (2) provisioning services such as food,
+fiber, or fish, (3) regulating services such as climate regulation or carbon
+sequestration, and (4) cultural services such as tourism or spiritual
+and aesthetic appreciation.
+Embodied emissions: See Emissions.
+Embodied energy: See Energy.
+Emission allowance: See Emission permit.
+Emission factor / Emissions intensity: The emissions released per
+unit of activity. See also Carbon intensity.
+
+
+Emission permit: An entitlement allocated by a government to a
+legal entity (company or other emitter) to emit a specified amount of a
+substance. Emission permits are often used as part of emissions trading
+schemes.
+Emission quota: The portion of total allowable emissions assigned to
+a country or group of countries within a framework of maximum total
+emissions.
+Emission scenario: A plausible representation of the future development
+of emissions of substances that are potentially radiatively
+active (e. g., greenhouse gases, aerosols) based on a coherent and
+internally consistent set of assumptions about driving forces (such
+as demographic and socioeconomic development, technological
+change, energy and land use) and their key relationships. Concentration
+scenarios, derived from emission scenarios, are used as input to
+a climate model to compute climate projections. In IPCC (1992) a set
+of emission scenarios was presented which were used as a basis for
+the climate projections in IPCC (1996). These emission scenarios are
+referred to as the IS92 scenarios. In the IPCC Special Report on Emission
+Scenarios (Nakićenović and Swart, 2000) emission scenarios,
+the so-called SRES scenarios, were published, some of which were
+used, among others, as a basis for the climate projections presented
+in Chapters 9 to 11 of IPCC (2001) and Chapters 10 and 11 of IPCC
+(2007). New emission scenarios for climate change, the four Representative
+Concentration Pathways (RCPs), were developed for, but
+independently of, the present IPCC assessment. See also Baseline / reference,
+Climate scenario, Mitigation scenario, Shared socio-economic
+pathways, Scenario, Socio-economic scenario, Stabilization, and
+Transformation pathway.
+Emission trajectories: A projected development in time of the emission
+of a greenhouse gas (GHG) or group of GHGs, aerosols, and GHG
+precursors.
+Emissions:
+Agricultural emissions: Emissions associated with agricultural
+systems — predominantly methane (CH4) or nitrous oxide (N2O).
+These include emissions from enteric fermentation in domestic
+livestock, manure management, rice cultivation, prescribed burning
+of savannas and grassland, and from soils (IPCC, 2006).
+Anthropogenic emissions: Emissions of greenhouse gases
+(GHGs), aerosols, and precursors of a GHG or aerosol caused by
+human activities. These activities include the burning of fossil fuels,
+deforestation, land use changes (LUC), livestock production, fertilization,
+waste management, and industrial processes.
+Direct emissions: Emissions that physically arise from activities
+within well-defined boundaries of, for instance, a region, an economic
+sector, a company, or a process.
+Embodied emissions: Emissions that arise from the production
+and delivery of a good or service or the build-up of infrastructure.
+Depending on the chosen system boundaries, upstream emissions
+are often included (e. g., emissions resulting from the extraction of
+raw materials). See also Lifecycle assessment (LCA).
+Indirect emissions: Emissions that are a consequence of the
+activities within well-defined boundaries of, for instance, a region,
+an economic sector, a company or process, but which occur outside
+the specified boundaries. For example, emissions are described as
+indirect if they relate to the use of heat but physically arise outside
+the boundaries of the heat user, or to electricity production
+but physically arise outside of the boundaries of the power supply
+sector.
+Scope 1, Scope 2, and Scope 3 emissions: Emissions responsibility
+as defined by the GHG Protocol, a private sector initiative.
+‘Scope 1’ indicates direct greenhouse gas (GHG) emissions that are
+from sources owned or controlled by the reporting entity. ‘Scope
+’ indicates indirect GHG emissions associated with the production
+of electricity, heat, or steam purchased by the reporting entity.
+‘Scope 3’ indicates all other indirect emissions, i. e., emissions associated
+with the extraction and production of purchased materials,
+fuels, and services, including transport in vehicles not owned or
+controlled by the reporting entity, outsourced activities, waste disposal,
+etc. (WBCSD and WRI, 2004).
+Territorial emissions: Emissions that take place within the territories
+of a particular jurisdiction.
+Emissions Reduction Unit (ERU): Equal to one metric tonne of CO2-
+equivalent emissions reduced or of carbon dioxide (CO2) removed from
+the atmosphere through a Joint Implementation (JI) (defined in Article
+of the Kyoto Protocol) project, calculated using Global Warming
+Potentials (GWPs). See also Certified Emission Reduction Unit (CER)
+and Emissions trading.
+Emission standard: An emission level that, by law or by voluntary
+agreement, may not be exceeded. Many standards use emission factors
+in their prescription and therefore do not impose absolute limits
+on the emissions.
+Emissions trading: A market-based instrument used to limit emissions.
+The environmental objective or sum of total allowed emissions is
+expressed as an emissions cap. The cap is divided in tradable emission
+permits that are allocated — either by auctioning or handing out for
+free (grandfathering) — to entities within the jurisdiction of the trading
+scheme. Entities need to surrender emission permits equal to the
+amount of their emissions (e. g., tonnes of carbon dioxide). An entity
+may sell excess permits. Trading schemes may occur at the intra-company,
+domestic, or international level and may apply to carbon dioxide
+(CO2), other greenhouse gases (GHGs), or other substances. Emissions
+
+
+trading is also one of the mechanisms under the Kyoto Protocol. See
+also Kyoto Mechanisms.
+Energy: The power of ‘doing work’ possessed at any instant by a
+body or system of bodies. Energy is classified in a variety of types and
+becomes available to human ends when it flows from one place to
+another or is converted from one type into another.
+Embodied energy: The energy used to produce a material substance
+or product (such as processed metals or building materials),
+taking into account energy used at the manufacturing facility,
+energy used in producing the materials that are used in the manufacturing
+facility, and so on.
+Final energy: See Primary energy.
+Primary energy: Primary energy (also referred to as energy
+sources) is the energy stored in natural resources (e. g., coal, crude
+oil, natural gas, uranium, and renewable sources). It is defined in
+several alternative ways. The International Energy Agency (IEA)
+utilizes the physical energy content method, which defines primary
+energy as energy that has not undergone any anthropogenic
+conversion. The method used in this report is the direct equivalent
+method (see Annex II.4), which counts one unit of secondary
+energy provided from non-combustible sources as one unit of primary
+energy, but treats combustion energy as the energy potential
+contained in fuels prior to treatment or combustion. Primary
+energy is transformed into secondary energy by cleaning (natural
+gas), refining (crude oil to oil products) or by conversion into electricity
+or heat. When the secondary energy is delivered at the enduse
+facilities it is called final energy (e. g., electricity at the wall
+outlet), where it becomes usable energy in supplying energy services
+(e. g., light).
+Renewable energy (RE): Any form of energy from solar, geophysical,
+or biological sources that is replenished by natural processes
+at a rate that equals or exceeds its rate of use. For a more detailed
+description see Bioenergy, Solar energy, Hydropower, Ocean, Geothermal,
+and Wind energy.
+Secondary energy: See Primary energy.
+Energy access: Access to clean, reliable and affordable energy services
+for cooking and heating, lighting, communications, and productive
+uses (AGECC, 2010).
+Energy carrier: A substance for delivering mechanical work or transfer
+of heat. Examples of energy carriers include: solid, liquid, or gaseous
+fuels (e. g., biomass, coal, oil, natural gas, hydrogen); pressurized
+/ heated / cooled fluids (air, water, steam); and electric current.
+Energy density: The ratio of stored energy to the volume or mass of
+a fuel or battery.
+Energy efficiency (EE): The ratio of useful energy output of a system,
+conversion process, or activity to its energy input. In economics, the
+term may describe the ratio of economic output to energy input. See
+also Energy intensity.
+Energy intensity: The ratio of energy use to economic or physical output.
+Energy poverty: A lack of access to modern energy services. See also
+Energy access.
+Energy security: The goal of a given country, or the global community
+as a whole, to maintain an adequate, stable, and predictable energy
+supply. Measures encompass safeguarding the sufficiency of energy
+resources to meet national energy demand at competitive and stable
+prices and the resilience of the energy supply; enabling development
+and deployment of technologies; building sufficient infrastructure to
+generate, store and transmit energy supplies; and ensuring enforceable
+contracts of delivery.
+Energy services: An energy service is the benefit received as a result
+of energy use.
+Energy system: The energy system comprises all components related
+to the production, conversion, delivery, and use of energy.
+Environmental effectiveness: A policy is environmentally effective
+to the extent by which it achieves its expected environmental target
+(e. g., greenhouse gas (GHG) emission reduction).
+Environmental input-output analysis: An analytical method used
+to allocate environmental impacts arising in production to categories
+of final consumption, by means of the Leontief inverse of a country’s
+economic input-output tables. See also Annex II.6.2.
+Environmental Kuznets Curve: The hypothesis that various environmental
+impacts first increase and then eventually decrease as income
+per capita increases.
+Evidence: Information indicating the degree to which a belief or proposition
+is true or valid. In this report, the degree of evidence reflects
+the amount, quality, and consistency of scientific / technical information
+on which the Lead Authors are basing their findings. See also Agreement,
+Confidence, Likelihood and Uncertainty.
+Externality / external cost / external benefit: Externalities arise from
+a human activity when agents responsible for the activity do not take
+full account of the activity’s impacts on others’ production and consumption
+possibilities, and no compensation exists for such impacts.
+When the impacts are negative, they are external costs. When the
+impacts are positive, they are external benefits. See also Social costs.
+
+
+Feed-in tariff (FIT): The price per unit of electricity (heat) that a utility
+or power (heat) supplier has to pay for distributed or renewable electricity
+(heat) fed into the power grid (heat supply system) by non-utility
+generators. A public authority regulates the tariff.
+Final energy: See Primary energy.
+Flaring: Open air burning of waste gases and volatile liquids, through
+a chimney, at oil wells or rigs, in refineries or chemical plants, and at
+landfills.
+Flexibility Mechanisms: See Kyoto Mechanisms.
+Food security: A state that prevails when people have secure access
+to sufficient amounts of safe and nutritious food for normal growth,
+development, and an active and healthy life.4
+Forest: A vegetation type dominated by trees. Many definitions of the
+term forest are in use throughout the world, reflecting wide differences
+in biogeophysical conditions, social structure and economics. According
+to the 2005 United Nations Framework Convention on Climate Change
+(UNFCCC) definition a forest is an area of land of at least 0.05 – 1 hectare,
+of which more than 10 – 30 % is covered by tree canopy. Trees must
+have a potential to reach a minimum of 25 meters at maturity in situ.
+Parties to the Convention can choose to define a forest from within
+those ranges. Currently, the definition does not recognize different
+biomes, nor do they distinguish natural forests from plantations, an
+anomaly being pointed out by many as in need of rectification.
+For a discussion of the term forest and related terms such as afforestation,
+reforestation and deforestation see the IPCC Report on Land Use,
+Land-Use Change and Forestry (IPCC, 2000). See also the Report on
+Definitions and Methodological Options to Inventory Emissions from
+Direct Human-induced Degradation of Forests and Devegetation of
+Other Vegetation Types (IPCC, 2003).
+Forest management: A system of practices for stewardship and use
+of forest land aimed at fulfilling relevant ecological (including biological
+diversity), economic and social functions of the forest in a sustainable
+manner (UNFCCC, 2002).
+Forestry and Other Land Use (FOLU): See Agriculture, Forestry and
+Other Land Use (AFOLU).
+Fossil fuels: Carbon-based fuels from fossil hydrocarbon deposits,
+including coal, peat, oil, and natural gas.
+Free Rider: One who benefits from a common good without contributing
+to its creation or preservation.
+This glossary entry builds on definitions used in FAO (2000) and previous IPCC
+reports.
+Fuel cell: A fuel cell generates electricity in a direct and continuous
+way from the controlled electrochemical reaction of hydrogen or
+another fuel and oxygen. With hydrogen as fuel the cell emits only
+water and heat (no carbon dioxide) and the heat can be utilized (see
+also Cogeneration).
+Fuel poverty: A condition in which a household is unable to guarantee
+a certain level of consumption of domestic energy services (especially
+heating) or suffers disproportionate expenditure burdens to meet
+these needs.
+Fuel switching: In general, fuel switching refers to substituting fuel A
+for fuel B. In the context of mitigation it is implicit that fuel A has lower
+carbon content than fuel B, e. g., switching from natural gas to coal.
+General circulation (climate) model (GCM): See Climate model.
+General equilibrium analysis: General equilibrium analysis considers
+simultaneously all the markets and feedback effects among these
+markets in an economy leading to market clearance. (Computable)
+general equilibrium (CGE) models are the operational tools used to
+perform this type of analysis.
+Geoengineering: Geoengineering refers to a broad set of methods
+and technologies that aim to deliberately alter the climate system
+in order to alleviate the impacts of climate change. Most, but not
+all, methods seek to either (1) reduce the amount of absorbed solar
+energy in the climate system (Solar Radiation Management) or (2)
+increase net carbon sinks from the atmosphere at a scale sufficiently
+large to alter climate (Carbon Dioxide Removal). Scale and intent
+are of central importance. Two key characteristics of geoengineering
+methods of particular concern are that they use or affect the climate
+system (e. g., atmosphere, land or ocean) globally or regionally
+and / or could have substantive unintended effects that cross national
+boundaries. Geoengineering is different from weather modification
+and ecological engineering, but the boundary can be fuzzy (IPCC,
+, p. 2).
+Geothermal energy: Accessible thermal energy stored in the earth’s
+interior.
+Global Environment Facility (GEF): The Global Environment Facility,
+established in 1991, helps developing countries fund projects and
+programmes that protect the global environment. GEF grants support
+projects related to biodiversity, climate change, international waters,
+land degradation, the ozone (O3) layer, and persistent organic pollutants.
+Global mean surface temperature: An estimate of the global mean
+surface air temperature. However, for changes over time, only anomalies,
+as departures from a climatology, are used, most commonly based
+on the area-weighted global average of the sea surface temperature
+anomaly and land surface air temperature anomaly.
+
+
+Global warming: Global warming refers to the gradual increase,
+observed or projected, in global surface temperature, as one of the
+consequences of radiative forcing caused by anthropogenic emissions.
+Global Warming Potential (GWP): An index, based on radiative
+properties of greenhouse gases (GHGs), measuring the radiative forcing
+following a pulse emission of a unit mass of a given GHG in the
+present-day atmosphere integrated over a chosen time horizon, relative
+to that of carbon dioxide (CO2). The GWP represents the combined
+effect of the differing times these gases remain in the atmosphere and
+their relative effectiveness in causing radiative forcing. The Kyoto Protocol
+is based on GWPs from pulse emissions over a 100-year time
+frame. Unless stated otherwise, this report uses GWP values calculated
+with a 100-year time horizon which are often derived from the IPCC
+Second Assessment Report (see Annex II.9.1 for the GWP values of the
+different GHGs).
+Governance: A comprehensive and inclusive concept of the full range
+of means for deciding, managing, and implementing policies and measures.
+Whereas government is defined strictly in terms of the nationstate,
+the more inclusive concept of governance recognizes the contributions
+of various levels of government (global, international, regional,
+local) and the contributing roles of the private sector, of nongovernmental
+actors, and of civil society to addressing the many types of
+issues facing the global community.
+Grazing land management: The system of practices on land used for
+livestock production aimed at manipulating the amount and type of
+vegetation and livestock produced (UNFCCC, 2002).
+Green Climate Fund (GCF): The Green Climate Fund was established
+by the 16th Session of the Conference of the Parties (COP) in 2010 as
+an operating entity of the financial mechanism of the United Nations
+Framework Convention on Climate Change (UNFCCC), in accordance
+with Article 11 of the Convention, to support projects, programmes
+and policies and other activities in developing country Parties. The
+Fund is governed by a Board and will receive guidance of the COP. The
+Fund is headquartered in Songdo, Republic of Korea.
+Greenhouse effect: The infrared radiative effect of all infraredabsorbing
+constituents in the atmosphere. Greenhouse gases (GHGs),
+clouds, and (to a small extent) aerosols absorb terrestrial radiation
+emitted by the earth’s surface and elsewhere in the atmosphere. These
+substances emit infrared radiation in all directions, but, everything else
+being equal, the net amount emitted to space is normally less than
+would have been emitted in the absence of these absorbers because
+of the decline of temperature with altitude in the troposphere and the
+consequent weakening of emission. An increase in the concentration
+of GHGs increases the magnitude of this effect; the difference is sometimes
+called the enhanced greenhouse effect. The change in a GHG
+concentration because of anthropogenic emissions contributes to an
+instantaneous radiative forcing. Surface temperature and troposphere
+warm in response to this forcing, gradually restoring the radiative balance
+at the top of the atmosphere.
+Greenhouse gas (GHG): Greenhouse gases are those gaseous constituents
+of the atmosphere, both natural and anthropogenic, that
+absorb and emit radiation at specific wavelengths within the spectrum
+of terrestrial radiation emitted by the earth’s surface, the atmosphere
+itself, and by clouds. This property causes the greenhouse effect. Water
+vapour (H2O), carbon dioxide (CO2), nitrous oxide (N2O), methane
+(CH4) and ozone (O3) are the primary GHGs in the earth’s atmosphere.
+Moreover, there are a number of entirely human-made GHGs in the
+atmosphere, such as the halocarbons and other chlorine- and brominecontaining
+substances, dealt with under the Montreal Protocol. Beside
+CO2, N2O and CH4, the Kyoto Protocol deals with the GHGs sulphur
+hexafluoride (SF6), hydrofluorocarbons (HFCs) and perfluorocarbons
+(PFCs). For a list of well-mixed GHGs, see WGI AR5 Table 2.A.1.
+Gross domestic product (GDP): The sum of gross value added, at
+purchasers’ prices, by all resident and non-resident producers in the
+economy, plus any taxes and minus any subsidies not included in the
+value of the products in a country or a geographic region for a given
+period, normally one year. GDP is calculated without deducting for
+depreciation of fabricated assets or depletion and degradation of natural
+resources.
+Gross national expenditure (GNE): The total amount of public and
+private consumption and capital expenditures of a nation. In general,
+national account is balanced such that gross domestic product (GDP) +
+import = GNE + export.
+Gross national product: The value added from domestic and foreign
+sources claimed by residents. GNP comprises gross domestic product
+(GDP) plus net receipts of primary income from non-resident income.
+Gross world product: An aggregation of the individual country’s
+gross domestic products (GDP) to obtain the world or global GDP.
+Heat island: The relative warmth of a city compared with surrounding
+rural areas, associated with changes in runoff, effects on heat retention,
+and changes in surface albedo.
+Human Development Index (HDI): The Human Development Index
+allows the assessment of countries’ progress regarding social and economic
+development as a composite index of three indicators: (1) health
+measured by life expectancy at birth; (2) knowledge as measured by
+a combination of the adult literacy rate and the combined primary,
+secondary and tertiary school enrolment ratio; and (3) standard of living
+as gross domestic product (GDP) per capita (in purchasing power
+parity). The HDI sets a minimum and a maximum for each dimension,
+called goalposts, and then shows where each country stands in relation
+to these goalposts, expressed as a value between 0 and 1. The
+HDI only acts as a broad proxy for some of the key issues of human
+
+
+development; for instance, it does not reflect issues such as political
+participation or gender inequalities.
+Hybrid vehicle: Any vehicle that employs two sources of propulsion,
+particularly a vehicle that combines an internal combustion engine
+with an electric motor.
+Hydrofluorocarbons (HFCs): One of the six types of greenhouse
+gases (GHGs) or groups of GHGs to be mitigated under the Kyoto Protocol.
+They are produced commercially as a substitute for chlorofluorocarbons
+(CFCs). HFCs largely are used in refrigeration and semiconductor
+manufacturing. See also Global Warming Potential (GWP) and
+Annex II.9.1 for GWP values.
+Hydropower: Power harnessed from the flow of water.
+Incremental costs: See Climate finance.
+Incremental investment: See Climate finance.
+Indigenous peoples: Indigenous peoples and nations are those that,
+having a historical continuity with pre-invasion and pre-colonial societies
+that developed on their territories, consider themselves distinct
+from other sectors of the societies now prevailing on those territories,
+or parts of them. They form at present principally non-dominant sectors
+of society and are often determined to preserve, develop, and transmit
+to future generations their ancestral territories, and their ethnic identity,
+as the basis of their continued existence as peoples, in accordance
+with their own cultural patterns, social institutions, and common law
+system.5
+Indirect emissions: See Emissions.
+Indirect land use change (iLUC): See Land use.
+Industrial Revolution: A period of rapid industrial growth with farreaching
+social and economic consequences, beginning in Britain during
+the second half of the 18th century and spreading to Europe and
+later to other countries including the United States. The invention of
+the steam engine was an important trigger of this development. The
+industrial revolution marks the beginning of a strong increase in the
+use of fossil fuels and emission of, in particular, fossil carbon dioxide.
+In this report the terms pre-industrial and industrial refer, somewhat
+arbitrarily, to the periods before and after 1750, respectively.
+Industrialized countries / developing countries: There are a diversity
+of approaches for categorizing countries on the basis of their level
+of development, and for defining terms such as industrialized, developed,
+or developing. Several categorizations are used in this report. (1)
+This glossary entry builds on the definitions used in Cobo (1987) and previous
+IPCC reports.
+In the United Nations system, there is no established convention for
+designating of developed and developing countries or areas. (2) The
+United Nations Statistics Division specifies developed and developing
+regions based on common practice. In addition, specific countries are
+designated as Least Developed Countries (LCD), landlocked developing
+countries, small island developing states, and transition economies.
+Many countries appear in more than one of these categories. (3) The
+World Bank uses income as the main criterion for classifying countries
+as low, lower middle, upper middle, and high income. (4) The UNDP
+aggregates indicators for life expectancy, educational attainment, and
+income into a single composite Human Development Index (HDI) to
+classify countries as low, medium, high, or very high human development.
+See WGII AR5 Box 1 – 2.
+Input-output analysis: See Environmental input-output analysis.
+Institution: Institutions are rules and norms held in common by social
+actors that guide, constrain and shape human interaction. Institutions
+can be formal, such as laws and policies, or informal, such as
+norms and conventions. Organizations — such as parliaments, regulatory
+agencies, private firms, and community bodies — develop and act
+in response to institutional frameworks and the incentives they frame.
+Institutions can guide, constrain and shape human interaction through
+direct control, through incentives, and through processes of socialization.
+Institutional feasibility: Institutional feasibility has two key parts: (1)
+the extent of administrative workload, both for public authorities and
+for regulated entities, and (2) the extent to which the policy is viewed
+as legitimate, gains acceptance, is adopted, and is implemented.
+Integrated assessment: A method of analysis that combines results
+and models from the physical, biological, economic, and social sciences,
+and the interactions among these components in a consistent framework
+to evaluate the status and the consequences of environmental
+change and the policy responses to it. See also Integrated Models.
+Integrated models: See Models.
+IPAT identity: IPAT is the lettering of a formula put forward to describe
+the impact of human activity on the environment. Impact (I) is viewed
+as the product of population size (P), affluence (A=GDP / person) and
+technology (T= impact per GDP unit). In this conceptualization, population
+growth by definition leads to greater environmental impact if A
+and T are constant, and likewise higher income leads to more impact
+(Ehrlich and Holdren, 1971).
+Iron fertilization: Deliberate introduction of iron to the upper ocean
+intended to enhance biological productivity which can sequester additional
+atmospheric carbon dioxide (CO2) into the oceans. See also Geoengineering
+and Carbon Dioxide Removal (CDR).
+Jevon’s paradox: See Rebound effect.
+
+
+Joint Implementation (JI): A mechanism defined in Article 6 of the
+Kyoto Protocol, through which investors (governments or companies)
+from developed (Annex B) countries may implement projects jointly
+that limit or reduce emissions or enhance sinks, and to share the Emissions
+Reduction Units (ERU). See also Kyoto Mechanisms.
+Kaya identity: In this identity global emissions are equal to the population
+size, multiplied by per capita output (gross world product), multiplied
+by the energy intensity of production, multiplied by the carbon
+intensity of energy.
+Kyoto Mechanisms (also referred to as Flexibility Mechanisms):
+Market-based mechanisms that Parties to the Kyoto Protocol can use in
+an attempt to lessen the potential economic impacts of their commitment
+to limit or reduce greenhouse gas (GHG) emissions. They include
+Joint Implementation (JI) (Article 6), Clean Development Mechanism
+(CDM) (Article 12), and Emissions trading (Article 17).
+Kyoto Protocol: The Kyoto Protocol to the United Nations Framework
+Convention on Climate Change (UNFCCC) was adopted in 1997 in
+Kyoto, Japan, at the Third Session of the Conference of the Parties (COP)
+to the UNFCCC. It contains legally binding commitments, in addition to
+those included in the UNFCCC. Countries included in Annex B of the
+Protocol (most Organisation for Economic Cooperation and Development
+countries and countries with economies in transition) agreed to
+reduce their anthropogenic greenhouse gas (GHG) emissions (carbon
+dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons
+(HFCs), perfluorocarbons (PFCs), and sulphur hexafluoride (SF6)) by at
+least 5 % below 1990 levels in the commitment period 2008 – 2012.
+The Kyoto Protocol entered into force on 16 February 2005.
+Land use (change, direct and indirect): Land use refers to the total
+of arrangements, activities and inputs undertaken in a certain land
+cover type (a set of human actions). The term land use is also used
+in the sense of the social and economic purposes for which land is
+managed (e. g., grazing, timber extraction and conservation). In urban
+settlements it is related to land uses within cities and their hinterlands.
+Urban land use has implications on city management, structure, and
+form and thus on energy demand, greenhouse gas (GHG) emissions,
+and mobility, among other aspects.
+Land use change (LUC): Land use change refers to a change in
+the use or management of land by humans, which may lead to a
+change in land cover. Land cover and LUC may have an impact on
+the surface albedo, evapotranspiration, sources and sinks of GHGs,
+or other properties of the climate system and may thus give rise to
+radiative forcing and / or other impacts on climate, locally or globally.
+See also the IPCC Report on Land Use, Land-Use Change, and
+Forestry (IPCC, 2000).
+Indirect land use change (iLUC): Indirect land use change refers
+to shifts in land use induced by a change in the production level of
+an agricultural product elsewhere, often mediated by markets or
+driven by policies. For example, if agricultural land is diverted to
+fuel production, forest clearance may occur elsewhere to replace
+the former agricultural production. See also Afforestation, Deforestation
+and Reforestation.
+Land use, land use change and forestry (LULUCF): A greenhouse
+gas (GHG) inventory sector that covers emissions and removals of
+GHGs resulting from direct human-induced land use, land use change
+and forestry activities excluding agricultural emissions. See also Agriculture,
+Forestry and Other Land Use (AFOLU).
+Land value capture: A financing mechanism usually based around
+transit systems, or other infrastructure and services, that captures the
+increased value of land due to improved accessibility.
+Leakage: Phenomena whereby the reduction in emissions (relative to
+a baseline) in a jurisdiction / sector associated with the implementation
+of mitigation policy is offset to some degree by an increase outside
+the jurisdiction / sector through induced changes in consumption, production,
+prices, land use and / or trade across the jurisdictions / sectors.
+Leakage can occur at a number of levels, be it a project, state, province,
+nation, or world region. See also Rebound effect.
+In the context of Carbon Dioxide Capture and Storage (CCS), ‘CO2 leakage’
+refers to the escape of injected carbon dioxide (CO2) from the
+storage location and eventual release to the atmosphere. In the context
+of other substances, the term is used more generically, such as
+for ‘methane (CH4) leakage’ (e. g., from fossil fuel extraction activities),
+and ‘hydrofluorocarbon (HFC) leakage’ (e. g., from refrigeration and
+air-conditioning systems).
+Learning curve / rate: Decreasing cost-prices of technologies shown
+as a function of increasing (total or yearly) supplies. The learning rate is
+the percent decrease of the cost-price for every doubling of the cumulative
+supplies (also called progress ratio).
+Least Developed Countries (LDCs): A list of countries designated
+by the Economic and Social Council of the United Nations (ECOSOC)
+as meeting three criteria: (1) a low income criterion below a certain
+threshold of gross national income per capita of between USD 750
+and USD 900, (2) a human resource weakness based on indicators
+of health, education, adult literacy, and (3) an economic vulnerability
+weakness based on indicators on instability of agricultural production,
+instability of export of goods and services, economic importance of
+non-traditional activities, merchandise export concentration, and the
+handicap of economic smallness. Countries in this category are eligible
+for a number of programmes focused on assisting countries most in
+need. These privileges include certain benefits under the articles of the
+United Nations Framework Convention on Climate Change (UNFCCC).
+See also Industrialized / developing countries.
+Levelized cost of conserved carbon (LCCC): See Annex II.3.1.3 for
+concepts and definition.
+
+
+Levelized cost of conserved energy (LCCE): See Annex II.3.1.2 for
+concepts and definition.
+Levelized cost of energy (LCOE): See Annex II.3.1.1 for concepts
+and definition.
+Lifecycle assessment (LCA): A widely used technique defined by ISO
+as a “compilation and evaluation of the inputs, outputs and the
+potential environmental impacts of a product system throughout its
+life cycle”. The results of LCA studies are strongly dependent on the
+system boundaries within which they are conducted. The technique is
+intended for relative comparison of two similar means to complete a
+product. See also Annex II.6.3.
+Likelihood: The chance of a specific outcome occurring, where this
+might be estimated probabilistically. This is expressed in this report
+using a standard terminology (Mastrandrea et al., 2010): virtually certain
+– 100 % probability, very likely 90 – 100 %, likely 66 – 100 %,
+about as likely as not 33 – 66 %, unlikely 0 – 33 %, very unlikely 0 – 10
+%, exceptionally unlikely 0 – 1 %. Additional terms (more likely than
+not > 50 – 100 %, and more unlikely than likely 0 – < 50 %) may also be
+used when appropriate. Assessed likelihood is typeset in italics, e. g.,
+very likely. See also Agreement, Confidence, Evidence and Uncertainty.
+Lock-in: Lock-in occurs when a market is stuck with a standard even
+though participants would be better off with an alternative.
+Marginal abatement cost (MAC): The cost of one unit of additional
+mitigation.
+Market barriers: In the context of climate change mitigation, market
+barriers are conditions that prevent or impede the diffusion of costeffective
+technologies or practices that would mitigate greenhouse gas
+(GHG) emissions.
+Market-based mechanisms, GHG emissions: Regulatory approaches
+using price mechanisms (e. g., taxes and auctioned emission permits),
+among other instruments, to reduce the sources or enhance the sinks
+of greenhouse gases (GHGs).
+Market exchange rate (MER): The rate at which foreign currencies
+are exchanged. Most economies post such rates daily and they vary
+little across all the exchanges. For some developing economies, official
+rates and black-market rates may differ significantly and the MER
+is difficult to pin down. See also Purchasing power parity (PPP) and
+Annex II.1.3 for the monetary conversion process applied throughout
+this report.
+Market failure: When private decisions are based on market prices
+that do not reflect the real scarcity of goods and services but rather
+reflect market distortions, they do not generate an efficient allocation
+of resources but cause welfare losses. A market distortion is any event
+in which a market reaches a market clearing price that is substantially
+different from the price that a market would achieve while operating
+under conditions of perfect competition and state enforcement of legal
+contracts and the ownership of private property. Examples of factors
+causing market prices to deviate from real economic scarcity are environmental
+externalities, public goods, monopoly power, information
+asymmetry, transaction costs, and non-rational behaviour. See also
+Economic efficiency.
+Material flow analysis (MFA): A systematic assessment of the flows
+and stocks of materials within a system defined in space and time
+(Brunner and Rechberger, 2004). See also Annex II.6.1.
+Measures: In climate policy, measures are technologies, processes or
+practices that contribute to mitigation, for example renewable energy
+(RE) technologies, waste minimization processes, public transport commuting
+practices.
+Meeting of the Parties (CMP): The Conference of the Parties (COP)
+to the United Nations Framework Convention on Climate Change
+(UNFCCC) serves as the CMP, the supreme body of the Kyoto Protocol,
+since the latter entered into force on 16 February 2005. Only Parties
+to the Kyoto Protocol may participate in deliberations and make decisions.
+Methane (CH4): One of the six greenhouse gases (GHGs) to be mitigated
+under the Kyoto Protocol and is the major component of natural
+gas and associated with all hydrocarbon fuels. Significant emissions
+occur as a result of animal husbandry and agriculture and their management
+represents a major mitigation option. See also Global Warming
+Potential (GWP) and Annex II.9.1 for GWP values.
+Methane recovery: Any process by which methane (CH4) emissions
+(e. g., from oil or gas wells, coal beds, peat bogs, gas transmission pipelines,
+landfills, or anaerobic digesters) are captured and used as a fuel
+or for some other economic purpose (e. g., chemical feedstock).
+Millennium Development Goals (MDGs): A set of eight time-bound
+and measurable goals for combating poverty, hunger, disease, illiteracy,
+discrimination against women and environmental degradation.
+These goals were agreed to at the UN Millennium Summit in 2000
+together with an action plan to reach the goals.
+Mitigation (of climate change): A human intervention to reduce the
+sources or enhance the sinks of greenhouse gases (GHGs). This report
+also assesses human interventions to reduce the sources of other
+substances which may contribute directly or indirectly to limiting climate
+change, including, for example, the reduction of particulate matter
+(PM) emissions that can directly alter the radiation balance (e. g.,
+black carbon) or measures that control emissions of carbon monoxide,
+nitrogen oxides (NOx), Volatile Organic Compounds (VOCs) and other
+
+
+pollutants that can alter the concentration of tropospheric ozone (O3)
+which has an indirect effect on the climate.
+Mitigation capacity: A country’s ability to reduce anthropogenic
+greenhouse gas (GHG) emissions or to enhance natural sinks, where
+ability refers to skills, competencies, fitness, and proficiencies that a
+country has attained and depends on technology, institutions, wealth,
+equity, infrastructure, and information. Mitigative capacity is rooted in
+a country’s sustainable development (SD) path.
+Mitigation scenario: A plausible description of the future that
+describes how the (studied) system responds to the implementation
+of mitigation policies and measures. See also Baseline / reference,
+Climate scenario, Emission scenario, Representative Concentration
+Pathways (RCPs), Scenario, Shared socio-economic pathways, Socioeconomic
+scenarios, SRES scenarios, Stabilization, and Transformation
+pathways.
+Models: Structured imitations of a system’s attributes and mechanisms
+to mimic appearance or functioning of systems, for example, the
+climate, the economy of a country, or a crop. Mathematical models
+assemble (many) variables and relations (often in a computer code) to
+simulate system functioning and performance for variations in parameters
+and inputs.
+Computable General Equilibrium (CGE) Model: A class of
+economic models that use actual economic data (i. e., input / output
+data), simplify the characterization of economic behaviour,
+and solve the whole system numerically. CGE models specify all
+economic relationships in mathematical terms and predict the
+changes in variables such as prices, output and economic welfare
+resulting from a change in economic policies, given information
+about technologies and consumer preferences (Hertel, 1997). See
+also General equilibrium analysis.
+Integrated Model: Integrated models explore the interactions
+between multiple sectors of the economy or components of particular
+systems, such as the energy system. In the context of transformation
+pathways, they refer to models that, at a minimum,
+include full and disaggregated representations of the energy
+system and its linkage to the overall economy that will allow for
+consideration of interactions among different elements of that
+system. Integrated models may also include representations of the
+full economy, land use and land use change (LUC), and the climate
+system. See also Integrated assessment.
+Sectoral Model: In the context of this report, sectoral models
+address only one of the core sectors that are discussed in this
+report, such as buildings, industry, transport, energy supply, and
+Agriculture, Forestry and Other Land Use (AFOLU).
+Montreal Protocol: The Montreal Protocol on Substances that
+Deplete the Ozone Layer was adopted in Montreal in 1987, and subsequently
+adjusted and amended in London (1990), Copenhagen (1992),
+Vienna (1995), Montreal (1997) and Beijing (1999). It controls the consumption
+and production of chlorine- and bromine- containing chemicals
+that destroy stratospheric ozone (O3), such as chlorofluorocarbons
+(CFCs), methyl chloroform, carbon tetrachloride and many others.
+Multi-criteria analysis (MCA): Integrates different decision parameters
+and values without assigning monetary values to all parameters.
+Multi-criteria analysis can combine quantitative and qualitative information.
+Also referred to as multi-attribute analysis.
+Multi-attribute analysis: See Multi-criteria analysis (MCA).
+Multi-gas: Next to carbon dioxide (CO2), there are other forcing components
+taken into account in, e. g., achieving reduction for a basket of
+greenhouse gas (GHG) emissions (CO2, methane (CH4), nitrous oxide
+(N2O), and fluorinated gases) or stabilization of CO2-equivalent concentrations
+(multi-gas stabilization, including GHGs and aerosols).
+Nationally Appropriate Mitigation Action (NAMA): Nationally
+Appropriate Mitigation Actions are a concept for recognizing and
+financing emission reductions by developing countries in a post-2012
+climate regime achieved through action considered appropriate in a
+given national context. The concept was first introduced in the Bali
+Action Plan in 2007 and is contained in the Cancún Agreements.
+Nitrogen oxides (NOX): Any of several oxides of nitrogen.
+Nitrous oxide (N2O): One of the six greenhouse gases (GHGs) to be
+mitigated under the Kyoto Protocol. The main anthropogenic source
+of N2O is agriculture (soil and animal manure management), but
+important contributions also come from sewage treatment, fossil fuel
+combustion, and chemical industrial processes. N2O is also produced
+naturally from a wide variety of biological sources in soil and water,
+particularly microbial action in wet tropical forests. See also Global
+Warming Potential (GWP) and Annex II.9.1 for GWP values.
+Non-Annex I Parties / countries: Non-Annex I Parties are mostly
+developing countries. Certain groups of developing countries are
+recognized by the Convention as being especially vulnerable to the
+adverse impacts of climate change, including countries with low-lying
+coastal areas and those prone to desertification and drought. Others,
+such as countries that rely heavily on income from fossil fuel production
+and commerce, feel more vulnerable to the potential economic
+impacts of climate change response measures. The Convention emphasizes
+activities that promise to answer the special needs and concerns
+of these vulnerable countries, such as investment, insurance, and technology
+transfer. See also Annex I Parties / countries.
+Normative analysis: Analysis in which judgments about the desirability
+of various policies are made. The conclusions rest on value judgments
+as well as on facts and theories. See also Descriptive analysis.
+
+
+Ocean energy: Energy obtained from the ocean via waves, tidal
+ranges, tidal and ocean currents, and thermal and saline gradients.
+Offset (in climate policy): A unit of CO2-equivalent emissions that is
+reduced, avoided, or sequestered to compensate for emissions occurring
+elsewhere.
+Oil sands and oil shale: Unconsolidated porous sands, sandstone
+rock, and shales containing bituminous material that can be mined
+and converted to a liquid fuel. See also Unconventional fuels.
+Overshoot pathways: Emissions, concentration, or temperature
+pathways in which the metric of interest temporarily exceeds, or ‘overshoots’,
+the long-term goal.
+Ozone (O3): Ozone, the triatomic form of oxygen (O3), is a gaseous
+atmospheric constituent. In the troposphere, it is created both naturally
+and by photochemical reactions involving gases resulting from human
+activities (smog). Tropospheric O3 acts as a greenhouse gas (GHG). In
+the stratosphere, it is created by the interaction between solar ultraviolet
+radiation and molecular oxygen (O2). Stratospheric O3 plays a
+dominant role in the stratospheric radiative balance. Its concentration
+is highest in the O3 layer.
+Paratransit: Denotes flexible passenger transportation, often but not
+only in areas with low population density, that does not follow fixed
+routes or schedules. Options include minibuses (matatus, marshrutka),
+shared taxis and jitneys. Sometimes paratransit is also called community
+transit.
+Pareto optimum: A state in which no one’s welfare can be increased
+without reducing someone else’s welfare. See also Economic efficiency.
+Particulate matter (PM): Very small solid particles emitted during
+the combustion of biomass and fossil fuels. PM may consist of a wide
+variety of substances. Of greatest concern for health are particulates of
+diameter less than or equal to 10 nanometers, usually designated as
+PM10. See also Aerosol.
+Passive design: The word ‘passive’ in this context implies the ideal
+target that the only energy required to use the designed product or
+service comes from renewable sources.
+Path dependence: The generic situation where decisions, events, or
+outcomes at one point in time constrain adaptation, mitigation, or
+other actions or options at a later point in time.
+Payback period: Mostly used in investment appraisal as financial
+payback, which is the time needed to repay the initial investment by
+the returns of a project. A payback gap exists when, for example, private
+investors and micro-financing schemes require higher profitability
+rates from renewable energy (RE) projects than from fossil-fired projects.
+Energy payback is the time an energy project needs to deliver as
+much energy as had been used for setting the project online. Carbon
+payback is the time a renewable energy (RE) project needs to deliver
+as much net greenhouse gas (GHG) savings (with respect to the fossil
+reference energy system) as its realization has caused GHG emissions
+from a perspective of lifecycle assessment (LCA) (including land use
+changes (LUC) and loss of terrestrial carbon stocks).
+Perfluorocarbons (PFCs): One of the six types of greenhouse gases
+(GHGs) or groups of GHGs to be mitigated under the Kyoto Protocol.
+PFCs are by-products of aluminium smelting and uranium enrichment.
+They also replace chlorofluorocarbons (CFCs) in manufacturing semiconductors.
+See also Global Warming Potential (GWP) and Annex II.9.1
+for GWP values.
+Photovoltaic cells (PV): Electronic devices that generate electricity
+from light energy. See also Solar energy.
+Policies (for mitigation of or adaptation to climate change): Policies
+are a course of action taken and / or mandated by a government,
+e. g., to enhance mitigation and adaptation. Examples of policies aimed
+at mitigation are support mechanisms for renewable energy (RE) supplies,
+carbon or energy taxes, fuel efficiency standards for automobiles.
+See also Measures.
+Polluter pays principle (PPP): The party causing the pollution is
+responsible for paying for remediation or for compensating the damage.
+Positive analysis: See Descriptive analysis.
+Potential: The possibility of something happening, or of someone
+doing something in the future. Different metrics are used throughout
+this report for the quantification of different types of potentials, including
+the following:
+Technical potential: Technical potential is the amount by which
+it is possible to pursue a specific objective through an increase in
+deployment of technologies or implementation of processes and
+practices that were not previously used or implemented. Quantification
+of technical potentials may take into account other than
+technical considerations, including social, economic and / or environmental
+considerations.
+Precautionary principle: A provision under Article 3 of the United
+Nations Framework Convention on Climate Change (UNFCCC), stipulating
+that the Parties should take precautionary measures to anticipate,
+prevent, or minimize the causes of climate change and mitigate
+its adverse effects. Where there are threats of serious or irreversible
+damage, lack of full scientific certainty should not be used as a reason
+to postpone such measures, taking into account that policies and measures
+to deal with climate change should be cost-effective in order to
+ensure global benefits at the lowest possible cost.
+
+
+Precursors: Atmospheric compounds that are not greenhouse gases
+(GHGs) or aerosols, but that have an effect on GHG or aerosol concentrations
+by taking part in physical or chemical processes regulating
+their production or destruction rates.
+Pre-industrial: See Industrial Revolution.
+Present value: Amounts of money available at different dates in the
+future are discounted back to a present value, and summed to get the
+present value of a series of future cash flows. See also Discounting.
+Primary production: All forms of production accomplished by plants,
+also called primary producers.
+Primary energy: See Energy.
+Private costs: Private costs are carried by individuals, companies or
+other private entities that undertake an action, whereas social costs
+include additionally the external costs on the environment and on society
+as a whole. Quantitative estimates of both private and social costs
+may be incomplete, because of difficulties in measuring all relevant
+effects.
+Production-based accounting: Production-based accounting provides
+a measure of emissions released to the atmosphere for the production
+of goods and services by a certain entity (e. g., person, firm,
+country, or region). See also Consumption-based accounting.
+Public good: Public goods are non-rivalrous (goods whose consumption
+by one consumer does not prevent simultaneous consumption by
+other consumers) and non-excludable (goods for which it is not possible
+to prevent people who have not paid for it from having access
+to it).
+Purchasing power parity (PPP): The purchasing power of a currency
+is expressed using a basket of goods and services that can be bought
+with a given amount in the home country. International comparison
+of, for example, gross domestic products (GDP) of countries can be
+based on the purchasing power of currencies rather than on current
+exchange rates. PPP estimates tend to lower per capita GDP in industrialized
+countries and raise per capita GDP in developing countries.
+(PPP is also an acronym for polluter pays principle). See also Market
+exchange rate (MER) and Annex II.1.3 for the monetary conversion
+process applied throughout this report.
+Radiation management: See Solar Radiation Management.
+Radiative forcing: Radiative forcing is the change in the net, downward
+minus upward, radiative flux (expressed in W m – 2) at the tropopause
+or top of atmosphere due to a change in an external driver of
+climate change, such as, for example, a change in the concentration of
+carbon dioxide (CO2) or the output of the sun. For the purposes of this
+report, radiative forcing is further defined as the change relative to the
+year 1750 and refers to a global and annual average value.
+Rebound effect: Phenomena whereby the reduction in energy consumption
+or emissions (relative to a baseline) associated with the
+implementation of mitigation measures in a jurisdiction is offset to
+some degree through induced changes in consumption, production,
+and prices within the same jurisdiction. The rebound effect is most typically
+ascribed to technological energy efficiency (EE) improvements.
+See also Leakage.
+Reducing Emissions from Deforestation and Forest Degradation
+(REDD): An effort to create financial value for the carbon stored
+in forests, offering incentives for developing countries to reduce
+emissions from forested lands and invest in low-carbon paths to sustainable
+development (SD). It is therefore a mechanism for mitigation
+that results from avoiding deforestation. REDD+ goes beyond
+reforestation and forest degradation, and includes the role of conservation,
+sustainable management of forests and enhancement of
+forest carbon stocks. The concept was first introduced in 2005 in the
+th Session of the Conference of the Parties (COP) in Montreal and
+later given greater recognition in the 13th Session of the COP in 2007
+at Bali and inclusion in the Bali Action Plan which called for “policy
+approaches and positive incentives on issues relating to reducing
+emissions to deforestation and forest degradation in developing
+countries (REDD) and the role of conservation, sustainable management
+of forests and enhancement of forest carbon stock in developing
+countries”. Since then, support for REDD has increased and has
+slowly become a framework for action supported by a number of
+countries.
+Reference scenario: See Baseline / reference.
+Reforestation: Planting of forests on lands that have previously
+sustained forests but that have been converted to some other use.
+Under the United Nations Framework Convention on Climate Change
+(UNFCCC) and the Kyoto Protocol, reforestation is the direct humaninduced
+conversion of non-forested land to forested land through
+planting, seeding, and / or human-induced promotion of natural seed
+sources, on land that was previously forested but converted to nonforested
+land. For the first commitment period of the Kyoto Protocol,
+reforestation activities will be limited to reforestation occurring on
+those lands that did not contain forest on 31 December 1989.
+For a discussion of the term forest and related terms such as afforestation,
+reforestation and deforestation, see the IPCC Report on Land Use,
+Land-Use Change and Forestry (IPCC, 2000). See also the Report on
+Definitions and Methodological Options to Inventory Emissions from
+Direct Human-induced Degradation of Forests and Devegetation of
+Other Vegetation Types (IPCC, 2003).
+Renewable energy (RE): See Energy.
+
+
+Representative Concentration Pathways (RCPs): Scenarios that
+include time series of emissions and concentrations of the full suite of
+greenhouse gases (GHGs) and aerosols and chemically active gases, as
+well as land use / land cover (Moss et al., 2008). The word representative
+signifies that each RCP provides only one of many possible scenarios
+that would lead to the specific radiative forcing characteristics. The
+term pathway emphasizes that not only the long-term concentration
+levels are of interest, but also the trajectory taken over time to reach
+that outcome (Moss et al., 2010).
+RCPs usually refer to the portion of the concentration pathway extending
+up to 2100, for which Integrated Assessment Models produced
+corresponding emission scenarios. Extended Concentration Pathways
+(ECPs) describe extensions of the RCPs from 2100 to 2500 that were
+calculated using simple rules generated by stakeholder consultations,
+and do not represent fully consistent scenarios.
+Four RCPs produced from Integrated Assessment Models were selected
+from the published literature and are used in the present IPCC Assessment
+as a basis for the climate predictions and projections presented
+in WGI AR5 Chapters 11 to 14:
+RCP2.6 One pathway where radiative forcing peaks at approximately
+W m – 2 before 2100 and then declines (the corresponding
+ECP assuming constant emissions after 2100);
+RCP4.5 and RCP6.0 Two intermediate stabilization pathways in
+which radiative forcing is stabilized at approximately 4.5 W m – 2
+and 6.0 W m – 2 after 2100 (the corresponding ECPs assuming constant
+concentrations after 2150);
+RCP8.5 One high pathway for which radiative forcing reaches
+greater than 8.5 W m – 2 by 2100 and continues to rise for some
+amount of time (the corresponding ECP assuming constant emissions
+after 2100 and constant concentrations after 2250).
+For further description of future scenarios, see WGI AR5 Box 1.1. See
+also Baseline / reference, Climate prediction, Climate projection, Climate
+scenario, Shared socio-economic pathways, Socio-economic scenario,
+SRES scenarios, and Transformation pathway.
+Reservoir: A component of the climate system, other than the atmosphere,
+which has the capacity to store, accumulate or release a substance
+of concern, for example, carbon, a greenhouse gas (GHG) or a
+precursor. Oceans, soils and forests are examples of reservoirs of carbon.
+Pool is an equivalent term (note that the definition of pool often
+includes the atmosphere). The absolute quantity of the substance of
+concern held within a reservoir at a specified time is called the stock.
+In the context of Carbon Dioxide Capture and Storage (CCS), this term
+is sometimes used to refer to a geological carbon dioxide (CO2) storage
+location. See also Sequestration.
+Resilience: The capacity of social, economic, and environmental systems
+to cope with a hazardous event or trend or disturbance, responding
+or reorganizing in ways that maintain their essential function, identity,
+and structure, while also maintaining the capacity for adaptation,
+learning, and transformation (Arctic Council, 2013).
+Revegetation: A direct human-induced activity to increase carbon
+stocks on sites through the establishment of vegetation that covers a
+minimum area of 0.05 hectares and does not meet the definitions of
+afforestation and reforestation contained here (UNFCCC, 2002).
+Risk: In this report, the term risk is often used to refer to the potential,
+when the outcome is uncertain, for adverse consequences on lives,
+livelihoods, health, ecosystems and species, economic, social and cultural
+assets, services (including environmental services), and infrastructure.
+Risk assessment: The qualitative and / or quantitative scientific
+estimation of risks.
+Risk management: The plans, actions, or policies to reduce the
+likelihood and / or consequences of a given risk.
+Risk perception: The subjective judgment that people make
+about the characteristics and severity of a risk.
+Risk tradeoff: The change in the portfolio of risks that occurs
+when a countervailing risk is generated (knowingly or inadvertently)
+by an intervention to reduce the target risk (Wiener and
+Graham, 2009). See also Adverse side-effect, and Co-benefit.
+Risk transfer: The practice of formally or informally shifting the
+risk of financial consequences for particular negative events from
+one party to another.
+Scenario: A plausible description of how the future may develop
+based on a coherent and internally consistent set of assumptions about
+key driving forces (e. g., rate of technological change (TC), prices) and
+relationships. Note that scenarios are neither predictions nor forecasts,
+but are useful to provide a view of the implications of developments
+and actions. See also Baseline / reference, Climate scenario, Emission
+scenario, Mitigation scenario, Representative Concentration Pathways
+(RCPs), Shared socio-economic pathways, Socioeconomic scenarios,
+SRES scenarios, Stabilization, and Transformation pathway.
+Scope 1, Scope 2, and Scope 3 emissions: See Emissions.
+Secondary energy: See Primary energy.
+Sectoral Models: See Models.
+Sensitivity analysis: Sensitivity analysis with respect to quantitative
+analysis assesses how changing assumptions alters the outcomes. For
+
+
+example, one chooses different values for specific parameters and reruns
+a given model to assess the impact of these changes on model
+output.
+Sequestration: The uptake (i. e., the addition of a substance of concern
+to a reservoir) of carbon containing substances, in particular carbon
+dioxide (CO2), in terrestrial or marine reservoirs. Biological sequestration
+includes direct removal of CO2 from the atmosphere through
+land-use change (LUC), afforestation, reforestation, revegetation, carbon
+storage in landfills, and practices that enhance soil carbon in agriculture
+(cropland management, grazing land management). In parts of
+the literature, but not in this report, (carbon) sequestration is used to
+refer to Carbon Dioxide Capture and Storage (CCS).
+Shadow pricing: Setting prices of goods and services that are not, or
+are incompletely, priced by market forces or by administrative regulation,
+at the height of their social marginal value. This technique is used
+in cost-benefit analysis (CBA).
+Shared socio-economic pathways (SSPs): Currently, the idea of
+SSPs is developed as a basis for new emissions and socio-economic
+scenarios. An SSP is one of a collection of pathways that describe
+alternative futures of socio-economic development in the absence of
+climate policy intervention. The combination of SSP-based socio-economic
+scenarios and Representative Concentration Pathway (RCP)-
+based climate projections should provide a useful integrative frame
+for climate impact and policy analysis. See also Baseline / reference, Climate
+scenario, Emission scenario, Mitigation scenario, Scenario, SRES
+scenarios, Stabilization, and Transformation pathway.
+Short-lived climate pollutant (SLCP): Pollutant emissions that have
+a warming influence on climate and have a relatively short lifetime in
+the atmosphere (a few days to a few decades). The main SLCPs are
+black carbon (BC) (‘soot’), methane (CH4) and some hydroflurorcarbons
+(HFCs) some of which are regulated under the Kyoto Protocol.
+Some pollutants of this type, including CH4, are also precursors to the
+formation of tropospheric ozone (O3), a strong warming agent. These
+pollutants are of interest for at least two reasons. First, because they
+are short-lived, efforts to control them will have prompt effects on
+global warming — unlike long-lived pollutants that build up in the
+atmosphere and respond to changes in emissions at a more sluggish
+pace. Second, many of these pollutants also have adverse local impacts
+such as on human health.
+Sink: Any process, activity or mechanism that removes a greenhouse
+gas (GHG), an aerosol, or a precursor of a GHG or aerosol from the
+atmosphere.
+Smart grids: A smart grid uses information and communications technology
+to gather data on the behaviours of suppliers and consumers in
+the production, distribution, and use of electricity. Through automated
+responses or the provision of price signals, this information can then
+be used to improve the efficiency, reliability, economics, and sustainability
+of the electricity network.
+Smart meter: A meter that communicates consumption of electricity
+or gas back to the utility provider.
+Social cost of carbon (SCC): The net present value of climate damages
+(with harmful damages expressed as a positive number) from one
+more tonne of carbon in the form of carbon dioxide (CO2), conditional
+on a global emissions trajectory over time.
+Social costs: See Private costs.
+Socio-economic scenario: A scenario that describes a possible future
+in terms of population, gross domestic product (GDP), and other socioeconomic
+factors relevant to understanding the implications of climate
+change. See also Baseline / reference, Climate scenario, Emission scenario,
+Mitigation scenario, Representative Concentration Pathways
+(RCPs), Scenario, Shared socio-economic pathways, SRES scenarios,
+Stabilization, and Transformation pathway.
+Solar energy: Energy from the sun. Often the phrase is used to mean
+energy that is captured from solar radiation either as heat, as light that
+is converted into chemical energy by natural or artificial photosynthesis,
+or by photovoltaic panels and converted directly into electricity.
+Solar Radiation Management (SRM): Solar Radiation Management
+refers to the intentional modification of the earth’s shortwave
+radiative budget with the aim to reduce climate change according to a
+given metric (e. g., surface temperature, precipitation, regional impacts,
+etc.). Artificial injection of stratospheric aerosols and cloud brightening
+are two examples of SRM techniques. Methods to modify some fastresponding
+elements of the longwave radiative budget (such as cirrus
+clouds), although not strictly speaking SRM, can be related to SRM.
+SRM techniques do not fall within the usual definitions of mitigation
+and adaptation (IPCC, 2012, p. 2). See also Carbon Dioxide Removal
+(CDR) and Geoengineering.
+Source: Any process, activity or mechanism that releases a greenhouse
+gas (GHG), an aerosol or a precursor of a GHG or aerosol into
+the atmosphere. Source can also refer to, e. g., an energy source.
+Spill-over effect: The effects of domestic or sector mitigation measures
+on other countries or sectors. Spill-over effects can be positive
+or negative and include effects on trade, (carbon) leakage, transfer of
+innovations, and diffusion of environmentally sound technology and
+other issues.
+SRES scenarios: SRES scenarios are emission scenarios developed by
+Nakićenović and Swart (2000) and used, among others, as a basis for
+some of the climate projections shown in Chapters 9 to 11 of IPCC
+(2001) and Chapters 10 and 11 of IPCC (2007) as well as WGI AR5. The
+
+
+following terms are relevant for a better understanding of the structure
+and use of the set of SRES scenarios:
+Scenario family: Scenarios that have a similar demographic, societal,
+economic and technical change storyline. Four scenario families
+comprise the SRES scenario set: A1, A2, B1, and B2.
+Illustrative Scenario: A scenario that is illustrative for each of the
+six scenario groups reflected in the Summary for Policymakers of
+Nakićenović and Swart (2000). They include four revised marker
+scenarios for the scenario groups A1B, A2, B1, B2, and two additional
+scenarios for the A1FI and A1T groups. All scenario groups
+are equally sound.
+Marker Scenario: A scenario that was originally posted in draft
+form on the SRES website to represent a given scenario family. The
+choice of markers was based on which of the initial quantifications
+best reflected the storyline, and the features of specific models.
+Markers are no more likely than other scenarios, but are considered
+by the SRES writing team as illustrative of a particular storyline.
+They are included in revised form in Nakićenović and Swart
+(2000). These scenarios received the closest scrutiny of the entire
+writing team and via the SRES open process. Scenarios were also
+selected to illustrate the other two scenario groups.
+Storyline: A narrative description of a scenario (or family of scenarios),
+highlighting the main scenario characteristics, relationships
+between key driving forces and the dynamics of their evolution.
+See also Baseline / reference, Climate scenario, Emission scenario,
+Mitigation scenario, Representative Concentration Pathways (RCPs),
+Shared socio-economic pathways, Socio-economic scenario, Stabilization,
+and Transformation pathway.
+Stabilization (of GHG or CO2-equivalent concentration): A state
+in which the atmospheric concentrations of one greenhouse gas (GHG)
+(e. g., carbon dioxide) or of a CO2-equivalent basket of GHGs (or a combination
+of GHGs and aerosols) remains constant over time.
+Standards: Set of rules or codes mandating or defining product performance
+(e. g., grades, dimensions, characteristics, test methods, and
+rules for use). Product, technology or performance standards establish
+minimum requirements for affected products or technologies. Standards
+impose reductions in greenhouse gas (GHG) emissions associated
+with the manufacture or use of the products and / or application
+of the technology.
+Stratosphere: The highly stratified region of the atmosphere above the
+troposphere extending from about 10 km (ranging from 9 km at high
+latitudes to 16 km in the tropics on average) to about 50 km altitude.
+Structural change: Changes, for example, in the relative share of
+gross domestic product (GDP) produced by the industrial, agricultural,
+or services sectors of an economy, or more generally, systems transformations
+whereby some components are either replaced or potentially
+substituted by other components.
+Subsidiarity: The principle that decisions of government (other things
+being equal) are best made and implemented, if possible, at the lowest
+most decentralized level, that is, closest to the citizen. Subsidiarity is
+designed to strengthen accountability and reduce the dangers of making
+decisions in places remote from their point of application. The principle
+does not necessarily limit or constrain the action of higher orders
+of government, but merely counsels against the unnecessary assumption
+of responsibilities at a higher level.
+Sulphur hexafluoride (SF6): One of the six types of greenhouse gases
+(GHGs) to be mitigated under the Kyoto Protocol. SF6 is largely used
+in heavy industry to insulate high-voltage equipment and to assist in
+the manufacturing of cable-cooling systems and semi-conductors. See
+Global Warming Potential (GWP) and Annex II.9.1 for GWP values.
+Sustainability: A dynamic process that guarantees the persistence of
+natural and human systems in an equitable manner.
+Sustainable development (SD): Development that meets the needs
+of the present without compromising the ability of future generations
+to meet their own needs (WCED, 1987).
+Technical potential: See Potential.
+Technological change (TC): Economic models distinguish autonomous
+(exogenous), endogenous, and induced TC.
+Autonomous (exogenous) technological change: Autonomous
+(exogenous) technological change is imposed from outside the
+model (i. e., as a parameter), usually in the form of a time trend
+affecting factor and / or energy productivity and therefore energy
+demand and / or economic growth.
+Endogenous technological change: Endogenous technological
+change is the outcome of economic activity within the model
+(i. e., as a variable) so that factor productivity or the choice of technologies
+is included within the model and affects energy demand
+and / or economic growth.
+Induced technological change: Induced technological change
+implies endogenous technological change but adds further
+changes induced by policies and measures, such as carbon taxes
+triggering research and development efforts.
+Technological learning: See Learning curve / rate.
+Technological / knowledge spillovers: Any positive externality that
+results from purposeful investment in technological innovation or
+development (Weyant and Olavson, 1999).
+
+
+Territorial emissions: See Emissions.
+Trace gas: A minor constituent of the atmosphere, next to nitrogen
+and oxygen that together make up 99 % of all volume. The most important
+trace gases contributing to the greenhouse effect are carbon
+dioxide (CO2), ozone (O3), methane (CH4), nitrous oxide (N2O), perfluorocarbons
+(PFCs), chlorofluorocarbons (CFCs), hydrofluorocarbons
+(HFCs), sulphur hexafluoride (SF6) and water vapour (H2O).
+Tradable (green) certificates scheme: A market-based mechanism
+to achieve an environmentally desirable outcome (renewable energy
+(RE) generation, energy efficiency (EE) requirements) in a cost-effective
+way by allowing purchase and sale of certificates representing under
+and over-compliance respectively with a quota.
+Tradable (emission) permit: See Emission permit.
+Tradable quota system: See Emissions trading.
+Transaction costs: The costs that arise from initiating and completing
+transactions, such as finding partners, holding negotiations, consulting
+with lawyers or other experts, monitoring agreements, or opportunity
+costs, such as lost time or resources (Michaelowa et al., 2003).
+Transformation pathway: The trajectory taken over time to meet
+different goals for greenhouse gas (GHG) emissions, atmospheric concentrations,
+or global mean surface temperature change that implies
+a set of economic, technological, and behavioural changes. This can
+encompass changes in the way energy and infrastructure is used and
+produced, natural resources are managed, institutions are set up,
+and in the pace and direction of technological change (TC). See also
+Baseline / reference, Climate scenario, Emission scenario, Mitigation
+scenario, Representative Concentration Pathways (RCPs), Scenario,
+Shared socio-economic pathways, Socio-economic scenarios, SRES scenarios,
+and Stabilization.
+Transient climate response: See Climate sensitivity.
+Transit oriented development (TOD): Urban development within
+walking distance of a transit station, usually dense and mixed with the
+character of a walkable environment.
+Troposphere: The lowest part of the atmosphere, from the surface
+to about 10 km in altitude at mid-latitudes (ranging from 9 km at
+high latitudes to 16 km in the tropics on average), where clouds and
+weather phenomena occur. In the troposphere, temperatures generally
+decrease with height. See also Stratosphere.
+Uncertainty: A cognitive state of incomplete knowledge that can
+result from a lack of information or from disagreement about what
+is known or even knowable. It may have many types of sources, from
+imprecision in the data to ambiguously defined concepts or terminology,
+or uncertain projections of human behaviour. Uncertainty can
+therefore be represented by quantitative measures (e. g., a probability
+density function) or by qualitative statements (e. g., reflecting the judgment
+of a team of experts) (see Moss and Schneider, 2000; Manning
+et al., 2004; Mastrandrea et al., 2010). See also Agreement, Evidence,
+Confidence and Likelihood.
+Unconventional resources: A loose term to describe fossil fuel
+reserves that cannot be extracted by the well-established drilling
+and mining processes that dominated extraction of coal, gas, and oil
+throughout the 20th century. The boundary between conventional and
+unconventional resources is not clearly defined. Unconventional oils
+include oil shales, tar sands / bitumen, heavy and extra heavy crude oils,
+and deep-sea oil occurrences. Unconventional natural gas includes gas
+in Devonian shales, tight sandstone formations, geopressured aquifers,
+coal-bed gas, and methane (CH4) in clathrate structures (gas hydrates)
+(Rogner, 1997).
+United Nations Framework Convention on Climate Change
+(UNFCCC): The Convention was adopted on 9 May 1992 in New York
+and signed at the 1992 Earth Summit in Rio de Janeiro by more than
+countries and the European Community. Its ultimate objective is
+the ‘stabilisation of greenhouse gas concentrations in the atmosphere
+at a level that would prevent dangerous anthropogenic interference
+with the climate system’. It contains commitments for all Parties under
+the principle of ‘common but differentiated responsibilities’. Under the
+Convention, Parties included in Annex I aimed to return greenhouse
+gas (GHG) emissions not controlled by the Montreal Protocol to 1990
+levels by the year 2000. The convention entered in force in March
+. In 1997, the UNFCCC adopted the Kyoto Protocol.
+Urban heat island: See Heat island.
+Verified Emissions Reductions: Emission reductions that are verified
+by an independent third party outside the framework of the United
+Nations Framework Convention on Climate Change (UNFCCC) and its
+Kyoto Protocol. Also called ‘Voluntary Emission Reductions’.
+Volatile Organic Compounds (VOCs): Important class of organic
+chemical air pollutants that are volatile at ambient air conditions.
+Other terms used to represent VOCs are hydrocarbons (HCs), reactive
+organic gases (ROGs) and non-methane volatile organic compounds
+(NMVOCs). NMVOCs are major contributors — together with nitrogen
+oxides (NOX), and carbon monoxide (CO) — to the formation of photochemical
+oxidants such as ozone (O3).
+Voluntary action: Informal programmes, self-commitments, and declarations,
+where the parties (individual companies or groups of companies)
+entering into the action set their own targets and often do their
+own monitoring and reporting.
+
+
+Voluntary agreement (VA): An agreement between a government
+authority and one or more private parties to achieve environmental
+objectives or to improve environmental performance beyond compliance
+with regulated obligations. Not all voluntary agreements are truly
+voluntary; some include rewards and / or penalties associated with joining
+or achieving commitments.
+Voluntary Emission Reductions: See Verified Emissions Reductions.
+Watts per square meter (W m-2): See Radiative forcing.
+Wind energy: Kinetic energy from air currents arising from uneven
+heating of the earth’s surface. A wind turbine is a rotating machine for
+converting the kinetic energy of the wind to mechanical shaft energy
+to generate electricity. A windmill has oblique vanes or sails and the
+mechanical power obtained is mostly used directly, for example, for
+water pumping. A wind farm, wind project, or wind power plant is a
+group of wind turbines interconnected to a common utility system
+through a system of transformers, distribution lines, and (usually) one
+substation.
+
+
+Acronyms and chemical symbols
+AAU Assigned Amount Unit
+ADB Asian Development Bank
+AfDB African Development Bank
+AFOLU Agriculture, Forestry and Other Land Use
+AME Asian Modeling Exercise
+AMPERE Assessment of Climate Change Mitigation Pathways
+and Evaluation of the Robustness of Mitigation Cost
+Estimates
+AOSIS Alliance of Small Island States
+APEC Asia-Pacific Economic Cooperation
+AR4 IPCC Fourth Assessment Report
+ASEAN Association of Southeast Asian Nations
+ASIA Non-OECD Asia
+BAMs Border adjustment measures
+BAT Best available technology
+BAU Business-as-usual
+BC Black carbon
+BECCS Bioenergy with carbon dioxide capture and storage
+BEVs Battery electric vehicles
+BNDES Brazilian Development Bank
+BOD Biochemical Oxygen Demand
+BRT Bus rapid transit
+C Carbon
+C40 C40 Cities Climate Leadership Group
+CBA Cost-benefit analysis
+CBD Convention on Biological Diversity
+CBD Central business district
+CCA Climate Change Agreement
+CCE Cost of conserved energy
+CCL Climate Change Levy
+CCS Carbon dioxide capture and storage
+CDM Clean Development Mechanism
+CDR Carbon dioxide removal
+CEA Cost-effectiveness analysis
+CERs Certified Emissions Reductions
+CFCs Chlorofluorocarbons
+CGE Computable general equilibrium
+CH4 Methane
+CHP Combined heat and power
+CIFs Climate Investment Funds
+CMIP Coupled Model Intercomparison Project
+CNG Compressed natural gas
+CO Carbon monoxide
+CO2 Carbon dioxide
+CO2eq Carbon dioxide-equivalent, CO2-equivalent
+COD Chemical oxygen demand
+COP Conference of the Parties
+CRF Capital recovery factor
+CSP Concentrated solar power
+CTCN Climate Technology Centre and Network
+DAC Direct air capture
+DAC Development Assistance Committee
+DALYs Disability-adjusted life years
+DANN Designated National Authority
+DCs Developing countries
+DRI Direct reduced iron
+DSM Demand-side management
+EAF Electric arc furnace
+EAS East Asia
+ECA Economic Commission for Africa
+ECN Energy Research Center of the Netherlands
+ECOWAS Economic Community of West African States
+EDGAR Emissions Database for Global Atmospheric Research
+EE Energy efficiency
+EIA U. S. Energy Information Administration
+EITs Economies in Transition
+EMF Energy Modeling Forum
+EPA U. S. Environmental Protection Agency
+EPC Energy performance contracting
+ERU Emissions reduction unit
+ESCOs Energy service companies
+ETS Emissions Trading System
+EU European Union
+EU ETS European Union Emissions Trading Scheme
+EVs Electric vehicles
+F-gases Fluorinated gases
+FAO Food and Agriculture Organization of the United
+Nations
+FAQ Frequently asked questions
+FAR IPCC First Assessment Report
+FCVs Fuel cell vehicles
+FDI Foreign Direct Investment
+FE Final energy
+FEEM Fondazione Eni Enrico Mattei
+FF&I Fossil fuel and industrial
+FIT Feed-in tariff
+FOLU Forestry and Other Land Use
+FSF Fast-start Finance
+G20 Group of Twenty Finance Ministers
+G8 Group of Eight Finance Ministers
+GATT General Agreement on Tariffs and Trade
+GCAM Global Change Assessment Model
+GCF Green Climate Fund
+GCM General Circulation Model
+GDP Gross domestic product
+GEA Global Energy Assessment
+GEF Global Environment Facility
+GHG Greenhouse gas
+GNE Gross national expenditure
+GSEP Global Superior Energy Performance Partnership
+GTM Global Timber Model
+GTP Global Temperature Change Potential
+GWP Global Warming Potential
+
+
+H2 Hydrogen
+HCFCs Hydrochlorofluorocarbons
+HDI Human Development Index
+HDVs Heavy-duty vehicles
+HFCs Hydrofluorocarbon
+HFC-23 Trifluoromethane
+Hg Mercury
+HHV Higher heating value
+HIC High-income countries
+HVAC Heating, ventilation and air conditioning
+IAEA International Atomic Energy Agency
+IAMC Integrated Assessment Modelling Consortium
+ICAO International Civil Aviation Organization
+ICE Internal combustion engine
+ICLEI International Council for Local Environmental Initiatives
+ICT Information and communication technology
+IDB Inter-American Development Bank
+IDP Integrated Design Process
+IEA International Energy Agency
+IET International Emissions Trading
+IGCC Integrated gasification combined cycle
+IIASA International Institute for Applied Systems Analysis
+iLUC Indirect land-use change
+IMF International Monetary Fund
+IMO International Maritime Organization
+INT TRA International transport
+IO International organization
+IP Intellectual property
+IPAT Income-Population-Affluence-Technology
+IPCC Intergovernmental Panel on Climate Change
+IRENA International Renewable Energy Agency
+IRR Internal rate of return
+ISO International Organization for Standardization
+JI Joint Implementation
+JICA Japan International Cooperation Agency
+KfW Kreditanstalt für Wiederaufbau
+LAM Latin America
+LCA Lifecycle Assessment
+LCCC Levelized costs of conserved carbon
+LCD Liquid crystal display
+LCCE Levelized cost of conserved energy
+LCOE Levelized costs of energy
+LDCs Least Developed Countries
+LDCF Least Developed Countries Fund
+LDVs Light-duty vehicles
+LED Light-emitting diode
+LHV Lower heating value
+LIC Low-income countries
+LIMITS Low Climate Impact Scenarios and Implications of
+Required Tight Emission Control Strategies
+LMC Lower-middle income countries
+LNG Liquefied natural gas
+LPG Liquefied petroleum gas
+LUC Land-use change
+LULUCF Land Use, Land-Use Change and Forestry
+MAC Marginal abatement cost
+MAF Middle East and Africa
+MAGICC Model for the Assessment of Greenhouse Gas Induced
+Climate Change
+MCA Multi-criteria analysis
+MDB Multilateral Development Bank
+MDGs Millennium Development Goals
+MEF Major Economies Forum on Energy and Climate
+MER Market exchange rate
+MFA Material flow analysis
+MNA Middle East and North Africa
+MRIO Multi-Regional Input-Output Analysis
+MRV Measurement, reporting, and verification
+MSW Municipal solid waste
+N Nitrogen
+N2O Nitrous oxide
+NAM North America
+NAMA Nationally Appropriate Mitigation Action
+NAPA National Adaptation Programmes of Action
+NAS U. S. National Academy of Science
+NF3 Nitrogen trifluoride
+NGCC Natural gas combined cycle
+NGO Non-governmental organization
+NH3 Ammonia
+NOx Nitrogen oxides
+NPV Net present value
+NRC U. S. National Research Council
+NREL U. S. National Renewable Energy Laboratory
+NZEB Net zero energy buildings
+O3 Ozone
+O&M Operation and maintenance
+OC Organic carbon
+ODA Official development assistance
+ODS Ozone-depleting substances
+OECD Organisation for Economic Co-operation and Development
+OPEC Organization of Petroleum Exporting Countries
+PACE Property Assessed Clean Energy
+PAS South-East Asia and Pacific
+PBL Netherlands Environmental Assessment Agency
+PC Pulverized Coal
+PDF Probability density function
+PEVs Plug-in electric vehicles
+PFC Perfluorocarbons
+PHEVs Plug-in hybrid electric vehicles
+PIK Potsdam Institute for Climate Impact Research
+PM Particulate Matter
+PNNL Pacific Northwest National Laboratories
+POEDC Pacific OECD 1990 members (Japan, Aus, NZ)
+PPP Polluter pays principle
+
+
+PPP Purchasing power parity
+PV Photovoltaic
+R&D Research and development
+RCPs Representative Concentration Pathways
+RD&D Research, Development and Demonstration
+RE Renewable energy
+RECIPE Report on Energy and Climate Policy in Europe
+REDD Reducing Emissions From Deforestation and Forest
+Degradation
+REEEP Renewable Energy and Energy Efficiency Partnership
+RES Renewable energy sources
+RGGI Regional Greenhouse Gas Initiative
+RoSE Roadmaps towards Sustainable Energy futures
+ROW Rest of the World
+RPS Renewable portfolio standards
+SAR IPCC Second Assessment Report
+SAS South Asia
+SCC Social cost of carbon
+SCCF Special Climate Change Fund
+SCP Sustainable consumption and production
+SD Sustainable development
+SF6 Sulphur hexafluoride
+SLCP Short-lived climate pollutant
+SMEs Small and Medium Enterprises
+SO2 Sulphur dioxide
+SPM Summary for Policymakers
+SRES IPCC Special Report on Emission Scenarios
+SREX IPCC Special Report on Managing the Risks of Extreme
+Events and Disasters to Advance Climate Change
+Adaptation
+SRM Solar radiation management
+SRREN IPCC Special Report on Renewable Energy Sources and
+Climate Change Mitigation
+SRCSS IPCC Special Report on Carbon dioxide Capture and
+Storage
+SSA Sub-Saharan Africa
+SUVs Sport Utility Vehicles
+SWF Social welfare function
+TAR IPCC Third Assessment Report
+TC Technological change
+TCR Transient climate response
+Th Thorium
+TNAs Technology Needs Assessments
+TOD Transit-oriented development
+TPES Total primary energy supply
+TRIPs Trade Related Intellectual Property Rights
+TT Technology transfer
+U Uranium
+UHI Urban heat island
+UMC Upper-middle income countries
+UN United Nations
+UN DESA United Nations Department for Economic and Social
+Affairs
+UNCCD United Nations Convention to Combat Desertification
+UNCSD United Nations Conference on Sustainable Development
+UNDP United Nations Development Programme
+UNEP United Nations Environment Programme
+UNESCO United Nations Educational, Scientific and Cultural
+Organization
+UNFCCC United Nations Framework Convention on Climate
+Change
+UNIDO United Nations Industrial Development Organization
+USD U. S. Dollars
+VAs Voluntary agreements
+VOCs Volatile Organic Compounds
+VKT Vehicle kilometers travelled
+WACC Weighted costs of capital
+WBCSD World Business Council on Sustainable Development
+WCED World Commission on Environment and Development
+WCI Western Climate Initiative
+WEU Western Europe
+WGI IPCC Working Group I
+WGII IPCC Working Group II
+WGIII IPCC Working Group III
+WHO World Health Organization
+WTP Willingness to pay
+WWTP Wastewater plant
+WTO World Trade Organization
+
+

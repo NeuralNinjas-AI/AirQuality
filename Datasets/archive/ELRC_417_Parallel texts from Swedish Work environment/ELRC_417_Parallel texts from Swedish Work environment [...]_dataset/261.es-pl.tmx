@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T125911Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="es">
+    <prop type="x-tucount">82</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="es">
+        <seg>Índice</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Spis treści</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="es">
+        <seg>Quitar nieve de los tejados es una ocupación de riesgo 3</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odśnieżanie dachów to niebezpieczne przedsięwzięcie 3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="es">
+        <seg>Responsabilidad de la empresa al quitar nieve de los tejados 4</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odpowiedzialność firmy podczas odśnieżania dachów 4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="es">
+        <seg>Responsabilidad legal del empleado 4</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odpowiedzialność wykonawcy 4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="es">
+        <seg>Proyección de caída personal 5</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Ochrona osobista przed upadkiem 5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="es">
+        <seg>Trabajo en equipo 5</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Praca zespołowa 5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="es">
+        <seg>Quitar nieve de forma segura 6</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Bezpieczniejsze odśnieżanie 6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="es">
+        <seg>Deslizamientos de nieve/avalanchas 8</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Lawiny śnieżne 8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="es">
+        <seg>Trabajar en tejados con poca inclinación 9</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Praca na dachach o małym nachyleniu 9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="es">
+        <seg>Acordonar la zona de riesgo 10</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odgradzanie obszaru zagrożenia 10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="es">
+        <seg>La importancia de un sistema de señalización 11</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Znaczenie systemu sygnalizacji 11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="es">
+        <seg>Daños a terceros 11</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Obrażenia u osób trzecich 11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="es">
+        <seg>Este folleto se ha producido en cooperación con el comité de entorno laboral central del sector del hierro y la ventilación.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Niniejsza broszura została przygotowana we współpracy z centralną komisją ds. środowiska pracy branży żelaznej i wentylacyjnej.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="es">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="es">
+        <seg>La finalidad de este folleto es mejorar las precauciones de seguridad de las personas que quiten nieve de los tejados de los edificios.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Celem niniejszej broszury jest ulepszenie środków ostrożności dla osób odśnieżających dachy budynków.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="es">
+        <seg>Quitar nieve de los tejados: una ocupación de riesgo</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odśnieżanie dachów — ryzykowne przedsięwzięcie</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="es">
+        <seg>La nieve y el hielo que caen de los tejados han provocado muchos accidentes graves.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Przyczyną wielu poważnych wypadków był śnieg i lód spadający z dachów.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="es">
+        <seg>Trabajar en superficies inclinadas y resbaladizas usando solo equipo de protección personal también ejerce una alta carga en el cuerpo.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>To dlatego w przypadku osób pracujących na dachach tak ważne jest stosowanie odpowiednich urządzeń zapewniających dostęp i ochronę, umożliwiających mocowanie uprzęży ochronnych, oraz godni zaufania współpracownicy.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="es">
+        <seg>Las condiciones para la planificación y la ejecución de la limpieza de nieve en los tejados se puede encontrar en la legislación sueca sobre trabajos de construcción e ingeniería civil, AFS 1999:3.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Postanowienia dotyczące planowania i realizacji prac związanych z odśnieżaniem dachów można znaleźć w dokumencie Building and Civil Engineering Work, AFS 1999:3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="es">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="es">
+        <seg>Responsabilidad de la empresa al quitar nieve de los tejados</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odpowiedzialność firmy podczas odśnieżania dachów</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="es">
+        <seg>Una empresa que limpia la nieve de los tejados de los edificios debe hacerlo bajo la responsabilidad legal determinada en la ley sueca de entornos laborales (SFS 1977:1160) y establecer una evaluación de riesgo escrita en cumplimiento con la gestión sistemática del entorno laboral AFS 2001:01, sección 8.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Przedsięwzięcia związane z usuwaniem śniegu z dachów budynków muszą być realizowane zgodnie z obowiązkami określonymi w szwed­ zkiej ustawie o środowisku pracy (SFS 1977:1160) i powinny zawierać pisemną ocenę ryzyka zgodnie z ustawą Systematic Work Environment Management AFS 2001:01, sekcja 8.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="es">
+        <seg>Responsabilidad legal del empresario</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odpowiedzialność zleceniodawcy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="es">
+        <seg>Los siguientes puntos son responsabilidad del empresario encargado de la retirada de nieve de los tejados de los edificios:</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Poniżej przedstawiono punkty związane z odpowiedzialnością zlecenio­ dawcy w zakresie odśnieżania dachów budynków:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="es">
+        <seg>Asegurar que las características de seguridad del tejado están en buen estado.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Dach należy sprawdzić przed rozpoczęciem pracy przez personel.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="es">
+        <seg>En algunos casos puede que sean necesarios requisitos adicionales para asegurar que el tejado es seguro.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Należy zapewnić, że środki bezpieczeństwa na dachu są w dobrym stanie. W niektórych przypadkach konieczne może być umieszczenie dodatkowych elementów zwiększających bezpieczeństwo na dachu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="es">
+        <seg>Informar a los trabajadores de los riesgos existentes al quitar nieve del tejado.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Należy informować pracowników o ryzyku związanym z odśnieżaniem dachów.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="es">
+        <seg>Asegurar que los empleados tengan el suficiente conocimiento y estén lo suficientemente familiarizados con lo que deben respetar para evitar riesgos.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Należy się upewnić, że pracownicy dysponują wiedzą i są zaznajomieni z elementami, które należy obserwować w celu uniknięcia niebezpieczeństwa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="es">
+        <seg>Ofrecer equipos de protección personal adecuados y aprobados para este trabajo – protección contra caídas, casco protector y gafas protectoras – y verifique que el equipo esté utilizado.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Należy zapewnić środki ochrony indywidualnej, które są odpowiednie dla wykonywanej pracy – ochronę przed upadkiem, kask ochronny i gogle – i sprawdza, czy sprzęt jest używany.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="es">
+        <seg>Proporcionar chaquetas reflectantes y equipos de comunicación para los empleados que trabajen en el tejado y vigilantes si es necesario.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Należy zapewnić kamizelki odblaskowe i środki łączności dla pracowników na dachu, a w razie konieczności wyznaczyć dodatkowego obserwatora.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="es">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="es">
+        <seg>Responsabilidad legal del empleado</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odpowiedzialność wykonawcy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="es">
+        <seg>El empleado seguirá las normas correspondientes, usará los dispositivos de protección provistos y tomará las precauciones necesarias.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Wykonawca powinien przestrzegać stosownych przepisów, korzystać ze sprzętu ochronnego i zachowywać niezbędną uwagę.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="es">
+        <seg>Protección personal contra caídas: seguro de vida</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Ochrona osobista przed upadkiem — ubezpieczenie na życie</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="es">
+        <seg>Asegúrese de que las costuras de los arneses de protección estén en buen estado y de que no hay nada dañado.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Należy się upewnić, że szwy na uprzęży bezpieczeństwa są w dobrym stanie i że inne elementy nie są uszkodzone.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="es">
+        <seg>Asegúrese de que los cabos y los dispositivos de ajuste no estén dañados y de que funcionen bien.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Należy się upewnić, że liny i urządzenia regulujące nie są uszkodzone, a ich stan jest dobry.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="es">
+        <seg>Para almacenar los arneses y los cabos, se colgarán en un lugar seco, oscuro y ventilado.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Uprzęże i liny powinny być przechowywane w suchym, ciemnym i przewietrzonym miejscu, w zawieszeniu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="es">
+        <seg>El equipo que esté roto, que tenga costuras defectuosas, problemas mecánicos o que esté oxidado debe destruirse.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Wyposażenie, które jest naderwane, ma wadliwe szwy, uszkodzenia mechaniczne lub rdzę, musi zostać zniszczone.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="es">
+        <seg>Los cabos que se hayan dejado caer por el borde de un tejado deben destruirse.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Liny, które zostały opuszczone zza krawędzi dachu, muszą zostać zniszczone.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="es">
+        <seg>Equipo de trabajo</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Praca zespołowa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="es">
+        <seg>”El trabajador que está en la calle”</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>„Człowiek na ulicy”</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="es">
+        <seg>Estará equipado con un casco protector, una chaqueta reflectante y un dispositivo de señalización, así como con algún medio para comunicarse con las personas que trabajan en el tejado, como un silbato, una sirena o un teléfono.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Musi być wyposażony w kask ochronny, kamizelkę odblaskową i urządzenie sygnalizacyjne w celu zachowania łączności z ludźmi na dachu, gwizdek, syrenę lub telefon.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="es">
+        <seg>”Los trabajadores que están en el tejado”</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>„Pracownicy na dachu”</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="es">
+        <seg>Estarán equipados con cabos y arneses de protección, protección ocular contra fragmentos de hielo, una pala para nieve con una correa de muñeca, un martillo pequeño con correa de muñeca para romper el hielo y ropa de abrigo flexible, así como un calzado adecuado y un equipo para comunicarse con la persona que esté en la calle.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Muszą być wyposażeni w liny i uprzęże bezpieczeństwa, ochronę wzroku przed odłamkami lodu, łopatę z paskiem na nadgarstek, mały młotek do kruszenia lodu z paskiem na nadgarstek, ciepłą, elastyczną odzież, odpowiednie obuwie i sprzęt do łączności ze strażnikiem na ulicy.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="es">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="es">
+        <seg>Quitar nieve de los tejados de manera segura</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Bezpieczniejsze odśnieżanie dachów</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="es">
+        <seg>En primer lugar, el equipo debe recibir información acerca de las rutas de acceso y las llaves para llegar al nivel del tejado.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Zespół musi uzyskać informacje związane z drogami dostępu i kluczami umożliwiającymi wejście na poziom dachu. Należy sprawdzić obecność przewodów cieplnych i rynien.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="es">
+        <seg>Si los hay, debe haber señales de advertencia acerca de los cables calefactores en el punto de ascenso al tejado.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>W takim przypadku należy zastosować znaki ostrzegawcze, informujące o przewodach cieplnych w punkcie wejścia na dach.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="es">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="es">
+        <seg>Una persona moverá los puntos de anclaje para el cabo y los mantendrá tensos, mientras que la otra realiza la limpieza.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>W normalnych okolicznościach dach powinny odśnieżać dwie osoby. Jedna osoba powinna przesuwać punkty mocowania lin i zachowywać naprężenie, natomiast druga powinna prowadzić prace związane z odśnieżaniem.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="es">
+        <seg>La persona que no esté limpiando siempre debe estar en contacto con el vigilante de tráfico que esté en la carretera/en la calle para evitar accidentes.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Osoba, która nie odśnieża, powinna zawsze mieć kontakt z nadzorcą ruchu na ulicy/ziemi, aby unikać wypadków.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="es">
+        <seg>Las herramientas manuales, como palas y martillos ligeros para romper el hielo, deberían incluir correas de muñeca para evitar que se caigan accidentalmente del tejado y se conviertan en un factor de riesgo.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Narzędzia ręczne, takie jak łopaty i młotki do kruszenia lodu, powinny być zawsze wyposażone w paski na nadgarstek, aby uniknąć przypadkowego ześlizgnięcia się z dachu i wywołania zagrożenia w dole.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="es">
+        <seg>En tejados cuyos canalones estén tapados con hielo y nieve, y con carámbanos que cuelgan de los aleros, primero se pueden limpiar los canalones y quitar los carámbanos con una &quot;limpieza parcial&quot; si el propietario así lo solicita.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Podczas kruszenia lodu należy zakładać okulary ochronne. W przypadku dachów, na których rynny są zap- chane śniegiem i lodem oraz z okapów zwisają sople, rynny można opróżniać, a sople usuwać z zachowaniem „sprzątania częściowego”, jeśli zażąda tego właściciel nieruchomości.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="es">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="es">
+        <seg>Deslizamientos de nieve y avalanchas</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Lawiny śnieżne</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="es">
+        <seg>El riesgo de deslizamientos de nieve y la formación de hielo en canalones y tuberías también se ven afectados por la dirección del tejado y por la radiación solar.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Na ryzyko lawin i formowania się lodu w rynnach i rurach ma wpływ również kierunek dachu i promieniowanie słoneczne.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="es">
+        <seg>Recuerde que…</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Pamiętaj, że…</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="es">
+        <seg>El cabo debería mantenerse tenso y anclado justo sobre la persona que quita la nieve.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>… współpraca między pracownikami na dachu jest ważnym czynnikiem bezpieczeństwa. Lina powinna być zawsze naprężona i zamocowana powyżej osoby odśnieżającej.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="es">
+        <seg>Recuerde también que…</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Pamiętaj również, że…</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="es">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="es">
+        <seg>Tejados con una inclinación inferior a los 6˚</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Dachy o nachyleniu płaskim poniżej 6˚</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="es">
+        <seg>En este caso, varias personas pueden encargarse de la limpieza.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Podczas pracy z boku na bok należy wziąć pod uwagę efekt wahadła!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="es">
+        <seg>Normalmente, el cabo de seguridad usado para trabajar en un tejado no debería superar los 10 metros de longitud.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Liny należy mocować jak najbliżej pionu. Lina zabezpieczająca używana do pracy nie powinna być dłuższa niż 10 metrów.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="es">
+        <seg>Nota: Use un arnés de seguridad, no una correa de cintura.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Pracownik może regulować długość liny zabezpieczającej za pomocą klamry regulującej.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="es">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>NB!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="es">
+        <seg>Acordonar la zona de riesgo</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="es">
+        <seg>Esto puede hacerse acordonando la zona de riesgo.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odgradzanie obszaru zagrożenia</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="es">
+        <seg>Para quitar la nieve de los tejados se deben cumplir numerosos requisitos respecto a las zonas de seguridad, señalización y vigilantes de seguridad.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odśnieżanie dachów to duże wymogi w zakresie bezpieczeństwa stref zagrożenia, sygnalizacji i nadzorców.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="es">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="es">
+        <seg>Es esencial un buen sistema de señalización</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Najważniejszy jest dobry system sygnalizacji</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="es">
+        <seg>La señalización entre las personas que trabajan en el tejado y el vigilante de tráfico que está en la calle es extremadamente importante para evitar accidentes.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Sygnalizacja między pracownikami na dachu i nadzorcą ruchu na ulicy jest wyjątkowo ważna, aby możliwe było unikanie wypadków.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="es">
+        <seg>Para hacerlo, será necesario contar con un silbato, una sirena, un teléfono o una radio.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Sygnały należy przekazywać wyraźnie. W tym celu należy korzystać z gwizdka, syreny, telefonu lub radia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="es">
+        <seg>Cada miembro del equipo debe saber cómo interpretar las señales.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Każdy członek zespołu musi wiedzieć, jak interpretować takie sygnały. Aby bezpiecznie odśnieżać dach i usuwać lód, można używać następujących sygnałów:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="es">
+        <seg>Una señal:</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Jeden sygnał – Stop!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="es">
+        <seg>Daños a terceros</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Obrażenia u osób trzecich</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="es">
+        <seg>Los daños a residentes y a la propiedad no están cubiertos en la legislación de entorno laboral sueca.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Obrażenia osób i uszkodzenia sprzętu nie są objęte szwedzką ustawą o środowisku pracy. Firma usuwająca śnieg ponosi jednak odpowiedzialność zgodnie z innymi przepisami.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="es">
+        <seg>Sin embargo, la empresa que limpia la nieve es responsable de acuerdo con otra legislación.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Wypadki nie muszą mieć miejsca, jeśli wszystko od początku do końca wykonywane było prawidłowo.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="es">
+        <seg>11</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="es">
+        <seg>Se pueden pedir más copias de esta publicación a:</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Kolejne kopie tej publikacji należy zamówić w:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="es">
+        <seg>Work Environment Authority Publication Service</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Work Environment Authority Publication Service</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="es">
+        <seg>S112 79 Estocolmo</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>S112 79 Sztokholm</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="es">
+        <seg>Tlf.: +46 (0)10-730 90 00 www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Tel.: +46 (0)10-730 90 00 www.av.se</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

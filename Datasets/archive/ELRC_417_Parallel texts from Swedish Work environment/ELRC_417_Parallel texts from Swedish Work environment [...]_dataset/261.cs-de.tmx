@@ -1,0 +1,1248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T125305Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="cs">
+    <prop type="x-tucount">155</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="cs">
+        <seg>Riziko zranění se snižuje a práce je efektivnější.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bau- und Anlagenarbeiten</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="cs">
+        <seg>Švédský úřad pro pracovní prostředí je státní úřad dohlížející na oblast pracovního prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ein sicheres und gesundes Arbeitsumfeld ist für alle Beteiligten ein Gewinn, denn dadurch wird das Unfallrisiko reduziert und eine höhere Effizienz am Arbeitplatz erreicht.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="cs">
+        <seg>Takový zákaz je třeba podepsat, ale podpis znamená jen potvrzení o převzetí dokumentu o rozhodnutí.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ein solches Verbot muss unterzeichnet werden, wobei die Unterschrift lediglich eine Quittung dafür ist, dass der Entscheid entgegengenommen wurde.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="cs">
+        <seg>Stavebním dělníkům se často přihodí úraz nebo dostanou nemoc z povolání.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Viele Bauarbeiter verunglücken bei der Arbeit oder leiden an einer Berufskrankheit.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="cs">
+        <seg>Dochází k pádům, pracím při chybném držení těla, zvedání těžkých nákladů nebo ke zraněním při práci se stroji.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Sie stürzen, nehmen falsche Körperhaltung bei der Arbeit ein, müssen schwer heben oder können sich an Maschinen schwer verletzen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="cs">
+        <seg>Špatné plánování a časová tíseň riziko úrazů zvyšují</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Schlechte Planung und Zeitmangel erhöhen das Unfallrisiko.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="cs">
+        <seg>Existují zákony a předpisy od Švédského úřadu pro pracovní prostředí regulující provádění stavebních prací.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die Gesetze und Vorschriften des Schwedischen Zentralamts für Arbeitsumwelt enthalten Anweisungen für die ordnungsgemäßen Abläufe von Bauarbeiten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="cs">
+        <seg>V této brožuře se můžete dočíst o některých minimálních požadavcích.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Mit der vorliegenden Broschüre wird Ihnen ein Überblick über einige Mindestanforderungen zur Verfügung gestellt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="cs">
+        <seg>Práce s budováním, přestavbami, opravami, údržbou nebo bouráním budov či jiných konstrukcí spadá pod Zákon o pracovním prostředí a stavební předpisy Švédského úřadu pro pracovní prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bau-, Änderungs-, Reparatur-, Wartungs- oder Abrissarbeiten an Gebäuden oder Anlagen fallen unter das schwedische Arbeitsschutzgesetz und die Bauvorschriften des Schwedischen Zentralamts für Arbeitsumwelt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="cs">
+        <seg>Švédská ustanovení o pracovním prostředí platí pro zahraniční pracovníky ve Švédsku, ať už jsou zaměstnáni v zahraničním podniku, najati švédským zaměstnavatelem nebo pracují jako samostatní živnostníci.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Schwedische Arbeitsschutzvorschriften gelten auch für ausländische Arbeitskraft und es spielt dabei keine Rolle ob eine Anstellung in einem ausländischen Unternehmen, eine vorübergehende Beschäftigung durch ein schwedisches Unternehmen oder eine Tätigkeit als selbstständiger Unternehmer vorliegt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="cs">
+        <seg>Zahrnuti jsou tedy jak podnikatel tak zaměstnanci bez ohledu na formu pracovního poměru.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Diese Vorschriften richten sich sowohl an den Unternehmer als auch an seine Mitarbeiter, unabhängig von der Art der Beschäftigung.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="cs">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="cs">
+        <seg>Jak snížit riziko pádu</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Reduzierung der Sturzgefahr</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="cs">
+        <seg>Pád je nejběžnější příčinou smrtelných úrazů a nehod na stavebních pracovištích.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Stürze sind die häufigste Ursache von Todesfällen und Unfällen auf Baustellen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="cs">
+        <seg>Je proto třeba předejít nebezpečí pádu.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Deshalb ist der Vorgesetzte verpflichtet sicherzustellen, dass die Sturzgefahr möglichst gering ist.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="cs">
+        <seg>Je-li výškový rozdíl větší než dva metry, je v zásadě zapotřebí nějaký druh ochrany.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn der Abstand zwischen zwei Ebenen größer als zwei Meter ist, wird in der Regel eine Schutzvorrichtung vorgeschrieben.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="cs">
+        <seg>Ochranné zábradlí, pracovní platformy, pracovní koše, lešení nebo další ochranné pomůcky nutno používat v první řadě.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>In erster Linie sollten Geländer, Arbeitsplattformen, Arbeitskörbe, Gerüste oder eine ähnliche Schutzvorrichtung benutzt werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="cs">
+        <seg>pevná</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Schutzgeländer müssen:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="cs">
+        <seg>Mohou mít i jinou konstrukci, ale musí skýtat nejméně stejně bezpečnou ochranu.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Sie dürfen auch anders aussehen, müssen allerdings einen gleichwertigen Schutz bieten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="cs">
+        <seg>Při práci na střeše musí normálně existovat ochranné zábradlí nebo jiné zařízení dávající odpovídající ochranu.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bei Arbeiten auf Dächern muss es normalerweise Schutzgeländer oder andere Vorrichtungen geben, die einen gleichwertigen Schutz bieten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="cs">
+        <seg>Není-li možná instalace pevné ochrany, musí se použít lanové osobní zařízení s postrojem zabraňujícím pádu.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Das Geländer muss direkt an der Traufe oder an einem Gestell angebracht werden, das direkt unterhalb der Traufe aufhört.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="cs">
+        <seg>Lano se musí přichytit na pevný úchyt na střeše.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Außerdem muss sicher gestellt werden, dass der Anschlagpunkt tragfähig ist.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="cs">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="cs">
+        <seg>Může existovat riziko propadnutí skrz plochy, jež nemají dostatečnou nosnost – takové plochy zablokujte.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Es kann die Gefahr bestehen, dass Oberflächen betreten werden, die keine ausreichende Tragfähigkeit haben – in solchen Fällen müssen die Flächen abgesperrt werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="cs">
+        <seg>Používejte zvláštní ochranné zařízení, máte-li na takové ploše pracovat.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn man dennoch auf solch einer Fläche arbeiten muss, ist die Verwendung einer besonderen Schutzvorrichtung notwendig.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="cs">
+        <seg>Při některých pracích je vhodné používat ochrannou síť.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bei einigen Arbeiten empfiehlt es sich, ein Schutznetz zu verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="cs">
+        <seg>Je důležité, aby kompetentní osoba síť a její montáž před použitím zkontrolovala.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Dabei ist es wichtig, dass eine kompetente Person das Netz und die Installation vor der Benutzung überprüft.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="cs">
+        <seg>Má-li se práce vykonávat víc než čtyři hodiny na malé ploše střechy a pokud má střecha sklon víc než 1:4, musí existovat vodorovná pracovní plocha.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn jemand mehr als vier Stunden auf einer kleinen Dachfläche arbeiten muss und das Dach außerdem eine Neigung von mehr als 1:4 hat, muss es eine horizontale Arbeitsfläche geben.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="cs">
+        <seg>Běžně je třeba používat ochrannou přilbu a ochrannou obuv.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Schutzhelme und Sicherheitsschuhe müssen unter normalen Umständen immer getragen werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="cs">
+        <seg>Někdy se musí používat ochranné brýle, ochrana sluchu a rukavice.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Manchmal werden zudem Schutzbrillen, Gehörschutz und Handschuhe benötigt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="cs">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="cs">
+        <seg>Zdvihání těžkých nákladů a chybné pracovní polohy zatěžují tělo</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Schwere Hebearbeiten und falsche Körperhaltung belasten den Körper</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="cs">
+        <seg>Stroje a nástroje musí mít ergonomické provedení.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Maschinen und Werkzeuge müssen ergonomisch gestaltet sein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="cs">
+        <seg>Dlouhodobější práce na žebříku tělu neprospívá.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Längere Arbeiten auf einer Leiter sind nicht gut für den Körper.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="cs">
+        <seg>Lepší pracovní polohu dává rovná pracovní plocha, např. výzdvižné platformy.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Eine ebene Stehfläche, z. B. höhenverstellbare Plattformen, sorgt für eine bessere Körperhaltung.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="cs">
+        <seg>Svaly musí po námaze dostat příležitost k odpočinku.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die Muskeln des Körpers müssen sich nach einer Anstrengung wieder erholen können.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="cs">
+        <seg>Vyhněte se jednostrannému zatěžování svalů tím, že práci budete obměňovat.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Einseitige Belastung der Muskeln können durch abwechslungsreiche Tätigkeiten vermieden werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="cs">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="cs">
+        <seg>Ve stavebnictví se používá mnoho jedovatých, rakovinotvorných, žíravých nebo alergii vyvolávajících látek.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>In der Baubranche werden häufig giftige, krebserregende, ätzende und Allergien verursachende Stoffe benutzt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="cs">
+        <seg>Například beton, malta a štuk obsahují cement, který při dlouhodobějším doteku s kůží může způsobit leptavé poranění.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Beton, Mörtel und Putz enthalten zum Beispiel Zement, der bei längerem Hautkontakt zu Verätzungen führen kann.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="cs">
+        <seg>Chemické produkty obsahující jednu nebo více nebezpečných látek musí být doprovázeny bezpečnostním listem výrobce, který musí být na pracovišti.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Für den Fall, dass chemische Mittel benutzt werden, die einen oder mehrere gefährliche Stoffe beinhalten, muss ein Sicherheitsdatenblatt des Herstellers am Arbeitsplatz vorliegen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="cs">
+        <seg>U produktů koupených ve Švédsku musí být bezpečnostní list napsán ve švédštině.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Für in Schweden erworbene Produkte muss ein Sicherheitsdatenblatt in schwedischer Sprache vorhanden sein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="cs">
+        <seg>Podnik, který dovezl do Švédska nebezpečný chemický produkt pro svou vlastní potřebu, odpovídá za to, že se na pracovišti o produktu nacházejí písemné informace o rizicích a ochraně v jazyce, kterému uživatelé rozumí.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Unternehmen, die für den eigenen Gebrauch gefährliche chemische Produkte nach Schweden einführen, haben die Verantwortung dafür, dass es schriftliche Risiko- und Schutzin- formationen zu dem Produkt am Arbeitsplatz in einer Sprache gibt, die von den Anwendern verstanden wird.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="cs">
+        <seg>Na pracovišti musí být seznam všech nebezpečných chemických produktů.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Auf der Baustelle muss ein Verzeichnis über alle gefährlichen chemischen Produkte vorhanden sein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="cs">
+        <seg>Každý zaměstnavatel za to odpovídá.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Jeder Arbeitgeber trägt dafür die Verantwortung.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="cs">
+        <seg>Zaměstnavatel musí informovat zaměstnance o všech rizicích spojených s nebezpečnými chemickými produkty a ujistit se o tom, že zaměstnanec informacím porozuměl.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Arbeitgeber hat die Aufgabe, den Arbeitnehmer über die Gefahren im Umgang mit gefährlichen chemischen Produkten aufzuklären und er/sie muss sicherstellen, dass der Arbeitnehmer die Informationen tatsächlich verstanden hat.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="cs">
+        <seg>Pro určité nebezpečné látky platí zvlášť přísná pravidla:</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bei bestimmten gefährlichen Stoffen gelten ganz besonders strenge Vorschriften:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="cs">
+        <seg>Azbest: Pro zacházení s azbestem a pro jeho odstraňování potřebuje podnik, který má práci vykonat, povolení od Švédského úřadu pro pracovní prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Asbest: Für den Umgang mit und die Beseitigung von Asbest benötigt das beauftragte Unternehmen eine Genehmigung des Schwedischen Zentralamts für Arbeitsumwelt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="cs">
+        <seg>K tomu, aby toto bylo uděleno, je třeba dokumentované zvláštní školení a lékařské potvrzení.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Vorraussetzung für eine Genehmigung ist eine dokumentierte Spezialausbildung und eine ärztliche Bescheinigung.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="cs">
+        <seg>Porušení těchto pravidel je trestné a může mít za následek vysoké pokuty.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Verstöße gegen diese Vorschriften sind strafbar und können zu hohen Bußgeldern führen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="cs">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="cs">
+        <seg>Spoje a doprava</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Verkehrswege und Materialtransporte</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="cs">
+        <seg>Na stavbě musí být bezpečné komunikace, například schody nebo rampa mezi jednotlivými podlažími.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Auf Baustellen müssen sichere Verkehrswege vorhanden sein, z. B. eine Treppe oder eine Rampe zwischen verschiedenen Ebenen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="cs">
+        <seg>Při vyškových rozdílech větších než deset metrů musí být nainstalován výtah, kdyby jinak zaměstnanec musel často chodit po schodech.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bei Höhenunterschieden von mehr als zehn Metern muss ein Aufzug zur Verfügung stehen, da der Arbeitnehmer ansonsten häufig Treppen steigen müsste.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="cs">
+        <seg>Na staveništi, kde jezdí auta, musí být dostatečné bezpečnostní vzdálenosti nebo ochranná zařízení.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Außerdem müssen ausreichende Sicherheitsabstände oder Schutzvorrichtungen vorhanden sein, wenn Verkehrswege über die Baustelle verlaufen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="cs">
+        <seg>Doprava mezi různými podlažími musí fungovat i bez sejmutí ochranných zábradlí nebo jiných ochranných zařízení.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Materialtransporte zwischen verschiedenen Ebenen müssen ohne Beseitigung der Schutzgeländer oder anderer Schutzvorrichtungen durchführbar sein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="cs">
+        <seg>Není-li toto možné, je nutno dopravu provádět přes nákladové mosty, nákladové otvory ve fasádě, rampy nebo zvláštní dopravní systémy.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Falls dies nicht möglich ist, müssen die Transporte über Aufnahmebrücken, Lade- öffnungen in Fassaden, Rampen oder besondere Förderanlagen erfolgen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="cs">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="cs">
+        <seg>Návody k používání zvedacích zařízení, strojů a některých dalších produktů</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bedienungsanleitung für Hubvorrichtungen, Maschinen und bestimmte andere Produkte</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="cs">
+        <seg>Při dovezení nebo uvedení do provozu ve Švédsku stroje či zvedacího zařízení, musí být k dispozici písemný návod k použití ve švédštině.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn eine Maschine oder eine Hubvorrichtung in Schweden angeliefert oder in Betrieb genommen wird, muss eine schriftliche Bedienungsanleitung auf Schwedisch beigefügt sein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="cs">
+        <seg>Za to odpovídá dodavatel.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Hersteller trägt dafür die Verantwortung.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="cs">
+        <seg>Za dodavatele se počítá i ten, kdo ve Švédsku uvádí stroj do provozu.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Auch eine Person, die eine Maschine zum Einsatz nach Schweden einführt, gilt als Hersteller.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="cs">
+        <seg>Informace o tom, co mají obsahovat návody k použití jsou uvedeny v předpisech Švédského úřadu pro pracovní prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Informationen über den erforderlichen Inhalt einer Bedienungsanleitung können den Maschinenvorschriften des Schwedischen Zentralamts für Arbeitsumwelt entnommen werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="cs">
+        <seg>I pro prefabrikovaná lešení mají být při dodání k dispozici písemné instukce ve švédštině, jež musí být dostupné na pracovišti.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Vorgefertigte Gerüste müssen bei Anlieferung auch mit einer schriftlichen Bedienungsanleitung auf Schwedisch ausgestattet sein, die dann am Arbeitsplatz zur Verfügung stehen muss.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="cs">
+        <seg>Předpisy Švédského úřadu pro pracovní prostředí o lešeních udávají, co instrukce mají obsahovat.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Aus den Vorschriften des Schwedischen Zentralamts für Arbeitsumwelt zu Gerüsten geht hervor, was diese Anweisungen beinhalten müssen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="cs">
+        <seg>Když se při stavebních pracích používají stroj, zvedací zařízení, lešení aj, musí mít zaměstnanci, kterých se to týká, přístup k instrukcím k nim.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn eine Maschine, eine Hubvorrichtung, ein Gerüst oder dergleichen bei den Bauarbeiten verwendet wird, müssen die entsprechenden Anweisungen den davon betroffenen Arbeitnehmern zur Verfügung gestellt werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="cs">
+        <seg>Instrukce musí být v tom jazyku, kterému zaměstnanec rozumí.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Diese Anweisungen müssen zudem in einer Sprache verfasst sein, die der Arbeitnehmer versteht.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="cs">
+        <seg>Označení CE, typové schválení a inspekce zvedacích zařízení, strojů a některých dalších výrobků</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>CE-Kennzeichnung, Typenzulassung und Überprüfung von Hubvorrichtungen, Maschinen und bestimmten anderen Produkten</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="cs">
+        <seg>Nová zvedací zařízení a nové stroje musejí obecně nést označení CE k tomu, aby mohly být používány ve Švédsku.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Neue Hubvorrichtungen und Maschinen müssen für gewöhnlich mit einem CE- Kennzeichen ausgestattet sein, damit sie in Schweden angewendet werden dürfen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="cs">
+        <seg>Prefabrikovaná lešení a žebříky musejí být, pokud jsou dodávány do Švédska, typově kontrolovány (a žebříky také certifikovány) akreditovaným orgánem.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Vor der Anlieferung in Schweden müssen vorgefertigte Gerüste und Leitern eine Typenzulassung, vorgefertigte Leitern können auch eine Zertifizierung, von einem anerkannten Organ erhalten haben.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="cs">
+        <seg>Mnohé stroje a zvedací zařízení musejí být pravidelně kontrolovány, aby mohly být používány.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die meisten Maschinen und Hubvorrichtungen müssen regelmäßig überprüft werden, damit sie zum Einsatz kommen können.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="cs">
+        <seg>Je trestné používat stroje a zvedací zařízení, aniž by byla provedena kontrola nebo pokud nebyly napraveny vytčené nedostatky.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Es ist strafbar, Maschinen und Hubvorrichtungen einzusetzen, wenn die Überprüfung nicht erfolgt ist oder wenn die nachgewiesenen Mängel nicht beseitigt worden sind.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="cs">
+        <seg>Technická prohlídka se musí konat podle švédských předpisů.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die Überprüfung sollte entsprechend der schwedischen Vorschriften erfolgen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="cs">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="cs">
+        <seg>Nač nutno také myslet ...</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Und nicht vergessen...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="cs">
+        <seg>K vážným nehodám může dojít, když skladovaný stavebni materiál, například v důsledku prudkého větru, se dostane do pohybu.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn gelagertes Baumaterial in Bewegung versetzt wird, z. B. durch starken Wind, können schwere Unfälle geschehen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="cs">
+        <seg>Proto je důležité stabilizovat stavební materiál.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Deshalb ist es wichtig, das Material zu stabilisieren.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="cs">
+        <seg>Někdy je také třeba pro stavební dělníky ochrana proti větru a chladu.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Manchmal kann zudem eine Schutzhütte gegen Wind und Kälte für die Bauarbeiter benötigt werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="cs">
+        <seg>Uzavřete a označte místa, kde existuje riziko padajících předmětů.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bereiche, in denen Gefahr durch herabfallende Gegenstände besteht, müssen abgesperrt und gekennzeichnet werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="cs">
+        <seg>Pokud je tam přesto nutné chodit, tak tam musí být ochranné zastřešení.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn man sich dennoch dort aufhalten muss, soll ein Schutzdach angebracht sein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="cs">
+        <seg>Plánujte zemní práce tak, aby půda nebyla vystavena větším zatížením než jaká vydrží.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Erdarbeiten sind so zu planen, dass der Boden den Belastungen standhält.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="cs">
+        <seg>Je-li třeba, musí být na místě ochrana proti sesuvu.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bei Bedarf müssen Maßnahmen zur Erhaltung der Standsicherheit des Erdreichs getroffen werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="cs">
+        <seg>Zkontrolujte, nejsou-li pod zemí vedení nebo nebezpečné látky a aby neexistovalo nebezpečí, že stroje spadnou do jámy.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Außerdem muss überprüft werden, ob Leitungen oder gefährliche Stoffe im Boden vorhanden sind und die Gefahr besteht, dass Maschinen in die Baugrube fallen könnten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="cs">
+        <seg>Automobilová doprava se nesmí dostat do blízkosti vyhloubené jámy.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Fahrzeugverkehr muss einen angemessenen Abstand zu der Baugrube halten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="cs">
+        <seg>Vozidla projížděící kolem stavby představují riziko.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Vorbeifahrender Verkehr stellt für die Arbeiter auf dem Bauplatz eine Gefahr dar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86">
+      <tuv xml:lang="cs">
+        <seg>Především je třeba změnit dopravní trasu.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn möglich, muss der Fahrverkehr umgeleitet werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87">
+      <tuv xml:lang="cs">
+        <seg>Ten, kdo pracuje na místě, jež není odděleno od dopravy, musí nosit oděv s výstražným značením a s reflexními plochami.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wer an einem Platz arbeitet, wo die Umleitung des Fahrverkehrs nicht möglich ist, muss Warnkleidung, die mit gut sichtbaren Reflektoren ausgestattet sind, tragen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88">
+      <tuv xml:lang="cs">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89">
+      <tuv xml:lang="cs">
+        <seg>Když se něco stane</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn etwas passiert</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90">
+      <tuv xml:lang="cs">
+        <seg>Všichni musejí umět rychle a bezpečně vyklidit pracoviště, např. když hoří.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Alle müssen schnell und sicher, z. B. bei einem Brand, den Arbeitsplatz verlassen können.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91">
+      <tuv xml:lang="cs">
+        <seg>Únikové cesty a shromaždiště musí být označeny nápisy.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Fluchtwege und Sammelplätze müssen durch Schilder gekennzeichnet sein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92">
+      <tuv xml:lang="cs">
+        <seg>Únikové dveře se musejí otvírat ven, a hasicí přístroje musejí být snadno dostupné.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Fluchttüren und Notausgänge müssen nach außen zu öffnen sein und Feuerlöschgeräte müssen leicht zugänglich sein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93">
+      <tuv xml:lang="cs">
+        <seg>Je třeba vždy umět poskytnout první pomoc a musejí existovat nápisy, které ukazují, kde je umístěno zařízení pro takovou pomoc.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Es sollte immer eine Möglichkeit geben, Erste Hilfe leisten zu können und es sollten Schilder vorhanden sein, die darauf hinweisen, wo die entsprechende Rettungs- und Hilfsausrüstung und die entsprechenden Hilfsmittel aufbewahrt werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94">
+      <tuv xml:lang="cs">
+        <seg>Vývěska s telefonními čísly na sanitku a záchrannou službu, adresou pracoviště a eventuálně i popis cesty tu také musejí být.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Außerdem sollten Hinweise mit Telefonnummern von Krankenhaus und Not- und Rettungsdienst, Adressen zum Arbeitsplatz und eventuell eine Anfahrtsbeschreibung vorhanden sein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95">
+      <tuv xml:lang="cs">
+        <seg>Nezapomeňte, že ten, kdo volá, se musí umět domluvit se Švédskou záchrannou službou.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Vergessen Sie nicht, dass der Anrufer in der Lage sein muss, mit dem schwedischen Not- und Rettungsdienst (Räddnings- tjänsten) kommunizieren zu können.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96">
+      <tuv xml:lang="cs">
+        <seg>Obyčejně tam rozumějí anglicky.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Dies ist meistens auch auf Englisch möglich.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97">
+      <tuv xml:lang="cs">
+        <seg>Pokud výpadek proudu by mohl způsobit zvláštní rizika při práci, musi být nainstalováno nouzové osvětlení.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn ein Stromausfall besondere Gefahr bei der Arbeit verursachen sollte, ist es wichtig, dass eine Notbeleuchtung vorhanden ist.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98">
+      <tuv xml:lang="cs">
+        <seg>Platí to např. pro práce se stavebními pilami nebo při stavění lešení.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Dies trifft vor allem z. B. auf Arbeiten mit Bausägen oder beim Aufbau von Baugerüsten zu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99">
+      <tuv xml:lang="cs">
+        <seg>Plán pracovního prostředí</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Sicherheits- und Gesundheitsschutzplan</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100">
+      <tuv xml:lang="cs">
+        <seg>Plán pracovního prostředí pro celý objekt je nutno vypracovat ještě před zahájením prací na staveništi.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Bauherr hat schon vor Beginn der Bauarbeiten sicherzustellen, dass ein Sicherheits- und Gesundheitsschutzplan für das ganze Projekt erstellt wird.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="101">
+      <tuv xml:lang="cs">
+        <seg>Dohlédnout na to, že toto bude provedeno, je v první řadě úlohou stavebního koordinátora pro plánování a projektování pracovního prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Es ist in erster Linie die Aufgabe des Sicherheits- und Gesundheitsschutzkoordinators, der für die Planung und Ausführung eingesetzt wurde, dafür zu sorgen, dass ein Sicherheits- und Gesundheitsschutzplan erstellt wird.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="102">
+      <tuv xml:lang="cs">
+        <seg>Stavitel nebo podnikatel, který převzal jeho odpovědnost, jsou také odpovědní vypracovat plán.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Bauherr oder ein Auftragnehmer, der die Aufgaben des Bauherrn übernommen hat, ist auch verantwortlich für die Erstellung des Sicherheits- und Gesundheitsschutzplans.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="103">
+      <tuv xml:lang="cs">
+        <seg>Smyslem je, že plán pracovního prostředí bude potom používán po celou dobu stavby.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Es wird vorausgesetzt, dass dieser Sicherheits- und Gesundheitsschutzplan dann während der ganzen Bauzeit verwendet wird.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="104">
+      <tuv xml:lang="cs">
+        <seg>Jestliže stavební práce budou prováděny na místě, kde současně probíhá jiná činnost, je třeba v plánu pracovního prostředí brát na to ohled.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Außerdem trägt der Sicherheits- und Gesundheitsschutzkoordinator die Verantwortung dafür, dass der Sicherheits- und Gesundheitsschutzplan bei Bedarf veränderten Bedingungen angepasst wird.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="105">
+      <tuv xml:lang="cs">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="106">
+      <tuv xml:lang="cs">
+        <seg>Plán musí obsahovat násle• dující:</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Plan sollte Folgendes beinhalten:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="107">
+      <tuv xml:lang="cs">
+        <seg>Pravidla, jež budou uplatňována na staveništi</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die auf dem Arbeitsplatz geltenden Vorschriften</seg>
+      </tuv>
+    </tu>
+    <tu tuid="108">
+      <tuv xml:lang="cs">
+        <seg>Popis způsobu organizace práce s pracovním prostředí</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Eine Beschreibung, wie die Arbeitssicherheit organisiert wird</seg>
+      </tuv>
+    </tu>
+    <tu tuid="109">
+      <tuv xml:lang="cs">
+        <seg>Popis opatření na ochranu pracovního prostředí, jež je třeba podniknout v průběhu stavebních prací za účelem dosáhnout dobrého pracovního prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Eine Beschreibung der Arbeitsschutzmaßnahmen, die während der Bauzeit getroffen werden, um ein sicheres Arbeitsumfeld zu gewährleisten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="110">
+      <tuv xml:lang="cs">
+        <seg>práce s některými chemickými nebo biologickými látkami</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Arbeiten mit bestimmten chemischen oder biologischen Stoffen</seg>
+      </tuv>
+    </tu>
+    <tu tuid="111">
+      <tuv xml:lang="cs">
+        <seg>práce v blízkosti vedení vysokého napětí</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Arbeiten in der Nähe von Hochspannungsleitungen</seg>
+      </tuv>
+    </tu>
+    <tu tuid="112">
+      <tuv xml:lang="cs">
+        <seg>práce s rizikem utopení</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Arbeiten, bei denen Ertrinkungsgefahr besteht</seg>
+      </tuv>
+    </tu>
+    <tu tuid="113">
+      <tuv xml:lang="cs">
+        <seg>práce ve studnách a tunelech</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Arbeiten in Brunnen und Tunneln</seg>
+      </tuv>
+    </tu>
+    <tu tuid="114">
+      <tuv xml:lang="cs">
+        <seg>práce, kde se používají výbušniny</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Arbeiten, die den Einsatz von Sprengmitteln involvieren</seg>
+      </tuv>
+    </tu>
+    <tu tuid="115">
+      <tuv xml:lang="cs">
+        <seg>práce s montováním těžkých stavebních dílů</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Arbeiten, die die Montage schwerer Bauelemente enthalten</seg>
+      </tuv>
+    </tu>
+    <tu tuid="116">
+      <tuv xml:lang="cs">
+        <seg>práce na místě nebo v oblasti s mimo projíždějící autodopravou bourání nosných konstrukcí nebo odstraňování zdraví škodlivých materiálů nebo látek.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Arbeiten auf einem Platz oder in einem Bereich mit Durchgangsverkehr als auch der Abriss von tragenden Konstruktionen oder von Materialien oder Stoffen, die ein Gesundheitsrisiko darstellen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="117">
+      <tuv xml:lang="cs">
+        <seg>Plánování a informace</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Planung und Informationen</seg>
+      </tuv>
+    </tu>
+    <tu tuid="118">
+      <tuv xml:lang="cs">
+        <seg>Všechny práce je třeba plánovat dostatečně včas a předem posuzovat jejich rizika, aby mohly být provedeny bezpečně.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Alle Arbeiten müssen rechtzeitig geplant und die Risiken frühzeitig beurteilt werden, damit die Arbeiten sicher ausgeführt werden können.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="119">
+      <tuv xml:lang="cs">
+        <seg>Je třeba naplánovat prostory pro boudy, dílny a dočasné sklady, jakož i pro komunikace a dopravu.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Platz für Schuppen, Werkstätten und Lagerstellen sowie für Arbeitswege und Materialtransporte müssen eingeplant werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="120">
+      <tuv xml:lang="cs">
+        <seg>Je důležité vyřešit otázku přístupu ke všem pracovištím.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Es ist wichtig, den Zugang zu allen Arbeitsplätzen im Voraus sicherzustellen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="121">
+      <tuv xml:lang="cs">
+        <seg>Práci je třeba plánovat tak, aby se různé činnosti navzájem nekřížily tak, že by vzniklo nebezpečí poškození zdraví nebo nehod.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die Arbeiten müssen so geplant werden, dass es bei verschiedenen, gleichzeitig ausgeführten Arbeiten nicht zu einer Kollision kommt, die Gesundheitsfährdung oder Unfälle mit sich bringen könnte.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="122">
+      <tuv xml:lang="cs">
+        <seg>Časový plán je zvláště důležitý, jestli je práce rozsáhlá a doba stavby krátká.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die Zeitplanung ist dann besonders wichtig, wenn für umfangreiche Arbeiten nur eine kurze Bauzeit zur Verfügung steht.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="123">
+      <tuv xml:lang="cs">
+        <seg>Je třeba vybírat pracovní metody a zařízení, která:</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Es müssen Arbeitsverfahren und Geräte gewählt werden, die:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="124">
+      <tuv xml:lang="cs">
+        <seg>Zaměstnanci musejí dostat informace o práci, a o tom, jaká opatření ohledně pracovního prostředí byla provedena nebo naplánována a jaká platí pravidla.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die Arbeitnehmer müssen über die Arbeiten, die durchgeführten oder geplanten Sicherheitsmaßnahmen sowie die geltenden Vorschriften informiert werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="125">
+      <tuv xml:lang="cs">
+        <seg>Mohou potřebovat zvláštní školení nebo instrukce, mají-li se používat nové produkty nebo pracovní metody.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Manchmal brauchen die Arbeitnehmer eine besondere Schulung, wenn beispielsweise neue Produkte oder Arbeitsverfahren eingeführt werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="126">
+      <tuv xml:lang="cs">
+        <seg>Na staveništi neustále dochází k rychlým změnám a tak vznikají mnohá rizika.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Auf einer Baustelle kommt es ständig zu schnellen Veränderungen, die viele Risiken mit sich bringen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="127">
+      <tuv xml:lang="cs">
+        <seg>Proto je důležité provádět pravidelné bezpečnostní obchůzky.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Deshalb ist es wichtig, regelmäßige Sicherheitsbegehungen durchzuführen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="128">
+      <tuv xml:lang="cs">
+        <seg>12</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu tuid="129">
+      <tuv xml:lang="cs">
+        <seg>Kdo odpovídá za co?</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wer ist wofür zuständig?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="130">
+      <tuv xml:lang="cs">
+        <seg>Pro vytvoření dobrého pracovního prostředí na staveništi je velmi důležitá preventivní práce ohledně pracovního prostředí a aby všichni účastníci vzali na sebe svou odpovědnost.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Es ist äußerst wichtig, dass vorbeugende Arbeit in Bezug auf Sicherheit und Gesundheitsschutz am Arbeitsplatz geleistet wird und dass jeder Akteur Verantwortung für die Durchführung übernimmt, um ein schonendes und sicheres Arbeitsumfeld auf dem Bauarbeitsplatz zu erreichen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="131">
+      <tuv xml:lang="cs">
+        <seg>Kromě toho je důležité, aby všichni účastníci spolupracovali a aby stavební dělníci se podíleli na této práci.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Eine Voraussetzung dafür ist außerdem eine gute Zusammenarbeit zwischen den verschiedenen Akteuren und dass sich die Bauarbeiter an dieser Arbeit beteiligen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="132">
+      <tuv xml:lang="cs">
+        <seg>Ten, kdo nechává vykonat stavební a konstrukční práce (stavitel), nese hlavní odpovědnost za to, že se bere ohled na pracovní prostředí v průběhu stavby při přípravě stavebního projektu (plánování a projektování).</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Derjenige, der die Bau- oder Anlagenarbeiten ausführen lässt (der Bauherr) trägt die Hauptverantwortung dafür, dass der Arbeitsschutz schon in der Planungsphase (Projektplan und Durchführungsplan) berücksichtigt wird.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="133">
+      <tuv xml:lang="cs">
+        <seg>Stavitel má také odpovědnost za vypracování předběžného oznámení, plánu pracovního prostředí a dokumentace a za jmenování koordinátora pro plánování a projektování stavebního pracovního prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Bauherr ist zudem dafür verantwortlich, dass eine Voranmeldung vorliegt, ein Sicherheits- und Gesundheitsschutzplan sowie eine Dokumentation der Ergebnisse aufgestellt und dass ein Sicherheits- und Gesundheitsschutzkoordinator mit der Planung und Ausführung beauftragt wird.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="134">
+      <tuv xml:lang="cs">
+        <seg>Stavitel má také odpovědnost za to, že stavební a konstrukční práce jsou koordinovány z hlediska pracovního prostředí a musí také jmenovat koordinátora pro vykonávání stavebních a konstrukčních prácí.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Darüber hinaus hat der Bauherr die Aufgabe, dass die Bau- und Anlagenarbei- ten hinsichtlich Sicherheit und Gesundheitsschutz abgestimmt werden und dass ein Sicherheits- und Gesundheitsschutzkoordinator mit der Überwachung der ordnungsgemäßen Abwicklung der Arbeiten beauftragt wird.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="135">
+      <tuv xml:lang="cs">
+        <seg>V určitých případech může stavitel písemnou dohodou přenechat svou odpovědnost za pracovní prostředí dodavateli za tu část stavebního projektu týkající se zakázky.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>In gewissen Fällen kann der Bauherr, in Form eines schriftlichen Vertrages, die Koordinationsverantwortung für Sicherheit und Gesundheitsschutz an eines der Unternehmen übertragen, die an den Arbeiten auf der gemeinsamen Baustelle beteiligt sind.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="136">
+      <tuv xml:lang="cs">
+        <seg>Toto je možné, když zakázka znamená samostatnou odpovědnost za celé plánování a projektování a/nebo provedení celého projektu, například jde-li o generální- nebo totální tendr.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Dies kann jedoch nur dann geschehen, wenn der Bauauftrag die selbstständige Verantwortung für die gesamte Planung und Ausführung und/ oder die gesamte Abwicklung des Projektes durch, z. B. einen Total- oder Generalunternehmer, einschließt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="137">
+      <tuv xml:lang="cs">
+        <seg>Při společném tendru nelze přenechat odpovědnost stavitele.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bei getrennter Vergabe kann die Bauherrenverant- wortung nicht übergeben werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="138">
+      <tuv xml:lang="cs">
+        <seg>Stavební koordinátor pracovního prostředí pro plánování a projektování má koordinovat projektování s ohledem na pracovní prostředí a dohlédnout na to, aby byl vypracován plán pracovního prostředí a dokumentace.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Sicherheits- und Gesundheitsschutzkoordinator, der mit der Planung und Ausführung beauftragt wurde, trägt die Verantwortung dafür, dass die Ausführung hinsichtlich Sicherheit und Gesundheitsschutz eingehalten wird und dass der Sicherheits- und Gesundheitsschutzplan sowie die Dokumentation der Ergebnisse erstellt wird.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="139">
+      <tuv xml:lang="cs">
+        <seg>Všichni, kdo působí na společném pracovišti, musejí dodržovat pravidla pořádku a bezpečnosti práce, vydané stavebním koordinátorem odpovědným za pracovní prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Alle, die auf der Baustelle beschäftigt sind, müssen nach den Ordnungs- und Sicherheitsvorschriften, die der Sicherheits- und Gesundheitsschutzkoordinator aufgestellt, handeln.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="140">
+      <tuv xml:lang="cs">
+        <seg>Každý zaměstnavatel nese hlavní odpovědnost za pracovní prostředí svých zaměstnanců.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Jeder Arbeitgeber trägt die Hauptverantwortung für das Arbeitsumfeld seiner Arbeitnehmer.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="141">
+      <tuv xml:lang="cs">
+        <seg>Odpovědnost zaměstnavatele za vlastní zaměstnance platí v plné míře, i když současně existuje odpovědnost například i u toho, kdo provádí projektaci, u toho, kdo vyrobil stroj, používaný při práci nebo u toho, kdo je stavebním koordinátorem pracovního prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Dies gilt grundsätzlich, selbst wenn es gleichzeitig Teilverant- wortliche, wie beispielsweise das ausführende Unternehmen, den Hersteller von Maschinen, die bei der Arbeit benutzt werden oder die Person, die als Sicherheits- und Gesundheitsschutzkoordinator beauftragt wurde, gibt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="142">
+      <tuv xml:lang="cs">
+        <seg>Samostatní podnikatelé a ti, kdo pracují v rodinných podnicích bez zaměstnanců, musejí při stavebních a konstrukčních prácích v podstatě dodržovat stejná ustanovení, jež platí pro zaměstnavatele a zaměstnance.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Alleinunternehmer und Mitarbeiter in Familienbetrieben ohne Angestellte müssen bei Bau- und Anlagenarbeiten im Prinzip dieselben Bestimmungen einhalten, die auch für Arbeitgeber und Arbeitnehmer gelten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="143">
+      <tuv xml:lang="cs">
+        <seg>Stavební dělníci jsou povinni se účastnit práce na pracovním prostředí, dodržovat předpisy a používat existující ochranné pomůcky a zařízení.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bauarbeiter müssen sich an der Arbeit bezüglich Sicherheit und Gesundheitsschutz beteiligen, die geltenden Gesetze und Vorschriften einhalten und die vorgeschriebenen Schutzvorrichtungen benutzen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="144">
+      <tuv xml:lang="cs">
+        <seg>Bezpečnostní referent zastupuje zaměstnance v otázkách bezpečnosti práce.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Sicherheitsbeauftragte vertritt die Arbeitnehmer in Bezug auf Arbeits- sicherheitsfragen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="145">
+      <tuv xml:lang="cs">
+        <seg>Jestli práce znamená bezprostřední a vážné nebezpečí životu a zdraví a zaměstnavatel okamžitě neodstraní riziko, má bezpečnostní referent právo práci přerušit, zatím co čeká na vyjádření Švédského úřadu pro pracovní prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn von einer Tätigkeit unmittelbare Gefahr für Leben und Gesundheit ausgeht und der Arbeitgeber nicht sofort die Gefahrenquelle beseitigt, hat der Sicherheitsbeauftragte das Recht die Arbeit zu unterbrechen, bis das Schwedische Zentralamt für Arbeitsumwelt hierzu eine Stellungnahme abgegeben hat.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="146">
+      <tuv xml:lang="cs">
+        <seg>Výrobci a dovozci chemických produktů a jiných látek mají podobnou odpovědnost.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Hersteller und Importeure von chemischen Produkten oder anderen Stoffen haben im Prinzip die gleiche Verantwortung.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="147">
+      <tuv xml:lang="cs">
+        <seg>Výrobci, dovozci a pronajímatelé jsou povinni poskytnout informace o produktu potřebné k prevenci špatného zdraví a pracovních úrazů.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Hersteller, Importeure und Vermieter müssen Produktinformationen bereithalten, die für Gesundheitsvorsorge und Unfallverhütung am Arbeitsplatz benötigt werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="148">
+      <tuv xml:lang="cs">
+        <seg>V zákonu o pracovním prostředí jsou ustanovení o odpovědnosti u těch, kdo najímají pracovní síly a u těch, kdo rozhodují na pracovišti.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Für Firmen, die Arbeitskräfte anheuern, und für die Oberaufsicht einer Baustelle enthält das schwedische Arbeitsschutzgesetz besondere Vorschriften.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="149">
+      <tuv xml:lang="cs">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="150">
+      <tuv xml:lang="cs">
+        <seg>Swedish Work Environment Authority, publication services, 112 79 Stockholm.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Swedish Work Environment Authority, publication services, 112 79 Stockholm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="151">
+      <tuv xml:lang="cs">
+        <seg>+46-(0)8-730 97 00</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Tel. +46-(0)8-730 97 00</seg>
+      </tuv>
+    </tu>
+    <tu tuid="152">
+      <tuv xml:lang="cs">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="153">
+      <tuv xml:lang="cs">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+    </tu>
+    <tu tuid="154">
+      <tuv xml:lang="cs">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+    </tu>
+    <tu tuid="155">
+      <tuv xml:lang="cs">
+        <seg>ADI 539 Tje Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>ADI 539 Tys Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T130157Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="ro">
+    <prop type="x-tucount">185</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="ro">
+        <seg>Noi inspectăm mediul de muncă pe şantiere de construcţii şi putem, dacă este nevoie, cere luarea de măsuri pentru ca mediul de muncă să fie acceptabil.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Några av de vanligaste orsakerna är fall till lägre nivå, olämpliga arbetsställ- ningar eller tunga lyft och bärande.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="ro">
+        <seg>Dacă riscurile sunt prea mari putem interzice continuarea lucrărilor până când se implementează măsuri de îmbunătăţire.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljön behöver alltså förbättras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="ro">
+        <seg>Mulţi muncitori constructori sunt expuşi la accidente de muncă şi boli profesionale.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Föreskrifter om byggnads- och anläggningsarbete</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="ro">
+        <seg>Planificarea proastă şi lipsa de timp amplifică riscurile de accidente.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Grundläggande bestämmelser om arbetsmiljön finns i arbetsmiljölagen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="ro">
+        <seg>Exiată legi şi norme de la Administraţia Mediului de Muncă despre modul în care trebuie să se desfăşoare o anumită lucrare de construcţii.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Byggnads- och anläggningsarbete är arbete med byggnader och anläggningar vid</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="ro">
+        <seg>În această broşură puteţi citi despre câteva condiţii minime în acest sens.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>1 § uppförande, ändring, reparation, underhåll och rivning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="ro">
+        <seg>Munca de construire, schimbare, reparare, întreţinere sau demolare de lucrări de construcţii sau inginerie civilă este supusă Legii mediului de muncă [Arbetsmiljö- lagen] şi normelor de construcţii de la Administraţia Mediului de Muncă.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Till byggnads- och anläggningsarbete räknas bland annat hus-, industri-, mark-, tunnel-, bro-, väg-, spår-, rörlednings-, installations- och linjebyggnadsarbete.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="ro">
+        <seg>Deci atât patronii cât şi personalul sunt supuşi acestor reguli, indiferent de statutul lor profesional.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tänk på att även byggnads- och anläggningsarbete under jord och under vatten ingår.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="ro">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="ro">
+        <seg>Reducerea riscului de cădere</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förebygg risken för fall</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="ro">
+        <seg>Căderea este cea mai frecventă cauză de accidente mortale şi alte accidente din şantierele de construcţii.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Fall är den vanligaste orsaken till dödsfall och olyckor på byggarbetsplatsen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="ro">
+        <seg>Riscul de cădere poare fi însă prevenit.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Risken för fall ska vara förebyggd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="ro">
+        <seg>Măsuri de protecţie pot fi necesare şi pentru diferenţe de nivel mai mici dacă, de exemplu, sub locul de muncă se află apă sau obiecte ascuţite.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tänk på att enbart midjebälte i fallutrustningen innebär stor risk för livshotande skador på inre organ om man faller över en kant och blir hängande i linan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="ro">
+        <seg>Parapetele de protecţie trebuie:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Selen kan vara insydd i väst.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="ro">
+        <seg>să fie rezistente</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Jobba säkrare på tak</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="ro">
+        <seg>S-ar putea să fie nevoie de parapete foarte rezistente pentru a putea împiedica o persoană care vine cu viteză mare, alunecând pe un acoperiş abrupt.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om detta inte går att ordna ska lämplig person utses som håller fast linan, lämpligen genom avhåll.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="ro">
+        <seg>Dacă frânghia nu poate fi fixată undeva, aceasta poate fi înfăşurată în jurul unui dispozitiv fix şi menţinută întinsă de o altă persoană.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Att arbeta på ett lutande tak är ansträngande.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="ro">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personlig skyddsutrustning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="ro">
+        <seg>S-ar putea să existe riscul ca picioarele să treacă prin suprafeţe care nu opun o rezistenţă suficientă – blocaţi astfel de suprafeţe.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddshjälm och skyddsskor ska användas om det inte är uppenbart att det är onödigt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="ro">
+        <seg>În cazul în care sunteţi obligat să munciţi pe astfel de suprafeţe, folosoţi dispozitive speciale de protecţie.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Annan personlig skyddsutrustning, till exempel ögonskydd, hörselskydd och handskar, ska användas när det behövs.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="ro">
+        <seg>La anumitee lucrări este bine să folosiţi plase de protecţie.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsnät</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="ro">
+        <seg>Este bine ca o persoană competentă să verifice oichiurile plasei şi montarea acesteia înainte de folosire.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I föreskrifterna finns bestämmelser om hur ett skyddsnät ska vara konstruerat.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="ro">
+        <seg>Dacă o persoană trebuie să lucreze mai mult de patru ore pe o suprafaţă redusă pe un acoperiş, iar înclinarea acoperişului depăşeşte 1:4, trebuie folosit un nivel de muncă orizontal.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Instruktionen ska bland annat beskriva hur nätet är avsett att monteras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="ro">
+        <seg>În mod normal trebuie să se folosească cască şi încălţăminte de protecţie.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Även i föreskrifterna finns bestämmelser om montering.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="ro">
+        <seg>Uneori este nevoie şi de material de protecţie a ochilor, a auzului şi de mănuşi de protecţie.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ett skyddsnät får endast monteras under överinseende av en kompetent person.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="ro">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="ro">
+        <seg>Ridicarea obiectelor grele şi poziţii de muncă neergonomice supun corpul la solicitări</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsräcken har monterats på marken redan före lyft.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="ro">
+        <seg>Munca în construcţii este deseori grea şi supune corpul la solicitări, de aceea există dispozitive de ridicat pentru a transporta materiale de construcţii.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Att nätet åldras medför att töjbarheten hos maskorna minskar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="ro">
+        <seg>Maşinile şi uneltele trebuie să aibă forme ergonomice.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Den tid som ett skyddsnät får användas är därför begränsad.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="ro">
+        <seg>Să lucrezi de pe o scară mai mult timp nu este bine pentru corp.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Se upp för dolda risker!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="ro">
+        <seg>Un nivel plan pe care să stai, cum ar fi platformele cu dispozitive de ridicare şi coborâre, oferă poziţii de muncă mai bune.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ytor som inte har betryggande bärighet ska spärras av och utmärkas om det inte är uppenbart onödigt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="ro">
+        <seg>Muşchii corpului trebuie să se poată reface după eforturi.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om man ändå måste arbeta på en yta med dålig bärighet krävs särskilda skyddsåtgärder.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="ro">
+        <seg>Evitaţi solicitări monotone prin diversificarea muncii.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>60 §</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="ro">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="ro">
+        <seg>Reguli despre substanţe chimice în Suedia</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>45-47 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="ro">
+        <seg>Betonul şi mortarul de ziduri şi fasade conţin ciment, care poate da naştere la răni dacă se folosesc mai mult timp.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Planera arbetet rätt – undvik skadliga belastningar</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="ro">
+        <seg>Printre alte produse care deseori con ţin substanţe nocive se pot menţiona substanţele de lipit, de vopsit, produsele din două componente şi altele.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Byggnadsarbete är ofta tungt och belastande för kroppen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="ro">
+        <seg>În cazul produselor cumpărate în Suedia, fişa de date trebuie să fie scrisă în limba suedeză.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Handhållna maskiner och verktyg ska vara ergonomiskt utformade.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="ro">
+        <seg>Întreprinderile care introduc produse chimice periculoase în Suedia pentru întrebuinţare proprie, au răspunderea ca la locul de muncă să existe informaţii în scris despre riscuri şi protecţie, iar limbajul folosit trebuie să fie înţeles de beneficiari.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>När man arbetar med installationer över axelhöjd, till exempel i tak kan man anpassa arbetshöjden väl om man använder en steglöst höj- och sänkbar plattform.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="ro">
+        <seg>În şantierele de construcţii trebuie săexiste o listă cu toate produsele chimice periculoase.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Använd skivhissar och stativ för skruvdra- gare som avlastar vid arbete i tak.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="ro">
+        <seg>Fiecare loc de muncă are obligaţia respectării acestei norme.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Variera arbetet</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="ro">
+        <seg>Angajatorii trebuie să-i informeze pe angajaţi despre riscurile pe care le implică produsele chimice periculoase şi să fie siguri că angajaţii înţeleg aceste in formaţii.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är viktigt att få möjlighet att återhämta sig efter ansträngning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="ro">
+        <seg>Pentru anumite substanţe sunt valabile reguli deosebit de dure:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Detta tar tid, särskilt om ansträngningen pågått länge.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="ro">
+        <seg>Azbest: Întreprinderile care lucrează cu azbest şi îndepărtează lucrări din acest material trebuie să aibă autorizaţie de la Administraţia Mediului de Muncă.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Exempelvis kan långvarig eller återkommande skruvning med skruvdragare medföra belastningsskada i nacke och skuldra om musklerna i axeln inte hinner återhämta sig.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="ro">
+        <seg>Pentru a primi o astfel de autorizaţie este nevoie de pregătire specială demonstrată prin acte şi de certificat medical.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>När rörelse- variation ges i arbetet sprids belastningen på olika delar av kroppen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="ro">
+        <seg>Material plastic de întărire: Şi pentru munca cu material plastic de întărire (cum ar fi spuma de îmbinare cu conţinut de izocianaţi, lipici şi vopseli pe bază de epoxy, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Bestämmelser om förebyggande åtgärder mot belastningsskador finns i föreskrifterna ”Belastnings- ergonomi” och ”Manuell hantering”.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="ro">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="ro">
+        <seg>Căi de legătură şi transporturi</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förbindelseleder och transporter</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="ro">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="ro">
+        <seg>Ca furnizori se consideră şi cei care aduc o maşină care să fie folosită în Suedia.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Alla ska snabbt och säkert kunna nå säkert område.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="ro">
+        <seg>Informaţii despre ce trebuie să conţină manualele de instrucţiuni se găsesc în normele pentru maşini de la Administraţia Mediului de Muncă.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Särskilt anordnade utrymningsvägar samt återsamlingsplatser ska vara markerade med skyltar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="ro">
+        <seg>Şi schelele prefabricate trebuie să fie însoţite de instrucţiuni în limba suedeză la livrare, iar după aceea, aceste instrucţiuni trebuie să fie accesibile la locurile de muncă.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Dörrar för utrymning ska lätt och omedelbart kunna öppnas utåt i utrymningsriktningen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="ro">
+        <seg>Angajaţii care folosesc maşini, dispozitive de ridicat, schele etc. într-un şantier de construcţii, trebuie să aibă acces la instrucţiunile respective.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personal som är utbildad att ge första hjälpen ska alltid kunna tillkallas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="ro">
+        <seg>Instrucţiunile trebuiesc scrise într-un limbaj pe care angajaţii să-l poată înţelege.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Utrymmen och utrustning för första hjälpen ska vara utmärkta med skyltar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="ro">
+        <seg>Schelele prefabricate şi scările furnizate în Suedia trebuiesc să fie supuse controalelor de tip (iar scările trebuiesc cerificate) de către o insituţie competentă.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om det behövs ska även branddetektorer och alarmsystem finnas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="ro">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="ro">
+        <seg>Mai multe de gândit...</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Kontrollera utrustning och installationer</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="ro">
+        <seg>Când materialeele de construcţii depozitate sunt puse în mişcare, de exemplu din cauza vânturilor puternice, acestea pot produce accidente grave.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Bland annat brandredskap, alarmsystem, elinstallationer, förbindelseleder, trafik- anordningar, skyddsnät och varselmärkning ska kontrolleras och underhållas regelbundet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="ro">
+        <seg>De aceea este important ca materialul să fie stabilizat.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetet får inte starta på nytt innan bristen har rättats till.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="ro">
+        <seg>Uneori, muncitorii constructori pot avea nevoie de protecţie de vânt şi frig.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Lagring och uppställning av material</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="ro">
+        <seg>Dacă deplasarea în aceste zone este inevitabilă, trebuie folosit un acoperiş de protecţie.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Allvarliga olyckor kan hända om uppställda eller staplade byggprodukter kommer i rörelse.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="ro">
+        <seg>Planificaţi munca solului în aşa fel încât solul să nu fie supus la sarcini superioare celor pe care le poate suporta.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om det finns sådana risker ska byggprodukterna stabiliseras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="ro">
+        <seg>Dacă este nevoie, trebuie să existe protecţie împotriva surpărilor.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det kan till exempel gälla spännarmering och fjäderbelastade portar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="ro">
+        <seg>Verificaţi dacă există cabluri sau substanţe periculoase în sol şi să nu fie riscul ca maşinile să cadă în gropi de puţuri.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tänk på att förankringar av byggprodukter med mera måste kunna klara förekommande belastningar på grund av vind.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="ro">
+        <seg>Circulaţia vehiculilor trebuie menţinută la distanţă de astfel de gropi.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>49-50 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="ro">
+        <seg>Circulaţia vehiculelor în şantierele de construcţii constituie un risc.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>55-56 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="ro">
+        <seg>În primul rând trebuie redirecţionată circulaţia.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tänk på vindpåverkan!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="ro">
+        <seg>Cei care muncesc într-un loc care nu poate fi separat de circulaţie trebuie să folosească îmbrăcăminte cu avertizare şi reflexe.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Stödkonstruktion för säker uppställning av t.ex. betongelement, så att ras och glidning förhindras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="ro">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="ro">
+        <seg>Dacă se întâmplă ceva</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>64 §</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="ro">
+        <seg>În caz de incendiu, de exemplu, toţi trebuie să poată părăsi locul de muncă repede şi sigur.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vid arbete utomhus ska arbetstagarna skyddas mot väder och vind med mera som kan vara skadligt för hälsa och säkerhet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="ro">
+        <seg>Totdeauna trebuie să fie uşor de dat primul ajutor şi trebuie să existe indicatoare, care să arate unde sunt spaţii şi echipamente folosite pentru astfel de ajutoare.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>67 § Områden där det finns risk för fallande föremål ska spärras av och markeras på något sätt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="ro">
+        <seg>Gândiţi- vă la faptul că persoana care telefonează trebuie să poată comunica cu personalul de la Serviciul de salvare [Räddningstjänsten].</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om sådana områden måste beträdas så ska skyddstak, täckta gångar eller liknande anordnas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="ro">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="ro">
+        <seg>O descriere a măsurilor cu privire la mediul de muncă ce vor fi luate în cursul procesului de construcţie, pentru a avea un mediu de muncă bun.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Han har också ansvaret för att förhandsanmälan, arbetsmiljöplan och dokumentation upprättas, liksom för att en byggarbetsmiljösamordnare för planering och projektering utses.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="ro">
+        <seg>11</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljöplan</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="ro">
+        <seg>Este important să se rezolve problema accesului la toate locurile de muncă.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>En beskrivning av hur arbetsmiljöarbetet ska organiseras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="ro">
+        <seg>Lucrările trebuesc planificate în aşa fel încât activităţile să nu se suprapună într-o astfel de măsură încât să pericliteze sănătatea sau să dea naştere la accidente de muncă.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>En beskrivning av de arbetsmiljö- åtgärder som vid bland annat följande arbeten ska vidtas under bygg- skedet för att arbetsmiljön ska bli bra:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="ro">
+        <seg>Trebuiesc alese metode de lucru şi echipament tehnic care:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>arbete i närheten av högspänningsledningar,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="ro">
+        <seg>combat accidentele cauzate de căderi sau surpări,</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>arbete som medför risk för drunkning,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="ro">
+        <seg>Angajaţii trebuie să fie informaţi despre lucrări, despre măsurile întreprinse sau planificate pentru mediul de muncă şi despre regulile valabile.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>arbete med montering av tunga byggelement,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="ro">
+        <seg>S-ar putea ca aceştia să aibă nevoie de pregătire specială sau de instrucţiuni despre produse noi sau metodele de muncă ce vor fi folosite.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>arbete på plats eller område med passerande fordonstrafik samt rivning av bärande konstruktioner eller hälsofarliga material eller ämnen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="ro">
+        <seg>De aceea, este important să se efectueze ronduri de protecţie periodice.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>19-23 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="ro">
+        <seg>12</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>45 §</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="ro">
+        <seg>Cine răspunde de ce?</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>48 §</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86">
+      <tuv xml:lang="ro">
+        <seg>Pentru crearea unui mediu de muncă bun în şantierul de construcţii este foarte important să se depună eforturi de prevenire în ceea ce priveşte mediul de muncă şi ca toţi cei implicaţi în aceste activităţi să-şi asume răspundetrea lor.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om byggnads- eller anläggningsarbetet ska utföras på en plats där annan verksamhet kommer att pågå samtidigt ska detta beaktas i arbetsmiljöplanen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87">
+      <tuv xml:lang="ro">
+        <seg>De asemenea, este important ca cei implicaţi în diferite activităţi să coopereze între ei şi ca muncitorii constructori să contribuie la eforturile legate de mediul de muncă.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Byggherren ska, utom vid mindre arbeten, lämna förhandsanmälan till Arbets- miljöverket innan arbetet påbörjas, se 7 § i föreskrifterna.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88">
+      <tuv xml:lang="ro">
+        <seg>Antreprenorul mai are şi răspunderea ca executarea lucrărilor de construcţii şi inginerie civilă să fie coordonată din punctul de vedere al mediului de muncă şi trebuie să numească un coordonator al activităţilor legate de mediul de muncă al construcţiei pentru executarea lucrărilor de construcţii şi inginerie civilă.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det kan vara lämpligt att upprätta en dispositionsplan för arbetsplatsen (APD- plan) när man planerar in till exempel utrymme för bodar, verkstäder och upplag samt för förbindelseleder och transportanordningar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89">
+      <tuv xml:lang="ro">
+        <seg>În cazul antreprenadei parţiale, răspunderea antreprenorului nu poate fi cedată.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Sådana arbetsmetoder och sådan utrustning ska väljas som</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90">
+      <tuv xml:lang="ro">
+        <seg>Proiectanţii (arhitecţi, consulţi şi alţii), au de asemenea răspunderea ca în cadrul misiunii lor mediul de muncă pentru procesul de construcţie să fie tratat în faza de pregătire a proiectului de construcţie</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Begriplig information ska lämnas till arbetstagarna om arbetet och de arbetsmiljö- åtgärder som är vidtagna eller planerade och om vilka regler som gäller.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91">
+      <tuv xml:lang="ro">
+        <seg>13</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>14</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92">
+      <tuv xml:lang="ro">
+        <seg>Celelalte întreprinderi din acelaşi şantier trebuie să comunice coordonatorului mediului de muncă al construcţiei datele referitoare la riscurile speciale care pot apare din cauza activităţii lor în cursul executării lucrării.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Dokumentationen ska därför beskriva objektets konstruktion och utformning samt de byggprodukter som använts.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93">
+      <tuv xml:lang="ro">
+        <seg>Toţi cei care muncesc în acelaşi şantier trebuie să respecte regulile de ordine şi protecţie elaborate de coordonatorul mediului de muncă al construcţiei.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Dokumentationen ska utarbetas av byggarbetsmiljösamordnaren för planering och projektering.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94">
+      <tuv xml:lang="ro">
+        <seg>Fiecare angajator are răspunderea principală a mediului de muncă pentru angajaţii lui.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Byggarbetsmiljösamordnaren för utförandet av arbetet ska se till att erforderliga anpassningar i dokumentationen görs.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95">
+      <tuv xml:lang="ro">
+        <seg>Antreprenorii care lucrează pe cont propriu (ensamföretagare) şi cei care lucrează în întreprinderi de familie, fără a avea angajaţi, trebuie ca în cadrul lucrărilor de construcţii şi inginerie civilă să respecte în mare aceleaşi hotărâri care sunt valabile pentru angajatori şi angajaţi.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om man använder checklistor som anpassats för olika riskområden, verksamheter eller utrustningar så underlättas skyddsrondsarbetet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96">
+      <tuv xml:lang="ro">
+        <seg>Muncitorii constructori trebuie să contribuie la activităţile legate de mediul de muncă, să respecte normele în vigoare şi să folosească echipamentul de protecţie existent.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I skyddsrondsprotokollet är det lämpligt att ta upp både förebyggande och avhjälpande åtgärder.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97">
+      <tuv xml:lang="ro">
+        <seg>Reprezentantul protecţiei îi reprezintă pe angajaţi în probleme legate de protecţie.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>9, 12 b och 14 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98">
+      <tuv xml:lang="ro">
+        <seg>Manufacturierii şi importatorii de produse chimice şi alte substanţe au o răspundere asemănătoare.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Stegar och arbetsbockar AFS 2004:3 Användning av arbetsutrustning AFS 2006:4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99">
+      <tuv xml:lang="ro">
+        <seg>14</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ensamarbete AFS 1982:3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100">
+      <tuv xml:lang="ro">
+        <seg>Legea mediului de muncă [arbetsmiljölagen] conţine şi hotărâri despre răspunderea celui care închiriază forţă de muncă şi a celui care are puterea la un loc de muncă.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>AMP-guiden – byggbranschens handledning för upprättande av arbetsmiljöplaner. www.ampguiden.net</seg>
+      </tuv>
+    </tu>
+    <tu tuid="101">
+      <tuv xml:lang="ro">
+        <seg>15</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu tuid="102">
+      <tuv xml:lang="ro">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Fler exemplar av denna trycksak beställs från Arbetsmiljöverket</seg>
+      </tuv>
+    </tu>
+    <tu tuid="103">
+      <tuv xml:lang="ro">
+        <seg>ADI 539 Rum Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Best nr ADI 539 Vår vision: Alla vill och kan skapa en bra arbetsmiljö</seg>
+      </tuv>
+    </tu>
+    <tu tuid="104">
+      <tuv xml:lang="ro">
+        <seg>Măsuri sistematice pentru protecţia muncii</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Systematiskt arbetsmiljöarbete</seg>
+      </tuv>
+    </tu>
+    <tu tuid="105">
+      <tuv xml:lang="ro">
+        <seg>Obiectivul legii protecţiei muncii este de a preveni accidentele la locul de muncă.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vår arbetsmiljölag är till för att förhindra att människor skadas i arbetet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="106">
+      <tuv xml:lang="ro">
+        <seg>Angajatorul are obligaţia de a lua în considerare toţi factorii care pot afecta sănătatea si siguranţa angajaţilor.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Som arbetsgivare ska du ta hänsyn till alla förhållanden som kan påverka de anställdas hälsa och säkerhet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="107">
+      <tuv xml:lang="ro">
+        <seg>Angajatorul este responsabil de mediul de muncă al tuturor celor care lucrează pentru el.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Du har ansvar för arbetsmiljön för alla som arbetar åt dig.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="108">
+      <tuv xml:lang="ro">
+        <seg>Amendamente la operarea drujbei şi motocoasei</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förändringar vid användning av motorkedjesågar och röjsågar</seg>
+      </tuv>
+    </tu>
+    <tu tuid="109">
+      <tuv xml:lang="ro">
+        <seg>Condiţia cu privire la hainele cu mare vizibilitate.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Krav på varselkläder.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="110">
+      <tuv xml:lang="ro">
+        <seg>Cizme de protecţie/bocanci pentru protecţie la acţiunea drujbei.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsgivaren ansvarar för att varselkläderna uppfyller gällande krav.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="111">
+      <tuv xml:lang="ro">
+        <seg>Pregătire în caz de urgenţe majore</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>(Varselkläder tillverkade enligt standarden SS EN 471 uppfyller kraven.)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="112">
+      <tuv xml:lang="ro">
+        <seg>Munca izolată</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ensamarbete</seg>
+      </tuv>
+    </tu>
+    <tu tuid="113">
+      <tuv xml:lang="ro">
+        <seg>Atunci când angajatul lucrează singur în pădure se impune condiţia deosebită ca acesta să comunice cu lumea înconjurătoare.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vid ensamarbete i skogen finns särskilda krav på kommunikation med omvärlden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="114">
+      <tuv xml:lang="ro">
+        <seg>Este necesar ca liderul de proiect sau un coleg să fie la curent cu locaţia din pădure unde lucrează persoana în cauză.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsledare eller arbetskamrat ska känna till var i skogen personen arbetar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="115">
+      <tuv xml:lang="ro">
+        <seg>În cazul muncii într-o pădure devastată de furtună, este obligatoriu ca persoana în cauză să comunice în mod direct cu un coleg sau cu altă persoană.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbete med stormfälld skog får inte utföras ensamt, personen ska ha direktkontakt med arbetskamrat eller annan person.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="116">
+      <tuv xml:lang="ro">
+        <seg>Spaţiul de care dispun angajaţii</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personalutrymmen</seg>
+      </tuv>
+    </tu>
+    <tu tuid="117">
+      <tuv xml:lang="ro">
+        <seg>Spaţiul este necesar atât pentru confort, cât şi pentru preîntâmpinarea problemelor de sănătate.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personalutrymmen behövs både av komfortskäl och för att minska risken för ohälsa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="118">
+      <tuv xml:lang="ro">
+        <seg>Ar trebui ca distanţa dintre spaţiile de care dispun angajaţii să poată fi parcursă mergând.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det bör vara gångavstånd till personalutrymmen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="119">
+      <tuv xml:lang="ro">
+        <seg>Echipament de protecţie personală</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personlig skyddsutrustning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="120">
+      <tuv xml:lang="ro">
+        <seg>cască de protecţie protecţie auditivă protecţie vizuală</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddshjälm Hörselskydd Ögonskydd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="121">
+      <tuv xml:lang="ro">
+        <seg>trusă de prim ajutor</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Första förband</seg>
+      </tuv>
+    </tu>
+    <tu tuid="122">
+      <tuv xml:lang="ro">
+        <seg>bluză de protecţie sau vestă de protecţie în culori cu mare vizibilitate</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsblus eller skyddsväst med varselfärg</seg>
+      </tuv>
+    </tu>
+    <tu tuid="123">
+      <tuv xml:lang="ro">
+        <seg>mănuşi de protecţie</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetshandskar Skyddsbyxa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="124">
+      <tuv xml:lang="ro">
+        <seg>pantaloni de protecţie</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddskängor/stövlar med sågskydd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="125">
+      <tuv xml:lang="ro">
+        <seg>bocanci de protecţie/cizme pentru protecţie la acţiunea drujbei</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Kemiska risker vid plantering och plantbesprutning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="126">
+      <tuv xml:lang="ro">
+        <seg>Atunci când intraţi în contact cu o substanţă chimică puteţi fi afectat imediat sau vă puteţi îmbolnăvi mult mai târziu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>När du kommer i kontakt med ett kemiskt ämne kan du antingen skadas direkt eller bli sjuk långt senare.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="127">
+      <tuv xml:lang="ro">
+        <seg>Pentru a preveni riscul îmbolnăvirii la locul de muncă, informaţi-vă cu privire la substanţa respectivă şi folosiţi echipament de protecţie conform instrucţiunilor producătorului.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>För att undvika risk för arbetssjukdomar, ta reda på information om ämnet och använd skyddsutrustning enligt tillverkarens råd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="128">
+      <tuv xml:lang="ro">
+        <seg>Pentru mai multe informaţii, consultaţi broşura Administraţiei protecţiei muncii (Arbetsmiljöverket) - „Siguranţa muncii cu plante de pădure tratate şi stropirea după plantare” („Säkert arbete med behandlade skogsplantor och vid besprutning efter plante- ring”).</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljöverkets broschyr ”Säkert arbete med behandlade skogsplantor och vid besprutning efter plantering” innehåller mer information.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="129">
+      <tuv xml:lang="ro">
+        <seg>A se observa că, conform AFS 2012:3, nu este permis ca minorii să lucreze cu pesticide din clasele I şi II.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Observera att minderåriga får enligt AFS 2012:3 inte arbeta med bekämpningsmedel i klass 1 eller 2.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="130">
+      <tuv xml:lang="ro">
+        <seg>Nu este permis nici ca minorii să planteze plante tratate cu aceste pesticide.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>De får inte heller sätta plantor behandlade med dessa bekämpningsmedel.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="131">
+      <tuv xml:lang="ro">
+        <seg>Cui îi este permis să opereze drujba?</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vem får arbeta med motorkedjesåg?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="132">
+      <tuv xml:lang="ro">
+        <seg>Se impune ca persoana în cauză să fi promovat o examinare practică şi teoretică care indică faptul că deţine cunoştinţele necesare îndeplinirii sarcinilor de muncă.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personen ska ha gjort ett teoretiskt och praktiskt prov som visar att han eller hon har kunskaper som motsvarar de arbetsuppgifter som ska utföras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="133">
+      <tuv xml:lang="ro">
+        <seg>Persoana în cauză trebuie să deţină documente care confirmă îndeplinirea condi- ţiilor.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personen ska också ha dokumentation som styrker kraven.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="134">
+      <tuv xml:lang="ro">
+        <seg>Cui îi este permis să opereze motocoasa?</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vem får arbeta med röjsåg?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="135">
+      <tuv xml:lang="ro">
+        <seg>Se impune ca persoana care operează motocoasa să aibă o pregătire profesională pentru acest tip de muncă şi să deţină cunoştinţele necesare.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Den som arbetar med en röjsåg ska ha genomgått en utbildning för den typ av arbete som ska utföras och ha kunskaper för arbetet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="136">
+      <tuv xml:lang="ro">
+        <seg>Atenţie la arbori în cădere!</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Behåll din respekt för fallande träd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="137">
+      <tuv xml:lang="ro">
+        <seg>În fiecare an au loc numeroase accidente soldate cu moartea în timp ce se retează arbori.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Varje år sker flera dödsolyckor vid trädfällning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="138">
+      <tuv xml:lang="ro">
+        <seg>Pagina web a Administraţiei protecţiei muncii (Arbetsmiljöverket)</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljöverkets webbplats</seg>
+      </tuv>
+    </tu>
+    <tu tuid="139">
+      <tuv xml:lang="ro">
+        <seg>Pe pagina noastră web se găseşte cea mai recentă versiune a regulamentului în vigoare, broşuri informative şi cărţi care oferă informaţii cu privire la asigurarea unui mediu al muncii adecvat.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>På vår webbplats finns senaste versionen av alla gällande regler, informationsbroschyrer och böcker som kan vara till hjälp för att skapa en bra arbetsmiljö.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="140">
+      <tuv xml:lang="ro">
+        <seg>Noi emitem de asemenea reguli şi difuzăm informaţii despre mediul de muncă.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Dessa regler gäller för utländska bärplockare</seg>
+      </tuv>
+    </tu>
+    <tu tuid="141">
+      <tuv xml:lang="ro">
+        <seg>Despre ce înseamnă acest lucru poţi citi în cele de mai jos.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vi tar också fram regler och sprider information om arbetsmiljö.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="142">
+      <tuv xml:lang="ro">
+        <seg>Pentrutine, carevreisămunceştica culegătordefructedepădureîn Suedia</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Dessutom är Arbetsmiljöverket förbindelsekontor för utstationeringsfrågor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="143">
+      <tuv xml:lang="ro">
+        <seg>În majoritatea cazurilor cetăţenii din afara EU trebuie să aibă şi o viză de şedere în Suedia.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det betyder bland annat att vi informerar om vad som gäller för utlandsanställda arbetstagare som arbetar tillfälligt i Sverige.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="144">
+      <tuv xml:lang="ro">
+        <seg>Administraţia de migraţie este autoritatea care se ocupă de normele referitoare la permisele de muncă şi cele de şedere.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I de flesta fall behöver medborgare i länder utanför EU även ett visum för att vistas Sverige.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="145">
+      <tuv xml:lang="ro">
+        <seg>Trebuie să faci cerere pentru aceste permise înainte de venirea în Suedia.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är Migrationsverket som har hand om reglerna om arbetstillstånd och uppehållstillstånd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="146">
+      <tuv xml:lang="ro">
+        <seg>Poţi de asemenea să-ţi depui cererea la ambasada sau consulatul Suediei sin ţara în care locuieşti.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Du ska ansöka om tillstånd innan du reser till Sverige.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="147">
+      <tuv xml:lang="ro">
+        <seg>să ai un paşaport valabil,</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>För att få tillstånd krävs det att</seg>
+      </tuv>
+    </tu>
+    <tu tuid="148">
+      <tuv xml:lang="ro">
+        <seg>Caresuntcondiţiiledeangajareînvigoare pentruculegătoriidefructedepădureconforma contractuluicolectivdemuncăsuedez?</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>du har ett giltigt pass,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="149">
+      <tuv xml:lang="ro">
+        <seg>Dacă eşti angajat de o întreprindere străină, care nu are nici o activitate în Suedia, de exemplu o agenţie de joburi, va fi valabil acordul de muncă prin agenţii de joburi.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om du ansöker om arbetstillstånd för kortare tid än tre månader ska du ha en försäkring som täcker kostnader för läkarvård och sjukhusvistelse för tiden du är här.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="150">
+      <tuv xml:lang="ro">
+        <seg>Un culegător de fructe de pădure trebuie deci să câştige cel puţin salariul minim conform contractului colectiv de muncă din Suedia.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är viktigt att du själv tar reda på vilka anställningsvillkor som gäller i det anställningserbjudande som du har fått.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="151">
+      <tuv xml:lang="ro">
+        <seg>Dacă angajatorul tău a semnat acordul cu Svenska kommu- nalarbetarförbundet (Kommunal), acest acord este valabil în întregime.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om problem uppstår med din arbetsgivare i Sverige kan du pröva att vända dig till Svenska Kommunalarbetareförbundet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="152">
+      <tuv xml:lang="ro">
+        <seg>Legea mediului de muncă conţine reguli despre obligaţiu- nile angajatorului şi a altora, care au răspunderea protecţiei prin prevenirea afectării sănătăţii şi accidentelor de muncă.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om du är timanställd innehåller avtalet även uppgifter om vilken lägsta timlön som gäller om man får betalt per timme.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="153">
+      <tuv xml:lang="ro">
+        <seg>Legea orarului de muncă conţine reguli despre cât se poate munci pe zi, pe săptămână şi pe an.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om din arbetsgivare har tecknat avtal med Svenska Kommunalarbetareförbundet gäller avtalet i sin helhet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="154">
+      <tuv xml:lang="ro">
+        <seg>Aceasta se numeşte pauza unei zile şi nopţi.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Avtalet innehåller bestämmelser om minimilöner, arbetstider, försäkringar och mycket annat.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="155">
+      <tuv xml:lang="ro">
+        <seg>Dacă este nevoie, se pot lucra 40 de ore pe săptămână în cursul unei perioade de patru săptămâni.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>På Kommunals webbplats www.kommunal.se finns pdf-broschyren ”Arbeta i Sverige” med mer information om avtalet och dina rättigheter.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="156">
+      <tuv xml:lang="ro">
+        <seg>În mod normal lucrezi 8 ore pe zi.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Broschyren finns på flera olika språk.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="157">
+      <tuv xml:lang="ro">
+        <seg>Orele suplimentare pot ajunge până la cel mult 200 de ore în cursul unui an calendaristic.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Att plocka bär utan att vara anställd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="158">
+      <tuv xml:lang="ro">
+        <seg>Este de datoria Administraţiei mediului de muncă să vegheze ca angajatorii să respecte regulile din legea mediului de muncă şi legea orarului de muncă.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är möjligt för dig som har fått ett visum för släktbesök att plocka bär som privatperson.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="159">
+      <tuv xml:lang="ro">
+        <seg>Inspectorii de la Administraţia mediului de muncă vizitează diferite locuri de muncă şi controlează dacă angajatorii respectă legile.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Inkomster av att plocka bär är skattefria för privatpersoner upp till SEK 12 500 kr per person och år.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="160">
+      <tuv xml:lang="ro">
+        <seg>Contractul colectiv de muncă poate înlocui legea în întregime sau în parte.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljö och arbetstid</seg>
+      </tuv>
+    </tu>
+    <tu tuid="161">
+      <tuv xml:lang="ro">
+        <seg>Administraţia mediului de muncă nu se mai ocupă de legea orarului de muncă dacă problema orarului de muncă este reglementată prin contractul colectiv de muncă.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Din arbetsgivare måste följa bestämmelserna i den svenska arbetsmiljölagen, Arbetsmiljöverkets föreskrifter och arbetstidslagen under den tid som du arbetar i Sverige.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="162">
+      <tuv xml:lang="ro">
+        <seg>În sistemul de securitate socială suedez există anumite avantaje bazate pe muncă, de exemplu plata concediului medical şi a părinţilor cu copii mici, aceste avantaje fiind deci bazate pe faptul că ai un loc de muncă.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljön omfattar allt från att maskiner och redskap fyller de säkerhetskrav som ställts på dem, till att stressnivån inte är för hög.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="163">
+      <tuv xml:lang="ro">
+        <seg>Persoanele care muncesc doar ocazional în Suedia în mod normal nu beneficiază de acest sistem de avantaje.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetstidslagen innehåller regler om hur mycket du får arbeta per dygn, vecka och år.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="164">
+      <tuv xml:lang="ro">
+        <seg>Försäkringskassan [Casa generală de asigurări sociale] este cea care decide dacă o persoană este asigurată în Suedia şi are drept la avantaje.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Den ordinarie arbetstiden får uppgå till högst 40 timmar i veckan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="165">
+      <tuv xml:lang="ro">
+        <seg>Te poţi înscrie benevol la Försäkringskassan când vii în Suedia să munceşti.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>När det behövs får arbetstiden vara 40 timmar i veckan i genomsnitt under en fyraveckorsperiod.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="166">
+      <tuv xml:lang="ro">
+        <seg>Înscrierea nu influenţează eventualele drepturi la avantaje.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Normalt arbetar du 8 timmar per dag.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="167">
+      <tuv xml:lang="ro">
+        <seg>Veniturile sunt neimpozabile cu condiţia ca munca să nu depăşească 183 de zile în cursul unei perioade de un an.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är Arbetsmiljöverkets uppgift att se till att arbetsgivare följer reglerna i arbetsmiljölagen och arbetstidslagen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="168">
+      <tuv xml:lang="ro">
+        <seg>I se impun însă condiţii şi angajatorului.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljöverkets inspektörer besöker olika arbetsplatser och kontrollerar att arbetsgivare följer lagarna.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="169">
+      <tuv xml:lang="ro">
+        <seg>Pentru ca excepţia să fie valabilă angajatorul nu trebuie să aibă un loc de activitate fix în Suedia.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om arbetsmiljölagen inte följs kan exempelvis vissa arbetsuppgifter förbjudas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="170">
+      <tuv xml:lang="ro">
+        <seg>Un loc de activitate fix poate fi un birou, o fabrică sau altceva asemănător.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om du tror att din arbetsgivare bryter mot bestämmelserna ska du kontakta Arbetsmiljöverket.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="171">
+      <tuv xml:lang="ro">
+        <seg>Dacă angajatorul tău are un loc de activitate fix în Suedia, dacă stai în Suedia cel mult şase luni, tu trebuie să plăteşti impozit special în Suedia, aşa numitul „SINK”.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Du kan också kontakta Kommunal, som har regionala skyddsombud som övervakar att arbetsmiljön är bra. 3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="172">
+      <tuv xml:lang="ro">
+        <seg>Rata acestui impozit este de 25 %.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetstidslagen kan avtalas bort genom kollektivavtal.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="173">
+      <tuv xml:lang="ro">
+        <seg>După şase luni, din punctul de vedere al impozitului, eşti considerat ca fiind stabilit în Suedia şi plăteşti impozit după regulile normale.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljöverket har inte tillsyn över arbetstidslagen när arbetstidsfrågan regleras i kollektivavtal.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="174">
+      <tuv xml:lang="ro">
+        <seg>Acesta va fi cazul şi dacă şederile tale în Suedia sunt repetate.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Då kan Arbetsmiljöverket inte heller tillåta undantag från vissa av lagens regler.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="175">
+      <tuv xml:lang="ro">
+        <seg>Detaşare</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om du blir sjuk</seg>
+      </tuv>
+    </tu>
+    <tu tuid="176">
+      <tuv xml:lang="ro">
+        <seg>În legea suedeză există hotărâri speciale în cazul în care eşti detaşat, deci dacă angajatorul tău din ţara mamă te trimite să lucrezi temporar în Suedia.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I det svenska socialförsäkringssystemet finns arbetsbaserade förmåner, till exempel sjukpenning och föräldrapenning, som bygger på att du har ett arbete.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="177">
+      <tuv xml:lang="ro">
+        <seg>Pentru forţa de muncă detaşată există de exemplu hotărâri privitoare la concediul de odihnă şi cel de maternitate.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personer som endast arbetar tillfälligt i Sverige omfattas vanligtvis inte av dessa förmåner.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="178">
+      <tuv xml:lang="ro">
+        <seg>Administraţia mediului de muncă constituie de asemenea biroul de legătură în probleme legate de detaşare şi îţi poate da informaţii despre drepturile pe care le ai.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om du istället är anställd av en svensk arbetsgivare ska den svenska socialförsäkringen gälla för dig, i alla fall i fråga om arbetsbaserade förmåner.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="179">
+      <tuv xml:lang="ro">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Anmälan påverkar inte den eventuella rätten till förmåner.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="180">
+      <tuv xml:lang="ro">
+        <seg>Poliţia</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Utstationering</seg>
+      </tuv>
+    </tu>
+    <tu tuid="181">
+      <tuv xml:lang="ro">
+        <seg>Tfn: +46-(0)77-114 14 00 (non-emergency) www.polisen.se</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>För utstationerad arbetskraft gäller svenska bestämmelser om exempelvis semester och föräldraledighet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="182">
+      <tuv xml:lang="ro">
+        <seg>Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljöverket är så kallat förbindelsekontor för utstationeringsfrågor och kan lämna information om vilka rättigheter du har.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="183">
+      <tuv xml:lang="ro">
+        <seg>Tfn: +46-(0)10-442 70 00 www.kommunal.se</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Läs mer om utstationering på www.posting.se .</seg>
+      </tuv>
+    </tu>
+    <tu tuid="184">
+      <tuv xml:lang="ro">
+        <seg>Administraţiafiscală</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Workinginsweden.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="185">
+      <tuv xml:lang="ro">
+        <seg>Ministruldeexterne</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Utrikesdepartementet</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

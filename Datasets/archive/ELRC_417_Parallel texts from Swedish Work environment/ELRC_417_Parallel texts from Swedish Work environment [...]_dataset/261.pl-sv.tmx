@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T130149Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="pl">
+    <prop type="x-tucount">79</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="pl">
+        <seg>Spis treści</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Innehållsförteckning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="pl">
+        <seg>Odśnieżanie dachów to niebezpieczne przedsięwzięcie 3</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Snöskottning från tak är ett riskfyllt arbete 3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="pl">
+        <seg>Odpowiedzialność firmy podczas odśnieżania dachów 4</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Ansvar för företag som skottar tak 4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="pl">
+        <seg>Odpowiedzialność wykonawcy 4</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Arbetstagarens ansvar 4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="pl">
+        <seg>Ochrona osobista przed upadkiem 5</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Personligt fallskydd 5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="pl">
+        <seg>Praca zespołowa 5</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Det samspelta arbetslaget 5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="pl">
+        <seg>Bezpieczniejsze odśnieżanie 6</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Säkrare snöskottning 6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="pl">
+        <seg>Lawiny śnieżne 8</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Snöras/lavinfara 8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="pl">
+        <seg>Praca na dachach o małym nachyleniu 9</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Arbete på låglutande tak 9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="pl">
+        <seg>Odgradzanie obszaru zagrożenia 10</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Avspärrning av riskområde 10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="pl">
+        <seg>Znaczenie systemu sygnalizacji 11</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Vikten av signalsystem 11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="pl">
+        <seg>Obrażenia u osób trzecich 11</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Skador på tredje man 11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="pl">
+        <seg>Niniejsza broszura została przygotowana we współpracy z centralną komisją ds. środowiska pracy branży żelaznej i wentylacyjnej.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Broschyren är framtagen i samråd med Plåt- och Ventilationsbranschernas Centrala Arbetsmiljökommitté.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="pl">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="pl">
+        <seg>Odśnieżanie dachów — ryzykowne przedsięwzięcie</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Snöskottning från tak – ett riskfyllt arbete</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="pl">
+        <seg>Przyczyną wielu poważnych wypadków był śnieg i lód spadający z dachów.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Snö och is som rasar från tak har orsakat många allvarliga olyckor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="pl">
+        <seg>Praca na dachach jest zawsze ryzykowna, a mróz i lód w okresie zimowym sprawiają, że staje się jeszcze bardziej niebezpieczna. Praca na nachylonych i śliskich powierzchniach z użyciem wyłącznie środków ochrony indywidualnej wywołuje również duże obciążenie na ciało.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Arbete på lutande och halt underlag med enbart personlig skyddsutrustning ger dessutom stor påfrestning på kroppen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="pl">
+        <seg>Postanowienia dotyczące planowania i realizacji prac związanych z odśnieżaniem dachów można znaleźć w dokumencie Building and Civil Engineering Work, AFS 1999:3</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Bestämmelser om planering och utförande av snöskottning på tak finns i reglerna om byggnads- och anläggningsarbete, AFS 1999:3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="pl">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="pl">
+        <seg>Odpowiedzialność firmy podczas odśnieżania dachów</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Ansvar för företag som skottar tak</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="pl">
+        <seg>Przedsięwzięcia związane z usuwaniem śniegu z dachów budynków muszą być realizowane zgodnie z obowiązkami określonymi w szwed­ zkiej ustawie o środowisku pracy (SFS 1977:1160) i powinny zawierać pisemną ocenę ryzyka zgodnie z ustawą Systematic Work Environment Management AFS 2001:01, sekcja 8.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Ett företag som åtar sig att skotta snö från hustak ska agera utifrån sitt arbetsmiljöansvar enligt arbetsmiljölagen (SFS 1977:1160) och upprätta en skriftlig riskbedömning enligt systematiskt arbetsmiljöarbete AFS 2001:01, 8 §.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="pl">
+        <seg>Odpowiedzialność zleceniodawcy</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Arbetsgivarens ansvar</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="pl">
+        <seg>Poniżej przedstawiono punkty związane z odpowiedzialnością zlecenio­ dawcy w zakresie odśnieżania dachów budynków:</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>En arbetsgivare som åtar sig snöskottning från hustak har följande skyldigheter:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="pl">
+        <seg>Dach należy sprawdzić przed rozpoczęciem pracy przez personel.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Förvissa sig om att takets säkerhetsanordningar är i gott skick.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="pl">
+        <seg>Należy zapewnić, że środki bezpieczeństwa na dachu są w dobrym stanie. W niektórych przypadkach konieczne może być umieszczenie dodatkowych elementów zwiększających bezpieczeństwo na dachu.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Det kan ibland finnas anledning till att ställa kompletterande krav på taksäkerheten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="pl">
+        <seg>Należy się upewnić, że pracownicy dysponują wiedzą i są zaznajomieni z elementami, które należy obserwować w celu uniknięcia niebezpieczeństwa.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Informera de som ska utföra snöskottningen om riskerna i arbetet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="pl">
+        <seg>Należy zapewnić środki ochrony indywidualnej, które są odpowiednie dla wykonywanej pracy – ochronę przed upadkiem, kask ochronny i gogle – i sprawdza, czy sprzęt jest używany.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Förvissa sig om att arbetstagarna har kunskaper och nödvändig kännedom om vad de måste iaktta för att undgå riskerna.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="pl">
+        <seg>Należy zapewnić kamizelki odblaskowe i środki łączności dla pracowników na dachu, a w razie konieczności wyznaczyć dodatkowego obserwatora.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Tillhandahålla signalväst samt kommunikationsutrustning för takskottare och vakt när det behövs.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="pl">
+        <seg>Głównym czynnikiem bezpieczeństwa jest fakt, że praca jest wykony­ wana przez dwie doświadczone osoby na dachu i przynajmniej jednego nadzorcę ruchu na ziemi. Ważne jest również nadzorowanie pracy przez personel o dużej wiedzy na temat pracy na dachach.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>En mycket viktig säkerhetsfaktor är att arbetet utförs av ett samspelt arbetslag med två yrkeskunniga personer på taket och minst en trafikvakt på gatan/marken.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="pl">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="pl">
+        <seg>Odpowiedzialność wykonawcy</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Arbetstagarens ansvar</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="pl">
+        <seg>Wykonawca powinien przestrzegać stosownych przepisów, korzystać ze sprzętu ochronnego i zachowywać niezbędną uwagę.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Arbetstagaren ska följa de regler som gäller, använda de skyddsanordningar som finns och iaktta den försiktighet som krävs.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="pl">
+        <seg>Jeśli praca wiąże się z bezpośrednim i poważnym niebezpieczeństwem dla życia i zdrowia, wykonawca powinien natychmiast poinformować zleceniodawcę lub specjalistę ds. bezpieczeństwa. Pracownicy są upoważnieni do wstrzymania pracy podczas oczekiwania na odpowiedź.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Innebär arbetet omedelbar och allvarlig fara för liv och hälsa ska arbetstagaren omedelbart underrätta arbetsgivaren eller skydds- ombudet om detta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="pl">
+        <seg>Ochrona osobista przed upadkiem — ubezpieczenie na życie</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Personligt fallskydd – en livförsäkring</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="pl">
+        <seg>Uprzęże i liny powinny być przechowywane w suchym, ciemnym i przewietrzonym miejscu, w zawieszeniu.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Selar och linor ska förvaras upphängda torrt, mörkt och ventilerat.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="pl">
+        <seg>Wyposażenie, które jest naderwane, ma wadliwe szwy, uszkodzenia mechaniczne lub rdzę, musi zostać zniszczone.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Utrustning som har skärskador, trasiga sömmar, mekaniska fel eller rostangrepp ska kasseras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="pl">
+        <seg>Liny, które zostały opuszczone zza krawędzi dachu, muszą zostać zniszczone.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Lina som varit utsatt för fritt fall över takkant ska kasseras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="pl">
+        <seg>Praca zespołowa</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Det samspelta arbetslaget</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="pl">
+        <seg>„Człowiek na ulicy”</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>”Personen på gatan”</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="pl">
+        <seg>Musi być wyposażony w kask ochronny, kamizelkę odblaskową i urządzenie sygnalizacyjne w celu zachowania łączności z ludźmi na dachu, gwizdek, syrenę lub telefon.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Ska vara utrustad med skyddshjälm, signalväst och signalanordning samt kommunikationsutrustning till skottarna på taket; visselpipa, siren eller telefon.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="pl">
+        <seg>„Pracownicy na dachu”</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>”Personerna på taket”</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="pl">
+        <seg>Muszą być wyposażeni w liny i uprzęże bezpieczeństwa, ochronę wzroku przed odłamkami lodu, łopatę z paskiem na nadgarstek, mały młotek do kruszenia lodu z paskiem na nadgarstek, ciepłą, elastyczną odzież, odpowiednie obuwie i sprzęt do łączności ze strażnikiem na ulicy.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Ska vara utrustade med lina och säkerhetssele, ögonskydd mot is- splitter, snöskyffel med handlovs- rem, lätt slägga med handlovs- rem för att spräcka is samt varma, smidiga kläder, lämpliga skor och kommunikationsutrustning till vakten på gatan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="pl">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="pl">
+        <seg>Bezpieczniejsze odśnieżanie dachów</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Säker snöskottning av tak</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="pl">
+        <seg>W takim przypadku należy zastosować znaki ostrzegawcze, informujące o przewodach cieplnych w punkcie wejścia na dach.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>I så fall måste det finnas en varningsskylt om värmekablar vid uppstigningsstället till taket.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="pl">
+        <seg>Stałe urządzenia zabezpieczające muszą zostać sprawdzone przed rozpoczęciem prac. Wszelkie świetliki pokryte śniegiem muszą zostać oznaczone.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Innan skottningen påbörjas ska fasta skyddsanordningar kontrolleras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="pl">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="pl">
+        <seg>W normalnych okolicznościach dach powinny odśnieżać dwie osoby. Jedna osoba powinna przesuwać punkty mocowania lin i zachowywać naprężenie, natomiast druga powinna prowadzić prace związane z odśnieżaniem.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>En person flyttar förankringspunkt för linan och håller linan sträckt, medan den andre utför snöskottningen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="pl">
+        <seg>Można to zrobić, jeśli na dachu zamontowano poręcz na wysokości metra nad rynną oraz drabinkę ciągnącą się od krawędzi do rynny na każdym nachyleniu dachu. W przeciwnym razie śnieg i lód znów zsuną się do rynny.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>I annat fall kan snö och is glida ner i fotrännan igen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="pl">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="pl">
+        <seg>Lawiny śnieżne</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Snöras och lavinfara</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="pl">
+        <seg>Na ryzyko lawin i formowania się lodu w rynnach i rurach ma wpływ również kierunek dachu i promieniowanie słoneczne.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Takets läge i förhållande till väderstreck samt solinstrålning påverkar också risken för snöras samt isbildning i rännor och rör.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="pl">
+        <seg>Pamiętaj, że…</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>…</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="pl">
+        <seg>… współpraca między pracownikami na dachu jest ważnym czynnikiem bezpieczeństwa. Lina powinna być zawsze naprężona i zamocowana powyżej osoby odśnieżającej.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>samarbetet mellan snöskottarna uppe på taket är en mycket viktig säkerhetsfaktor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="pl">
+        <seg>Pamiętaj również, że…</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>…</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="pl">
+        <seg>… sople spadają pionowo w dół z potężną siłą. Śnieg zsuwa się wzdłuż nachylenia i może spadać z dala od budynku..</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>istappar faller rakt ner med stor kraft.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="pl">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="pl">
+        <seg>Dachy o nachyleniu płaskim poniżej 6˚</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Låglutande tak under 6˚</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="pl">
+        <seg>Podczas pracy z boku na bok należy wziąć pod uwagę efekt wahadła!</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Här kan flera personer utföra snöskottningen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="pl">
+        <seg>Pracownik może regulować długość liny zabezpieczającej za pomocą klamry regulującej.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Förankra så nära vertikallinjen som möjligt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="pl">
+        <seg>NB!</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>OBS!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="pl">
+        <seg>Należy używać uprzęży bezpieczeństwa, a nie pasa.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Använd säkerhetssele, ej midjebälte.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="pl">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="pl">
+        <seg>Odgradzanie obszaru zagrożenia</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Avspärrning av riskområde</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="pl">
+        <seg>Odśnieżanie dachów to duże wymogi w zakresie bezpieczeństwa stref zagrożenia, sygnalizacji i nadzorców.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Snöskottning från tak ställer stora krav på avskärmning, skyltning och säkerhetsvakt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="pl">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="pl">
+        <seg>Najważniejszy jest dobry system sygnalizacji</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Viktigt med ett bra signalsystem</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="pl">
+        <seg>Sygnalizacja między pracownikami na dachu i nadzorcą ruchu na ulicy jest wyjątkowo ważna, aby możliwe było unikanie wypadków.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Signalerna måste gå fram klart och tydligt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="pl">
+        <seg>Sygnały należy przekazywać wyraźnie. W tym celu należy korzystać z gwizdka, syreny, telefonu lub radia.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>För att klara detta behövs visselpipa, siren, telefon eller kommunikationsradio.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="pl">
+        <seg>Każdy członek zespołu musi wiedzieć, jak interpretować takie sygnały. Aby bezpiecznie odśnieżać dach i usuwać lód, można używać następujących sygnałów:</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Alla i snöskottarlaget måste veta hur signalerna ska tolkas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="pl">
+        <seg>Jeden sygnał – Stop!</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>En signal – Stopp!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="pl">
+        <seg>Dwa sygnały – Praca!</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Två signaler – Kom igen!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="pl">
+        <seg>Obrażenia u osób trzecich</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Skador på tredje man</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="pl">
+        <seg>Obrażenia osób i uszkodzenia sprzętu nie są objęte szwedzką ustawą o środowisku pracy. Firma usuwająca śnieg ponosi jednak odpowiedzialność zgodnie z innymi przepisami.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Skador på boende och allmän egendom regleras inte i arbetsmiljö- lagens bestämmelser.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="pl">
+        <seg>Wypadki nie muszą mieć miejsca, jeśli wszystko od początku do końca wykonywane było prawidłowo.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Om allt görs rätt från början till slut behöver det inte inträffa några olyckor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="pl">
+        <seg>11</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="pl">
+        <seg>Kolejne kopie tej publikacji należy zamówić w:</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Fler exemplar av denna trycksak beställs från Arbetsmiljöverkets publikationsservice</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="pl">
+        <seg>Tel.: +46 (0)10-730 90 00 www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Tel: 010-730 90 00 www.av.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="pl">
+        <seg>ADI 660 Nasza wizja: Każdy chce i może stworzyć dobre środowisko pracy</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Best nr ADI 660 Vår vision: Alla vill och kan skapa en bra arbetsmiljö</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

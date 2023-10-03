@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T125914Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="es">
+    <prop type="x-tucount">115</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="es">
+        <seg>Índice</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Innehållsförteckning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="es">
+        <seg>Quitar nieve de los tejados es una ocupación de riesgo 3</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Snöskottning från tak är ett riskfyllt arbete 3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="es">
+        <seg>Responsabilidad de la empresa al quitar nieve de los tejados 4</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Ansvar för företag som skottar tak 4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="es">
+        <seg>Responsabilidad legal del empleado 4</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Arbetstagarens ansvar 4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="es">
+        <seg>Proyección de caída personal 5</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Personligt fallskydd 5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="es">
+        <seg>Trabajo en equipo 5</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Det samspelta arbetslaget 5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="es">
+        <seg>Quitar nieve de forma segura 6</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Säkrare snöskottning 6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="es">
+        <seg>Deslizamientos de nieve/avalanchas 8</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Snöras/lavinfara 8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="es">
+        <seg>Trabajar en tejados con poca inclinación 9</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Arbete på låglutande tak 9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="es">
+        <seg>Acordonar la zona de riesgo 10</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Avspärrning av riskområde 10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="es">
+        <seg>La importancia de un sistema de señalización 11</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Vikten av signalsystem 11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="es">
+        <seg>Daños a terceros 11</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Skador på tredje man 11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="es">
+        <seg>Este folleto se ha producido en cooperación con el comité de entorno laboral central del sector del hierro y la ventilación.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Broschyren är framtagen i samråd med Plåt- och Ventilationsbranschernas Centrala Arbetsmiljökommitté.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="es">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="es">
+        <seg>La finalidad de este folleto es mejorar las precauciones de seguridad de las personas que quiten nieve de los tejados de los edificios.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Syftet med denna skrift är att förbättra säkerheten för de personer som utför snöskottning från tak.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="es">
+        <seg>Quitar nieve de los tejados: una ocupación de riesgo</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Snöskottning från tak – ett riskfyllt arbete</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="es">
+        <seg>La nieve y el hielo que caen de los tejados han provocado muchos accidentes graves.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Snö och is som rasar från tak har orsakat många allvarliga olyckor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="es">
+        <seg>Siempre conlleva un riesgo trabajar en un tejado, pero el clima frío y el hielo en invierno lo hacen aún más peligroso.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Att arbeta på tak är alltid riskfyllt, men på vintern gör is och kyla att det blir extra farligt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="es">
+        <seg>Trabajar en superficies inclinadas y resbaladizas usando solo equipo de protección personal también ejerce una alta carga en el cuerpo.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Arbete på lutande och halt underlag med enbart personlig skyddsutrustning ger dessutom stor påfrestning på kroppen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="es">
+        <seg>Las condiciones para la planificación y la ejecución de la limpieza de nieve en los tejados se puede encontrar en la legislación sueca sobre trabajos de construcción e ingeniería civil, AFS 1999:3.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Bestämmelser om planering och utförande av snöskottning på tak finns i reglerna om byggnads- och anläggningsarbete, AFS 1999:3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="es">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="es">
+        <seg>Responsabilidad de la empresa al quitar nieve de los tejados</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Ansvar för företag som skottar tak</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="es">
+        <seg>Una empresa que limpia la nieve de los tejados de los edificios debe hacerlo bajo la responsabilidad legal determinada en la ley sueca de entornos laborales (SFS 1977:1160) y establecer una evaluación de riesgo escrita en cumplimiento con la gestión sistemática del entorno laboral AFS 2001:01, sección 8.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Ett företag som åtar sig att skotta snö från hustak ska agera utifrån sitt arbetsmiljöansvar enligt arbetsmiljölagen (SFS 1977:1160) och upprätta en skriftlig riskbedömning enligt systematiskt arbetsmiljöarbete AFS 2001:01, 8 §.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="es">
+        <seg>Responsabilidad legal del empresario</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Arbetsgivarens ansvar</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="es">
+        <seg>Los siguientes puntos son responsabilidad del empresario encargado de la retirada de nieve de los tejados de los edificios:</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>En arbetsgivare som åtar sig snöskottning från hustak har följande skyldigheter:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="es">
+        <seg>Inspeccionar el tejado antes de que el personal empiece a trabajar.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Undersöka taken innan anställd personal påbörjar sitt arbete.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="es">
+        <seg>Asegurar que las características de seguridad del tejado están en buen estado.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Förvissa sig om att takets säkerhetsanordningar är i gott skick.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="es">
+        <seg>En algunos casos puede que sean necesarios requisitos adicionales para asegurar que el tejado es seguro.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Det kan ibland finnas anledning till att ställa kompletterande krav på taksäkerheten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="es">
+        <seg>Informar a los trabajadores de los riesgos existentes al quitar nieve del tejado.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Informera de som ska utföra snöskottningen om riskerna i arbetet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="es">
+        <seg>Asegurar que los empleados tengan el suficiente conocimiento y estén lo suficientemente familiarizados con lo que deben respetar para evitar riesgos.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Förvissa sig om att arbetstagarna har kunskaper och nödvändig kännedom om vad de måste iaktta för att undgå riskerna.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="es">
+        <seg>Ofrecer equipos de protección personal adecuados y aprobados para este trabajo – protección contra caídas, casco protector y gafas protectoras – y verifique que el equipo esté utilizado.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Tillhandahålla för arbetet lämplig och godkänd personlig skyddsutrustning – fallskydd, skyddshjälm, skyddsglasögon – samt kontrollera att utrustningen används.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="es">
+        <seg>Proporcionar chaquetas reflectantes y equipos de comunicación para los empleados que trabajen en el tejado y vigilantes si es necesario.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Tillhandahålla signalväst samt kommunikationsutrustning för takskottare och vakt när det behövs.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="es">
+        <seg>Un factor de seguridad importante es que el trabajo lo realice un equipo bien formado, con dos personas expertas en el tejado y al menos un vigilante de tráfico en la calle.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>En mycket viktig säkerhetsfaktor är att arbetet utförs av ett samspelt arbetslag med två yrkeskunniga personer på taket och minst en trafikvakt på gatan/marken.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="es">
+        <seg>También es fundamental que el trabajo esté supervisado por personal que tenga excelentes conocimientos acerca de cómo se trabaja en tejados.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Det är också mycket viktigt att arbetet leds av personal med stor takvana.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="es">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="es">
+        <seg>Responsabilidad legal del empleado</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Arbetstagarens ansvar</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="es">
+        <seg>El empleado seguirá las normas correspondientes, usará los dispositivos de protección provistos y tomará las precauciones necesarias.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Arbetstagaren ska följa de regler som gäller, använda de skyddsanordningar som finns och iaktta den försiktighet som krävs.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="es">
+        <seg>Si el trabajo supone un peligro inmediato y serio para la vida y la salud, el empleado informará al empresario o al encargado de seguridad inmediatamente.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Innebär arbetet omedelbar och allvarlig fara för liv och hälsa ska arbetstagaren omedelbart underrätta arbetsgivaren eller skydds- ombudet om detta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="es">
+        <seg>Los empleados tienen derecho a dejar de trabajar mientras esperan una respuesta.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>I väntan på besked har man rätt att avbryta arbetet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="es">
+        <seg>Protección personal contra caídas: seguro de vida</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Personligt fallskydd – en livförsäkring</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="es">
+        <seg>Asegúrese de que las costuras de los arneses de protección estén en buen estado y de que no hay nada dañado.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Kontrollera säkerhetsselens sömmar och att övriga detaljer är oskadade.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="es">
+        <seg>Asegúrese de que los cabos y los dispositivos de ajuste no estén dañados y de que funcionen bien.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Kontrollera att lina och justeringsanordning är oskadade och fungerar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="es">
+        <seg>Para almacenar los arneses y los cabos, se colgarán en un lugar seco, oscuro y ventilado.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Selar och linor ska förvaras upphängda torrt, mörkt och ventilerat.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="es">
+        <seg>El equipo que esté roto, que tenga costuras defectuosas, problemas mecánicos o que esté oxidado debe destruirse.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Utrustning som har skärskador, trasiga sömmar, mekaniska fel eller rostangrepp ska kasseras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="es">
+        <seg>Los cabos que se hayan dejado caer por el borde de un tejado deben destruirse.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Lina som varit utsatt för fritt fall över takkant ska kasseras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="es">
+        <seg>Equipo de trabajo</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Det samspelta arbetslaget</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="es">
+        <seg>”El trabajador que está en la calle”</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>”Personen på gatan”</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="es">
+        <seg>Estará equipado con un casco protector, una chaqueta reflectante y un dispositivo de señalización, así como con algún medio para comunicarse con las personas que trabajan en el tejado, como un silbato, una sirena o un teléfono.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Ska vara utrustad med skyddshjälm, signalväst och signalanordning samt kommunikationsutrustning till skottarna på taket; visselpipa, siren eller telefon.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="es">
+        <seg>”Los trabajadores que están en el tejado”</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>”Personerna på taket”</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="es">
+        <seg>Estarán equipados con cabos y arneses de protección, protección ocular contra fragmentos de hielo, una pala para nieve con una correa de muñeca, un martillo pequeño con correa de muñeca para romper el hielo y ropa de abrigo flexible, así como un calzado adecuado y un equipo para comunicarse con la persona que esté en la calle.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Ska vara utrustade med lina och säkerhetssele, ögonskydd mot is- splitter, snöskyffel med handlovs- rem, lätt slägga med handlovs- rem för att spräcka is samt varma, smidiga kläder, lämpliga skor och kommunikationsutrustning till vakten på gatan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="es">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="es">
+        <seg>Quitar nieve de los tejados de manera segura</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Säker snöskottning av tak</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="es">
+        <seg>En primer lugar, el equipo debe recibir información acerca de las rutas de acceso y las llaves para llegar al nivel del tejado.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Först måste arbetslaget få information om tillträdesvägar och få nycklar till takplan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="es">
+        <seg>Compruebe si hay cables calefactores en los drenajes.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Kontrollera om värmekablar finns monterade i vattengångar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="es">
+        <seg>Si los hay, debe haber señales de advertencia acerca de los cables calefactores en el punto de ascenso al tejado.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>I så fall måste det finnas en varningsskylt om värmekablar vid uppstigningsstället till taket.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="es">
+        <seg>Los dispositivos de protección fijos deben comprobarse antes de iniciar el trabajo.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Innan skottningen påbörjas ska fasta skyddsanordningar kontrolleras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="es">
+        <seg>Debe indicarse cualquier tragaluz que haya quedado cubierto por la nieve.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Eventuella takfönster som är täckta av snö ska märkas ut.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="es">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="es">
+        <seg>Dependiendo de la inclinación y la altura, habrá que establecer el acceso fijo al tejado y los dispositivos de protección, como puntos de anclaje para los cabos de seguridad.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Beroende på taklutning och fasadhöjd ska taket vara försett med fasta tillträdes- och skyddsanordningar som förankringspunkter för lina.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="es">
+        <seg>Normalmente, debería haber dos personas en el tejado para quitar la nieve.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Vid snöskottningen ska det normalt vara två personer på taket.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="es">
+        <seg>Una persona moverá los puntos de anclaje para el cabo y los mantendrá tensos, mientras que la otra realiza la limpieza.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>En person flyttar förankringspunkt för linan och håller linan sträckt, medan den andre utför snöskottningen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="es">
+        <seg>La persona que no esté limpiando siempre debe estar en contacto con el vigilante de tráfico que esté en la carretera/en la calle para evitar accidentes.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Den person som inte skottar ska alltid ha signalkontakt med trafikvakten på gatan/marken för att undvika olyckor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="es">
+        <seg>Las dos personas que trabajen en el tejado deben estar bien ancladas antes de iniciar el trabajo.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Båda personerna på taket ska vara förankrade innan snöskott- ningen påbörjas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="es">
+        <seg>Para estar más seguros, puede que se necesiten más cabos en tejados cuya inclinación sea de 45˚ o más.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>På mycket branta tak, 45˚ eller mer, kan det krävas ytterligare lina som extra säkerhet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="es">
+        <seg>Las herramientas manuales, como palas y martillos ligeros para romper el hielo, deberían incluir correas de muñeca para evitar que se caigan accidentalmente del tejado y se conviertan en un factor de riesgo.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Handverktyg, såsom spadar och lätt slägga för att spräcka is, bör ha handlovsrem för fastsättning så att de inte ofrivilligt glider ner från taket och utgör en riskfaktor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="es">
+        <seg>Se requieren gafas protectoras para romper el hielo.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Vid spräckning av is krävs skyddsglasögon.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="es">
+        <seg>En tejados cuyos canalones estén tapados con hielo y nieve, y con carámbanos que cuelgan de los aleros, primero se pueden limpiar los canalones y quitar los carámbanos con una &quot;limpieza parcial&quot; si el propietario así lo solicita.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Om taket är försett med fotrännor, som är fyllda med snö och is samt hängande istappar i tak- foten, kan renskottning av rännor och borttagning av istappar ske först, så kalladed ”partiell skottning” om fastighetsägaren begär det.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="es">
+        <seg>Esto puede hacerse si el tejado también tiene un riel para nieve montado a un metro por encima del canalón y una escalera de mano que va desde la cumbrera al canalón de cada faldón del tejado.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Detta är möjligt om taket också har ett snöräcke monterat cirka en meter ovanför fotrännan samt en fallstege monterad från nock till fotränna, på varje takfall.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="es">
+        <seg>De otro modo, la nieve y el hielo entrarán de nuevo en el canalón.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>I annat fall kan snö och is glida ner i fotrännan igen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="es">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="es">
+        <seg>Deslizamientos de nieve y avalanchas</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Snöras och lavinfara</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="es">
+        <seg>Empiece a quitar nieve desde la cumbrera de un tejado de aguas para evitar caerse por culpa de la nieve que se desliza por el tejado.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>På sadeltak påbörjas snöskottningen vid taknock så att man undviker att dras med, om snö och is rasar av taket.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="es">
+        <seg>Los trabajadores también pueden provocar &quot;avalanchas&quot; cuando caminan por el tejado.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Snöskottarna kan även förorsaka så kallad ”snölavin” genom att de går på taket.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="es">
+        <seg>Los tejados con inclinaciones entre los 18˚ y los 45˚ son los más propensos a deslizamientos de nieve y avalanchas.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Tak med lutningar mellan 18˚ och 45˚ utgör störst risk för snöras/snölaviner.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="es">
+        <seg>El riesgo de deslizamientos de nieve y la formación de hielo en canalones y tuberías también se ven afectados por la dirección del tejado y por la radiación solar.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Takets läge i förhållande till väderstreck samt solinstrålning påverkar också risken för snöras samt isbildning i rännor och rör.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="es">
+        <seg>… la colaboración entre los trabajadores que están en el tejado es un factor de seguridad importante.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>samarbetet mellan snöskottarna uppe på taket är en mycket viktig säkerhetsfaktor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="es">
+        <seg>El cabo debería mantenerse tenso y anclado justo sobre la persona que quita la nieve.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Linan ska hållas sträckt och vara infäst rakt ovanför personen som skottar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="es">
+        <seg>Recuerde también que…</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Tänk också på att…</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="es">
+        <seg>… los carámbanos caen en picado y con mucha fuerza.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>istappar faller rakt ner med stor kraft.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="es">
+        <seg>La nieve se desliza por la pendiente del tejado y, por lo tanto, puede caer lejos del edificio.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Snö glider ner utefter taket och kan då landa längre ut från huset.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="es">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="es">
+        <seg>Tejados con una inclinación inferior a los 6˚</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Låglutande tak under 6˚</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="es">
+        <seg>La carga de nieve en tejados con poca inclinación puede ser más de la que el tejado está diseñado para soportar y, por este motivo, hay que limpiarla.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Tak med låg lutning kan få snölaster som är tyngre än vad takkonstruktionen klarar och måste därför skottas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="es">
+        <seg>En este caso, varias personas pueden encargarse de la limpieza.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Här kan flera personer utföra snöskottningen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="es">
+        <seg>Use una pala quitanieves que pueda transportar la nieve directamente hasta el borde del tejado y que se pueda inclinar para evitar cargas puntuales en la estructura del tejado.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>För att undvika för stora punktlaster på takkonstruktionen används lämpligen snöslädar som kan förflytta snön direkt till takkanten och tippas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86">
+      <tuv xml:lang="es">
+        <seg>Si la fachada del edificio es superior a 3 metros, el tejado debería adaptarse con puntos de anclaje, al menos cáncamos, independientemente de la inclinación del tejado.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Om byggnadens fasadhöjd är högre än 3 meter bör taket, oavsett taklutning, ha förankringsanordning – minst öglor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87">
+      <tuv xml:lang="es">
+        <seg>El cabo de seguridad nunca debe ser tan largo desde el punto de an- claje hasta el trabajador que este pueda caer por el borde del tejado.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Linan får aldrig vara så lång, från förankringspunkt till infästning i snöskottarens sele, att denne kan falla utanför takkanten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88">
+      <tuv xml:lang="es">
+        <seg>Tenga en cuenta el efecto péndulo cuando trabaje de un lado a otro.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Ta hänsyn till pendeleffekten vid sneddrag!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89">
+      <tuv xml:lang="es">
+        <seg>Debe anclarse lo más cerca posible de la vertical.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Förankra så nära vertikallinjen som möjligt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90">
+      <tuv xml:lang="es">
+        <seg>Normalmente, el cabo de seguridad usado para trabajar en un tejado no debería superar los 10 metros de longitud.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>En säkerhetslina vid takarbete får normalt inte vara längre än 10 meter.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91">
+      <tuv xml:lang="es">
+        <seg>El trabajador puede ajustar la longitud del cabo de seguridad usando una argolla de ajuste.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Med hjälp av en justeringsslås kan skottaren själv ställa in rätt arbetslängd på säkerhetslinan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92">
+      <tuv xml:lang="es">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93">
+      <tuv xml:lang="es">
+        <seg>Acordonar la zona de riesgo</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Avspärrning av riskområde</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94">
+      <tuv xml:lang="es">
+        <seg>Es necesario tomar medidas para proteger a las personas y la propiedad de la nieve y del hielo que caen, así como cuando se quita la nieve del tejado.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Vid risk för nedfallande is och snö samt vid snöskottning från hustak kan åtgärder behöva vidtas för att skydda personer och egendom.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95">
+      <tuv xml:lang="es">
+        <seg>Esto puede hacerse acordonando la zona de riesgo.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Detta kan ske genom avspärrning av riskområdet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96">
+      <tuv xml:lang="es">
+        <seg>El vigilante que estén en la calle deber llevar ropa reflectante y un casco de protección.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Vakt på gatan ska bära varselkläder och reflexer samt skydds- hjälm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97">
+      <tuv xml:lang="es">
+        <seg>El vigilante debe poder mantenerse en contacto fácilmente con las personas que trabajan en el tejado.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Vakten ska på ett enkelt sätt kunna ha kontakt med snöskottarna på taket.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98">
+      <tuv xml:lang="es">
+        <seg>Para quitar la nieve de los tejados se deben cumplir numerosos requisitos respecto a las zonas de seguridad, señalización y vigilantes de seguridad.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Snöskottning från tak ställer stora krav på avskärmning, skyltning och säkerhetsvakt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99">
+      <tuv xml:lang="es">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100">
+      <tuv xml:lang="es">
+        <seg>Es esencial un buen sistema de señalización</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Viktigt med ett bra signalsystem</seg>
+      </tuv>
+    </tu>
+    <tu tuid="101">
+      <tuv xml:lang="es">
+        <seg>La señalización entre las personas que trabajan en el tejado y el vigilante de tráfico que está en la calle es extremadamente importante para evitar accidentes.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Signalerna mellan snöskottarna på taket och trafikvakten på gatan är mycket viktiga för att undvika olyckor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="102">
+      <tuv xml:lang="es">
+        <seg>Las señales deben transmitirse con claridad.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Signalerna måste gå fram klart och tydligt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="103">
+      <tuv xml:lang="es">
+        <seg>Para hacerlo, será necesario contar con un silbato, una sirena, un teléfono o una radio.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>För att klara detta behövs visselpipa, siren, telefon eller kommunikationsradio.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="104">
+      <tuv xml:lang="es">
+        <seg>Cada miembro del equipo debe saber cómo interpretar las señales.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Alla i snöskottarlaget måste veta hur signalerna ska tolkas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="105">
+      <tuv xml:lang="es">
+        <seg>Daños a terceros</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Skador på tredje man</seg>
+      </tuv>
+    </tu>
+    <tu tuid="106">
+      <tuv xml:lang="es">
+        <seg>Los daños a residentes y a la propiedad no están cubiertos en la legislación de entorno laboral sueca.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Skador på boende och allmän egendom regleras inte i arbetsmiljö- lagens bestämmelser.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="107">
+      <tuv xml:lang="es">
+        <seg>Sin embargo, la empresa que limpia la nieve es responsable de acuerdo con otra legislación.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Företaget som skottar kan dock bli ansvarig enligt annan lagstiftning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="108">
+      <tuv xml:lang="es">
+        <seg>No deberían producirse accidentes si todo se ha hecho correctamente desde el principio hasta el final.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Om allt görs rätt från början till slut behöver det inte inträffa några olyckor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="109">
+      <tuv xml:lang="es">
+        <seg>11</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="110">
+      <tuv xml:lang="es">
+        <seg>S112 79 Estocolmo</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>112 79 Stockholm</seg>
+      </tuv>
+    </tu>
+    <tu tuid="111">
+      <tuv xml:lang="es">
+        <seg>Tlf.: +46 (0)10-730 90 00 www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Tel: 010-730 90 00 www.av.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="112">
+      <tuv xml:lang="es">
+        <seg>Davidsons Tryckeri, diciembre de 2011.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Davidsons Tryckeri, december 2011.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="113">
+      <tuv xml:lang="es">
+        <seg>Texto original de Jarl Alenius.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Originaltexter av Jarl Alenius.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="114">
+      <tuv xml:lang="es">
+        <seg>Ilustraciones de Hans Sandqvist.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Illustrationer av Hans Sandqvist.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="115">
+      <tuv xml:lang="es">
+        <seg>Diseño de Nowa Kommunikation.</seg>
+      </tuv>
+      <tuv xml:lang="sv">
+        <seg>Layout av Nowa Kommunikation.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

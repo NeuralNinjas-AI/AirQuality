@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T130016Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="fr">
+    <prop type="x-tucount">1</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="fr">
+        <seg>Déclaration des travailleurs détachés en Suède</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Zgłaszanie pracowników delegowanych w Szwecji</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T130128Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="lv">
+    <prop type="x-tucount">185</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="lv">
+        <seg>Ja risks ir pārāk liels, mēs varam aizliegt turpināt darbu, līdz tiek veikti darba vides uzlabošanas pasākumi.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>De pressade tidsramarna liksom att arbetsplatserna är tillfälliga kan också ha betydelse.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="lv">
+        <seg>Šādam aizliegumam jābūt parakstītam, taču ar parakstu apstiprina vien to, ka saņemts ir pats lēmuma dokuments.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Med en bra arbetsmiljö blir det roligare att arbeta, färre skador och sjukskriv- ningar, effektivare produktion och bättre ekonomi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="lv">
+        <seg>Daudzi būvniecībā strādājošie cieš negadījumos un iegūst arodslimības.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Föreskrifter om byggnads- och anläggningsarbete</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="lv">
+        <seg>Slikta plānošana un laika trūkums palielina nelaimes gadījumu risku.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Hänvisningar till föreskrifterna finns i marginalen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="lv">
+        <seg>Darba vides pārvalde ir izdevusi likumus un priekšrakstus par to, kā jānotiek būvdarbiem.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är i föreskrifterna som kravens exakta lydelse finns.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="lv">
+        <seg>Zviedru darba vides noteikumi attiecas uz ārvalstu darbaspēku Zviedrijā, un vienalaga, vai to pieņēmis darbā ārzemju uzņēmums, vai noīrējis zviedru darba devējs, vai tas strādā kā uzņēmējs.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Till byggnads- och anläggningsarbete räknas bland annat hus-, industri-, mark-, tunnel-, bro-, väg-, spår-, rörlednings-, installations- och linjebyggnadsarbete.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="lv">
+        <seg>Noteikumi attiecas gan uz pašu uzņēmumu, gan uz darbiniekiem, neskatoties uz darbā pieņemšanas veidu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tänk på att även byggnads- och anläggningsarbete under jord och under vatten ingår.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="lv">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="lv">
+        <seg>Samazināt risku nokrist no augstuma</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förebygg risken för fall</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="lv">
+        <seg>Kritiens no augstuma ir parastākais nāves un nelaimes gadījumu iemesls būvlaukumos.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Fall är den vanligaste orsaken till dödsfall och olyckor på byggarbetsplatsen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="lv">
+        <seg>Krišanas iespējamības risks jāparedz iepriekš.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Risken för fall ska vara förebyggd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="lv">
+        <seg>Ja līmeņu starpība ir vairāk kā divi metri, kā likums, jāparedz kaut kāda aizsardzība.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om det behövs ska skyddsräcken, arbetsplattformar, arbetskorgar eller ställningar användas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="lv">
+        <seg>Aizsardzība var būt nepieciešama arī pie mazākām līmeņu starpībām, piemēram, ja apakšā atrodas ūdens vai asi priekšmeti.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Sådana skyddsanordningar behövs i allmänhet när nivåskillnaden är två meter eller mer.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="lv">
+        <seg>Aizsargmargām jābūt:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsräcken ska:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="lv">
+        <seg>izturīgām,</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>vara hållfasta,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="lv">
+        <seg>vismaz vienu metru augstām, ar virsējo, vidējo un kājlīsti.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Selen kan vara insydd i väst.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="lv">
+        <seg>Tās var būt izgatavotas arī citādā veidā, bet jānodrošina tikpat laba aizsardzība.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Jobba säkrare på tak</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="lv">
+        <seg>Veicot darbus uz jumta, normāli tur jāatrodas aizsargmargām vai līdzīgam aprīkojumam, kas garantētu atbilstošu aizsardzību.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vid takarbete ska normalt skyddsräcke eller utrustning som ger motsvarande skydd användas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="lv">
+        <seg>Virvi jāpiesien pie kādas nostiprinātas ierīces uz jumta.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsräcke vid takarbete.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="lv">
+        <seg>Jāpārbauda vai uz stiprinājumu var paļauties.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Byggnadsställning vid tak- och takfotsarbete.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="lv">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="lv">
+        <seg>Pastāv risks izkrist cauri virsmām, kam nav pietiekoša nestspēja, un šādas virsmas ir jānorobežo.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I 88 § i föreskrifterna anges hur man ska bedöma vilket alternativ man ska välja.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="lv">
+        <seg>Gadījumā, ja uz šādām virsmām vienalga ir jāstrādā, jāizmanto īpašs aizsardzības aprīkojums.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är viktigt att kontrollera att fästena är pålitliga.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="lv">
+        <seg>Daļai darbu nepieciešams izmantot aizsargtīklu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Detta gäller också fasta skyddsanordningar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="lv">
+        <seg>Būvniecības darbi bieži vien ir smagi, un tie noslogo ķermeni, tādēļ ir jābūt pacelšanas iekārtām, lai transportētu būvniecības materiālus.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Instruktionen ska bland annat beskriva hur nätet är avsett att monteras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="lv">
+        <seg>Muskuļiem ķermenī ir jādod iespēja atpūsties pēc sasprindzinājuma.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Att nätet åldras medför att töjbarheten hos maskorna minskar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="lv">
+        <seg>Izvairieties no vienveidīgas muskuļu noslogošanas, dažādojot darbu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Se upp för dolda risker!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="lv">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>60 §</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="lv">
+        <seg>Būvniecības nozarē izmanto daudz indīgu, kancerogēnu, kodīgu vai alerģiju izraisošu vielu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Planera arbetet rätt – undvik skadliga belastningar</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="lv">
+        <seg>Piemēram, betona sastāvā, mūrjavā un apmetumā esošais cements var radīt apdegumus, ja ilgāku laiku tam ir kontakts ar ādu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Byggnadsarbete är ofta tungt och belastande för kroppen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="lv">
+        <seg>Kopā ar ķīmiskiem produktiem, kas satur vienu vai vairākas bīstamas vielas, darba vietā jāatrodas piegādātāja drošības instrukcijas lapai.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Handhållna maskiner och verktyg ska vara ergonomiskt utformade.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="lv">
+        <seg>Ja runa ir par produktiem, kas pirkti Zviedrijā, drošības instrukcijas lapai jābūt zviedru valodā.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Att arbeta från stege någon längre stund är inte bra för kroppen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="lv">
+        <seg>Uzņēmums, kas ieved Zviedrijā kādu bīstamu ķīmisku produktu pašu vajadzībām, pats arī atbild par to, lai darba vietā atrastos rakstiska riska un drošības informācija par produktu tajā valodā, kuru saprot izmantotāji.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>När man arbetar med installationer över axelhöjd, till exempel i tak kan man anpassa arbetshöjden väl om man använder en steglöst höj- och sänkbar plattform.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="lv">
+        <seg>Būvlaukumā jāatrodas sarakstam ar visiem bīstamiem ķīmiskiem produktiem.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Använd skivhissar och stativ för skruvdra- gare som avlastar vid arbete i tak.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="lv">
+        <seg>Katrs darba devējs ir par to atbildīgs.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skruvdragare med magasin är tunga.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="lv">
+        <seg>Darba devējam ir jāinformē darba ņēmēji par riskiem, kas saistīti ar šiem bīstamiem ķīmiskiem produktiem, un jāpārliecinās, ka darba ņēmējs informāciju ir sapratis.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>En skruvdragare utan magasin är lättare att hantera och man får dessutom en kort paus varje gång skruven ska sättas i.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="lv">
+        <seg>Uz noteiktām bīstamām vielām attiecas īpaši stingri noteikumi:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Variera arbetet</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="lv">
+        <seg>Azbests: Lai rīkotos ar azbestu un to nojauktu, uzņēmumam, kas veiks darbus, nepieciešama atļauja no Darba vides pārvaldes.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är viktigt att få möjlighet att återhämta sig efter ansträngning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="lv">
+        <seg>Lai saņemtu atļauju, nepieciešama īpaša izglītība un ārsta izziņa.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Detta tar tid, särskilt om ansträngningen pågått länge.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="lv">
+        <seg>Termoreaktīvās plastmasas: Lai strādātu arī ar termoreaktīvām plastmasām (piemēram, ar šuvju aizpildīšanas putām, kas satur izocianātus, epoksīda līmi, epoksīda krāsu u.c.), pirms darba uzsākšanas nepieciešams veikt ārsta pārbaudi un iziet apmācību.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Exempelvis kan långvarig eller återkommande skruvning med skruvdragare medföra belastningsskada i nacke och skuldra om musklerna i axeln inte hinner återhämta sig.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="lv">
+        <seg>Par šo noteikumu neievērošanu var sodīt un soda nauda var būt liela.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Bestämmelser om förebyggande åtgärder mot belastningsskador finns i föreskrifterna ”Belastnings- ergonomi” och ”Manuell hantering”.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="lv">
+        <seg>Savienojošie ceļi un transports</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förbindelseleder och transporter</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="lv">
+        <seg>Būvlaukumā jābūt drošiem savienojošiem ceļiem, piemēram, kāpnēm vai rampai starp dažādiem līmeņiem.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Mellan olika plan ska det normalt finnas trappa eller ramp.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="lv">
+        <seg>Darba vides pārvaldes priekšrakstos par sastatnēm norādīts, kam jābūt ietvertam instrukcijās.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Alla ska snabbt och säkert kunna nå säkert område.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="lv">
+        <seg>Kad būvdarbos izmanto kādu mašīnu, ceļamiekārtas, sastatnes u.c., darba ņēmējam, kurš ar to saistīts, jābūt pieejamām iekārtu lietošanas instrukcijām.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Särskilt anordnade utrymningsvägar samt återsamlingsplatser ska vara markerade med skyltar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="lv">
+        <seg>Ja apskate nav veikta vai iepriekš atrastie trūkumi nav novērsti, bet mašīnas un ceļamiekārtas tiek izmantotas, tad draud sods.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>De kan behövas till exempel där brandfarliga ämnen används, där utrymningsvägarna är långa eller där ett stort antal personer uppehåller sig samtidigt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="lv">
+        <seg>Pārbaudēm jābūt veiktām atbilstoši zviedru noteikumiem.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Lämpliga övningar ska genomföras regelbundet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="lv">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Nödbelysning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="lv">
+        <seg>Nopietni nelaimes gadījumi var notikt, ja izkustas uzkrātie būvmateriāli, piemēram, spēcīga vēja dēļ.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I utrymningsvägar där belysning är nödvändig ska det också finnas nödbelysning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="lv">
+        <seg>Tādēļ svarīgi ir materiālus nostabilizēt.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Kontrollera utrustning och installationer</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="lv">
+        <seg>Dažreiz būvniecībā strādājošos nepieciešams pasargāt no tādiem laika apstākļiem kā vēja brāzmas un aukstums.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Bland annat brandredskap, alarmsystem, elinstallationer, förbindelseleder, trafik- anordningar, skyddsnät och varselmärkning ska kontrolleras och underhållas regelbundet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="lv">
+        <seg>Norobežo un atzīmē vietas, kur jāuzmanās no krītošiem priekšmetiem.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Lagring och uppställning av material</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="lv">
+        <seg>Ja tik un tā ir tur jāiet, jābūt aizsargjumtam.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det kan till exempel gälla spännarmering och fjäderbelastade portar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="lv">
+        <seg>Tas ir darba drošības un veselības aizsardzības lietu koordinātors projekta sagatavošanas posmā, kuram, pirmkārt, jāraugās, lai plāns tiktu sastādīts.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>En del av dem ska övervägas i en viss ordning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="lv">
+        <seg>Ja būvniecības vai inženiertehniskie darbi tiks veikti vietā, kur vienlaicīgi notiks arī cita darbība, tas jāņem vērā, sastādot darba drošības un veselības aizsardzības plānu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Dessutom är det viktigt att de olika aktörerna samverkar och att byggnadsarbetarna medverkar i arbetsmiljöarbetet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="lv">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>AML</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="lv">
+        <seg>Plānā jābūt ietvertam sekojošam:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>3 kap 6,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="lv">
+        <seg>Tas attiecas, cita starpā, uz sekojošiem darbiem:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vid delad entreprenad kan byggherreansvaret inte överlåtas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="lv">
+        <seg>darbs, kurā ir risks nokrist no augstuma</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>AML 3 kap Byggarbetsmiljösamordnare för planering och projektering ska samordna projek-</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="lv">
+        <seg>šahtu darbs ar nogruvuma draudiem</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>7 a § och AFS 2008:16</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="lv">
+        <seg>darbs ar speciālām ķīmiskām vai bioloģiskām vielām</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>11-12 b §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="lv">
+        <seg>darbs augstsprieguma līniju tuvumā</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>AML</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="lv">
+        <seg>darbs, kurā darbinieki pakļauti riskam noslīkt</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>3 kap 7 §, AFS 2008:16,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="lv">
+        <seg>darbs akās un tuneļos</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>10§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="lv">
+        <seg>darbs, kas saistīts ar sprāgstvielu izmantošanu</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>AML</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="lv">
+        <seg>darbs, kas saistīts ar smagu būvelementu montāžu</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>teringen med avseende på arbetsmiljön och se till att arbetsmiljöplan och dokumentation upprättas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="lv">
+        <seg>strādājot vietā vai apvidū ar garām braucošu satiksmi nojaucot nesošās konstrukcijas kā arī veselībai bīstamus materiālus vai vielas</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Projektörerna (arkitekter, konsulter med mera) har också, inom ramen för sitt uppdrag, ansvar för att arbetsmiljön under byggskedet beaktas vid förberedelsen av byggprojektet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="lv">
+        <seg>Iepriekšējs paziņojums</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>och AFS</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="lv">
+        <seg>Klientam jāraugās arī, lai iepriekšējā paziņojuma kopija atrastos uz ziņojuma dēļa būvdarbu vietā, un, lai paziņojums tiktu atjaunots.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>13-16 §§ hur arbetena verkligen utförs, kontrollera att arbetena utförs på ett ur arbetsmiljö- synpunkt korrekt sätt och att arbetsmiljöplanen följs.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="lv">
+        <seg>11</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>2008:16,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="lv">
+        <seg>Plānošana un informācija</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="lv">
+        <seg>Lai darbus varētu veikt droši, tie jāplāno un savlaicīgi jānovērtē ar tiem saistītais risks.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsombud företräder arbetstagarna i skyddsfrågor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="lv">
+        <seg>Jāieplāno vieta strādnieku vagoniņiem, darbnīcām un noliktavām, kā arī savienojošiem ceļiem un transportam.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tillverkare och importörer av kemiska produkter och andra ämnen har ett liknande ansvar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="lv">
+        <seg>Darbs jāplāno tā, lai dažādas darbības netraucētu viena otrai, un lai strādājošie netiktu pakļauti saslimšanas vai negadījumu riskam.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>8, 12, 12 a och 14 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="lv">
+        <seg>Jāizvēlas tādas darba metodes un aprīkojums, kas:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>En beskrivning av hur arbetsmiljöarbetet ska organiseras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="lv">
+        <seg>Darba ņēmēji jāinformē, kādi darba drošības pasākumi ir veikti vai plānoti veikt, kādi noteikumi ir spēkā.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>arbete som medför risk för drunkning,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="lv">
+        <seg>Būvlaukumā pastāvīgi notiek ātras izmaiņas, kuras saistītas ar daudziem riskiem.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>arbete med montering av tunga byggelement,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="lv">
+        <seg>Kas par ko atbild?</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förhandsanmälan</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="lv">
+        <seg>Klients atbild arī par to, lai tiktu iesniegts iepriekšējs paziņojums, lai tiktu sastādīts darba drošības un veselības aizsardzības plāns un, lai tiktu izraudzīts darba drošības un veselības aizsardzības lietu koordinātors projekta plānošanas un projektēšanas posmā.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det kan vara lämpligt att upprätta en dispositionsplan för arbetsplatsen (APD- plan) när man planerar in till exempel utrymme för bodar, verkstäder och upplag samt för förbindelseleder och transportanordningar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="lv">
+        <seg>Bez tam klients atbild par to, lai būvniecības un inženiertehniskais darbs atbilstu darba drošībai un, lai tiktu izraudzīts darba drošības un veselības aizsardzības lietu koordinātors projekta izpildes posmā.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är viktigt att lösa hur man ska ta sig till alla platser där man behöver arbeta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="lv">
+        <seg>Atsevišķos gadījumos klients ar rakstisku līgumu var nodot savu atbildību par darba drošības jautājumiem projekta izpildītājam par to būvprojekta daļu, ko aptver pasūtījums.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vägar för fordonstrafik ska separeras från leder för gående.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="lv">
+        <seg>13</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Information och instruktion</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="lv">
+        <seg>Citiem uzņēmumiem kopīgā darba vietā jāiesniedz darba drošības un veselības aizsardzības lietu koordinātoram būvniecības darbu laikā informācija par īpašiem riskiem, kas var rasties viņu pašu darbības dēļ.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Begriplig information ska lämnas till arbetstagarna om arbetet och de arbetsmiljö- åtgärder som är vidtagna eller planerade och om vilka regler som gäller.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="lv">
+        <seg>Visiem, kuri darbojas kopīgā darba vietā, jāievēro tie kārtības un aizsardzības noteikumi, ko izdevis darba drošības un veselības aizsardzības lietu koordinātors.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Särskild utbildning eller instruktion behövs i allmänhet när nya produkter eller arbetsmetoder ska användas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="lv">
+        <seg>Pašnodarbinātai personai un tiem, kas strādā ģimenes uzņēmumā bez darbiniekiem, būvniecības un inženiertehnisko darbu laikā lielā mērā jāievēro tie paši noteikumi, kas attiecas uz darba devēju un darba ņēmēju.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Dokumentationen ska därför beskriva objektets konstruktion och utformning samt de byggprodukter som använts.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86">
+      <tuv xml:lang="lv">
+        <seg>Būvniecības strādniekam ir jāpiedalās darba vides veidošanas darbā, jāievēro atbilstošie priekšraksti un jāizmanto pieejamais aizsardzības aprīkojums.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Dokumentationen ska utarbetas av byggarbetsmiljösamordnaren för planering och projektering.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87">
+      <tuv xml:lang="lv">
+        <seg>Tehnisko ierīču ražotāji, importētāji un iznomātāji atbild par to, lai viņu produkti būtu droši.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I skyddsrondsprotokollet är det lämpligt att ta upp både förebyggande och avhjälpande åtgärder.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88">
+      <tuv xml:lang="lv">
+        <seg>Līdzīga atbildība ir ķīmisko produktu un citu vielu ražotājiem un importētājiem.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>9, 12 b och 14 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89">
+      <tuv xml:lang="lv">
+        <seg>Ražotājiem, importētājiem un iznomātājiem ir arī jāsniedz tā produktu informācija, kas nepieciešama, lai izvairītos no veselības traucējumiem un nelaimes gadījumiem.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Några andra föreskrifter som också berör byggnads- och anläggningsarbete.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90">
+      <tuv xml:lang="lv">
+        <seg>14</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Systematiskt arbetsmiljöarbete AFS 2001:1</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91">
+      <tuv xml:lang="lv">
+        <seg>15</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ensamarbete AFS 1982:3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92">
+      <tuv xml:lang="lv">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Några publikationer som kan beställas från Arbetsmiljöverket</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93">
+      <tuv xml:lang="lv">
+        <seg>Swedish Work Environment Authority, publication services, 112 79 Stockholm.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>AMP-guiden – byggbranschens handledning för upprättande av arbetsmiljöplaner. www.ampguiden.net</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94">
+      <tuv xml:lang="lv">
+        <seg>Tel.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95">
+      <tuv xml:lang="lv">
+        <seg>+46-(0)8-730 97 00</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Fler exemplar av denna trycksak beställs från Arbetsmiljöverket</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96">
+      <tuv xml:lang="lv">
+        <seg>Sistemātiska darba vides uzlabošana</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Systematiskt arbetsmiljöarbete</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97">
+      <tuv xml:lang="lv">
+        <seg>Zviedrijas Likuma par darba aizsardzību mērķis ir profilakses veicināšana un nelaimes gadījumu novēršana darba vietā.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vår arbetsmiljölag är till för att förhindra att människor skadas i arbetet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98">
+      <tuv xml:lang="lv">
+        <seg>Darba devēja pienākums ir ņemt vērā visus apstākļus, kas varētu ietekmēt darba ņēmēju veselību un drošību.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Som arbetsgivare ska du ta hänsyn till alla förhållanden som kan påverka de anställdas hälsa och säkerhet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99">
+      <tuv xml:lang="lv">
+        <seg>Darba devējs ir atbildīgs par visu uzņēmuma darbinieku darba vidi.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Du har ansvar för arbetsmiljön för alla som arbetar åt dig.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100">
+      <tuv xml:lang="lv">
+        <seg>Izmaiņas noteikumos par motorzāģu un zāles pļāvēju izmantošanu</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förändringar vid användning av motorkedjesågar och röjsågar</seg>
+      </tuv>
+    </tu>
+    <tu tuid="101">
+      <tuv xml:lang="lv">
+        <seg>Noteikumi, kas attiecas uz motorzāģu un zāles pļāvēju izmantošanu, ir atrodami normatīvos AFS 2012:1, kas stājās spēkā 2012.gada 1.decembrī.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Regler som gäller vid användning av motorkedjesågar och röjsågar finns i den nya föreskriften, AFS 2012:1 – som trädde i kraft 1 december 2012.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="102">
+      <tuv xml:lang="lv">
+        <seg>Vienlaikus tika atcelti normatīvi AFS 2000:2.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Samtidigt upphörde AFS 2000:2 Användning av motorkedjesågar och röjsågar, att gälla.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="103">
+      <tuv xml:lang="lv">
+        <seg>Četri svarīgi jaunumi normatīvos AFS 2012:1</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Fyra stora förändringar i föreskriften AFS 2012:1</seg>
+      </tuv>
+    </tu>
+    <tu tuid="104">
+      <tuv xml:lang="lv">
+        <seg>Prasība par dokumentētām zināšanām, nokārtojot teorētisku un praktisku zināšanu pārbaudi.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Krav på dokumenterade kunskaper i form av avklarade teoretiska och praktiska prov.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="105">
+      <tuv xml:lang="lv">
+        <seg>Šī prasība darba ņēmējam ir jāizpilda līdz 2015.gada 1.janvārim.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetstagaren har fram till 1 januari 2015 på sig att uppfylla kraven på avklarade prov.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="106">
+      <tuv xml:lang="lv">
+        <seg>Personai, kas nenokārto teorētisku un praktisku zināšanu pārbaudi līdz 2015.gada 1.janvārim, tiks uzlikts naudas sods 10.000 zviedru kronu apmērā.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Den som överträder bestämmelserna på dokumenterade kunskaper efter 1 januari 2015 ska betala en sanktionsavgift på 10 000 kronor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="107">
+      <tuv xml:lang="lv">
+        <seg>Šāds darba apģērbs ir izturīgs un labi saredzams gan dienas, gan nakts laikā.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsgivaren ansvarar för att varselkläderna uppfyller gällande krav.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="108">
+      <tuv xml:lang="lv">
+        <seg>Darba devējs ir atbildīgs par to, lai darba apģērbs atbilstu spēkā esošām prasībām (atbilstoši standartam SS EN 471.)</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>(Varselkläder tillverkade enligt standarden SS EN 471 uppfyller kraven.)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="109">
+      <tuv xml:lang="lv">
+        <seg>Aizsardzības zābaki /apavi zāģēšanai ar pastiprinātiem purngaliem.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsstövlar/skyddskängor med sågskydd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="110">
+      <tuv xml:lang="lv">
+        <seg>Gatavība nelaimes gadījumā</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Att vara förberedd på det värsta</seg>
+      </tuv>
+    </tu>
+    <tu tuid="111">
+      <tuv xml:lang="lv">
+        <seg>Darbs vienatnē</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ensamarbete</seg>
+      </tuv>
+    </tu>
+    <tu tuid="112">
+      <tuv xml:lang="lv">
+        <seg>Uz darbu vienatnē mežā attiecas īpašas prasības attiecībā uz komunikāciju ar ārpasauli.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vid ensamarbete i skogen finns särskilda krav på kommunikation med omvärlden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="113">
+      <tuv xml:lang="lv">
+        <seg>Darba vadītājam vai kolēģim ir jāzin, kurā vietā darbs tiek veikts.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsledare eller arbetskamrat ska känna till var i skogen personen arbetar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="114">
+      <tuv xml:lang="lv">
+        <seg>Darbinieku telpas</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personalutrymmen</seg>
+      </tuv>
+    </tu>
+    <tu tuid="115">
+      <tuv xml:lang="lv">
+        <seg>Darbinieku telpas ir nepieciešamas gan komfortam, gan saslimšanas riska samazināšanai.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personalutrymmen behövs både av komfortskäl och för att minska risken för ohälsa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="116">
+      <tuv xml:lang="lv">
+        <seg>Darbiniekiem darba dienas laikā ir jābūt iespējai izmantot tualeti, nomazgāt rokas siltā ūdenī, uzsildīt un paēst pusdienas, atrasties apsildītās telpās, izmantot ģērbtuvi un žāvēt apģērbu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personal ska under arbetsdagen ha möjlighet att gå på toaletten, tvätta händerna i varmt vatten, värma och äta mat, sitta ned i ett uppvärmt utrymme, utrymme för att byta om och möjlighet att torka kläder.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="117">
+      <tuv xml:lang="lv">
+        <seg>Darbu telpām ir jāatrodas netālu no darba vietas.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det bör vara gångavstånd till personalutrymmen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="118">
+      <tuv xml:lang="lv">
+        <seg>Personīgi aizsardzības līdzekļi</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personlig skyddsutrustning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="119">
+      <tuv xml:lang="lv">
+        <seg>Strādājot ar motorzāģi, ir jāizmanto sekojošs personīgi aizsardzības līdzekļi:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Den som arbetar med en motorkedjesåg ska använda följande personliga skyddsutrustning:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="120">
+      <tuv xml:lang="lv">
+        <seg>Aizsargķivere, Ausu ielikņi, Aizsargbriles,</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddshjälm Hörselskydd Ögonskydd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="121">
+      <tuv xml:lang="lv">
+        <seg>Brūces asiņošanu apturši līdzekļi,</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Första förband</seg>
+      </tuv>
+    </tu>
+    <tu tuid="122">
+      <tuv xml:lang="lv">
+        <seg>Aizsargjaka vai veste, kas aprīkota ar atstarotājiem,</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsblus eller skyddsväst med varselfärg</seg>
+      </tuv>
+    </tu>
+    <tu tuid="123">
+      <tuv xml:lang="lv">
+        <seg>Darba cimdi,</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetshandskar Skyddsbyxa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="124">
+      <tuv xml:lang="lv">
+        <seg>Aizsargjaka vai veste, kas aprīkota ar atstarotājiem,</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddskängor/stövlar med sågskydd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="125">
+      <tuv xml:lang="lv">
+        <seg>Aizsardzības zābaki /apavi zāģēšanai ar pastiprinātiem purngaliem.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Kemiska risker vid plantering och plantbesprutning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="126">
+      <tuv xml:lang="lv">
+        <seg>Nonākot kontaktā ar ķīmisku vielu, ir iespējama akūta saslimšana un saslimšana vēlākā laika periodā.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>När du kommer i kontakt med ett kemiskt ämne kan du antingen skadas direkt eller bli sjuk långt senare.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="127">
+      <tuv xml:lang="lv">
+        <seg>Zviedrijas Darba vides pārvaldes brošūra ”Drošs darbs ar apsmidzinātiem stādiem mežā un smidzināšanas laikā pēc stādīšanas” satur papildu informāciju.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>För att undvika risk för arbetssjukdomar, ta reda på information om ämnet och använd skyddsutrustning enligt tillverkarens råd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="128">
+      <tuv xml:lang="lv">
+        <seg>Nepilngadīgām personām ir arī aizliegts strādāt ar smidzinātiem augiem.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>De får inte heller sätta plantor behandlade med dessa bekämpningsmedel.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="129">
+      <tuv xml:lang="lv">
+        <seg>Personas, kas drīkst strādāt ar motorzāģi</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vem får arbeta med motorkedjesåg?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="130">
+      <tuv xml:lang="lv">
+        <seg>Personai, kas ir nokārtojusi teorētisku un praktisku zināšanu pārbaudi, pierādot zināšanu līmeni, kas atbilst darba uzdevuma prasībām.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personen ska ha gjort ett teoretiskt och praktiskt prov som visar att han eller hon har kunskaper som motsvarar de arbetsuppgifter som ska utföras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="131">
+      <tuv xml:lang="lv">
+        <seg>Personai ir jābūt apliecinājumam, kurā ir dokumentētas prasības.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personen ska också ha dokumentation som styrker kraven.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="132">
+      <tuv xml:lang="lv">
+        <seg>Personas, kas drīkst strādāt ar zāles pļāvēju</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vem får arbeta med röjsåg?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="133">
+      <tuv xml:lang="lv">
+        <seg>Persona, kas strādā ar zāles pļāvēju, ir jāiziet apmācība, kurā iekļauta zināšanu pārbaude par veicamo darba uzdevumu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Den som arbetar med en röjsåg ska ha genomgått en utbildning för den typ av arbete som ska utföras och ha kunskaper för arbetet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="134">
+      <tuv xml:lang="lv">
+        <seg>Esiet uzmanīgi krītošu koku tuvumā</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Behåll din respekt för fallande träd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="135">
+      <tuv xml:lang="lv">
+        <seg>Katru gadu tiek reģistrēti vairāki naves gadījumi, gāžot kokus.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Varje år sker flera dödsolyckor vid trädfällning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="136">
+      <tuv xml:lang="lv">
+        <seg>Zviedrijas Darba vides pārvaldes tīmekļa vietne</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljöverkets webbplats</seg>
+      </tuv>
+    </tu>
+    <tu tuid="137">
+      <tuv xml:lang="lv">
+        <seg>Mūsu tīmekļa vietnē ir atrodami visi jaunākie noteikumi un normatīvi, kā arī informatīvi bukleti un grāmatas, kas var noderēt Jūsu darba vides uzlabošanas darbā.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>På vår webbplats finns senaste versionen av alla gällande regler, informationsbroschyrer och böcker som kan vara till hjälp för att skapa en bra arbetsmiljö.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="138">
+      <tuv xml:lang="lv">
+        <seg>Šī Darba vides pārvaldes informācijas brošūra domāta Tev, ja vēlies strādāt par ogu lasītāju Zviedrijā.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det här är en informationsbroschyr från Arbetsmiljöverket för dig som vill arbeta som bärplockare i Sverige.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="139">
+      <tuv xml:lang="lv">
+        <seg>Darba vides pārvalde ir valsts iestāde, kas raugās, lai Darba vides likums, Darba laika likums un pārējie noteikumi par darba vidi tiktu ievēroti darba vietās Zviedrijā.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljöverket är den statliga myndighet som kontrollerar att arbetsmiljölagen, arbetstidslagen och övriga regler om arbetsmiljön följs på Sveriges arbetsplatser.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="140">
+      <tuv xml:lang="lv">
+        <seg>Mēs arī izstrādājam noteikumus un izplatām informāciju par darba vidi.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vi tar också fram regler och sprider information om arbetsmiljö.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="141">
+      <tuv xml:lang="lv">
+        <seg>Bez tam Darba vides pārvalde ir tā sauktais sakaru birojs darbā nosūtīšanas jautājumos.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Dessutom är Arbetsmiljöverket förbindelsekontor för utstationeringsfrågor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="142">
+      <tuv xml:lang="lv">
+        <seg>Tas nozīmē, ka, cita starpā, mēs informējam par to, kas attiecas uz ārzemēs pozicionētiem darba ņēmējiem, kas uz laiku strādā Zviedrijā.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det betyder bland annat att vi informerar om vad som gäller för utlandsanställda arbetstagare som arbetar tillfälligt i Sverige.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="143">
+      <tuv xml:lang="lv">
+        <seg>Ja Tu vēlies strādāt par ogu lasītāju Zviedrijā un neierodies no ES valsts, likums paredz, ka Tev jābūt darba atļaujai.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om du vill arbeta som bärplockare i Sverige och inte kommer från ett EU-land måste du som regel ha ett arbetstillstånd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="144">
+      <tuv xml:lang="lv">
+        <seg>Vairākums gadījumos pilsoņiem no valstīm ārpus ES nepieciešama arī vīza, lai varētu uzturēties Zviedrijā.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I de flesta fall behöver medborgare i länder utanför EU även ett visum för att vistas Sverige.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="145">
+      <tuv xml:lang="lv">
+        <seg>Ja Tu vēlies strādāt Zviedrijā ilgāk nekā trīs mēnešus, bez darba atļaujas Tev nepieciešama arī uzturēšanās atļauja.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ska du arbeta i Sverige längre tid än tre månader behöver du förutom ett arbetstillstånd även ett uppehållstillstånd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="146">
+      <tuv xml:lang="lv">
+        <seg>Tev jāiesniedz pieprasījums atļaujas saņemšanai, pirms Tu dodies uz Zviedriju.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är Migrationsverket som har hand om reglerna om arbetstillstånd och uppehållstillstånd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="147">
+      <tuv xml:lang="lv">
+        <seg>Tu vari iesniegt pieprasījumu uzturēšanās un darba atļaujas saņemšanai Imigrācijas pārvaldes mājas lapā: www.migrationsverket.se.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Du kan ansöka om uppehålls- och arbetstillstånd på Migrationsverkets webbplats, www.migrationsverket.se.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="148">
+      <tuv xml:lang="lv">
+        <seg>Kādi nodarbinātības nosacījumi ir spēkā saskaņā ar Kolektīvo līgumu ogu lasītājiem?</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vilka anställningsvillkor gäller enligt svenskt kollektivavtal för bärplockare?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="149">
+      <tuv xml:lang="lv">
+        <seg>Ja Tu esi pieņemts darbā ārzemju uzņēmumā, kas neveic darbību Zviedrijā, piemēram, darbā iekārtošanas uzņēmumā, spēkā ir Darbā iekārtošanas līgums.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Avtalad minimilön i det avtalet är SEK 18 542 per månad 1 juni 2014 – 31 maj 2015.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="150">
+      <tuv xml:lang="lv">
+        <seg>Tas ir spēkā, neskatoties uz to, vai ārzemju uzņēmums ir parakstījis Kolektīvo līgumu vai nē.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Minimilönenivån är i det avtalet SEK 19 772 per månad.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="151">
+      <tuv xml:lang="lv">
+        <seg>Līgumā ietverti noteikumi par minimālo algu, darba laiku, apdrošināšanu un daudz ko citu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Avtalet innehåller bestämmelser om minimilöner, arbetstider, försäkringar och mycket annat.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="152">
+      <tuv xml:lang="lv">
+        <seg>Kommunal mājas lapā: www.kommunal.se atrodama pdf-brošūra ”Strādāt Zviedrijā” ar vairāk informāciju par līgumu un Tavām tiesībām.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>På Kommunals webbplats www.kommunal.se finns pdf-broschyren ”Arbeta i Sverige” med mer information om avtalet och dina rättigheter.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="153">
+      <tuv xml:lang="lv">
+        <seg>Brošūra ir dažādās valodās.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Broschyren finns på flera olika språk.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="154">
+      <tuv xml:lang="lv">
+        <seg>Lasīt ogas, neesot pieņemtam darbā</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Att plocka bär utan att vara anställd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="155">
+      <tuv xml:lang="lv">
+        <seg>Ja esi saņēmis vīzu iebraukšanai Zviedrijā, lai apciemotu radiniekus, Tev ir iespējas lasīt ogas kā privātpersonai.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är möjligt för dig som har fått ett visum för släktbesök att plocka bär som privatperson.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="156">
+      <tuv xml:lang="lv">
+        <seg>Ienākumus, kurus privātpersona guvusi no ogu lasīšanas līdz 12 500 SEK personai gadā, ar nodokļiem neapliek.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Inkomster av att plocka bär är skattefria för privatpersoner upp till SEK 12 500 kr per person och år.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="157">
+      <tuv xml:lang="lv">
+        <seg>Uz privātpersonām attiecas noteikumi par vīzu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>För privatpersoner gäller bestämmelser om visum.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="158">
+      <tuv xml:lang="lv">
+        <seg>Informācija par noteikumiem attiecībā uz vīzu atrodas Imigrācijas pārvaldes mājas lapā.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Information om visumbestämmelserna finns på Migrationsverkets webbplats.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="159">
+      <tuv xml:lang="lv">
+        <seg>Darba vide un darba laiks</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljö och arbetstid</seg>
+      </tuv>
+    </tu>
+    <tu tuid="160">
+      <tuv xml:lang="lv">
+        <seg>Darba laika likumā ietverti noteikumi par to, cik daudz Tu drīksti strādāt diennaktī, nedēļā un gadā.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetstidslagen innehåller regler om hur mycket du får arbeta per dygn, vecka och år.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="161">
+      <tuv xml:lang="lv">
+        <seg>To sauc par diennakts atpūtu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det kallas för dygnsvila.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="162">
+      <tuv xml:lang="lv">
+        <seg>Normāli Tu strādā 8 stundas dienā ar darba laiku, kas noteikts laikā no plkst. 7:00 līdz plkst. 17:00.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Den ordinarie arbetstiden får uppgå till högst 40 timmar i veckan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="163">
+      <tuv xml:lang="lv">
+        <seg>Darba vides pārvaldes uzdevums ir raudzīties, lai darba devējs ievērotu Darba vides likumu un Darba laika likumu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>När det behövs får arbetstiden vara 40 timmar i veckan i genomsnitt under en fyraveckorsperiod.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="164">
+      <tuv xml:lang="lv">
+        <seg>Darba vides pārvaldes inspektori apciemo dažādas darba vietas un pārbauda, vai darba devējs seko likumam.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Normalt arbetar du 8 timmar per dag.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="165">
+      <tuv xml:lang="lv">
+        <seg>Ja likums netiek ievērots, var, piemēram, aizliegt veikt kādus darba pienākumus.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Övertiden får uppgå till högst 200 timmar under ett kalenderår.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="166">
+      <tuv xml:lang="lv">
+        <seg>Ja Tu uzskati, ka Tavs darba devējs pārkāpj noteikumus, Tev jāsazinās ar Darba vides pārvaldi.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är Arbetsmiljöverkets uppgift att se till att arbetsgivare följer reglerna i arbetsmiljölagen och arbetstidslagen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="167">
+      <tuv xml:lang="lv">
+        <seg>Darba laika likumu var aizstāt ar Kolektīvo līgumu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljöverkets inspektörer besöker olika arbetsplatser och kontrollerar att arbetsgivare följer lagarna.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="168">
+      <tuv xml:lang="lv">
+        <seg>Kolektīvais līgums var aizstāt visu līgumu vai tā daļas.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om arbetsmiljölagen inte följs kan exempelvis vissa arbetsuppgifter förbjudas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="169">
+      <tuv xml:lang="lv">
+        <seg>Darba vides pārvaldei nav noteikšana pār Darba laika likumu, kad jautājumi par darba laiku ir atrunāti Kolektīvajā līgumā.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om du tror att din arbetsgivare bryter mot bestämmelserna ska du kontakta Arbetsmiljöverket.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="170">
+      <tuv xml:lang="lv">
+        <seg>Pastāv arī pabalsti, kas balstīti uz apmešanās vietu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Kollektivavtalet kan ersätta hela lagen eller delar av den.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="171">
+      <tuv xml:lang="lv">
+        <seg>Uz personām, kas Zviedrijā strādā pagaidu darbu, parasti šie pabalsti neattiecas.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljöverket har inte tillsyn över arbetstidslagen när arbetstidsfrågan regleras i kollektivavtal.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="172">
+      <tuv xml:lang="lv">
+        <seg>Ogu lasītāji, kas ir nosūtīti uz Zviedriju, t.i., kurus darbā pieņēmis darbā iekārtošanas uzņēmums savā mājvietas zemē, ir apdrošināti mājvietas zemē.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Då kan Arbetsmiljöverket inte heller tillåta undantag från vissa av lagens regler.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="173">
+      <tuv xml:lang="lv">
+        <seg>Pieteikšanās neietekmē iespējamās tiesības saņemt pabalstus.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Anmälan påverkar inte den eventuella rätten till förmåner.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="174">
+      <tuv xml:lang="lv">
+        <seg>Vairāk lasi Apdrošināšanas kases mājas lapā: www.forsakringskassan.se.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Läs mer på Försäkringskassans webbplats, www.forsakringskassan.se.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="175">
+      <tuv xml:lang="lv">
+        <seg>Vai Tev jāmaksā nodokļi Zviedrijā?</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ska du betala skatt i Sverige?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="176">
+      <tuv xml:lang="lv">
+        <seg>Ir īpašs izņēmums attiecībā uz pienākumu maksāt nodokli tiem, kurus darbā pieņēmis darba devējs mājvietas zemē un, kas Zviedrijā strādā pagaidu darbu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det finns ett särskilt undantag från skyldigheten att betala skatt för dem som är anställda av en arbetsgivare i hemlandet och som bara jobbar tillfälligt i Sverige.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="177">
+      <tuv xml:lang="lv">
+        <seg>Ienākumus neapliek ar nodokļiem ar noteikumu, ka darbs nepārsniedz 183 dienas viena gada laikā.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Inkomsterna är skattefria under förutsättning att arbetet inte överskrider 183 dagar under en ettårsperiod.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="178">
+      <tuv xml:lang="lv">
+        <seg>Taču prasības tiek izvirzītas arī darba devējam.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det ställs dock även krav på arbetsgivaren.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="179">
+      <tuv xml:lang="lv">
+        <seg>Lai izņēmums būtu spēkā, darba devējam nedrīkst būt pastāvīga darbības vieta Zviedrijā.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>För att undantaget ska gälla får inte arbetsgivaren ha ett fast driftställe i Sverige.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="180">
+      <tuv xml:lang="lv">
+        <seg>Pastāvīga darbības vieta var būt birojs, ražotne vai tml.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ett fast driftställe kan vara ett kontor, en fabrik eller liknande.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="181">
+      <tuv xml:lang="lv">
+        <seg>Nodoklis sastāda 25 procentus.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skattesatsen är 25 procent.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="182">
+      <tuv xml:lang="lv">
+        <seg>Pēc sešiem mēnešiem Tevi, no nodokļu viedokļa raugoties, var uzskatīt par tādu, kas apmeties uz dzīvi Zviedrijā un Tev jāmaksā nodokļi saskaņā ar parastiem nosacījumiem.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Efter sex månader anses du vara skattemässigt bosatt i Sverige och ska då betala skatt enligt de vanliga reglerna.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="183">
+      <tuv xml:lang="lv">
+        <seg>Tāds gadījums var būt arī tad, ja Tavas viesošanās Zviedrijā atkārtojas.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Så kan också bli fallet om dina vistelser i Sverige är återkommande.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="184">
+      <tuv xml:lang="lv">
+        <seg>Tel.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Utstationering</seg>
+      </tuv>
+    </tu>
+    <tu tuid="185">
+      <tuv xml:lang="lv">
+        <seg>Ārlietu ministrija</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Utrikesdepartementet</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

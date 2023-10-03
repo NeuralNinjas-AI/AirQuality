@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T130013Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="fi">
+    <prop type="x-tucount">14</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="fi">
+        <seg>Vahinkojen vaara pienenee ja työnteko tehostuu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljön behöver alltså förbättras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="fi">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsräcken ska:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="fi">
+        <seg>Putoamisriskin vähentäminen</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>vara hållfasta,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="fi">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="fi">
+        <seg>Ruotsin kemikaalilainsäädäntö</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>45-47 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="fi">
+        <seg>ja tarkastus</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Nödbelysning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="fi">
+        <seg>Katsastus on suoritettava Ruotsin sääntöjen mukaisesti.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I utrymningsvägar där belysning är nödvändig ska det också finnas nödbelysning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="fi">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="fi">
+        <seg>Muuta huomiotavaa…</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Kontrollera utrustning och installationer</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="fi">
+        <seg>Aliurakointitapauksissa rakennuttajan vastuuta ei voi siirtää.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Val av arbetsmetoder och utrustning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="fi">
+        <seg>13</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Information och instruktion</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="fi">
+        <seg>Työsuojeluvaltuutettu edustaa työntekijöitä turvakysymyksissä.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsronder</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="fi">
+        <seg>15</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ensamarbete AFS 1982:3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="fi">
+        <seg>Tel.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

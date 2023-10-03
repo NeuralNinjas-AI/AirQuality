@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T130146Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="pl">
+    <prop type="x-tucount">17</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="pl">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="pl">
+        <seg>Oznakowanie CE, homologacja i inspekcja urządzeń dźwigowych, maszyn i innego sprzętu</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Brand</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="pl">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Nödbelysning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="pl">
+        <seg>Co więcej ...</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="pl">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="pl">
+        <seg>Gdy zdarzy się wypadek</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>64 §</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="pl">
+        <seg>12</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>13</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="pl">
+        <seg>14</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>14</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="pl">
+        <seg>15</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsronder</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="pl">
+        <seg>Systematyczna praca na rzecz poprawy środowiska pracy</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Systematiskt arbetsmiljöarbete</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="pl">
+        <seg>Być przygotowanym na najgorsze</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsstövlar/skyddskängor med sågskydd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="pl">
+        <seg>Praca w pojedynkę</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ensamarbete</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="pl">
+        <seg>Pomieszczenia pracownicze</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personalutrymmen</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="pl">
+        <seg>Apteczka pierwszej pomocy</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Första förband</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="pl">
+        <seg>Higiena i czas pracy</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljö och arbetstid</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="pl">
+        <seg>W razie choroby</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det kallas för dygnsvila.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="pl">
+        <seg>Ministerstwo Spraw Zagranicznych</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Utrikesdepartementet</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T130138Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="pl">
+    <prop type="x-tucount">147</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="pl">
+        <seg>Pracownikiem delegowanym jest osoba wysyłana przez pracodawcę do innego kraju na określony czas w celu wykonywania tam pracy. Osoby delegowane do pracy w Szwecji objęte są podczas pracy w kraju niektórymi przepisami prawa szwedzkiego oraz porozumień zbiorowych.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Un lucrător detașat este o persoană care este trimisă în altă țară de către angajatorul său pentru a lucra pe o perioadă limitată.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="pl">
+        <seg>Szwedzki Urząd ds. Bezpieczeństwa i Higieny Pracy jest agencją rządową. Zapewnia ona, że odpowiednie przepisy prawa odnoszące się do miejsca i czasu pracy są przestrzegane.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Această obligație se aplică angajatorilor străinii atât din cât și din afara UE.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="pl">
+        <seg>Informacje na temat niebezpiecznych warunków pracy lub warunków pracy niespełniających przepisów ustawowych i wykonawczych powinny być zgłaszane przede wszystkim pracodawcy. Można je także zgłaszać specjalistom ds. bezpieczeństwa lub bezpośrednio do Szwedzkiego Urzędu ds. Bezpieczeństwa i Higieny Pracy.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Condiții periculoase de muncă sau condiții de muncă care nu corespund cu legile și regulamentele, ar trebui raportate în primul rând angajatorului.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="pl">
+        <seg>Wielu robotników budowlanych pada w pracy ofiarą wypadków lub chorób zawodowych. Ich przyczyną jest często upadek z wysokości, nieodpowiednia pozycja ciała przy pracy, podnoszenie ciężarów lub obrażenia spowodowane przez maszyny. Złe planowanie i brak czasu zwiększają ryzyko wypadków.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>O astfel de interdicţie trebuie semnată, dar semnătura în acest caz nu este altceva decât o dovadă a faptului că hârtia cu decizia a fost primită.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="pl">
+        <seg>Warunki pracy na placach budowy reguluje prawo oraz przepisy wydane przez Arbetsmiljöverket. W niniejszej broszurze przedstawiamy kilka podstawowych zasad.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Unii cad, alţii muncesc în poziţii neergonomice, ridică obiecte grele sau sunt accidentaţi de maşini.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="pl">
+        <seg>Wszelkie prace przy budowie, przebudowie, reparacji, konserwacji lub wyburzaniu budynków, obiektów lub instalacji reguluje Ustawa BHP oraz przepisy budowlane ustanowione przez Arbetsmiljöverket.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>În această broşură puteţi citi despre câteva condiţii minime în acest sens.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="pl">
+        <seg>Szwedzkie przepisy BHP obowiązują cudzoziemskich robotników zatrudnionych w Szwecji, niezależnie od tego czy są oni zatrudnieni w zagranicznej firmie, wynajęci przez szwedzkiego pracodawcę czy pracują we własnej firmie. A zatem dotyczą one zarówno samego przedsiębiorcy jak i jego pracowników, niezależnie od rodzaju zatrudnienia.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Deci atât patronii cât şi personalul sunt supuşi acestor reguli, indiferent de statutul lor profesional.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="pl">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="pl">
+        <seg>Ograniczenie ryzyka upadku z wysokości</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Reducerea riscului de cădere</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="pl">
+        <seg>Upadek z wysokości to najczęstsza przyczyna wypadków ciężkich lub śmiertelnych na placach budowy.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Riscul de cădere poare fi însă prevenit.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="pl">
+        <seg>Balustrady ochronne powinny:</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Parapetele de protecţie trebuie:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="pl">
+        <seg>być stabilne i wytrzymałe</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>să fie rezistente</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="pl">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="pl">
+        <seg>Powierzchnie, których wytrzymałość nie zapewnia bezpiecznego przebywania na nich pracowników należy odgrodzić. Jeżeli praca na takich powierzchniach jest jednak konieczna, należy zastosować specjalne środki ochrony.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>S-ar putea să existe riscul ca picioarele să treacă prin suprafeţe care nu opun o rezistenţă suficientă – blocaţi astfel de suprafeţe.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="pl">
+        <seg>Należy zawsze używać hełmów ochronnych i obuwia ochronnego. Czasami konieczne jest zastosowanie okularów, słuchawek i rękawic ochronnych.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Este bine ca o persoană competentă să verifice oichiurile plasei şi montarea acesteia înainte de folosire.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="pl">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="pl">
+        <seg>Podnoszenie ciężarów i nieodpowiednia pozycja ciała przy pracy obciążają organizm</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Ridicarea obiectelor grele şi poziţii de muncă neergonomice supun corpul la solicitări</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="pl">
+        <seg>Praca na budowie jest często ciężka i obciąża organizm, i dlatego do podnoszenia i przemieszczania materiałów budowlanych powinno się używać sprzętu wspomagającego. Maszyny i narzędzia powinny być ergonomicznie dostosowane.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Munca în construcţii este deseori grea şi supune corpul la solicitări, de aceea există dispozitive de ridicat pentru a transporta materiale de construcţii.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="pl">
+        <seg>Praca w pozycji na drabinie przez dłuższy czas jest szkodliwa dla zdrowia. Prawidłową pozycję przy pracy zapewnia poziome i równe podłoże, np. ruchomy podest.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Să lucrezi de pe o scară mai mult timp nu este bine pentru corp.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="pl">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="pl">
+        <seg>Szwedzkie przepisy dotyczące substancji chemicznych</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Reguli despre substanţe chimice în Suedia</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="pl">
+        <seg>Pracodawca powinien poinformować pracowników o zagrożeniach, jakie niosą ze sobą szkodliwe produkty chemiczne oraz powinien on upewnić się, że pracownicy zrozumieli te informacje.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>În şantierele de construcţii trebuie săexiste o listă cu toate produsele chimice periculoase.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="pl">
+        <seg>Niektóre ze szkodliwych substancji podlegają szczególnie surowym przepisom:</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Pentru anumite substanţe sunt valabile reguli deosebit de dure:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="pl">
+        <seg>Azbest: Dokonywanie wyburzania obiektów i pozbycia się gruzu, w którym znajduje się azbest nie jest możliwe bez zezwolenia Arbetsmiljöverket.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Pentru a primi o astfel de autorizaţie este nevoie de pregătire specială demonstrată prin acte şi de certificat medical.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="pl">
+        <seg>Termoutwardzalne tworzywa sztuczne: Nawet przed przystąpieniem do pracy z termoutwardzalnymi tworzywami (takimi jak pianka do uszczelniania zawierająca izocyjaniny, klej Epoxy, farba Epoxy, itp.) wymagane jest badanie lekarskie i szkolenie.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>este nevoie de certificat medical şi pregătire înainte de începerea lucrului.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="pl">
+        <seg>Złamanie powyższych przepisów jest karalne i podlega wysokiej karze grzywny.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Încălcarea acestor reguli este pasibilă de pedeapsă cu amenzi considerabile.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="pl">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="pl">
+        <seg>Połączenia między poziomami i transport materiałów</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Căi de legătură şi transporturi</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="pl">
+        <seg>Na placu budowy powinny znajdować się bezpieczne połączenia i przejścia między różnymi poziomami, np. schody lub rampy. Przy różnicy poziomów większej niż dziesięć metrów, na miejscu powinna znajdować się winda, aby pracownicy nie musieli pokonywać takich wysokości schodami.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>La diferenţe de nivel care depăşesc zece metri trebuie să existe lift în cazul în care angajatul fără lift ar trebui să folosească mult scările.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="pl">
+        <seg>Drogi dojazdowe na placu budowy powinny być położone w bezpiecznej odległości od stanowisk pracy lub odpowiednio odgrodzone i oznakowane.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>În interiorul unui şantier de construcţii trebuie să existe distanţe de siguranţă sufiecient de mari sau dispozitive de protecţie.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="pl">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="pl">
+        <seg>Instrukcje obsługi urządzeń dźwigowych, maszyn i innego sprzętu</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Manuale de instrucţiuni pentru dispozitive de ridicat, maşini şi alte produse</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="pl">
+        <seg>Nawet prefabrykaty rusztowań powinny być dostarczane włącznie z pisemną instrukcją obsługi w języku szwedzkim, a instrukcje te powinny być potem dostępne w miejscu pracy. Przepisy Arbetsmiljöverket dotyczące rusztowań mówią o wymogach dotyczących treści instrukcji obsługi.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Marcarea CE, omologarea de tip şi revizia tehnică a dispozitivelor de ridicat, maşinilor şi altor produse</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="pl">
+        <seg>Nowe maszyny i urządzenia dźwigowe, które mają być dopuszczone do użytku w Szwecji, powinny ogólnie rzecz biorąc posiadać oznakowanie CE. Prefabrykaty rusztowań i drabin, które będą dostarczane do Szwecji, powinny być zbadane i oznakowane (a drabiny certyfikowane) przez upoważniony do tego urząd.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Multe maşini şi dispozitive de ridicat trebuie să fie supuse reviziilor tehnice periodice pentru a putea fi folosite.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="pl">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="pl">
+        <seg>Co więcej ...</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Mai multe de gândit...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="pl">
+        <seg>Przyczyną ciężkich wypadków mogą być leżące na składzie materiały budowlane, które nagle utracą stabilność, np. na skutek silnego wiatru. Dlatego tak ważne jest odpowiednie składowanie materiałów. W niektórych warunkach pogodowych robotnikom budowlanym potrzebne będą środki ochrony przed wiatrem i zimnem.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Când materialeele de construcţii depozitate sunt puse în mişcare, de exemplu din cauza vânturilor puternice, acestea pot produce accidente grave.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="pl">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="pl">
+        <seg>Gdy zdarzy się wypadek</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Dacă se întâmplă ceva</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="pl">
+        <seg>W przypadku, gdy przerwa w dostawie prądu mogłaby mieć niebezpieczne skutki, w miejscu pracy powinno znajdować się zapasowe oświetlenie. Dotyczy to np. pracy przy użyciu pił budowlanych lub pracy przy stawianiu rusztowań.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Acesta este cazul, de exemplu, la munca cu ferestrăul de construcţii sau la montarea schelelor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="pl">
+        <seg>Plan organizacji warunków pracy</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Planul mediului de muncă</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="pl">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="pl">
+        <seg>Plan powinien składać się następujące części:</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Regulile care se vor aplica în şantier,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="pl">
+        <seg>robót w miejscach lub na obszarach czynnego ruchu drogowego oraz przy wyburzaniu elementów nośnych konstrukcji budynków lub wyburzaniu obiektów zawierających szkodliwe dla zdrowia materiały lub substancje.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>munca în locuri sau zone cu circulaţie de vehicule şi demolarea construcţiilor purtătoare sau cu materiale sau substanţe nocive</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="pl">
+        <seg>Zgłoszenie rozpoczęcia prac budowlanych</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Anunţ prealabil</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="pl">
+        <seg>11</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="pl">
+        <seg>Planowanie i informacja</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Planificare şi informaţii</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="pl">
+        <seg>Należy wybierać metody pracy i wyposażenie, które:</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Trebuiesc alese metode de lucru şi echipament tehnic care:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="pl">
+        <seg>zapobiegają wypadkom spowodowanym przez upadek z wysokości lub zawalenie wykopu,</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>combat accidentele cauzate de căderi sau surpări,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="pl">
+        <seg>nie narażają pracowników na niebezpieczne dla zdrowia lub powodujące nadmierne zmęczenie obciążenia ciała, zapewniają niski poziom hałasu, wibracji, szkodliwych substancji i zanieczyszczeń powietrza.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>duc la evitarea expunerii corpului la solicitări acre afectează sănătatea sau duc la oboseli inutile, reduc expunerea la zgomot, vibraţii, substanţe periculoase sau poluarea aerului.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="pl">
+        <seg>Pracowników należy poinformować o tym, jaką pracę będą wykonywać, jakie środki ochrony i organizacji pracy zostały podjęte lub zaplanowane oraz jakie zasady obowiązują w miejscu pracy. Jeżeli planowane jest zastosowanie nowych produktów lub metod pracy, to możliwe, że potrzebne będzie dodatkowe przeszkolenie pracowników.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>S-ar putea ca aceştia să aibă nevoie de pregătire specială sau de instrucţiuni despre produse noi sau metodele de muncă ce vor fi folosite.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="pl">
+        <seg>Na placu budowy zachodzą nieustannie szybkie zmiany niosące ze sobą różne rodzaje ryzyka. Dlatego niezbędne są regularne obchody w celu kontroli bezpieczeństwa pracy.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Într-un şantier de construcţii au loc schimbări rapide, care pot duce la multe riscuri.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="pl">
+        <seg>12</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="pl">
+        <seg>Kto i za co jest odpowiedzialny?</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Cine răspunde de ce?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="pl">
+        <seg>W celu zapewnienia dobrych warunków pracy na placu budowy niezbędnym jest, aby wszystkie osoby odpowiedzialne za przedsięwzięcie prewencyjnych środków bezpieczeństwa wywiązały się ze swoich zadań. Co więcej, osoby te powinny ze sobą współpracować, a do tworzenia dobrych warunków pracy powinni też przyczynić się robotnicy.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>De asemenea, este important ca cei implicaţi în diferite activităţi să coopereze între ei şi ca muncitorii constructori să contribuie la eforturile legate de mediul de muncă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="pl">
+        <seg>Zleceniodawca prac budowlanych lub instalacyjnych (inwestor) ponosi główną odpowiedzialność za uwzględnienie już w fazie przygotowawczej (planowanie i projektowanie) niezbędnych środków bezpieczeństwa i organizacji pracy danego projektu. W gestii inwestora leży także zgłoszenie rozpoczęcia prac budowlanych w odpowiednim urzędzie, sporządzenie planu organizacji warunków pracy i odpowiedniej dokumentacji oraz wyznaczenie koordynatora warunków pracy d.s. planowania i projektowania.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Cel care efectuează lucrările de construcţii şi inginerie civilă (antreprenorul) are răspunderea principală pentru ca mediul de muncă în cursul procesului de construcţie să fie tratat în faza de pregătire a proiectului de construcţie (planificare şi proiectare).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="pl">
+        <seg>Oprócz tego inwestor odpowiada za to, aby organizacja wykonania prac budowlanych i instalacyjnych była zgodna z normami dobrego środowiska pracy, a w związku z tym za wyznaczenie koordynatora warunków pracy d.s. wykonania robót.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Antreprenorul mai are şi răspunderea anunţului prealabil, a planului mediului de muncă şi a elaborării documentaţiei precum şi răspunderea numirii unui coordonator al mediului de muncă al construcţiei pentru planificare şi proiectare.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="pl">
+        <seg>W niektórych przypadkach inwestor może na mocy pisemnej umowy przekazać odpowiedzialność za organizację środowiska pracy wykonawcy, w zakresie tej części projektu, która została wykonawcy zlecona. Jest to możliwe w przypadkach, gdy jeden i ten sam wykonawca będzie odpowiedzialny za całokształt planowania i projektowania i/lub całkowite wykonanie projektu, np. w przypadku kontraktu „pod klucz” lub generalnego wykonawstwa.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Aceasta se poate face dacă sarcina înseamnă răspunderea independentă a întregii planificări şi proiectări şi/sau întreaga executare a proiectului, de exemplu în cazul antreprenadei generale sau totale.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="pl">
+        <seg>W przypadku wynajęcia wielu wykonawców odpowiedzialność inwestora za organizację środowiska pracy nie może zostać przekazana.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>În cazul antreprenadei parţiale, răspunderea antreprenorului nu poate fi cedată.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="pl">
+        <seg>Koordynator warunków pracy d.s. planowania i projektowania jest odpowiedzialny za zaplanowanie części projektu dotyczącej środowiska pracy oraz za sporządzenie planu organizacji warunków pracy i z tym związanej dokumentacji.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Coordonatorul mediului de muncă al construcţiei pentru planificare şi proiectare trebuie să coordoneze proiectarea din punctul de vedere al mediului de muncă şi are răspunderea elaborării planului şi documentaţiei mediului de muncă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="pl">
+        <seg>13</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>13</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="pl">
+        <seg>Koordynator warunków pracy d.s. wykonania robót jest odpowiedzialny za zorganizowanie wykonania robót w sposób zgodny z normami dobrego środowiska pracy, dopasowanie planu organizacji warunków pracy do rzeczywistych potrzeb oraz czuwanie nad tym, aby wykonanie robót przebiegało w sposób zgodny z normami dobrego środowiska pracy i wytycznymi planu.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Fiecare angajator are răspunderea principală a mediului de muncă pentru angajaţii lui.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="pl">
+        <seg>Inne firmy aktywne na placu budowy są zobowiązane informować koordynatora warunków pracy d.s. wykonania robót o pojawieniu się innych zagrożeń związanych z wykonaniem ich własnych robót. Wszystkie firmy aktywne na placu budowy muszą stosować się do przepisów dotyczących środków ochrony i porządku sporządzonych przez koordynatora.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Răspunderea angajatorului pentru angajaţii lui este valabilă în întregime, chiar dacă cei care proiectează, fac o maşină folosită în muncă sau cel care este coordonator al mediului construcţiei au şi ei răspunderea lor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="pl">
+        <seg>Firmy jednoosobowe i osoby prowadzące biznes rodzinny bez zatrudnienia obcych biorące udział w pracach budowlanych i instalacyjnych powinny ogólnie rzecz biorąc stosować się do tych samych przepisów, jakie obowiązują pracodawców i pracowników.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Muncitorii constructori trebuie să contribuie la activităţile legate de mediul de muncă, să respecte normele în vigoare şi să folosească echipamentul de protecţie existent.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="pl">
+        <seg>Robotnicy budowlani powinni przyczynić się tworzenia dobrych warunków pracy poprzez przestrzeganie obowiązujących przepisów oraz stosowanie wyznaczonych środków bezpieczeństwa.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Reprezentantul protecţiei îi reprezintă pe angajaţi în probleme legate de protecţie.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="pl">
+        <seg>14</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>14</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="pl">
+        <seg>Ustawa BHP zawiera nawet przepisy dotyczące odpowiedzialności, jaka spoczywa na tych, którzy wynajmują siłę roboczą i na tych, którzy zarządzają miejscem pracy.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Legea mediului de muncă [arbetsmiljölagen] conţine şi hotărâri despre răspunderea celui care închiriază forţă de muncă şi a celui care are puterea la un loc de muncă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="pl">
+        <seg>15</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="pl">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="pl">
+        <seg>Swedish Work Environment Authority, publication services, 112 79 Stockholm.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Swedish Work Environment Authority, publication services, 112 79 Stockholm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="pl">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="pl">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="pl">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="pl">
+        <seg>ADI 539 Pol Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>ADI 539 Rum Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="pl">
+        <seg>Systematyczna praca na rzecz poprawy środowiska pracy</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Măsuri sistematice pentru protecţia muncii</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="pl">
+        <seg>Zmiany dotyczące użytkowania pilarek łańcuchowych spalinowych i wykaszarek</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Amendamente la operarea drujbei şi motocoasei</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="pl">
+        <seg>Cztery duże zmiany w przepisach AFS 2012:1</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Condiţia cu privire la hainele cu mare vizibilitate.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="pl">
+        <seg>Wymóg udokumentowania odpowiednich umiejętności w formie zdanego egzaminu teoretycznego i praktycznego. Pracodawca musi dopilnować, aby wymóg zaliczonych egzaminów został spełniony do dnia 1 stycznia 2015 r.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Angajatorul este obligat să se asigure că hainele cu mare vizibilitate întrunesc prevederile în vigoare.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="pl">
+        <seg>Niezastosowanie się do wymogu dotyczącego udokumentowanych umiejętności po dniu 1 stycznia 2015 r. jest zagrożone karą w wysokości 10 000 koron.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Hainele cu mare vizibilitate fabricate în conformitate cu standardele SS EN 471 îndeplinesc prevederile în vigoare.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="pl">
+        <seg>Obuwie ochronne wyposażone w ochronę przed przecięciem piłą.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Cizme de protecţie/bocanci pentru protecţie la acţiunea drujbei.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="pl">
+        <seg>Być przygotowanym na najgorsze</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Pregătire în caz de urgenţe majore</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="pl">
+        <seg>Pomieszczenia pracownicze</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Munca izolată</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="pl">
+        <seg>Środki ochrony indywidualnej</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Spaţiul de care dispun angajaţii</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="pl">
+        <seg>Pracownicy wykonujący prace z użyciem pilarki łańcuchowej spalinowej muszą używać następujących środków ochrony indywidualnej:</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Spaţiul este necesar atât pentru confort, cât şi pentru preîntâmpinarea problemelor de sănătate.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="pl">
+        <seg>Kask ochronny Ochronniki słuchu</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Echipament de protecţie personală</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86">
+      <tuv xml:lang="pl">
+        <seg>Ochrona indywidualna oczu</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>trusă de prim ajutor</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87">
+      <tuv xml:lang="pl">
+        <seg>Apteczka pierwszej pomocy</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>pantaloni de protecţie</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88">
+      <tuv xml:lang="pl">
+        <seg>Kto może obsługiwać pilarkę łańcuchową spalinową?</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Cui îi este permis să opereze drujba?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89">
+      <tuv xml:lang="pl">
+        <seg>Osoba obsługująca pilarkę łańcuchową spalinową musi zdać egzamin teoretyczny i praktyczny potwierdzający posiadanie wiedzy i umiejętności pozwalających na wykonywanie danej pracy. Musi ona także posiadać dokumenty potwierdzające spełnienie powyższych wymogów.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Se impune ca persoana în cauză să fi promovat o examinare practică şi teoretică care indică faptul că deţine cunoştinţele necesare îndeplinirii sarcinilor de muncă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90">
+      <tuv xml:lang="pl">
+        <seg>Kto może obsługiwać wykaszarkę?</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Cui îi este permis să opereze motocoasa?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91">
+      <tuv xml:lang="pl">
+        <seg>Osoba obsługująca wykaszarkę musi przejść szkolenie w zakresie danego rodzaju prac oraz posiadać wiedzę i umiejętności niezbędne do wykonania danej pracy.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Se impune ca persoana care operează motocoasa să aibă o pregătire profesională pentru acest tip de muncă şi să deţină cunoştinţele necesare.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92">
+      <tuv xml:lang="pl">
+        <seg>Uważaj na przewracane drzewa</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Atenţie la arbori în cădere!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93">
+      <tuv xml:lang="pl">
+        <seg>Strona internetowa Urzędu ds. Środowiska Pracy</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Pagina web a Administraţiei protecţiei muncii (Arbetsmiljöverket)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94">
+      <tuv xml:lang="pl">
+        <seg>Na naszej stronie internetowej dostępne są najnowsze wersje obowiązujących przepisów, broszury informacyjne oraz podręczniki pomagające zapewnić bezpieczne środowisko pracy. do nich pieszo. ADI 674, dostępny do pobrania wyłącznie w formacie PDF na www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Pe pagina noastră web se găseşte cea mai recentă versiune a regulamentului în vigoare, broşuri informative şi cărţi care oferă informaţii cu privire la asigurarea unui mediu al muncii adecvat.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95">
+      <tuv xml:lang="pl">
+        <seg>Niniejsza broszura informacyjna, opracowana przez Szwedzki Urząd ds. Bezpieczeństwa i Higieny Pracy [Arbetsmiljöverket], przeznaczona jest dla osób pragnących podjąć pracę jako zbieracze jagód w Szwecji.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Aceasta înseamnă, printre altele, că noi informăm angajaţii străini despre ce este valabil pentru ei când lucrează temporar în Suedia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96">
+      <tuv xml:lang="pl">
+        <seg>Poniżej omówiono w skrócie przepisy dotyczące pozwolenia na pracę i pobyt, bezpieczeństwa i higieny pracy, czasu pracy oraz minimalnego wynagrodzenia obowiązujące w</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Despre ce înseamnă acest lucru poţi citi în cele de mai jos.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97">
+      <tuv xml:lang="pl">
+        <seg>Szwecji w 2010 roku.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Pentrutine, carevreisămunceştica culegătordefructedepădureîn Suedia</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98">
+      <tuv xml:lang="pl">
+        <seg>Urząd ds. Migracji podjął decyzję, że począwszy od sezonu 2010, będzie rozpatrywał wnioski o pozwolenie na pracę przy zbieraniu dzikich jagód na tych samych zasadach, na jakich rozpatruje się wszystkie pozosta e wnioski o pozwolenie na pracę. Poniżej znajduje się więcej informacji o konsekwencjach tej decyzji.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Poţi de asemenea să-ţi depui cererea la ambasada sau consulatul Suediei sin ţara în care locuieşti.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99">
+      <tuv xml:lang="pl">
+        <seg>Informacja dla osób zainteresowanych pracą zbieracza jagód w Szwecji</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Deceainevoiepentruaobţinepermisuldemuncă?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100">
+      <tuv xml:lang="pl">
+        <seg>Jakie warunki należy spełnić, aby uzyskać pozwolenie na pracę?</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Pentru a obţine permisul trebuie:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="101">
+      <tuv xml:lang="pl">
+        <seg>By uzyskać pozwolenie, należy spełnić następujące warunki:</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>să ai un paşaport valabil,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="102">
+      <tuv xml:lang="pl">
+        <seg>posiadać ważny paszport,</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Caresuntcondiţiiledeangajareînvigoare pentruculegătoriidefructedepădureconforma contractuluicolectivdemuncăsuedez?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="103">
+      <tuv xml:lang="pl">
+        <seg>wykonywana praca musi zapewnić utrzymanie, praca powinna zapewniać minimalne wynagrodzenie w wysokości 13 000 SEK na miesiąc (patrz też punkt 5), pracodawca publikował ogłoszenie o pracy w Szwecji i Unii Europejskiej przez co najmniej 10 dni (dotyczy nowych zatrudnień), pracodawca oferuje warunki zatrudnienia zgodne z obowiązującym w Szwecji układem zbiorowym pracy lub przyjęte w danym zawodzie lub branży (patrz niżej), pracodawca zapewnia właściwym związkom zawodowym możliwość wyrażenia swej opinii na temat warunków zatrudnienia zawartych w ofercie pracy.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Dacă eşti angajat de o întreprindere cu activitate în Suedia, contractul tău colectiv de muncă este conform acordului dintre sindicatul Kommunal (Svenska kommunalarbetar- förbundet = Sindicatul suedez al muncitorilor din comune) şi Organizaţia patronală a patronilor din cadrul pădurilor şi agriculturii [Skogs- och lantarbetsgivarförbundet].</seg>
+      </tuv>
+    </tu>
+    <tu tuid="104">
+      <tuv xml:lang="pl">
+        <seg>Jakie warunki zatrudnienia zapewnia zbieraczom jagód szwedzki układ zbiorowy pracy?</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Salariul minim conform acordului este de 18 542 SEK pe lună fiind.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="105">
+      <tuv xml:lang="pl">
+        <seg>Kryterium uzyskania pozwolenia na pracę to nie tylko minimalne wynagrodzenie w wysokości 13 000 SEK na miesiąc, lecz również zgodność warunków zatrudnienia ze szwedzkim układem zbiorowym pracy (lub tym, co jest przyjęte w danym zawodzie lub branży).</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Dacă eşti angajat la oră, acest contract conţine şi datele în vigoare referitoare la plata minimă pe oră.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="106">
+      <tuv xml:lang="pl">
+        <seg>W przypadku zbieraczy jagód zatrudnianych przez przedsiębiorstwa prowadzące działalność w Szwecji, obowiązującym układem zbiorowym jest umowa pomiędzy Szwedzką Organizacją Pracowników Gminnych [Svenska Kommunalarbetareförbundet] oraz Organizacją Pracodawców Branży Leśnej i Rolniczej [Skogs- och lantarbetsgivar- förbundet].</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Salariul minim conform unui astfel de contract este de 19 772 SEK pe lună.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="107">
+      <tuv xml:lang="pl">
+        <seg>Minimalne wynagrodzenie ustalone w tej umowie to 18 542 SEK na miesiąc. W przypadku pracowników zatrudnio-nych na godziny, umowa określa najniższą dozwoloną staw-kę wypłacaną za godzinę pracy.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Aceasta este valabil indiferent dacă întreprinderea străină a semnat sau nu un acord colectiv de muncă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="108">
+      <tuv xml:lang="pl">
+        <seg>Jeżeli Twój pracodawca podpisał umowę ze Szwedzką Organizacją Pracowników Gminnych [Svenska Kommuna- larbetareförbundet], zastosowanie mają wszystkie warunki tej umowy. Umowa ta zawiera ustalenia dotyczące minimalnego wynagrodzenia, czasu pracy, ubezpieczenia oraz wiele innych. Na stronie internetowej organizacji www.kommunal.se znajduje się broszura w formacie PDF</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Pe site-ul Kommunal, www.kommunal.se, există broşura „A munci în Suedia” [Arbeta i Sverige] în format PDF, unde poţi găsi informaţii suplimentare despre acest acord şi drepturile tale.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="109">
+      <tuv xml:lang="pl">
+        <seg>„Praca w Szwecji” [Arbeta i Sverige], w której można znaleźć więcej informacji na temat umowy i praw pracownika. Broszura ta jest dostępna w różnych językach.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Broşura există în mai multe limbi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="110">
+      <tuv xml:lang="pl">
+        <seg>Zbieranie jagód bez zatrudnienia</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Aculegefructedepădurefărăafiangajat</seg>
+      </tuv>
+    </tu>
+    <tu tuid="111">
+      <tuv xml:lang="pl">
+        <seg>Ustawa o bezpieczeństwie i higienie pracy zawiera przepisy o obowiązkach pracodawcy oraz innych osób odpowiedzialnych za BHP w związku z zapobieganiem niezdrowym warunkom pracy i wypadkom. Higiena pracy obejmuje wszystkie zagadnienia dotyczące warunków w miejscu pracy, począwszy od tego czy maszyny i narzędzia spełniają wymogi bezpieczeństwa a kończąc na ustaleniu czy poziom stresu w pracy nie jest za wysoki.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Legea mediului de muncă conţine reguli despre obligaţiu- nile angajatorului şi a altora, care au răspunderea protecţiei prin prevenirea afectării sănătăţii şi accidentelor de muncă.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="112">
+      <tuv xml:lang="pl">
+        <seg>W razie choroby</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Dacăteîmbolnăveşti</seg>
+      </tuv>
+    </tu>
+    <tu tuid="113">
+      <tuv xml:lang="pl">
+        <seg>Kiedy przyjedziesz by pracować w Szwecji, możesz osobiście zgłosić się do Kasy Ubezpieczeń. Zgłoszenie nie ma wpływu na ewentualne prawo do świadczeń.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Te poţi înscrie benevol la Försäkringskassan când vii în Suedia să munceşti.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="114">
+      <tuv xml:lang="pl">
+        <seg>Informacje znajdziesz na stronie internetowej Kasy Ubezpieczeń [Försäkringskassan], www.forsakringskassan.se.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Înscrierea nu influenţează eventualele drepturi la avantaje.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="115">
+      <tuv xml:lang="pl">
+        <seg>Czy musisz płacić podatki w Szwecji?</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Veiplătiimpozitîn Suedia?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="116">
+      <tuv xml:lang="pl">
+        <seg>Pracownicy zatrudnieni przez pracodawcę w swoim kraju pochodzenia a pracujący okresowo w Szwecji, nie podlegają obowiązkowi odprowadzania podatku. Dochody są zwolnione z opodatkowania pod warunkiem, że okres pracy nie</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Un loc de activitate fix poate fi un birou, o fabrică sau altceva asemănător.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="117">
+      <tuv xml:lang="pl">
+        <seg>przekroczy 183 dni w ciągu roku. Istnieją jednak wymagania dotyczące pracodawcy. By przepis powyższy mógł być zastosowany, pracodawca nie może mieć stałego oddziału w Szwecji. Stały oddział to na przykład biuro, fabryka itp.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>După şase luni, din punctul de vedere al impozitului, eşti considerat ca fiind stabilit în Suedia şi plăteşti impozit după regulile normale.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="118">
+      <tuv xml:lang="pl">
+        <seg>Delegowanie pracowników</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Detaşare</seg>
+      </tuv>
+    </tu>
+    <tu tuid="119">
+      <tuv xml:lang="pl">
+        <seg>Urząd ds. Bezpieczeństwa i Higieny Pracy pełni rolę biura łącznikowego ds. spraw pracowników delegowanych do pracy za granicą i udziela informacji o prawach pracownika. Więcej informacji o delegowaniu pracowników znajdziesz na stronie internetowej www.posting.se.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Pentru forţa de muncă detaşată există de exemplu hotărâri privitoare la concediul de odihnă şi cel de maternitate.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="120">
+      <tuv xml:lang="pl">
+        <seg>workinginsweden.se</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Workingsweden.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="121">
+      <tuv xml:lang="pl">
+        <seg>Delegowanie pracowników</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Detaşare</seg>
+      </tuv>
+    </tu>
+    <tu tuid="122">
+      <tuv xml:lang="pl">
+        <seg>Urząd ds. Bezpieczeństwa i Higieny Pracy pełni rolę biura łącznikowego ds. spraw pracowników delegowanych do pracy za granicą i udziela informacji o prawach pracownika. Więcej informacji o delegowaniu pracowników znajdziesz na stronie internetowej www.posting.se.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Pentru forţa de muncă detaşată există de exemplu hotărâri privitoare la concediul de odihnă şi cel de maternitate.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="123">
+      <tuv xml:lang="pl">
+        <seg>workinginsweden.se</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Workingsweden.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="124">
+      <tuv xml:lang="pl">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="125">
+      <tuv xml:lang="pl">
+        <seg>Swedish Work Environment Authority, publicationservices, 112 79 Stockholm.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Swedish Work Environment Authority, publicationservices, 112 79 Stockholm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="126">
+      <tuv xml:lang="pl">
+        <seg>Tel. +46-(0)8-730 97 00</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>+46-(0)8-730 97 00</seg>
+      </tuv>
+    </tu>
+    <tu tuid="127">
+      <tuv xml:lang="pl">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se ADI 653 Pol</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se ADI 653 Rum</seg>
+      </tuv>
+    </tu>
+    <tu tuid="128">
+      <tuv xml:lang="pl">
+        <seg>Informacja o kontaktach</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Datedelegătură</seg>
+      </tuv>
+    </tu>
+    <tu tuid="129">
+      <tuv xml:lang="pl">
+        <seg>Urząd ds. Bezpieczeństwa i Higieny Pracy</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Administraţiamediuluidemuncă</seg>
+      </tuv>
+    </tu>
+    <tu tuid="130">
+      <tuv xml:lang="pl">
+        <seg>Tfn: +46-(0)8-730 90 00 www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Tfn: +46-(0)8-730 90 00 www.av.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="131">
+      <tuv xml:lang="pl">
+        <seg>Straż pożarna</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Pompieri</seg>
+      </tuv>
+    </tu>
+    <tu tuid="132">
+      <tuv xml:lang="pl">
+        <seg>Tfn: 112</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Tfn: 112</seg>
+      </tuv>
+    </tu>
+    <tu tuid="133">
+      <tuv xml:lang="pl">
+        <seg>Kasa Ubezpieczeń</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Casageneralădeasigurărisociale</seg>
+      </tuv>
+    </tu>
+    <tu tuid="134">
+      <tuv xml:lang="pl">
+        <seg>Urząd ds. Migracji</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Administraţiademigraţie</seg>
+      </tuv>
+    </tu>
+    <tu tuid="135">
+      <tuv xml:lang="pl">
+        <seg>Policja</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Poliţia</seg>
+      </tuv>
+    </tu>
+    <tu tuid="136">
+      <tuv xml:lang="pl">
+        <seg>Tfn: 112 (emergency),</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Tfn: 112 (emergency),</seg>
+      </tuv>
+    </tu>
+    <tu tuid="137">
+      <tuv xml:lang="pl">
+        <seg>Tfn: +46-(0)77-114 14 00 (non-emergency) www.polisen.se</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Tfn: +46-(0)77-114 14 00 (non-emergency) www.polisen.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="138">
+      <tuv xml:lang="pl">
+        <seg>Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+    </tu>
+    <tu tuid="139">
+      <tuv xml:lang="pl">
+        <seg>Związek pracowników gminnych</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Sindicatulmuncitorilorcomunali</seg>
+      </tuv>
+    </tu>
+    <tu tuid="140">
+      <tuv xml:lang="pl">
+        <seg>Tfn: +46-(0)10-442 70 00 www.kommunal.se</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Tfn: +46-(0)10-442 70 00 www.kommunal.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="141">
+      <tuv xml:lang="pl">
+        <seg>Urząd Skarbowy</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Administraţiafiscală</seg>
+      </tuv>
+    </tu>
+    <tu tuid="142">
+      <tuv xml:lang="pl">
+        <seg>Tfn: +46-(0)771-567 567 www.skatteverket.se</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Tfn: +46-(0)771-778 778 www.skatteverket.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="143">
+      <tuv xml:lang="pl">
+        <seg>SOS Alarm</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>SOSAlarmă</seg>
+      </tuv>
+    </tu>
+    <tu tuid="144">
+      <tuv xml:lang="pl">
+        <seg>Tfn: 112 www.sosalarm.se</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Tfn: 112 www.sosalarm.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="145">
+      <tuv xml:lang="pl">
+        <seg>Instytut Szwedzki www.sweden.se</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Institutul Suedez www.sweden.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="146">
+      <tuv xml:lang="pl">
+        <seg>Ministerstwo Spraw Zagranicznych</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Ministruldeexterne</seg>
+      </tuv>
+    </tu>
+    <tu tuid="147">
+      <tuv xml:lang="pl">
+        <seg>Tfn: +46-(0)8-405 10 00 www.regeringen.se www.sweden.gov.se</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Tfn: +46-(0)8-405 10 00 www.regeringen.se www.sweden.gov.se</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T125431Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="de">
+    <prop type="x-tucount">177</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="de">
+        <seg>Ein sicheres und gesundes Arbeitsumfeld ist für alle Beteiligten ein Gewinn, denn dadurch wird das Unfallrisiko reduziert und eine höhere Effizienz am Arbeitplatz erreicht.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Några av de vanligaste orsakerna är fall till lägre nivå, olämpliga arbetsställ- ningar eller tunga lyft och bärande.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="de">
+        <seg>Sollten sich die Gefahren als zu hoch erweisen, hat das Schwedische Zentralamt für Arbeitsumwelt die Möglichkeit die Fortsetzung der Arbeiten zu untersagen, bis die entsprechenden Verbesserungsmaßnahmen durchgeführt worden sind.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>En bra arbetsmiljö lönar sig för alla: anställda, arbetsgivare, de som låter utföra byggnads- eller anläggningsarbete (det vill säga byggherrarna) och samhället i stort.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="de">
+        <seg>Ein solches Verbot muss unterzeichnet werden, wobei die Unterschrift lediglich eine Quittung dafür ist, dass der Entscheid entgegengenommen wurde.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Även bestämmelserna om byggnads- och anläggningsarbete i arbetsmiljölagen har ändrats.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="de">
+        <seg>Viele Bauarbeiter verunglücken bei der Arbeit oder leiden an einer Berufskrankheit.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Hänvisningar till föreskrifterna finns i marginalen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="de">
+        <seg>Schlechte Planung und Zeitmangel erhöhen das Unfallrisiko.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Grundläggande bestämmelser om arbetsmiljön finns i arbetsmiljölagen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="de">
+        <seg>Die Gesetze und Vorschriften des Schwedischen Zentralamts für Arbeitsumwelt enthalten Anweisungen für die ordnungsgemäßen Abläufe von Bauarbeiten.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Byggnads- och anläggningsarbete är arbete med byggnader och anläggningar vid</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="de">
+        <seg>Mit der vorliegenden Broschüre wird Ihnen ein Überblick über einige Mindestanforderungen zur Verfügung gestellt.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>1 § uppförande, ändring, reparation, underhåll och rivning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="de">
+        <seg>Bau-, Änderungs-, Reparatur-, Wartungs- oder Abrissarbeiten an Gebäuden oder Anlagen fallen unter das schwedische Arbeitsschutzgesetz und die Bauvorschriften des Schwedischen Zentralamts für Arbeitsumwelt.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Till byggnads- och anläggningsarbete räknas bland annat hus-, industri-, mark-, tunnel-, bro-, väg-, spår-, rörlednings-, installations- och linjebyggnadsarbete.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="de">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="de">
+        <seg>Reduzierung der Sturzgefahr</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förebygg risken för fall</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="de">
+        <seg>Auch bei geringeren Höhenunterschieden können Schutzvorrichtungen notwendig sein, das trifft z. B. zu, wenn sich Wasser oder scharfe Gegenstände unterhalb des Arbeitsplatzes befinden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>När arbetet är sådant att det inte går att använda räcken, arbetsplattformar, arbetskorgar eller ställningar ska personlig fallskyddsutrustning användas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="de">
+        <seg>Um den Absturz einer Person zu verhindern, die auf einem steilen Dach nach unten rutscht, werden ganz besonders stabile Geländer benötigt.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om detta inte går att ordna ska lämplig person utses som håller fast linan, lämpligen genom avhåll.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="de">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personlig skyddsutrustning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="de">
+        <seg>Wenn das Sicherungsseil nirgendwo angebracht werden kann, kann es um eine feste Vorrichtung gewickelt und von einer anderen Person straff gehalten werden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Annan personlig skyddsutrustning, till exempel ögonskydd, hörselskydd och handskar, ska användas när det behövs.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="de">
+        <seg>Es kann die Gefahr bestehen, dass Oberflächen betreten werden, die keine ausreichende Tragfähigkeit haben – in solchen Fällen müssen die Flächen abgesperrt werden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I föreskrifterna finns bestämmelser om hur ett skyddsnät ska vara konstruerat.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="de">
+        <seg>Wenn man dennoch auf solch einer Fläche arbeiten muss, ist die Verwendung einer besonderen Schutzvorrichtung notwendig.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>En skriftlig instruktion på svenska ska medfölja nätet vid leveransen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="de">
+        <seg>Bei einigen Arbeiten empfiehlt es sich, ein Schutznetz zu verwenden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Instruktionen ska bland annat beskriva hur nätet är avsett att monteras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="de">
+        <seg>Dabei ist es wichtig, dass eine kompetente Person das Netz und die Installation vor der Benutzung überprüft.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Även i föreskrifterna finns bestämmelser om montering.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="de">
+        <seg>Wenn jemand mehr als vier Stunden auf einer kleinen Dachfläche arbeiten muss und das Dach außerdem eine Neigung von mehr als 1:4 hat, muss es eine horizontale Arbeitsfläche geben.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>En sådan person ska också kontrollera nätet innan det får användas igen om det fångat en fallande person eller ett föremål som kan ha givit motsvarande påfrestning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="de">
+        <seg>Manchmal werden zudem Schutzbrillen, Gehörschutz und Handschuhe benötigt.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Att nätet åldras medför att töjbarheten hos maskorna minskar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="de">
+        <seg>Das Arbeiten am Bau ist meistens schwer und belastet den Körper.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Byggnadsarbete är ofta tungt och belastande för kroppen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="de">
+        <seg>Deshalb ist es wichtig, dass es Hubvorrichtungen zum Transport des Baumaterials gibt.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Att arbeta från stege någon längre stund är inte bra för kroppen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="de">
+        <seg>Maschinen und Werkzeuge müssen ergonomisch gestaltet sein.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skruvdragare med magasin är tunga.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="de">
+        <seg>Längere Arbeiten auf einer Leiter sind nicht gut für den Körper.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Variera arbetet</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="de">
+        <seg>Eine ebene Stehfläche, z. B. höhenverstellbare Plattformen, sorgt für eine bessere Körperhaltung.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är viktigt att få möjlighet att återhämta sig efter ansträngning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="de">
+        <seg>Die Muskeln des Körpers müssen sich nach einer Anstrengung wieder erholen können.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Detta tar tid, särskilt om ansträngningen pågått länge.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="de">
+        <seg>Einseitige Belastung der Muskeln können durch abwechslungsreiche Tätigkeiten vermieden werden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Stativ till skruvdragare eller borrmaskin</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="de">
+        <seg>Vorschriften, die für chemische Mittel in Schweden gelten</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förbindelseleder och transporter</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="de">
+        <seg>Beton, Mörtel und Putz enthalten zum Beispiel Zement, der bei längerem Hautkontakt zu Verätzungen führen kann.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Mellan olika plan ska det normalt finnas trappa eller ramp.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="de">
+        <seg>Andere Produkte mit oftmals gefährlichen Inhalten sind Klebestoffe, Farben, Zweikomponen- tenprodukte usw. Sowohl Baustaub als auch Mineralfasern gelten als gefährlich, da sie beim Einatmen die Atemwege nachteilig beeinflussen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Kring förbindelseleder avsedda för motorfordon ska det finnas antingen tillräckligt säkerhetsavstånd eller tillräckliga skyddsanordningar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="de">
+        <seg>Für den Fall, dass chemische Mittel benutzt werden, die einen oder mehrere gefährliche Stoffe beinhalten, muss ein Sicherheitsdatenblatt des Herstellers am Arbeitsplatz vorliegen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om detta inte går ska transporten istället ske via intagsbryggor, lastöppningar i fasader, särskilt iordningställda ramper eller särskilt anordnade transportsystem.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="de">
+        <seg>Für in Schweden erworbene Produkte muss ein Sicherheitsdatenblatt in schwedischer Sprache vorhanden sein.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>På intagsbryggor ska det normalt finnas grind eller bom.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="de">
+        <seg>Unternehmen, die für den eigenen Gebrauch gefährliche chemische Produkte nach Schweden einführen, haben die Verantwortung dafür, dass es schriftliche Risiko- und Schutzin- formationen zu dem Produkt am Arbeitsplatz in einer Sprache gibt, die von den Anwendern verstanden wird.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är endast i vissa särskilt angivna undantagsfall som man får ta bort ett skyddsräcke eller en skyddsanordning vid sådana här transporter.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="de">
+        <seg>Auf der Baustelle muss ein Verzeichnis über alle gefährlichen chemischen Produkte vorhanden sein.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I föreskrifterna finns detaljerade bestämmelser om detta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="de">
+        <seg>Der Arbeitgeber hat die Aufgabe, den Arbeitnehmer über die Gefahren im Umgang mit gefährlichen chemischen Produkten aufzuklären und er/sie muss sicherstellen, dass der Arbeitnehmer die Informationen tatsächlich verstanden hat.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Intagsbrygga med grind på som lätt och säkert kan öppnas och stängas vid transporter.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="de">
+        <seg>Bei bestimmten gefährlichen Stoffen gelten ganz besonders strenge Vorschriften:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tillträdesleder</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="de">
+        <seg>Asbest: Für den Umgang mit und die Beseitigung von Asbest benötigt das beauftragte Unternehmen eine Genehmigung des Schwedischen Zentralamts für Arbeitsumwelt.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Till varje plats där arbete utförs ska det finnas säker tillträdesled, till exempel trappa eller landgång.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="de">
+        <seg>Vorraussetzung für eine Genehmigung ist eine dokumentierte Spezialausbildung und eine ärztliche Bescheinigung.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Anliggande stege är i allmänhet inte lämplig som till- trädesled.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="de">
+        <seg>Bei Höhenunterschieden von mehr als zehn Metern muss ein Aufzug zur Verfügung stehen, da der Arbeitnehmer ansonsten häufig Treppen steigen müsste.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Alla ska snabbt och säkert kunna nå säkert område.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="de">
+        <seg>Außerdem müssen ausreichende Sicherheitsabstände oder Schutzvorrichtungen vorhanden sein, wenn Verkehrswege über die Baustelle verlaufen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Särskilt anordnade utrymningsvägar samt återsamlingsplatser ska vara markerade med skyltar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="de">
+        <seg>Falls dies nicht möglich ist, müssen die Transporte über Aufnahmebrücken, Lade- öffnungen in Fassaden, Rampen oder besondere Förderanlagen erfolgen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personal som är utbildad att ge första hjälpen ska alltid kunna tillkallas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="de">
+        <seg>Wenn eine Maschine oder eine Hubvorrichtung in Schweden angeliefert oder in Betrieb genommen wird, muss eine schriftliche Bedienungsanleitung auf Schwedisch beigefügt sein.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Bestämmelser om första hjälpen finns även i föreskrifterna ”Första hjälpen och krisstöd”.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="de">
+        <seg>Der Hersteller trägt dafür die Verantwortung.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Brand</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="de">
+        <seg>Auch eine Person, die eine Maschine zum Einsatz nach Schweden einführt, gilt als Hersteller.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Brandredskap ska finnas och vara lättåtkomliga.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="de">
+        <seg>Informationen über den erforderlichen Inhalt einer Bedienungsanleitung können den Maschinenvorschriften des Schwedischen Zentralamts für Arbeitsumwelt entnommen werden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Platserna där de finns ska märkas ut med skyltar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="de">
+        <seg>Aus den Vorschriften des Schwedischen Zentralamts für Arbeitsumwelt zu Gerüsten geht hervor, was diese Anweisungen beinhalten müssen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Nödbelysning av tillräcklig styrka ska finnas där särskilda risker uppstår vid strömavbrott.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="de">
+        <seg>Wenn eine Maschine, eine Hubvorrichtung, ein Gerüst oder dergleichen bei den Bauarbeiten verwendet wird, müssen die entsprechenden Anweisungen den davon betroffenen Arbeitnehmern zur Verfügung gestellt werden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om ljuset plötsligt slocknar där arbete med till exempel byggsåg eller uppförande av byggnadsställning pågår kan svåra olyckor inträffa om inte nödbelysning finns.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="de">
+        <seg>Diese Anweisungen müssen zudem in einer Sprache verfasst sein, die der Arbeitnehmer versteht.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I utrymningsvägar där belysning är nödvändig ska det också finnas nödbelysning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="de">
+        <seg>Neue Hubvorrichtungen und Maschinen müssen für gewöhnlich mit einem CE- Kennzeichen ausgestattet sein, damit sie in Schweden angewendet werden dürfen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är lämpligt att göra en plan för när och hur dessa kontroller ska genomföras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="de">
+        <seg>Die meisten Maschinen und Hubvorrichtungen müssen regelmäßig überprüft werden, damit sie zum Einsatz kommen können.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Allvarliga olyckor kan hända om uppställda eller staplade byggprodukter kommer i rörelse.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="de">
+        <seg>Es ist strafbar, Maschinen und Hubvorrichtungen einzusetzen, wenn die Überprüfung nicht erfolgt ist oder wenn die nachgewiesenen Mängel nicht beseitigt worden sind.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om det finns sådana risker ska byggprodukterna stabiliseras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="de">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>49-50 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="de">
+        <seg>Und nicht vergessen...</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>55-56 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="de">
+        <seg>Wenn gelagertes Baumaterial in Bewegung versetzt wird, z. B. durch starken Wind, können schwere Unfälle geschehen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förankring av form vid tillfällig uppställning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="de">
+        <seg>Deshalb ist es wichtig, das Material zu stabilisieren.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tänk på vindpåverkan!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="de">
+        <seg>Manchmal kann zudem eine Schutzhütte gegen Wind und Kälte für die Bauarbeiter benötigt werden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Stödkonstruktion för säker uppställning av t.ex. betongelement, så att ras och glidning förhindras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="de">
+        <seg>Erdarbeiten sind so zu planen, dass der Boden den Belastungen standhält.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skydd mot väder och vind</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="de">
+        <seg>Außerdem muss überprüft werden, ob Leitungen oder gefährliche Stoffe im Boden vorhanden sind und die Gefahr besteht, dass Maschinen in die Baugrube fallen könnten.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det kan till exempel gälla hård blåst, stark värme eller kyla, kraftigt eller underkylt regn eller kraftigt snöfall.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="de">
+        <seg>Der Fahrzeugverkehr muss einen angemessenen Abstand zu der Baugrube halten.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>En bra åtgärd är intäckning av arbetsplatsen med väderskydd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="de">
+        <seg>Vorbeifahrender Verkehr stellt für die Arbeiter auf dem Bauplatz eine Gefahr dar.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tänk också på risken för blixtnedslag.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="de">
+        <seg>Wenn möglich, muss der Fahrverkehr umgeleitet werden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Intäckning med väderskydd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="de">
+        <seg>Wer an einem Platz arbeitet, wo die Umleitung des Fahrverkehrs nicht möglich ist, muss Warnkleidung, die mit gut sichtbaren Reflektoren ausgestattet sind, tragen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om sådana områden måste beträdas så ska skyddstak, täckta gångar eller liknande anordnas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="de">
+        <seg>Es sollte immer eine Möglichkeit geben, Erste Hilfe leisten zu können und es sollten Schilder vorhanden sein, die darauf hinweisen, wo die entsprechende Rettungs- und Hilfsausrüstung und die entsprechenden Hilfsmittel aufbewahrt werden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det ska vara kontrollerat om det finns till exempel ledningar eller farliga ämnen i marken.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="de">
+        <seg>Außerdem sollten Hinweise mit Telefonnummern von Krankenhaus und Not- und Rettungsdienst, Adressen zum Arbeitsplatz und eventuell eine Anfahrtsbeschreibung vorhanden sein.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Alternativt får schakten utföras med släntlutning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="de">
+        <seg>Vergessen Sie nicht, dass der Anrufer in der Lage sein muss, mit dem schwedischen Not- und Rettungsdienst (Räddnings- tjänsten) kommunizieren zu können.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I båda fallen ska säkerheten mot ras vara betryggande.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="de">
+        <seg>Dies ist meistens auch auf Englisch möglich.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Fordonstrafik ska hållas på avstånd från schaktgropen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="de">
+        <seg>Wenn ein Stromausfall besondere Gefahr bei der Arbeit verursachen sollte, ist es wichtig, dass eine Notbeleuchtung vorhanden ist.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förebyggande åtgärder ska vidtas så att till exempel maskiner för schaktning inte faller ned i gropen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="de">
+        <seg>Sicherheits- und Gesundheitsschutzplan</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Passerande fordonstrafik</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="de">
+        <seg>Der Bauherr hat schon vor Beginn der Bauarbeiten sicherzustellen, dass ein Sicherheits- und Gesundheitsschutzplan für das ganze Projekt erstellt wird.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Sådana risker kan finnas vid vägarbete eller spårbyggnadsarbete men även vid t.ex. uppförande av byggnad nära gata.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="de">
+        <seg>Es ist in erster Linie die Aufgabe des Sicherheits- und Gesundheitsschutzkoordinators, der für die Planung und Ausführung eingesetzt wurde, dafür zu sorgen, dass ein Sicherheits- und Gesundheitsschutzplan erstellt wird.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I föreskrifterna anges en mängd åtgärder som ska övervägas eller vidtas för att förebygga riskerna.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="de">
+        <seg>Der Bauherr oder ein Auftragnehmer, der die Aufgaben des Bauherrn übernommen hat, ist auch verantwortlich für die Erstellung des Sicherheits- und Gesundheitsschutzplans.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I första hand ska trafiken ledas om så att arbetet inte berörs.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="de">
+        <seg>Außerdem trägt der Sicherheits- und Gesundheitsschutzkoordinator die Verantwortung dafür, dass der Sicherheits- und Gesundheitsschutzplan bei Bedarf veränderten Bedingungen angepasst wird.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Kemiska arbetsmiljörisker</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="de">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="de">
+        <seg>Wenn die Bau- und Anlagenarbeiten auf einem Bauplatz ausgeführt werden, auf dem ein weiteres Unternehmen gleichzeitig beschäftigt ist, muss dies im Sicherheits- und Gesundheitsschutzplan berücksichtigt werden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Dessutom är det viktigt att de olika aktörerna samverkar och att byggnadsarbetarna medverkar i arbetsmiljöarbetet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="de">
+        <seg>Die auf dem Arbeitsplatz geltenden Vorschriften</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>7 c §§, AFS 2008:16,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="de">
+        <seg>Eine Beschreibung, wie die Arbeitssicherheit organisiert wird</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>4-9 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="de">
+        <seg>Eine Beschreibung der Arbeitsschutzmaßnahmen, die während der Bauzeit getroffen werden, um ein sicheres Arbeitsumfeld zu gewährleisten.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vid delad entreprenad kan byggherreansvaret inte överlåtas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="de">
+        <seg>Dies trifft insbesondere auf folgende Arbeiten zu:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>7 a § och AFS 2008:16</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="de">
+        <seg>Arbeiten mit Absturzgefahr</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>11-12 b §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="de">
+        <seg>Ausschachtungsarbeiten mit Absturzgefahr</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>AML</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="de">
+        <seg>Arbeiten mit bestimmten chemischen oder biologischen Stoffen</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>3 kap 7 §, AFS 2008:16,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="de">
+        <seg>Arbeiten in der Nähe von Hochspannungsleitungen</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>10§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="de">
+        <seg>Arbeiten, bei denen Ertrinkungsgefahr besteht</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>AML</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="de">
+        <seg>Arbeiten in Brunnen und Tunneln</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>och AFS</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="de">
+        <seg>Arbeiten, die den Einsatz von Sprengmitteln involvieren</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>3 kap 7 b § ska samordna arbetena ur arbetsmiljösynpunkt, anpassa arbetsmiljöplanen till</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86">
+      <tuv xml:lang="de">
+        <seg>Arbeiten, die die Montage schwerer Bauelemente enthalten</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>2008:16,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87">
+      <tuv xml:lang="de">
+        <seg>Arbeiten auf einem Platz oder in einem Bereich mit Durchgangsverkehr als auch der Abriss von tragenden Konstruktionen oder von Materialien oder Stoffen, die ein Gesundheitsrisiko darstellen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>AML 3 kap De andra företagen på det gemensamma arbetsstället ska lämna uppgift till</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88">
+      <tuv xml:lang="de">
+        <seg>Voranmeldung</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>2008:16,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89">
+      <tuv xml:lang="de">
+        <seg>Es müssen Arbeitsverfahren und Geräte gewählt werden, die:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>arbete i brunnar och tunnlar,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90">
+      <tuv xml:lang="de">
+        <seg>Der Bauherr ist zudem dafür verantwortlich, dass eine Voranmeldung vorliegt, ein Sicherheits- und Gesundheitsschutzplan sowie eine Dokumentation der Ergebnisse aufgestellt und dass ein Sicherheits- und Gesundheitsschutzkoordinator mit der Planung und Ausführung beauftragt wird.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetet ska planeras så att olika verksamheter inte sammanfaller i tid och rum på ett sådant sätt att risk för ohälsa eller olycksfall uppkommer.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91">
+      <tuv xml:lang="de">
+        <seg>Dies kann jedoch nur dann geschehen, wenn der Bauauftrag die selbstständige Verantwortung für die gesamte Planung und Ausführung und/ oder die gesamte Abwicklung des Projektes durch, z. B. einen Total- oder Generalunternehmer, einschließt.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Särskild utbildning eller instruktion behövs i allmänhet när nya produkter eller arbetsmetoder ska användas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92">
+      <tuv xml:lang="de">
+        <seg>Der Sicherheits- und Gesundheitsschutzkoordinator, der mit der Planung und Ausführung beauftragt wurde, trägt die Verantwortung dafür, dass die Ausführung hinsichtlich Sicherheit und Gesundheitsschutz eingehalten wird und dass der Sicherheits- und Gesundheitsschutzplan sowie die Dokumentation der Ergebnisse erstellt wird.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Dokumentationen ska därför beskriva objektets konstruktion och utformning samt de byggprodukter som använts.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93">
+      <tuv xml:lang="de">
+        <seg>13</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsronder</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94">
+      <tuv xml:lang="de">
+        <seg>Dies gilt grundsätzlich, selbst wenn es gleichzeitig Teilverant- wortliche, wie beispielsweise das ausführende Unternehmen, den Hersteller von Maschinen, die bei der Arbeit benutzt werden oder die Person, die als Sicherheits- und Gesundheitsschutzkoordinator beauftragt wurde, gibt.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>När byggandet pågår som aktivast kan det vara lämpligt att gå skyddsrond en gång i veckan och i övrigt med två eller tre veckors mellanrum.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95">
+      <tuv xml:lang="de">
+        <seg>Der Sicherheitsbeauftragte vertritt die Arbeitnehmer in Bezug auf Arbeits- sicherheitsfragen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ställningar AFS 1990:12</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96">
+      <tuv xml:lang="de">
+        <seg>14</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Systematiskt arbetsmiljöarbete AFS 2001:1</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97">
+      <tuv xml:lang="de">
+        <seg>Hersteller, Importeure und Vermieter von technischen Geräten sind für die Sicherheit ihrer Produkte verantwortlich.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ensamarbete AFS 1982:3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98">
+      <tuv xml:lang="de">
+        <seg>Hersteller und Importeure von chemischen Produkten oder anderen Stoffen haben im Prinzip die gleiche Verantwortung.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Några publikationer som kan beställas från Arbetsmiljöverket</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99">
+      <tuv xml:lang="de">
+        <seg>Hersteller, Importeure und Vermieter müssen Produktinformationen bereithalten, die für Gesundheitsvorsorge und Unfallverhütung am Arbeitsplatz benötigt werden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Marksanering – om hälso- och säkerhetsrisker vid arbete i förorenade områden H359</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100">
+      <tuv xml:lang="de">
+        <seg>Für Firmen, die Arbeitskräfte anheuern, und für die Oberaufsicht einer Baustelle enthält das schwedische Arbeitsschutzgesetz besondere Vorschriften.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>AMP-guiden – byggbranschens handledning för upprättande av arbetsmiljöplaner. www.ampguiden.net</seg>
+      </tuv>
+    </tu>
+    <tu tuid="101">
+      <tuv xml:lang="de">
+        <seg>15</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu tuid="102">
+      <tuv xml:lang="de">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Fler exemplar av denna trycksak beställs från Arbetsmiljöverket</seg>
+      </tuv>
+    </tu>
+    <tu tuid="103">
+      <tuv xml:lang="de">
+        <seg>ADI 539 Tys Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Best nr ADI 539 Vår vision: Alla vill och kan skapa en bra arbetsmiljö</seg>
+      </tuv>
+    </tu>
+    <tu tuid="104">
+      <tuv xml:lang="de">
+        <seg>Das Zentralamt für Arbeitsumwelt ist die staatliche Behörde die überprüft, dass die Arbeitsumweltgesetze, das Arbeitszeit- gesetz und aller anderen Vorschriften für die Arbeitsumwelt auf schwedischen Arbeitsplätzen befolgt werden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljöverket är den statliga myndighet som kontrollerar att arbetsmiljölagen, arbetstidslagen och övriga regler om arbetsmiljön följs på Sveriges arbetsplatser.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="105">
+      <tuv xml:lang="de">
+        <seg>Wir erstellen auch Regeln und informieren zum Thema Arbeitsumwelt.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vi tar också fram regler och sprider information om arbetsmiljö.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="106">
+      <tuv xml:lang="de">
+        <seg>Das Zentralamt für Arbeitsumwelt ist außerdem Koordinationsbüro für Entsendungsfragen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Dessutom är Arbetsmiljöverket förbindelsekontor för utstationeringsfrågor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="107">
+      <tuv xml:lang="de">
+        <seg>Das bedeutet unter anderem, dass wir über die Bedingungen informieren, die für im Ausland angestellte Arbeitnehmer gelten, die vorübergehend in Schweden arbeiten.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det betyder bland annat att vi informerar om vad som gäller för utlandsanställda arbetstagare som arbetar tillfälligt i Sverige.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="108">
+      <tuv xml:lang="de">
+        <seg>In dieser Broschüre erfahren Sie etwas über die Regeln, die in Schweden in Bezug auf Arbeits- und Aufenthaltsgenehmigung, Arbeitsumwelt, Arbeitszeit, Mindestlohn und anderes im Jahr 2010 gelten.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I den här broschyren kan du läsa om reglerna om arbets- och uppehållstillstånd, arbetsmiljö, arbetstid, minimilön med mera i Sverige, som de ser ut år 2014.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="109">
+      <tuv xml:lang="de">
+        <seg>Wenn Sie als Beerenpflücker in Schweden arbeiten möchten und nicht aus einem EU-Land kommen, brauchen Sie in der Regel eine Arbeitsgenehmigung.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om du vill arbeta som bärplockare i Sverige och inte kommer från ett EU-land måste du som regel ha ett arbetstillstånd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="110">
+      <tuv xml:lang="de">
+        <seg>Staatsangehörige aus Ländern außerhalb der EU brauchen meistens auch ein Visum für den Aufenthalt in Schweden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I de flesta fall behöver medborgare i länder utanför EU även ett visum för att vistas Sverige.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="111">
+      <tuv xml:lang="de">
+        <seg>Falls Sie länger als drei Monate in Schweden arbeiten möchten, brauchen Sie außer der Arbeitsgenehmigung auch eine Aufenthaltsgenehmigung.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ska du arbeta i Sverige längre tid än tre månader behöver du förutom ett arbetstillstånd även ett uppehållstillstånd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="112">
+      <tuv xml:lang="de">
+        <seg>Das Schwedische Migrationsamt ist für die Regeln in Bezug auf Arbeits- und Aufenthaltsgenehmigungen zuständig.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är Migrationsverket som har hand om reglerna om arbetstillstånd och uppehållstillstånd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="113">
+      <tuv xml:lang="de">
+        <seg>Die Genehmigungen müssen vor Ihrer Abreise nach Schweden beantragt werden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Du ska ansöka om tillstånd innan du reser till Sverige.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="114">
+      <tuv xml:lang="de">
+        <seg>Aufenthalts- und Arbeitsgenehmigungen können im Internet auf der Webseite des Migrationsamtes www.migrationsverket.se beantragt werden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Du kan ansöka om uppehålls- och arbetstillstånd på Migrationsverkets webbplats, www.migrationsverket.se.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="115">
+      <tuv xml:lang="de">
+        <seg>Sie können Ihren Antrag auch bei der schwedischen Botschaft oder beim schwedischen Konsulat in dem Land einreichen, in dem Sie wohnen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Du kan också lämna din ansökan till den svenska ambassaden eller konsulatet i det land du bor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="116">
+      <tuv xml:lang="de">
+        <seg>Welches sind die Bedingungen für den Erhalt einer Arbeitsgenehmigung?</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vad krävs för att få arbetstillstånd?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="117">
+      <tuv xml:lang="de">
+        <seg>Dies sind die Voraussetzungen:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>För att få tillstånd krävs det att</seg>
+      </tuv>
+    </tu>
+    <tu tuid="118">
+      <tuv xml:lang="de">
+        <seg>Sie müssen einen gültigen Pass haben,</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>du har ett giltigt pass,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="119">
+      <tuv xml:lang="de">
+        <seg>Die Arbeit ist so umfangreich, dass der Lohn mindestens 13 000 SEK im Monat beträgt (beachten Sie jedoch Punkt 5),</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>din arbetsgivare erbjuder anställningsvillkor som är i nivå med svenska kollektivavtal eller vad som är brukligt inom yrket eller branschen (se nedan),</seg>
+      </tuv>
+    </tu>
+    <tu tuid="120">
+      <tuv xml:lang="de">
+        <seg>Welche Anstellungsbedingungen gelten nach dem schwedischen Tarifvertrag für Beerenpflücker?</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vilka anställningsvillkor gäller enligt svenskt kollektivavtal för bärplockare?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="121">
+      <tuv xml:lang="de">
+        <seg>Um eine Arbeitsgenehmigung zu erhalten, soll nicht nur der Lohn mindestens 13 000 SEK betragen, die Anstellungs- bedingungen müssen auch den Normen der schwedischen Tarifverträge (oder sonstigen Berufs- oder Branchenstandards) entsprechen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>För att du ska få arbetstillstånd ska inte bara lönen vara minst SEK 13 000 i månaden, anställningsvillkoren ska även vara likvärdiga med svenska kollektivavtal (eller vad som är brukligt inom yrket eller branschen).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="122">
+      <tuv xml:lang="de">
+        <seg>Der vertraglich vereinbarte Mindestlohn beträgt 18 160 SEK pro Monat (gilt für den Zeitraum 1. Juni 2009 - 31. Mai 2010).</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Avtalad minimilön i det avtalet är SEK 18 542 per månad 1 juni 2014 – 31 maj 2015.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="123">
+      <tuv xml:lang="de">
+        <seg>Wenn Sie von einem ausländischen Unternehmen angestellt sind, das nicht in Schweden tätig ist, zum Beispiel von einem Zeitarbeitsunternehmen, gilt der Tarifvertrag für Dienstleistungsunternehmen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om du är anställd av ett utländskt företag som inte har verksamhet i Sverige, till exempel ett bemanningsföretag, är det bemanningsavtalet som ska gälla.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="124">
+      <tuv xml:lang="de">
+        <seg>Ein Beerenpflücker soll in Schweden mindestens den tariflich vereinbarten Mindestlohn verdienen</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>En bärplockare ska alltså tjäna minst den minimilön som finns i det svenska kollektivavtalet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="125">
+      <tuv xml:lang="de">
+        <seg>Wenn Ihr Arbeitgeber Kommunal einen Tarifvertrag getroffen hat, gilt dieser Vertrag in vollem Umfang.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om din arbetsgivare har tecknat avtal med Svenska Kommunalarbetareförbundet gäller avtalet i sin helhet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="126">
+      <tuv xml:lang="de">
+        <seg>Der Vertrag enthält Bestimmungen über Mindestlöhne, Arbeitszeiten, Versicherung und vieles mehr.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Avtalet innehåller bestämmelser om minimilöner, arbetstider, försäkringar och mycket annat.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="127">
+      <tuv xml:lang="de">
+        <seg>Auf der Webseite des Kommunalarbeiterverbandes www.kommunal.se gibt es die Pdf-Broschüre ”In Schweden arbeiten”.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>På Kommunals webbplats www.kommunal.se finns pdf-broschyren ”Arbeta i Sverige” med mer information om avtalet och dina rättigheter.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="128">
+      <tuv xml:lang="de">
+        <seg>Darin finden Sie weitere Informationen über den Tarifvertrag und Ihre Rechte.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Broschyren finns på flera olika språk.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="129">
+      <tuv xml:lang="de">
+        <seg>Beeren pflücken, ohne angestellt zu sein</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Att plocka bär utan att vara anställd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="130">
+      <tuv xml:lang="de">
+        <seg>Personen, die ein Visum bekommen haben, um Verwandte zu besuchen, ist es erlaubt als Privatperson Beeren zu pflücken.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är möjligt för dig som har fått ett visum för släktbesök att plocka bär som privatperson.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="131">
+      <tuv xml:lang="de">
+        <seg>Für Privatpersonen ist ein Verdienst für das Beerenpflücken von bis zu 12 500 SEK pro Person und Jahr steuerfrei.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Inkomster av att plocka bär är skattefria för privatpersoner upp till SEK 12 500 kr per person och år.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="132">
+      <tuv xml:lang="de">
+        <seg>Für Privatpersonen gelten Visumbestimmungen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>För privatpersoner gäller bestämmelser om visum.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="133">
+      <tuv xml:lang="de">
+        <seg>Informationen über Visumbestimmungen finden Sie auf der Webseite des Migrationsamtes.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Information om visumbestämmelserna finns på Migrationsverkets webbplats.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="134">
+      <tuv xml:lang="de">
+        <seg>Arbeitsumwelt und Arbeitszeit</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljö och arbetstid</seg>
+      </tuv>
+    </tu>
+    <tu tuid="135">
+      <tuv xml:lang="de">
+        <seg>In der Zeit, in der Sie in Schweden arbeiten, muss Ihr Arbeitgeber die Bestimmungen des schwedischen Arbeitsum- weltgesetzes, die Vorschriften des schwedischen Amtes für Arbeitsumwelt und des Arbeitszeitgesetzes befolgen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Din arbetsgivare måste följa bestämmelserna i den svenska arbetsmiljölagen, Arbetsmiljöverkets föreskrifter och arbetstidslagen under den tid som du arbetar i Sverige.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="136">
+      <tuv xml:lang="de">
+        <seg>Das Arbeitsumweltgesetz beinhaltet Regeln über die Verpflichtung der Arbeitgeber und anderer Sicherheitsver- antwortlicher, gesundheitlichen Gefahren und Unfällen bei der Arbeit vorzubeugen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I arbetsmiljölagen finns regler om skyldigheter för arbetsgivare och andra skyddsansvariga om att förebygga ohälsa och olycksfall i arbetet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="137">
+      <tuv xml:lang="de">
+        <seg>Umwelt umfasst alles - angefangen bei der Verantwortung für Maschinen und Geräte, die den Sicherheitsanforderungen entsprechen müssen, bis hin zur Verantwortung, dass der Stresspegel nicht zu hoch ist.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljön omfattar allt från att maskiner och redskap fyller de säkerhetskrav som ställts på dem, till att stressnivån inte är för hög.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="138">
+      <tuv xml:lang="de">
+        <seg>Das Arbeitszeitgesetz beinhaltet Regeln zur Arbeitszeit pro Tag, pro Woche und pro Jahr.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetstidslagen innehåller regler om hur mycket du får arbeta per dygn, vecka och år.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="139">
+      <tuv xml:lang="de">
+        <seg>Sie haben zum Beispiel Anspruch auf eine ununterbrochene Ruhezeit von mindestens 11 Stunden innerhalb eines Zeitraums von 24 Stunden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Du har exempelvis rätt till ledighet minst 11 timmar i följd under varje period om 24 timmar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="140">
+      <tuv xml:lang="de">
+        <seg>Das ist die tägliche Ruhezeit.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det kallas för dygnsvila.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="141">
+      <tuv xml:lang="de">
+        <seg>Die normale Arbeitszeit darf nicht über 40 Stunden pro Woche liegen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Den ordinarie arbetstiden får uppgå till högst 40 timmar i veckan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="142">
+      <tuv xml:lang="de">
+        <seg>Wenn es erforderlich ist, darf die Arbeitszeit in einem Zeitraum von vier Wochen durchschnittlich 40 Stunden pro Woche betragen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>När det behövs får arbetstiden vara 40 timmar i veckan i genomsnitt under en fyraveckorsperiod.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="143">
+      <tuv xml:lang="de">
+        <seg>Es ist also möglich, während einiger Wochen mehr zu arbeiten und während anderer weniger.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det betyder att det är möjligt att arbeta mer vissa veckor och mindre andra.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="144">
+      <tuv xml:lang="de">
+        <seg>Normalerweise arbeiten Sie 8 Stunden pro Tag.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Normalt arbetar du 8 timmar per dag.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="145">
+      <tuv xml:lang="de">
+        <seg>Im Bedarfsfall dürfen Sie in einem Zeitraum von vier Wochen höchstens 48 Überstunden oder während eines Kalendermonats 50 Überstunden leisten.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>När det finns ett särskilt behov får du arbeta övertid högst 48 timmar under fyra veckor eller 50 timmar under en kalendermånad.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="146">
+      <tuv xml:lang="de">
+        <seg>Während eines Kalenderjahres dürfen höchstens 200 Überstunden geleistet werden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Övertiden får uppgå till högst 200 timmar under ett kalenderår.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="147">
+      <tuv xml:lang="de">
+        <seg>Das Schwedische Zentralamt für Arbeitsumwelt hat dafür zu sorgen, dass Arbeitgeber die Regeln des Arbeitsumwelt- gesetzes und des Arbeitszeitgesetzes befolgen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är Arbetsmiljöverkets uppgift att se till att arbetsgivare följer reglerna i arbetsmiljölagen och arbetstidslagen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="148">
+      <tuv xml:lang="de">
+        <seg>Die Inspektoren des Amtes besuchen verschiedene Arbeitsplätze und kontrollieren, dass die Arbeitgeber die Gesetze befolgen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljöverkets inspektörer besöker olika arbetsplatser och kontrollerar att arbetsgivare följer lagarna.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="149">
+      <tuv xml:lang="de">
+        <seg>Bei Verstößen gegen das Arbeitsumweltgesetz können beispielsweise bestimmte Arbeitsaufgaben verboten werden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om arbetsmiljölagen inte följs kan exempelvis vissa arbetsuppgifter förbjudas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="150">
+      <tuv xml:lang="de">
+        <seg>Sie können sich auch an den Kommunalarbeiterverband Kommunal wenden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om du tror att din arbetsgivare bryter mot bestämmelserna ska du kontakta Arbetsmiljöverket.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="151">
+      <tuv xml:lang="de">
+        <seg>In dem Falle kann das Amt auch keine Ausnahmen von bestimmten gesetzlichen Regeln gestatten.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Då kan Arbetsmiljöverket inte heller tillåta undantag från vissa av lagens regler.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="152">
+      <tuv xml:lang="de">
+        <seg>Wenn Sie krank werden</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om du blir sjuk</seg>
+      </tuv>
+    </tu>
+    <tu tuid="153">
+      <tuv xml:lang="de">
+        <seg>Das schwedische Sozialversicherungssystem beinhaltet arbeitsbasierte Leistungen, zum Beispiel Krankengeld und Elterngeld, die darauf aufbauen, dass Sie eine Arbeit haben.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I det svenska socialförsäkringssystemet finns arbetsbaserade förmåner, till exempel sjukpenning och föräldrapenning, som bygger på att du har ett arbete.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="154">
+      <tuv xml:lang="de">
+        <seg>Es gibt auch wohnbasierte Leistungen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det finns även bosättningsbaserade förmåner.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="155">
+      <tuv xml:lang="de">
+        <seg>Für Personen, die nur vorübergehend in Schweden arbeiten, kommen diese Leistungen meistens nicht in Frage.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personer som endast arbetar tillfälligt i Sverige omfattas vanligtvis inte av dessa förmåner.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="156">
+      <tuv xml:lang="de">
+        <seg>Wenn Sie stattdessen bei einem schwedischen Arbeitgeber angestellt sind, soll die schwedische Sozialversicherung für Sie gelten, das gilt jedenfalls für die arbeitsbasierten Leistungen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om du istället är anställd av en svensk arbetsgivare ska den svenska socialförsäkringen gälla för dig, i alla fall i fråga om arbetsbaserade förmåner.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="157">
+      <tuv xml:lang="de">
+        <seg>Wenn Sie sich weniger als ein Jahr in Schweden aufhalten, gelten Sie nicht als wohnhaft in Schweden und können die wohnbasierten Leistungen nicht beziehen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om du kommer att vistas i Sverige under mindre tid än ett år, anses du inte bosatt i Sverige och omfattas inte av bosättningsbaserade förmåner.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="158">
+      <tuv xml:lang="de">
+        <seg>Für Beerenpflücker aus einem anderen EU-Land gelten besondere Regeln die bedeuten, dass sie ein Recht sowohl auf wohnbasierte als auch auf arbeitsbasierte Leistungen haben können, wenn sie ausnahmslos in Schweden arbeiten.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Bärplockare som kommer från ett annat EU-land omfattas av särskilda regler som innebär att de kan ha rätt till både bosättningsbaserade och arbetsbaserade förmåner, om de enbart arbetar i Sverige.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="159">
+      <tuv xml:lang="de">
+        <seg>Es ist Sache der schwedischen Versicherungskasse (Försäkringskassan) zu beschließen, ob eine Person in Schweden versichert ist und Anspruch auf Leistungen hat.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är den svenska Försäkringskassan som beslutar om en person är försäkrad i Sverige och har rätt till förmåner.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="160">
+      <tuv xml:lang="de">
+        <seg>Sie können sich freiwillig bei der Versicherungskasse anmelden, wenn Sie nach Schweden kommen, um hier zu arbeiten.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Du kan frivilligt anmäla dig till Försäkringskassan när du kommer till Sverige för att arbeta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="161">
+      <tuv xml:lang="de">
+        <seg>Müssen Sie in Schweden Steuern zahlen?</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ska du betala skatt i Sverige?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="162">
+      <tuv xml:lang="de">
+        <seg>Für Personen, die bei einem Arbeitgeber in ihrer Heimat angestellt sind und nur vorübergehend in Schweden arbeiten, gibt es eine besondere Ausnahme von der Verpflichtung Steuern zu zahlen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det finns ett särskilt undantag från skyldigheten att betala skatt för dem som är anställda av en arbetsgivare i hemlandet och som bara jobbar tillfälligt i Sverige.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="163">
+      <tuv xml:lang="de">
+        <seg>Unter der Voraussetzung, dass die Arbeit in einem Jahr nicht länger als 183 Tage dauert, sind Einkommen steuerfrei.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Inkomsterna är skattefria under förutsättning att arbetet inte överskrider 183 dagar under en ettårsperiod.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="164">
+      <tuv xml:lang="de">
+        <seg>Es werden jedoch Ansprüche an den Arbeitgeber gestellt.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det ställs dock även krav på arbetsgivaren.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="165">
+      <tuv xml:lang="de">
+        <seg>Damit die Ausnahme gelten kann, darf der Arbeitgeber keine feste Betriebsstelle in Schweden haben.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>För att undantaget ska gälla får inte arbetsgivaren ha ett fast driftställe i Sverige.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="166">
+      <tuv xml:lang="de">
+        <seg>Eine feste Betriebsstelle kann ein Büro, eine Fabrik oder Ähnliches sein.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ett fast driftställe kan vara ett kontor, en fabrik eller liknande.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="167">
+      <tuv xml:lang="de">
+        <seg>Wenn Ihr Arbeitgeber eine feste Betriebsstelle in Schweden hat müssen Sie, vorausgesetzt, dass Sie höchstens sechs Monate in Schweden bleiben, eine besondere Einkommensteuer bezahlen, die so genannte SINK.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om din arbetsgivare har ett fast driftställe i Sverige ska du, under förutsättning att du stannar i Sverige i högst sex månader, betala särskild inkomstskatt, SINK.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="168">
+      <tuv xml:lang="de">
+        <seg>Der Steuersatz beträgt 25 Prozent.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skattesatsen är 25 procent.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="169">
+      <tuv xml:lang="de">
+        <seg>Nach sechs Monaten gelten Sie steuermä- ßig als wohnhaft in Schweden und werden dann nach den üblichen Regeln besteuert.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Efter sex månader anses du vara skattemässigt bosatt i Sverige och ska då betala skatt enligt de vanliga reglerna.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="170">
+      <tuv xml:lang="de">
+        <seg>Dieser Fall kann auch eintreten, wenn Sie wiederholt nach Schweden kommen.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Så kan också bli fallet om dina vistelser i Sverige är återkommande.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="171">
+      <tuv xml:lang="de">
+        <seg>Weitere Information finden Sie auf der Webseite des Schwedischen Zentralamtes für Finanzwesen (Skatteverket), www.skatteverket.se.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>För mer information, se Skatteverkets webbplats, www.skatteverket.se.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="172">
+      <tuv xml:lang="de">
+        <seg>Entsendung</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Utstationering</seg>
+      </tuv>
+    </tu>
+    <tu tuid="173">
+      <tuv xml:lang="de">
+        <seg>Für entsandte Mitarbeiter gelten beispielsweise Bestimmungen für Urlaub und Mutterschaftsurlaub.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>För utstationerad arbetskraft gäller svenska bestämmelser om exempelvis semester och föräldraledighet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="174">
+      <tuv xml:lang="de">
+        <seg>Das Zentralamt für Arbeitsumwelt (Arbetsmiljöverket) ist das so genannte Koordinationsbüro für Entsendungsfragen und kann Sie über Ihre Rechte informieren.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljöverket är så kallat förbindelsekontor för utstationeringsfrågor och kan lämna information om vilka rättigheter du har.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="175">
+      <tuv xml:lang="de">
+        <seg>Näheres über Entsendung finden auf der Webseite www.posting.se.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Läs mer om utstationering på www.posting.se .</seg>
+      </tuv>
+    </tu>
+    <tu tuid="176">
+      <tuv xml:lang="de">
+        <seg>Workinginsweden.se</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Workinginsweden.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="177">
+      <tuv xml:lang="de">
+        <seg>Auf den Webseiten des Schwedischen Instituts, www.sweden.se und www.workinginsweden.se, finden Sie weitere Informationen über Schweden und über die Arbeit in Schweden.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>På Svenska Institutets webbplatser, www.sweden.se och www.workinginsweden.se, finner du mer information om Sverige och om att arbeta här. 4</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

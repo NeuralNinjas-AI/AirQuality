@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T125443Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="en">
+    <prop type="x-tucount">10</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="en">
+        <seg>Foreign companies that post employees to work in Sweden for more than five days are required to notify this to the Swedish Work Environment Authority.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Indiferent de forma de angajare sau de condiția, naționalitatea sau etnicitatea lucrătorului, fiecare are același drept la un loc de muncă sigur și sănătos.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="en">
+        <seg>Areas covered by posted workers’ rights are: working environment, minimum wages and holiday pay, regulations on working hours, workplace discrimination and parental leave.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Domeniile acoperite de drepturile lucrătorilor detașați sunt: mediul de muncă, salariile minime și concediul plătit și reglementările referitoare la orele de lucru, discriminarea la locul de muncă și concediul patern/matern.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="en">
+        <seg>Regarding taxes and social benefits, there are different regulations for foreign workers depending on their situation.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Cu privire la impozitele și ajutoarele sociale, există reglementări diferite pentru lucrătorii străini, în funcție de situația lor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="en">
+        <seg>More information can be found at www.av.se/posting applies to foreign employers, both inside and outside the EU.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Mai multe informații pot fi găsite la pagina de webb www.av.se/posting tatea Mediului de Muncă din Suedia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="en">
+        <seg>The employer is also required to appoint a contact person in Sweden.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Angajatorul este de asemenea obligat să desemneze o persoană de contact person în Suedia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="en">
+        <seg>This person must be able to show documentation that proves that the laws covering posting in Sweden are complied with, for example a valid employment contract.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Această persoană trebuie să aibă posibilitatea să prezinte documentație care dovedește că legile care acoperă detașarea în Suedia sunt respectate - de exemplu un contract de angajare valabil.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="en">
+        <seg>The Swedish Work Environment Authority is a government agency.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Autoritatea Mediului de Muncă din Suedia este o agenție guvernamentală.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="en">
+        <seg>We ensure that legislation concerning working environment and working hours is followed.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Noi asigurăm respectarea legislație referitoare la condițiile de muncă și orele de lucru.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="en">
+        <seg>Hazardous working conditions, or working conditions that are not consistent with the laws and regulations, should be reported first of all to the employer.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Condiții periculoase de muncă sau condiții de muncă care nu corespund cu legile și regulamentele, ar trebui raportate în primul rând angajatorului.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="en">
+        <seg>They can then also be reported to the safety officer at the workplace or directly to us at the Swedish Work Environment Authority.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Ele mai pot fi raportate la inspectorul de siguranță sau direct la noi la Autoritatea Mediului de Muncă din Suedia.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

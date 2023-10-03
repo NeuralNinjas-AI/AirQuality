@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T125341Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="cs">
+    <prop type="x-tucount">158</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="cs">
+        <seg>Riziko zranění se snižuje a práce je efektivnější.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljön behöver alltså förbättras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="cs">
+        <seg>Provádíme mj. inspekci pracovního prostředí na stavbách a můžeme v případě potřeby vyžadovat opatření pro úpravu pracovního prostředí na uspokojivou úroveň.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>En bra arbetsmiljö lönar sig för alla: anställda, arbetsgivare, de som låter utföra byggnads- eller anläggningsarbete (det vill säga byggherrarna) och samhället i stort.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="cs">
+        <seg>Jsou-li rizika příliš velká, můžeme další pokračování prací do vykonání nápravných opatření zakázat.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är i föreskrifterna som kravens exakta lydelse finns.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="cs">
+        <seg>Takový zákaz je třeba podepsat, ale podpis znamená jen potvrzení o převzetí dokumentu o rozhodnutí.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Grundläggande bestämmelser om arbetsmiljön finns i arbetsmiljölagen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="cs">
+        <seg>Stavebním dělníkům se často přihodí úraz nebo dostanou nemoc z povolání.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>1 § uppförande, ändring, reparation, underhåll och rivning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="cs">
+        <seg>Existují zákony a předpisy od Švédského úřadu pro pracovní prostředí regulující provádění stavebních prací.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tänk på att även byggnads- och anläggningsarbete under jord och under vatten ingår.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="cs">
+        <seg>V této brožuře se můžete dočíst o některých minimálních požadavcích.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Även andra föreskrifter från Arbetsmiljöverket kan vara aktuella vid byggnads- och anläggningsarbete.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="cs">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsräcken ska:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="cs">
+        <seg>Jak snížit riziko pádu</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>vara hållfasta,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="cs">
+        <seg>Pád je nejběžnější příčinou smrtelných úrazů a nehod na stavebních pracovištích.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Selen kan vara insydd i väst.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="cs">
+        <seg>Je proto třeba předejít nebezpečí pádu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Jobba säkrare på tak</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="cs">
+        <seg>Ochranné zábradlí, pracovní platformy, pracovní koše, lešení nebo další ochranné pomůcky nutno používat v první řadě.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vid takarbete ska normalt skyddsräcke eller utrustning som ger motsvarande skydd användas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="cs">
+        <seg>Ochrana může být nutná i při menších výškových rozdílech, například je-li tam voda nebo jsou-li dole ostré předměty.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tänk på att det kan behövas extra kraftiga räcken för att hejda en person som kommer rutschande utför ett brant tak.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="cs">
+        <seg>pevná</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsräcke vid takarbete.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="cs">
+        <seg>Mohou mít i jinou konstrukci, ale musí skýtat nejméně stejně bezpečnou ochranu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ibland ska säkerhetssele med lina användas som skydd istället för räcke eller annan utrustning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="cs">
+        <seg>Při práci na střeše musí normálně existovat ochranné zábradlí nebo jiné zařízení dávající odpovídající ochranu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I 88 § i föreskrifterna anges hur man ska bedöma vilket alternativ man ska välja.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="cs">
+        <seg>Namontujte zábradlí na okapovou římsu nebo na lešení, jež končí hned pod okapem.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om detta inte går att ordna ska lämplig person utses som håller fast linan, lämpligen genom avhåll.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="cs">
+        <seg>Může být zapotřebí i zvlášť mohutné zábradlí, aby dokázalo zachytit osobu sjíždějící z příkré střechy.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Linan ska hållas sträckt under arbetet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="cs">
+        <seg>Zkontrolujte, zda úchyty opravdu drží.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personlig skyddsutrustning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="cs">
+        <seg>Nedá-li se lano nikde uchytit, lze ho obmotat za pevné zařízení a držet jej napnuté jinou osobou.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Annan personlig skyddsutrustning, till exempel ögonskydd, hörselskydd och handskar, ska användas när det behövs.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="cs">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsnät</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="cs">
+        <seg>Může existovat riziko propadnutí skrz plochy, jež nemají dostatečnou nosnost – takové plochy zablokujte.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I föreskrifterna finns bestämmelser om hur ett skyddsnät ska vara konstruerat.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="cs">
+        <seg>Používejte zvláštní ochranné zařízení, máte-li na takové ploše pracovat.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Även i föreskrifterna finns bestämmelser om montering.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="cs">
+        <seg>Je důležité, aby kompetentní osoba síť a její montáž před použitím zkontrolovala.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsräcken har monterats på marken redan före lyft.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="cs">
+        <seg>Má-li se práce vykonávat víc než čtyři hodiny na malé ploše střechy a pokud má střecha sklon víc než 1:4, musí existovat vodorovná pracovní plocha.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ett skyddsnät åldras, särskilt när det utsätts för dagsljus (ultraviolett strålning).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="cs">
+        <seg>Běžně je třeba používat ochrannou přilbu a ochrannou obuv.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Att nätet åldras medför att töjbarheten hos maskorna minskar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="cs">
+        <seg>Zdvihání těžkých nákladů a chybné pracovní polohy zatěžují tělo</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Se upp för dolda risker!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="cs">
+        <seg>Práce ve stavebnictví je často těžká a představuje tělesnou zátěž, proto musí být pro dopravu stavebního materiálu k dispozici zdvihací zařízení.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Alla ytor som man kan gå på ska normalt ha betryggande bärighet så att man inte kan trampa igenom.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="cs">
+        <seg>Vyhněte se jednostrannému zatěžování svalů tím, že práci budete obměňovat.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>60 §</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="cs">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="cs">
+        <seg>Švédské předpisy o chemických materiálech</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>45-47 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="cs">
+        <seg>Ve stavebnictví se používá mnoho jedovatých, rakovinotvorných, žíravých nebo alergii vyvolávajících látek.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Planera arbetet rätt – undvik skadliga belastningar</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="cs">
+        <seg>Například beton, malta a štuk obsahují cement, který při dlouhodobějším doteku s kůží může způsobit leptavé poranění.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Byggnadsarbete är ofta tungt och belastande för kroppen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="cs">
+        <seg>Jiné výrobky, často obsahující nebezpečné látky jsou lepidla, barvy, dvoukomponentní produkty aj.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Handhållna maskiner och verktyg ska vara ergonomiskt utformade.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="cs">
+        <seg>Vlákna minerální vlny a prach na stavbách jsou také nebezpečné, protože při vdechnutí ohrožují dýchací cesty.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Att arbeta från stege någon längre stund är inte bra för kroppen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="cs">
+        <seg>Podnik, který dovezl do Švédska nebezpečný chemický produkt pro svou vlastní potřebu, odpovídá za to, že se na pracovišti o produktu nacházejí písemné informace o rizicích a ochraně v jazyce, kterému uživatelé rozumí.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>När man arbetar med installationer över axelhöjd, till exempel i tak kan man anpassa arbetshöjden väl om man använder en steglöst höj- och sänkbar plattform.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="cs">
+        <seg>Na pracovišti musí být seznam všech nebezpečných chemických produktů.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Använd skivhissar och stativ för skruvdra- gare som avlastar vid arbete i tak.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="cs">
+        <seg>Každý zaměstnavatel za to odpovídá.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skruvdragare med magasin är tunga.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="cs">
+        <seg>Zaměstnavatel musí informovat zaměstnance o všech rizicích spojených s nebezpečnými chemickými produkty a ujistit se o tom, že zaměstnanec informacím porozuměl.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>En skruvdragare utan magasin är lättare att hantera och man får dessutom en kort paus varje gång skruven ska sättas i.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="cs">
+        <seg>Pro určité nebezpečné látky platí zvlášť přísná pravidla:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Variera arbetet</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="cs">
+        <seg>Azbest: Pro zacházení s azbestem a pro jeho odstraňování potřebuje podnik, který má práci vykonat, povolení od Švédského úřadu pro pracovní prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är viktigt att få möjlighet att återhämta sig efter ansträngning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="cs">
+        <seg>K tomu, aby toto bylo uděleno, je třeba dokumentované zvláštní školení a lékařské potvrzení.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Detta tar tid, särskilt om ansträngningen pågått länge.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="cs">
+        <seg>Tvrdé plasty: Také pro práci s tvrdými plasty (například se spojovací pěnou obsahující izokyanáty, epocidovým lepidlem, epoxidovou barvou aj.)</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Exempelvis kan långvarig eller återkommande skruvning med skruvdragare medföra belastningsskada i nacke och skuldra om musklerna i axeln inte hinner återhämta sig.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="cs">
+        <seg>je před zahájením práce zapotřebí lékařská prohlídka a školení.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>När rörelse- variation ges i arbetet sprids belastningen på olika delar av kroppen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="cs">
+        <seg>Spoje a doprava</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förbindelseleder och transporter</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="cs">
+        <seg>Na stavbě musí být bezpečné komunikace, například schody nebo rampa mezi jednotlivými podlažími.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det ska finnas säkra förbindelseleder på byggen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="cs">
+        <seg>Při vyškových rozdílech větších než deset metrů musí být nainstalován výtah, kdyby jinak zaměstnanec musel často chodit po schodech.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Mellan olika plan ska det normalt finnas trappa eller ramp.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="cs">
+        <seg>Na staveništi, kde jezdí auta, musí být dostatečné bezpečnostní vzdálenosti nebo ochranná zařízení.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Kring förbindelseleder avsedda för motorfordon ska det finnas antingen tillräckligt säkerhetsavstånd eller tillräckliga skyddsanordningar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="cs">
+        <seg>Doprava mezi různými podlažími musí fungovat i bez sejmutí ochranných zábradlí nebo jiných ochranných zařízení.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om detta inte går ska transporten istället ske via intagsbryggor, lastöppningar i fasader, särskilt iordningställda ramper eller särskilt anordnade transportsystem.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="cs">
+        <seg>Není-li toto možné, je nutno dopravu provádět přes nákladové mosty, nákladové otvory ve fasádě, rampy nebo zvláštní dopravní systémy.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>På intagsbryggor ska det normalt finnas grind eller bom.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="cs">
+        <seg>Předpisy Švédského úřadu pro pracovní prostředí o lešeních udávají, co instrukce mají obsahovat.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Alla ska snabbt och säkert kunna nå säkert område.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="cs">
+        <seg>Označení CE, typové schválení a inspekce zvedacích zařízení, strojů a některých dalších výrobků</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Utrymmen och utrustning för första hjälpen ska vara utmärkta med skyltar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="cs">
+        <seg>Nová zvedací zařízení a nové stroje musejí obecně nést označení CE k tomu, aby mohly být používány ve Švédsku.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det ska även finnas anslag med telefonnummer till ambulans och räddningstjänst samt adress och om det behövs färdbeskrivning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="cs">
+        <seg>Prefabrikovaná lešení a žebříky musejí být, pokud jsou dodávány do Švédska, typově kontrolovány (a žebříky také certifikovány) akreditovaným orgánem.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Bestämmelser om första hjälpen finns även i föreskrifterna ”Första hjälpen och krisstöd”.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="cs">
+        <seg>Je trestné používat stroje a zvedací zařízení, aniž by byla provedena kontrola nebo pokud nebyly napraveny vytčené nedostatky.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om det behövs ska även branddetektorer och alarmsystem finnas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="cs">
+        <seg>Technická prohlídka se musí konat podle švédských předpisů.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Lämpliga övningar ska genomföras regelbundet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="cs">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Nödbelysning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="cs">
+        <seg>Nač nutno také myslet ...</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Nödbelysning av tillräcklig styrka ska finnas där särskilda risker uppstår vid strömavbrott.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="cs">
+        <seg>Někdy je také třeba pro stavební dělníky ochrana proti větru a chladu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Bland annat brandredskap, alarmsystem, elinstallationer, förbindelseleder, trafik- anordningar, skyddsnät och varselmärkning ska kontrolleras och underhållas regelbundet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="cs">
+        <seg>Uzavřete a označte místa, kde existuje riziko padajících předmětů.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Lagring och uppställning av material</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="cs">
+        <seg>Pokud je tam přesto nutné chodit, tak tam musí být ochranné zastřešení.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Allvarliga olyckor kan hända om uppställda eller staplade byggprodukter kommer i rörelse.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="cs">
+        <seg>Je-li třeba, musí být na místě ochrana proti sesuvu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det kan till exempel gälla spännarmering och fjäderbelastade portar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="cs">
+        <seg>Zkontrolujte, nejsou-li pod zemí vedení nebo nebezpečné látky a aby neexistovalo nebezpečí, že stroje spadnou do jámy.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tänk på att förankringar av byggprodukter med mera måste kunna klara förekommande belastningar på grund av vind.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="cs">
+        <seg>Vozidla projížděící kolem stavby představují riziko.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förankring av form vid tillfällig uppställning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="cs">
+        <seg>Především je třeba změnit dopravní trasu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tänk på vindpåverkan!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="cs">
+        <seg>Ten, kdo pracuje na místě, jež není odděleno od dopravy, musí nosit oděv s výstražným značením a s reflexními plochami.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Stödkonstruktion för säker uppställning av t.ex. betongelement, så att ras och glidning förhindras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="cs">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="cs">
+        <seg>Když se něco stane</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>64 §</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="cs">
+        <seg>Všichni musejí umět rychle a bezpečně vyklidit pracoviště, např. když hoří.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skydd mot väder och vind</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="cs">
+        <seg>Je třeba vždy umět poskytnout první pomoc a musejí existovat nápisy, které ukazují, kde je umístěno zařízení pro takovou pomoc.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>67 § Områden där det finns risk för fallande föremål ska spärras av och markeras på något sätt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="cs">
+        <seg>Nezapomeňte, že ten, kdo volá, se musí umět domluvit se Švédskou záchrannou službou.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om sådana områden måste beträdas så ska skyddstak, täckta gångar eller liknande anordnas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="cs">
+        <seg>Pokud výpadek proudu by mohl způsobit zvláštní rizika při práci, musi být nainstalováno nouzové osvětlení.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Stödkonstruktioner, till exempel spont, ska användas om inte risken för farliga ras bedöms som obefintlig.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="cs">
+        <seg>Stavitel nebo podnikatel, který převzal jeho odpovědnost, jsou také odpovědní vypracovat plán.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I första hand ska trafiken ledas om så att arbetet inte berörs.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="cs">
+        <seg>Dohlédnout na to, že plán je dostupný na staveništi od samého začátku, je úlohou stavebního koordinátora pro provedení prací ohledně pracovního prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Bestämmelser om kemiska arbetsmiljörisker som gäller för allt arbete finns i Arbetsmiljöverkets föreskrifter om kemiska arbetsmiljörisker.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="cs">
+        <seg>Koordinátor musí také provést nutné adaptace plánu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Kemiska arbetsmiljörisker</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="cs">
+        <seg>Jestliže stavební práce budou prováděny na místě, kde současně probíhá jiná činnost, je třeba v plánu pracovního prostředí brát na to ohled.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Bestämmelser om kemiska arbetsmiljörisker som gäller för allt arbete finns i Arbetsmiljöverkets föreskrifter om kemiska arbetsmiljörisker.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="cs">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="cs">
+        <seg>Pravidla, jež budou uplatňována na staveništi</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>7 c §§, AFS 2008:16,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="cs">
+        <seg>Popis způsobu organizace práce s pracovním prostředí</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>4-9 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="cs">
+        <seg>Popis opatření na ochranu pracovního prostředí, jež je třeba podniknout v průběhu stavebních prací za účelem dosáhnout dobrého pracovního prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Han har också ansvaret för att förhandsanmälan, arbetsmiljöplan och dokumentation upprättas, liksom för att en byggarbetsmiljösamordnare för planering och projektering utses.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="cs">
+        <seg>To se týká mj. následujících prací:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vid delad entreprenad kan byggherreansvaret inte överlåtas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="cs">
+        <seg>práce, kde existuje nebezpečí pádu</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>AML 3 kap Byggarbetsmiljösamordnare för planering och projektering ska samordna projek-</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="cs">
+        <seg>kopání šachet a jam s nebezpečím sesuvu půdy</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>7 a § och AFS 2008:16</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="cs">
+        <seg>práce v blízkosti vedení vysokého napětí</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>3 kap 7 §, AFS 2008:16,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="cs">
+        <seg>práce ve studnách a tunelech</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>och AFS</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86">
+      <tuv xml:lang="cs">
+        <seg>práce, kde se používají výbušniny</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>2008:16,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87">
+      <tuv xml:lang="cs">
+        <seg>práce na místě nebo v oblasti s mimo projíždějící autodopravou bourání nosných konstrukcí nebo odstraňování zdraví škodlivých materiálů nebo látek.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>17 § byggarbetsmiljösamordnaren för utförandet av arbetet om de särskilda risker som kan uppstå på grund av den egna verksamheten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88">
+      <tuv xml:lang="cs">
+        <seg>Předběžné oznámení</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89">
+      <tuv xml:lang="cs">
+        <seg>Stavitel musí, s výjimkou menších prací, podat předběžné oznámení Švédskému úřadu pro pracovní prostředí (nejbližší okrsek) do zahájení prací, viz § 7 v předpisech.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ensamföretagare och de som arbetar i familjeföretag utan anställda ska vid byggnads- och anläggningsarbete följa i stort sett samma bestämmelser som gäller för arbetsgivare och arbetstagare.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90">
+      <tuv xml:lang="cs">
+        <seg>Všechny práce je třeba plánovat dostatečně včas a předem posuzovat jejich rizika, aby mohly být provedeny bezpečně.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tillverkare och importörer av kemiska produkter och andra ämnen har ett liknande ansvar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91">
+      <tuv xml:lang="cs">
+        <seg>Je třeba naplánovat prostory pro boudy, dílny a dočasné sklady, jakož i pro komunikace a dopravu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tillverkare, importörer och uthyrare ska också lämna produktinformation som behövs för att förebygga ohälsa och olycksfall.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92">
+      <tuv xml:lang="cs">
+        <seg>Časový plán je zvláště důležitý, jestli je práce rozsáhlá a doba stavby krátká.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>De regler som ska tillämpas på byggarbetsplatsen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93">
+      <tuv xml:lang="cs">
+        <seg>Je třeba vybírat pracovní metody a zařízení, která:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>En beskrivning av hur arbetsmiljöarbetet ska organiseras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94">
+      <tuv xml:lang="cs">
+        <seg>předcházejí nehodám vzniklým pádem nebo sesuvem půdy,</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>arbete med risk för fall,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95">
+      <tuv xml:lang="cs">
+        <seg>Kdo odpovídá za co?</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förhandsanmälan</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96">
+      <tuv xml:lang="cs">
+        <seg>Ten, kdo nechává vykonat stavební a konstrukční práce (stavitel), nese hlavní odpovědnost za to, že se bere ohled na pracovní prostředí v průběhu stavby při přípravě stavebního projektu (plánování a projektování).</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det kan vara lämpligt att upprätta en dispositionsplan för arbetsplatsen (APD- plan) när man planerar in till exempel utrymme för bodar, verkstäder och upplag samt för förbindelseleder och transportanordningar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97">
+      <tuv xml:lang="cs">
+        <seg>Stavitel má také odpovědnost za vypracování předběžného oznámení, plánu pracovního prostředí a dokumentace a za jmenování koordinátora pro plánování a projektování stavebního pracovního prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är viktigt att lösa hur man ska ta sig till alla platser där man behöver arbeta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98">
+      <tuv xml:lang="cs">
+        <seg>V určitých případech může stavitel písemnou dohodou přenechat svou odpovědnost za pracovní prostředí dodavateli za tu část stavebního projektu týkající se zakázky.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vägar för fordonstrafik ska separeras från leder för gående.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99">
+      <tuv xml:lang="cs">
+        <seg>Toto je možné, když zakázka znamená samostatnou odpovědnost za celé plánování a projektování a/nebo provedení celého projektu, například jde-li o generální- nebo totální tendr.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetet ska planeras så att olika verksamheter inte sammanfaller i tid och rum på ett sådant sätt att risk för ohälsa eller olycksfall uppkommer.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100">
+      <tuv xml:lang="cs">
+        <seg>Při společném tendru nelze přenechat odpovědnost stavitele.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tidsplaneringen är särskilt viktig om byggtiden är kort i förhållande till arbetenas omfattning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="101">
+      <tuv xml:lang="cs">
+        <seg>Projektanti (architekti, poradci aj.)</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>motverkar olycksfall på grund av fall eller ras,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="102">
+      <tuv xml:lang="cs">
+        <seg>mají také, v rámci své zakázky, odpovědnost za to, aby na pracovní prostředí v průběhu stavby byl brán ohled při přípravě stavebního projektu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>innebär att hälsofarliga eller onödigt tröttande belastningar på kroppen undviks, medför låg exponering för buller, vibrationer, farliga ämnen och luftföroreningar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="103">
+      <tuv xml:lang="cs">
+        <seg>13</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Information och instruktion</seg>
+      </tuv>
+    </tu>
+    <tu tuid="104">
+      <tuv xml:lang="cs">
+        <seg>Ostatní podniky na společném pracovišti musejí informovat stavebního koordinátora pracovního prostředí o zvláštních rizicích, které mohou vzniknout jejich vlastní činností.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Begriplig information ska lämnas till arbetstagarna om arbetet och de arbetsmiljö- åtgärder som är vidtagna eller planerade och om vilka regler som gäller.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="105">
+      <tuv xml:lang="cs">
+        <seg>Stavební dělníci jsou povinni se účastnit práce na pracovním prostředí, dodržovat předpisy a používat existující ochranné pomůcky a zařízení.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Byggarbetsmiljösamordnaren för utförandet av arbetet ska se till att erforderliga anpassningar i dokumentationen görs.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="106">
+      <tuv xml:lang="cs">
+        <seg>Výrobci, dovozci a pronajímatelé technických zařízení nesou odpovědnost za to, že jejich výrobky jsou bezpečné.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om man använder checklistor som anpassats för olika riskområden, verksamheter eller utrustningar så underlättas skyddsrondsarbetet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="107">
+      <tuv xml:lang="cs">
+        <seg>Výrobci a dovozci chemických produktů a jiných látek mají podobnou odpovědnost.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>9, 12 b och 14 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="108">
+      <tuv xml:lang="cs">
+        <seg>Výrobci, dovozci a pronajímatelé jsou povinni poskytnout informace o produktu potřebné k prevenci špatného zdraví a pracovních úrazů.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Några andra föreskrifter som också berör byggnads- och anläggningsarbete.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="109">
+      <tuv xml:lang="cs">
+        <seg>14</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ställningar AFS 1990:12</seg>
+      </tuv>
+    </tu>
+    <tu tuid="110">
+      <tuv xml:lang="cs">
+        <seg>15</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Systematiskt arbetsmiljöarbete AFS 2001:1</seg>
+      </tuv>
+    </tu>
+    <tu tuid="111">
+      <tuv xml:lang="cs">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Några publikationer som kan beställas från Arbetsmiljöverket</seg>
+      </tuv>
+    </tu>
+    <tu tuid="112">
+      <tuv xml:lang="cs">
+        <seg>Tel.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu tuid="113">
+      <tuv xml:lang="cs">
+        <seg>Systematická práce pro pracovní prostředí</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Systematiskt arbetsmiljöarbete</seg>
+      </tuv>
+    </tu>
+    <tu tuid="114">
+      <tuv xml:lang="cs">
+        <seg>Účelem našeho zákona o pracovním prostředí je zabránit zraněním při práci.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vår arbetsmiljölag är till för att förhindra att människor skadas i arbetet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="115">
+      <tuv xml:lang="cs">
+        <seg>Jako zaměstnavatel musíte počítat se všemi podmínkami, které můžou mít vliv na zdraví a bezpečnost zaměstnanců.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Som arbetsgivare ska du ta hänsyn till alla förhållanden som kan påverka de anställdas hälsa och säkerhet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="116">
+      <tuv xml:lang="cs">
+        <seg>Máte odpovědnost za pracovní prostředí všech, kteří pro vás pracují.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Du har ansvar för arbetsmiljön för alla som arbetar åt dig.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="117">
+      <tuv xml:lang="cs">
+        <seg>Změny v používání křovinořezů a motorových řetězových pil</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förändringar vid användning av motorkedjesågar och röjsågar</seg>
+      </tuv>
+    </tu>
+    <tu tuid="118">
+      <tuv xml:lang="cs">
+        <seg>Pravidla platná pro používání motorových řetězových pil a křovinořezů jsou v nových předpisech AFS 2012:1, který vstoupil v platnost 1. prosince 2012.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Regler som gäller vid användning av motorkedjesågar och röjsågar finns i den nya föreskriften, AFS 2012:1 – som trädde i kraft 1 december 2012.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="119">
+      <tuv xml:lang="cs">
+        <seg>Současně přestaly platit předpisy AFS 2000:2 Používání motorových pil a křovinořezů (Användning av motorkedjeså- gar och röjsågar).</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Samtidigt upphörde AFS 2000:2 Användning av motorkedjesågar och röjsågar, att gälla.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="120">
+      <tuv xml:lang="cs">
+        <seg>Čtyři velké změny v předpisech AFS 2012:1</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Fyra stora förändringar i föreskriften AFS 2012:1</seg>
+      </tuv>
+    </tu>
+    <tu tuid="121">
+      <tuv xml:lang="cs">
+        <seg>Požadavek dokumentovaných znalostí ve formě zvládnutých teoretických a praktických zkoušek.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Krav på dokumenterade kunskaper i form av avklarade teoretiska och praktiska prov.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="122">
+      <tuv xml:lang="cs">
+        <seg>Zaměstnavatel je povinen splnit požadavek zvlád- nutých zkoušek do 1. ledna 2015.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetstagaren har fram till 1 januari 2015 på sig att uppfylla kraven på avklarade prov.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="123">
+      <tuv xml:lang="cs">
+        <seg>Kdo po 1. lednu 2015 poruší předpisy o dokumentovaných znalostech bude muset zaplatit trestný poplatek 10 000 švédských korun.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Den som överträder bestämmelserna på dokumenterade kunskaper efter 1 januari 2015 ska betala en sanktionsavgift på 10 000 kronor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="124">
+      <tuv xml:lang="cs">
+        <seg>Požadavek používání upozorňujících oděvů.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Krav på varselkläder.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="125">
+      <tuv xml:lang="cs">
+        <seg>Upozorňující oděvy jsou ochranné oděvy dobře viditelné ve dne i v noci.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Varselkläder är skyddskläder med god synbarhet såväl på dagen som i mörker.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="126">
+      <tuv xml:lang="cs">
+        <seg>Zaměstnavatel odpovídá ta to, že upozorňující oděvy splňují platné požadavky.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>(Varselkläder tillverkade enligt standarden SS EN 471 uppfyller kraven.)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="127">
+      <tuv xml:lang="cs">
+        <seg>Ochranné vysoké boty/ochranné kotníkové boty s ochranou proti pilám.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsstövlar/skyddskängor med sågskydd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="128">
+      <tuv xml:lang="cs">
+        <seg>Být připraven na nejhorší</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Att vara förberedd på det värsta</seg>
+      </tuv>
+    </tu>
+    <tu tuid="129">
+      <tuv xml:lang="cs">
+        <seg>Musí vždy být po ruce někdo, kdo má kompetenci, dokáže poskytnout první pomoc a musí být též po ruce výbava pro první pomoc.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det ska finnas någon som har kompetens och kan ge första hjälpen och utrustning för första hjälpen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="130">
+      <tuv xml:lang="cs">
+        <seg>Zaměstnavatel musí vědět, jak přivolat sanitku a jiná pohotovostní vozidla a dokázat podat zřetelný popis cesty k místu nehody, občas za pomoci koordinátů.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetstagarna ska veta hur ambulans eller andra utryckningsfordon larmas och kunna ge en tydlig beskrivning av vägen till platsen för skadan, ibland med hjälp av koordinater.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="131">
+      <tuv xml:lang="cs">
+        <seg>Vienam dirbant</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ensamarbete</seg>
+      </tuv>
+    </tu>
+    <tu tuid="132">
+      <tuv xml:lang="cs">
+        <seg>Dirbant vienam miške, keliami atskiri reikalavimai palaikant ryšį su išoriniu pasauliu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vid ensamarbete i skogen finns särskilda krav på kommunikation med omvärlden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="133">
+      <tuv xml:lang="cs">
+        <seg>Brigadininkas arba bendradarbiai turi žinoti, kokioje miško vietoje asmuo dirba.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsledare eller arbetskamrat ska känna till var i skogen personen arbetar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="134">
+      <tuv xml:lang="cs">
+        <seg>Darbas vėtrų išverstuose miškuose neturi būti atliekamas vieno asmens, asmuo turi palaikyti tiesioginį ryšį su kolegomis arba kitu asmeniu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbete med stormfälld skog får inte utföras ensamt, personen ska ha direktkontakt med arbetskamrat eller annan person.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="135">
+      <tuv xml:lang="cs">
+        <seg>Práce samotného jednotlivce</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personalutrymmen</seg>
+      </tuv>
+    </tu>
+    <tu tuid="136">
+      <tuv xml:lang="cs">
+        <seg>Při práci samotného jednotlivce na pracovišti v lese existují zvláštní požadavky pro komunikaci s okolním světem.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personalutrymmen behövs både av komfortskäl och för att minska risken för ohälsa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="137">
+      <tuv xml:lang="cs">
+        <seg>Ochranné osobní pracovní prostředky</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personlig skyddsutrustning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="138">
+      <tuv xml:lang="cs">
+        <seg>Pracovník s motorovou řetězovou pilou musí používat tyto ochranné pomůcky:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Den som arbetar med en motorkedjesåg ska använda följande personliga skyddsutrustning:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="139">
+      <tuv xml:lang="cs">
+        <seg>Ochrannou přilbu Chrániče sluchu Ochranné brýle</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddshjälm Hörselskydd Ögonskydd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="140">
+      <tuv xml:lang="cs">
+        <seg>Obvazové vybavení první pomoci</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Första förband</seg>
+      </tuv>
+    </tu>
+    <tu tuid="141">
+      <tuv xml:lang="cs">
+        <seg>Ochrannou blůzu nebo vestu s upozorňovací barvou</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsblus eller skyddsväst med varselfärg</seg>
+      </tuv>
+    </tu>
+    <tu tuid="142">
+      <tuv xml:lang="cs">
+        <seg>Pracovní rukavice Ochranné kalhoty</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetshandskar Skyddsbyxa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="143">
+      <tuv xml:lang="cs">
+        <seg>Ochrannou obuv – vysoké nebo kotníkové boty s ochranou proti pilám</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddskängor/stövlar med sågskydd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="144">
+      <tuv xml:lang="cs">
+        <seg>Chemická rizika při výsadbě a postřiku sazenic</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Kemiska risker vid plantering och plantbesprutning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="145">
+      <tuv xml:lang="cs">
+        <seg>Při styku s chemickou látkou můžete být zraněni přímo nebo onemocnět mnohem později.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>För att undvika risk för arbetssjukdomar, ta reda på information om ämnet och använd skyddsutrustning enligt tillverkarens råd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="146">
+      <tuv xml:lang="cs">
+        <seg>Abyste se vyhnuli pracovním nemocem, zjistěte údaje o látce a používejte ochranné prostředky podle doporučení výrobce.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljöverkets broschyr ”Säkert arbete med behandlade skogsplantor och vid besprutning efter plantering” innehåller mer information.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="147">
+      <tuv xml:lang="cs">
+        <seg>Pamatujte, že nezletilí nesmějí podle AFS 2012:3 s pesticidy třídy 1 a 2 pracovat.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Observera att minderåriga får enligt AFS 2012:3 inte arbeta med bekämpningsmedel i klass 1 eller 2.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="148">
+      <tuv xml:lang="cs">
+        <seg>Také nesmějí sázet sazenice, které byly těmito pesticidy ošetřeny.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>De får inte heller sätta plantor behandlade med dessa bekämpningsmedel.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="149">
+      <tuv xml:lang="cs">
+        <seg>Kdo smí pracovat s motorovou řetězovou pilou?</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vem får arbeta med motorkedjesåg?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="150">
+      <tuv xml:lang="cs">
+        <seg>Osoba musí absolvovat teoretickou a praktickou zkoušku, která potvrzuje, že má znalosti odpovídající pracovním úkolům, jež je třeba vykonat.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personen ska ha gjort ett teoretiskt och praktiskt prov som visar att han eller hon har kunskaper som motsvarar de arbetsuppgifter som ska utföras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="151">
+      <tuv xml:lang="cs">
+        <seg>Osoba musí také vlastnit dokumentaci potvrzující požadavky.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personen ska också ha dokumentation som styrker kraven.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="152">
+      <tuv xml:lang="cs">
+        <seg>Kdo smí pracovat s křovinořezem?</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vem får arbeta med röjsåg?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="153">
+      <tuv xml:lang="cs">
+        <seg>Kdo pracuje s křovinořezem, musí absolvovat školení pro ten typ práce, která má být vykonána a mít znalosti pro danou práci.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Den som arbetar med en röjsåg ska ha genomgått en utbildning för den typ av arbete som ska utföras och ha kunskaper för arbetet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="154">
+      <tuv xml:lang="cs">
+        <seg>Zachovejte respekt před padajícími stromy</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Behåll din respekt för fallande träd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="155">
+      <tuv xml:lang="cs">
+        <seg>Každoročně se přihodí vícero smrtelných úrazů při kácení stromů.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Varje år sker flera dödsolyckor vid trädfällning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="156">
+      <tuv xml:lang="cs">
+        <seg>Internetová stránka úřadu Arbetsmiljöverket – Úřadu pro pracovní prostředí</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljöverkets webbplats</seg>
+      </tuv>
+    </tu>
+    <tu tuid="157">
+      <tuv xml:lang="cs">
+        <seg>Na naší internetové stránce najdete poslední verze platných předpisů, informační brožury a knihy, jež vám poskytnou pomoc při vytváření dobrého pracovního prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>På vår webbplats finns senaste versionen av alla gällande regler, informationsbroschyrer och böcker som kan vara till hjälp för att skapa en bra arbetsmiljö.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="158">
+      <tuv xml:lang="cs">
+        <seg>DI 674 je připraveno ke stáhnutí pouze jako pdf na www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>ADI 674, ﬁnns endast som pdf för nedladdning på www.av.se</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T125344Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="de">
+    <prop type="x-tucount">10</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="de">
+        <seg>Alle haben</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <seg>A posted</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="de">
+        <seg>Meldepflicht in Schweden</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <seg>Reporting posted workers in Sweden</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="de">
+        <seg>Ausländische Unternehmen, die Arbeitnehmer zu einem länger als fünf Tage dauernden Einsatz nach Schweden entsenden, müssen diese Maßnahme dem schwedischen</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <seg>Foreign companies that post employees to work in Sweden for more than five days are required to notify this to the Swedish Work Environment Authority.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="de">
+        <seg>ein Recht auf einen sicheren und gesundheitlich zuträglichen Arbeitsplatz.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <seg>to register posted workers.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="de">
+        <seg>Arbeitnehmerrechte stehen ihnen auf folgenden Gebieten zu: Arbeitssicherheit/-hygiene, Mindestentgelt, bezahlter Urlaub, Regelungen der Arbeitszeiten, Schutz vor Diskriminierung am Arbeitsplatz und Elternurlaub.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <seg>Areas covered by posted workers’ rights are: working environment, minimum wages and holiday pay, regulations on working hours, workplace discrimination and parental leave.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="de">
+        <seg>Sonderregelungen indessen bestehen, je nach Umständen der Beschäftigung, bei Steuern und Sozialleistungen.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <seg>Regarding taxes and social benefits, there are different regulations for foreign workers depending on their situation.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="de">
+        <seg>Das Zentralamt für das Arbeitsumfeld ist eine staatliche Behörde.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <seg>The Swedish Work Environment Authority is a government agency.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="de">
+        <seg>Sie führt die Aufsicht über die Einhaltung der gesetzlichen Arbeitsbedingungen wie Arbeitsschutz und -hygiene oder Arbeitszeiten.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <seg>We ensure that legislation concerning working environment and working hours is followed.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="de">
+        <seg>Schädliche Arbeitsbedingungen, oder Bedingungen im Widerspruch zu den geltenden Vorschriften sind zunächst dem Arbeitgeber zu melden.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <seg>Hazardous working conditions, or working conditions that are not consistent with the laws and regulations, should be reported first of all to the employer.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="de">
+        <seg>Danach können sie auch dem zuständigen Sicherheitsbeauftragten oder direkt dem Zentralamt für das Arbeitsumfeld angezeigt werden.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <seg>They can then also be reported to the safety officer at the workplace or directly to us at the Swedish Work Environment Authority.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

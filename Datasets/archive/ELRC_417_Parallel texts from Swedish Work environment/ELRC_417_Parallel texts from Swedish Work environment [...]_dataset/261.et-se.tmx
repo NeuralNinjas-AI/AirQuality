@@ -1,0 +1,1264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T125955Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="et">
+    <prop type="x-tucount">157</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="et">
+        <seg>Kui riskid on liiga suured, on meil õigus edasine töö ehitusplatsil keelata seniks, kuni töökeskkonda on parendatud.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>De pressade tidsramarna liksom att arbetsplatserna är tillfälliga kan också ha betydelse.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="et">
+        <seg>Paljude ehitustöölistega tuleb ette õnnetusi ja tööst tingitud haigestumisi või vigastusi.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Grundläggande bestämmelser om arbetsmiljön finns i arbetsmiljölagen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="et">
+        <seg>Halb planeerimine ja ajaressursi vähesus tõstab õnnetuste riske.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>1 § uppförande, ändring, reparation, underhåll och rivning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="et">
+        <seg>Ehitiste ja hoonete ehitamise, muutmise, rekonstrueerimise, hoolduse või lammutustega seonduvad töid reguleerivad Töökeskkonnaseadus ja Töökeskkonnaameti ehituseeskirjad.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tänk på att även byggnads- och anläggningsarbete under jord och under vatten ingår.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="et">
+        <seg>Reeglid käivad nii ettevõtte omaniku kui töövõtja kohta, olenemata töövõtuvormist.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Även andra föreskrifter från Arbetsmiljöverket kan vara aktuella vid byggnads- och anläggningsarbete.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="et">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="et">
+        <seg>Kukkumiste ohu vähendamine</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förebygg risken för fall</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="et">
+        <seg>Kukkumine on ehitusplatsidel kõige tavalisemaks surmade või õnnetuste põhjuseks.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Fall är den vanligaste orsaken till dödsfall och olyckor på byggarbetsplatsen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="et">
+        <seg>Kukkummiste oht peab olema ennetatud.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Risken för fall ska vara förebyggd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="et">
+        <seg>Kaitsepiirded, tööplatvormid, töökorvid, ehitustellingud või muu sarnane kaitse tuleb kasutusele võtta esmajärjekorras.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Sådana skyddsanordningar behövs i allmänhet när nivåskillnaden är två meter eller mer.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="et">
+        <seg>Kaitsepiirded peavad:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsräcken ska:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="et">
+        <seg>olema turvalised</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>vara hållfasta,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="et">
+        <seg>Kui kaitse kinnitamine pole võimalik, tuleb kasutada personaalseid turvistikuga varustatud kaitseseadmeid.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I 88 § i föreskrifterna anges hur man ska bedöma vilket alternativ man ska välja.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="et">
+        <seg>Keskkoha turvarihm võib kaasa tuua suuri vigastusi ning seda ei tohi seetõttu kasutada.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Om detta inte går att ordna ska lämplig person utses som håller fast linan, lämpligen genom avhåll.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="et">
+        <seg>Kinnitage ohutusnöör mingi kindla ja turvalise konstruktsiooni külge katusel.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Linan ska hållas sträckt under arbetet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="et">
+        <seg>Osade tööde puhul on vajalik kasutada kaitsevõrku.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personlig skyddsutrustning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="et">
+        <seg>Tavaliselt tuleb kasutada kaitsekiivrit ning kaitsejalanõusid.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Även i föreskrifterna finns bestämmelser om montering.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="et">
+        <seg>Vahel on tarvis kasutada ka silmakaitseid, kuulmekaitseid ja kindaid.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ett skyddsnät får endast monteras under överinseende av en kompetent person.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="et">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="et">
+        <seg>Parema tööasendi tagab tasane pind, nt sellised platvormid, mida on võimalik tõsta või langetada.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Att nätet åldras medför att töjbarheten hos maskorna minskar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="et">
+        <seg>Pärast pingutamist peavad lihased kehas taastuma.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Se upp för dolda risker!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="et">
+        <seg>Erinevaid töid tehes väldite lihaste ühekülgset pingutust.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>60 §</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="et">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="et">
+        <seg>Keemiliste ainete kohta käivad reeglid Rootsis</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>45-47 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="et">
+        <seg>Ehitusalal kasutatakse mitmeid mürgiseid, kantserogeenseid, söövitavaid või allergiaid tekitavaid aineid.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Planera arbetet rätt – undvik skadliga belastningar</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="et">
+        <seg>Näiteks sisaldab betooni, müürimört ja krohv tsementi, mis võib pikemaajalisel kokkupuutel nahaga tekitada söövitushaavu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Byggnadsarbete är ofta tungt och belastande för kroppen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="et">
+        <seg>Kui tegemist on Rootsis ostetud toodetega, peab ohutusalane teabeleht olema rootsikeelne.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>En plan yta att stå på, som inte är för liten, ger bättre förutsättningar för att få en bra arbetsställning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="et">
+        <seg>Ettevõte, kes toob Rootsi sisse ohtlikke keemilisi tooteid oma tarbeks kasutamiseks, vastutab selle eest, et toote kohta on töökohal olemas kirjalik ohutus- ja turvaalane teave töötajatele arusaadavas keeles.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det går inte lika bra med en vanlig rullställning, men möjligheterna att få en hygglig arbetsställning ökar om man väljer en ställningsmodell som har liten höjdskillnad mellan plattformslägena.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="et">
+        <seg>Ehitusplatsil peab olema tagatud loetelu kõigi ohtlike keemiliste toodete kohta.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Använd skivhissar och stativ för skruvdra- gare som avlastar vid arbete i tak.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="et">
+        <seg>Igal tööandal lasub sellealane vastutus.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skruvdragare med magasin är tunga.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="et">
+        <seg>Tööandja peab töövõtjaid teavitama keemiliste toodetega kaasnevatest riskidest ning veenduma, et töövõtjad on teabest aru saanud.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>En skruvdragare utan magasin är lättare att hantera och man får dessutom en kort paus varje gång skruven ska sättas i.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="et">
+        <seg>Teatud ohtlike ainete puhul kehtivad eriti ranged reeglid:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Variera arbetet</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="et">
+        <seg>Asbest: asbestiga töötamiseks ja selle eemaldamiseks on töid läbiviival ettevõttel tarvis hankida Töökeskkonnaametilt luba.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är viktigt att få möjlighet att återhämta sig efter ansträngning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="et">
+        <seg>Loa saamiseks on vajalik esitada dokumendid vastava väljaõppe kohta ning arstitõend.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Detta tar tid, särskilt om ansträngningen pågått länge.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="et">
+        <seg>Ühenduskohad ja transport</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förbindelseleder och transporter</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="et">
+        <seg>Ehitusplatsil peavad olema turvalised ühenduskohad, nt trepp või kaldtee erinevate tasandite vahel.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Mellan olika plan ska det normalt finnas trappa eller ramp.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="et">
+        <seg>Kui töövõtja peab palju treppe kasutama, peab üle 10-meetriste tasanditevahelise vahede puhul olema tööplatsil tagatud lifti olemasolu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Kring förbindelseleder avsedda för motorfordon ska det finnas antingen tillräckligt säkerhetsavstånd eller tillräckliga skyddsanordningar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="et">
+        <seg>Ehitusplatsile jäävate autoteede puhul peab turvalisus olema tagatud kas piisava vahemaa kindlustamise või kaitseseadmete olemasolu läbi.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>På intagsbryggor ska det normalt finnas grind eller bom.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="et">
+        <seg>-seadmeid ära võtmata.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tillträdesleder</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="et">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="et">
+        <seg>Paljud masinad ja tõsteseadmed peavad selleks, et neid jätkuvalt kasutada tohiks, läbima korrapäraseid ülevaatusi.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Platserna där de finns ska märkas ut med skyltar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="et">
+        <seg>Kui ülevaatust pole tehtud või kui ülevaatuse korras esile toodud puudusi pole kõrvaldatud, on masina või tõsteseadme kasutamine karistatav.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>De kan behövas till exempel där brandfarliga ämnen används, där utrymningsvägarna är långa eller där ett stort antal personer uppehåller sig samtidigt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="et">
+        <seg>Ülevaatus tuleb läbi viia vastavuses Rootsi seadusandlusega.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Lämpliga övningar ska genomföras regelbundet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="et">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Nödbelysning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="et">
+        <seg>Mõnikord on vajalik ka töövõtjate kaitsmine ilmastiku tingimuste (nt tuulte ja külma) vastu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Bland annat brandredskap, alarmsystem, elinstallationer, förbindelseleder, trafik- anordningar, skyddsnät och varselmärkning ska kontrolleras och underhållas regelbundet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="et">
+        <seg>Kui neile aladele on siiski vaja juurde pääseda, on vajalik kaitsekatuse olemasolu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Åtgärder kan också behövas vid arbete med byggprodukter eller utrustning som innehåller lagrad energi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="et">
+        <seg>Maapinnatööd tuleb planeerida nii, et maapinda ei koormataks rohkem, kui see välja kannatab.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tänk på att förankringar av byggprodukter med mera måste kunna klara förekommande belastningar på grund av vind.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="et">
+        <seg>Vajadusel tuleb kindlustada kaitse maalihke suhtes.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>49-50 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="et">
+        <seg>Sõidukid tuleb süvenditest eemal hoida.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>55-56 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="et">
+        <seg>Ehitusplatsidelt mööduvad sõidukid kujutavad endast ohtu.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förankring av form vid tillfällig uppställning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="et">
+        <seg>Esmajärjekorras tuleb liiklus ümber suunata.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tänk på vindpåverkan!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="et">
+        <seg>Liiklusest eraldamata tööplatsil töötav isik peab kandma helkuritega varustatud kõrgnähtavust tagavaid riideid.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Stödkonstruktion för säker uppställning av t.ex. betongelement, så att ras och glidning förhindras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="et">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="et">
+        <seg>Kui midagi juhtub</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>64 §</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="et">
+        <seg>Kõik peavad suutma turvaliselt ja kiiresti tööplatsilt lahkuda, nt tulekahju puhul.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skydd mot väder och vind</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="et">
+        <seg>Väljapääsud ja kogunemiskohad peavad olema siltidega varustatud.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>En bra åtgärd är intäckning av arbetsplatsen med väderskydd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="et">
+        <seg>Töökeskkonna plaan tuleb välja töötada juba enne ehitustöödega alustamist.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Alternativt får schakten utföras med släntlutning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="et">
+        <seg>Eelkõige vastutab planeerimis- ja projekteerimisala ehitustöökeskkonna koordinaator plaani välja töötamise eest.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Fordonstrafik ska hållas på avstånd från schaktgropen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="et">
+        <seg>Projektijuht või vastutava objektiülema vastutusalasse kuulub ka plaani rakendamine.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>72-76 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="et">
+        <seg>Ehitustöökeskkonna koordinaatori ülesandeks on vastutada selle eest, et plaan oleks kättesaadav töökohal niipea, kui ehitustöödega on alustatud.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>I föreskrifterna anges en mängd åtgärder som ska övervägas eller vidtas för att förebygga riskerna.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="et">
+        <seg>Koordinaatori ülesandeks on ka plaani vajalike muudatuste ja kohanduste tegemine.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>En del av dem ska övervägas i en viss ordning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="et">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>81-86 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="et">
+        <seg>Plaanis peab sisalduma alljärgnev:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Kemiska arbetsmiljörisker</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="et">
+        <seg>tööplatsil rakendatavad reeglid</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Kemiska arbetsmiljörisker</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="et">
+        <seg>Laohooned, töökojad ja hoidlad ning ühendused ja transport tuleb eelnevalt planeerida.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Tillverkare och importörer av kemiska produkter och andra ämnen har ett liknande ansvar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="et">
+        <seg>Valida tuleb töömeetodeid või varustust, mis:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>De regler som ska tillämpas på byggarbetsplatsen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="et">
+        <seg>12</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förhandsanmälan</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="et">
+        <seg>Kes vastutab mille eest?</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetets planering</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="et">
+        <seg>Ehitusplatsil hea töökeskkonna loomiseks on väga oluline ennetav töökeskkonnaalane töö ning kõigi asjaosaliste vastutus.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Planeringen behöver grunda sig på en riskbedömning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="et">
+        <seg>Põhivastutus töökeskkonna arvestamisel ehitusprojekti ettevalmistusfaasis (planeerimis- ja projekteerimistööd) on ehitustööde või rajatistööde läbiviijal (Projektijuhil).</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vägar för fordonstrafik ska separeras från leder för gående.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="et">
+        <seg>Projektijuht peab ka vastutama selle eest, et ehitus- ja rajatistööd on vastavuses töökeskkonna reeglitega ning määrab ka ehitus- või rajatistööde läbiviimise ajaks töökeskkonna koordinaatori.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetet ska planeras så att olika verksamheter inte sammanfaller i tid och rum på ett sådant sätt att risk för ohälsa eller olycksfall uppkommer.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="et">
+        <seg>Projekteerijad (arhitektid, konsultandid jne) vastutavad samuti oma töö raames selle eest, et ehitusprojekti koostamisel võetakse arvesse ehitusaegset töökeskkonda.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>motverkar olycksfall på grund av fall eller ras,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="et">
+        <seg>Ehitustöökeskkonna koordinaator ehitus- ja rajatistööde ajal koordineerib töid lähtudes töökeskkonnast, kohandab töökeskkonna plaani vastavalt tööde tegelikule läbiviimisele, kontrollib, et töid teostataks vastavalt töökeskkonnaalastele nõuetele ning et järgitakse töökeskkonna plaani.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>innebär att hälsofarliga eller onödigt tröttande belastningar på kroppen undviks, medför låg exponering för buller, vibrationer, farliga ämnen och luftföroreningar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="et">
+        <seg>13</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Information och instruktion</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="et">
+        <seg>Tööandja vastutus oma töövõtjate suhtes kehtib täielikult ka siis, kui tööandja vastutab lisaks veel projekteerimise eest, tööl kasutatava masina tootja eest või töökeskkonna koordinaatori eest.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>När arbetet avslutats ska byggherren ha en färdigställd dokumentation med information av betydelse för arbetsmiljön vid drift, underhåll, reparation, ändring och rivning av byggnaden eller anläggningen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="et">
+        <seg>Iseseisev ettevõtja ja need, kes töötavad pereettevõtetes, kus pole töövõtjaid, peavad ehitis- ja rajatistööde puhul järgima suures osas samu reegleid, mis on kehtivad tööandja ja töövõtja puhul.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Dokumentationen ska därför beskriva objektets konstruktion och utformning samt de byggprodukter som använts.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="et">
+        <seg>Ehitustöötajad osalevad töökeskkonnaalases töös, järgivad kehtivaid ettekirjutusi ja kasutavad olemasolevaid kaitsevahendeid ja -seadmeid.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Dokumentationen ska utarbetas av byggarbetsmiljösamordnaren för planering och projektering.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="et">
+        <seg>Ohutusvolinik esindab töövõtjaid turvaalastes küsimustes.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsronder</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="et">
+        <seg>Tootja, maaletooja ja tehniliste seadmete rendile andja vastutavad oma toodete ohutuse eest.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>9, 12 b och 14 §§</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="et">
+        <seg>Keemiliste toodete ja muude ainete tootjatel ja maaletoojatel on sarnane vastutus.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Några andra föreskrifter som också berör byggnads- och anläggningsarbete.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="et">
+        <seg>Tootja, maaletooja ja rendile andja peavad andma ka vajaliku tooteteabe terviserikete ja õnnetuste ennetamiseks.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Några publikationer som kan beställas från Arbetsmiljöverket</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="et">
+        <seg>Töökeskkonnaseadus reguleerib ka ajutiste lepingutega töötajaid värbava tööandja kui ka töökoha eest vastutava isiku vastutusala.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>AMP-guiden – byggbranschens handledning för upprättande av arbetsmiljöplaner. www.ampguiden.net</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="et">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Fler exemplar av denna trycksak beställs från Arbetsmiljöverket</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="et">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>E-post: arbetsmiljoverket@av.se www.av.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="et">
+        <seg>Süstemaatiline töökeskkonnaalane töö</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Systematiskt arbetsmiljöarbete</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86">
+      <tuv xml:lang="et">
+        <seg>Töökeskkonna seadus on loodud eesmärgiga ennetada vigastusi tööl.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vår arbetsmiljölag är till för att förhindra att människor skadas i arbetet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87">
+      <tuv xml:lang="et">
+        <seg>Tööandjana peate pöörama tähelepanu kõigile asjaoludele, mis võivad mõjutada töötajate tervist ja ohutust.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Som arbetsgivare ska du ta hänsyn till alla förhållanden som kan påverka de anställdas hälsa och säkerhet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88">
+      <tuv xml:lang="et">
+        <seg>Te vastutate kõikide teie heaks töötavate inimeste töökeskkonna eest.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Du har ansvar för arbetsmiljön för alla som arbetar åt dig.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89">
+      <tuv xml:lang="et">
+        <seg>Muudatused mootoriga kettsaagide ja võsalõikurite kasutamisel</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Förändringar vid användning av motorkedjesågar och röjsågar</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90">
+      <tuv xml:lang="et">
+        <seg>Mootoriga kettsaagide ja võsalõikurite kasutamisel kohaldatavad eeskirjad on esitatud uues määruses AFS 2012:1, mis jõustus 1. detsembril 2012.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Regler som gäller vid användning av motorkedjesågar och röjsågar finns i den nya föreskriften, AFS 2012:1 – som trädde i kraft 1 december 2012.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91">
+      <tuv xml:lang="et">
+        <seg>Samal ajal muutus kehtetuks AFS 2000:2 „Mootoriga kettsaagide ja võsalõikurite kasutamine”.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Samtidigt upphörde AFS 2000:2 Användning av motorkedjesågar och röjsågar, att gälla.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92">
+      <tuv xml:lang="et">
+        <seg>Neli suurt muudatust määruses AFS 2012:1</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Fyra stora förändringar i föreskriften AFS 2012:1</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93">
+      <tuv xml:lang="et">
+        <seg>Nõudmised kvalifikatsiooni tõendavatele dokumentidele, mille saamiseks tuleb läbida teoreetilised ja praktilised eksamid.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Krav på dokumenterade kunskaper i form av avklarade teoretiska och praktiska prov.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94">
+      <tuv xml:lang="et">
+        <seg>Töötajal on eksaminõuete täitmiseks aega 1. jaanuarini 2015.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetstagaren har fram till 1 januari 2015 på sig att uppfylla kraven på avklarade prov.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95">
+      <tuv xml:lang="et">
+        <seg>Isik, kes rikub kvalifikatsiooni tõendavate dokumentide eeskirju peale 1. jaanuari 2015, peab maksma 10 000 krooni trahvi.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Den som överträder bestämmelserna på dokumenterade kunskaper efter 1 januari 2015 ska betala en sanktionsavgift på 10 000 kronor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96">
+      <tuv xml:lang="et">
+        <seg>Nõuded hoiatusrõivastele.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Krav på varselkläder.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97">
+      <tuv xml:lang="et">
+        <seg>Hoiatusrõivad on hea nähtavusega nii valges kui pimedas.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Varselkläder är skyddskläder med god synbarhet såväl på dagen som i mörker.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98">
+      <tuv xml:lang="et">
+        <seg>Tööandja vastutab, et hoiatusrõivad täidaks kehtivaid nõudeid.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsgivaren ansvarar för att varselkläderna uppfyller gällande krav.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99">
+      <tuv xml:lang="et">
+        <seg>(Nõuetele vastavad hoiatusrõivad, mis on- valmistatud standardi SS EN 471 järgi.)</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>(Varselkläder tillverkade enligt standarden SS EN 471 uppfyller kraven.)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100">
+      <tuv xml:lang="et">
+        <seg>Saekaitsega kaitsekummikud/kaitsesaapad.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsstövlar/skyddskängor med sågskydd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="101">
+      <tuv xml:lang="et">
+        <seg>Olla valmis halvimaks</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Att vara förberedd på det värsta</seg>
+      </tuv>
+    </tu>
+    <tu tuid="102">
+      <tuv xml:lang="et">
+        <seg>Töökohas peab olema esmaabivarustus ja kompetentne isik, kes oskab anda esmaabi.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det ska finnas någon som har kompetens och kan ge första hjälpen och utrustning för första hjälpen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="103">
+      <tuv xml:lang="et">
+        <seg>Töötajad peavad teadma, kuidas kiirabi või teisi alarmteenistusi välja kutsuda, ja oskama selgelt kirjeldada sündmuskohta jõudmise teekonda, vahel ka koordinaatide abiga.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetstagarna ska veta hur ambulans eller andra utryckningsfordon larmas och kunna ge en tydlig beskrivning av vägen till platsen för skadan, ibland med hjälp av koordinater.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="104">
+      <tuv xml:lang="et">
+        <seg>Üksi töötamine</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ensamarbete</seg>
+      </tuv>
+    </tu>
+    <tu tuid="105">
+      <tuv xml:lang="et">
+        <seg>Üksi metsas töötamisel kehtivad kindlad nõuded välismaailmaga ühendusepidamise kohta.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vid ensamarbete i skogen finns särskilda krav på kommunikation med omvärlden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="106">
+      <tuv xml:lang="et">
+        <seg>Tööjuht või töökaaslane peab teadma kohta, kus töötaja metsas töötab.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsledare eller arbetskamrat ska känna till var i skogen personen arbetar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="107">
+      <tuv xml:lang="et">
+        <seg>Tormimurruga metsas ei tohi üksi töötada, vaid töötajal peab olema otsekontakt töökaaslase või mõne teise isikuga.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbete med stormfälld skog får inte utföras ensamt, personen ska ha direktkontakt med arbetskamrat eller annan person.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="108">
+      <tuv xml:lang="et">
+        <seg>Personali ruumid</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personalutrymmen</seg>
+      </tuv>
+    </tu>
+    <tu tuid="109">
+      <tuv xml:lang="et">
+        <seg>Personali ruumid peaksid olema jalutuskaugusel.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det bör vara gångavstånd till personalutrymmen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="110">
+      <tuv xml:lang="et">
+        <seg>Isikukaitsevahendid</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personlig skyddsutrustning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="111">
+      <tuv xml:lang="et">
+        <seg>Isikul, kes töötab mootoriga kettsaega, peab olema järgnev kaitsevarustus:</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Den som arbetar med en motorkedjesåg ska använda följande personliga skyddsutrustning:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="112">
+      <tuv xml:lang="et">
+        <seg>Kaitsekiiver Kuulmiskaitsevahend Silmade kaitsevahend</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddshjälm Hörselskydd Ögonskydd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="113">
+      <tuv xml:lang="et">
+        <seg>Esmaabiside</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Första förband</seg>
+      </tuv>
+    </tu>
+    <tu tuid="114">
+      <tuv xml:lang="et">
+        <seg>Kõrgnähtava värviga kaitsepluus või kaitsevest</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddsblus eller skyddsväst med varselfärg</seg>
+      </tuv>
+    </tu>
+    <tu tuid="115">
+      <tuv xml:lang="et">
+        <seg>Töökindad Kaitsepüksid</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetshandskar Skyddsbyxa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="116">
+      <tuv xml:lang="et">
+        <seg>Saekaitsega kaitsesaapad/ kummikud</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Skyddskängor/stövlar med sågskydd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="117">
+      <tuv xml:lang="et">
+        <seg>Keemilistest ainetest põhjustatud ohud istuta- mistöödel ja taimede pritsimisel</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Kemiska risker vid plantering och plantbesprutning</seg>
+      </tuv>
+    </tu>
+    <tu tuid="118">
+      <tuv xml:lang="et">
+        <seg>Kui puutute kokku mingi keemilise ainega, võite saada viga kohe või haigestuda palju hiljem.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>När du kommer i kontakt med ett kemiskt ämne kan du antingen skadas direkt eller bli sjuk långt senare.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="119">
+      <tuv xml:lang="et">
+        <seg>Tööga seotud terviseprobleemide vältimiseks otsige aine kohta infot ja kasutage kaitsevarustust vastavalt tootja nõuannetele.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>För att undvika risk för arbetssjukdomar, ta reda på information om ämnet och använd skyddsutrustning enligt tillverkarens råd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="120">
+      <tuv xml:lang="et">
+        <seg>Töökeskkonnaameti brošüür „Ohutu töötamine töödeldud metsaistikutega ja pritsimisel peale istutamist” sisaldab täpsemat informatsiooni.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljöverkets broschyr ”Säkert arbete med behandlade skogsplantor och vid besprutning efter plantering” innehåller mer information.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="121">
+      <tuv xml:lang="et">
+        <seg>Samuti ei tohi nad istutada taimi, mida on nende vahenditega töödeldud.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>De får inte heller sätta plantor behandlade med dessa bekämpningsmedel.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="122">
+      <tuv xml:lang="et">
+        <seg>Kes tohib mootoriga kettsaega töötada?</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vem får arbeta med motorkedjesåg?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="123">
+      <tuv xml:lang="et">
+        <seg>Isik peab olema läbinud teoreetilise ja praktilise eksami, mis näitavad, et tal on konkreetsete tööülesannete täitmiseks vastavad oskused.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personen ska ha gjort ett teoretiskt och praktiskt prov som visar att han eller hon har kunskaper som motsvarar de arbetsuppgifter som ska utföras.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="124">
+      <tuv xml:lang="et">
+        <seg>Isikul peab olema ka nõuete täitmist kinnitav dokumentatsioon.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personen ska också ha dokumentation som styrker kraven.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="125">
+      <tuv xml:lang="et">
+        <seg>Kes tohib võsalõikuriga töötada?</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vem får arbeta med röjsåg?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="126">
+      <tuv xml:lang="et">
+        <seg>Töötaja, kes töötab võsalõikuriga, peab olema läbinud vastavat tööala käsitleva koolituse ja tal peavad olema tööks vajalikud oskused.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Den som arbetar med en röjsåg ska ha genomgått en utbildning för den typ av arbete som ska utföras och ha kunskaper för arbetet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="127">
+      <tuv xml:lang="et">
+        <seg>Suhtuge langevatesse puudesse ettevaatusega</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Behåll din respekt för fallande träd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="128">
+      <tuv xml:lang="et">
+        <seg>Langevad puud põhjustavad igal aastal mitmeid surmajuhtumeid.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Varje år sker flera dödsolyckor vid trädfällning.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="129">
+      <tuv xml:lang="et">
+        <seg>Töökeskkonnaameti koduleht</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljöverkets webbplats</seg>
+      </tuv>
+    </tu>
+    <tu tuid="130">
+      <tuv xml:lang="et">
+        <seg>Meie kodulehel on kõikide kehtivate eeskirjade, infolehtede ja raamatute viimased versioonid, mis võivad olla abiks hea töökeskkonna loomisel.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>På vår webbplats finns senaste versionen av alla gällande regler, informationsbroschyrer och böcker som kan vara till hjälp för att skapa en bra arbetsmiljö.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="131">
+      <tuv xml:lang="et">
+        <seg>ADI 674, saadaval ainult allalaaditava pdf-failina veebilehel www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>ADI 674, ﬁnns endast som pdf för nedladdning på www.av.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="132">
+      <tuv xml:lang="et">
+        <seg>Kui Sa kavatsed töötada Rootsis rohkem kui kolm kuud, peab Sul olema tööloale lisaks ka elamisluba.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Ska du arbeta i Sverige längre tid än tre månader behöver du förutom ett arbetstillstånd även ett uppehållstillstånd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="133">
+      <tuv xml:lang="et">
+        <seg>Mida on vaja, et saada tööluba?</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Vad krävs för att få arbetstillstånd?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="134">
+      <tuv xml:lang="et">
+        <seg>Selle kokkuleppe järgi on minimumpalk</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>För att få tillstånd krävs det att</seg>
+      </tuv>
+    </tu>
+    <tu tuid="135">
+      <tuv xml:lang="et">
+        <seg>18 542 SEK kuus.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>du har ett giltigt pass,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="136">
+      <tuv xml:lang="et">
+        <seg>Kui Sinu tööandja on välismaal asuv firma – näiteks tööjõuvahendusfirma –, mis ei tegutse Rootsis, kehtib Sinu puhul tööjõuvahenduse valdkonna leping, mille järgi miinimumpalk on 19 772 SEK kuus.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>du kan försörja dig på arbetet, arbetet är av en sådan omfattning att lönen är minst SEK 13 000 i månaden (se dock punkt 5), din arbetsgivare har annonserat tjänsten i Sverige och EU under minst tio dagar (vid nyrekrytering),</seg>
+      </tuv>
+    </tu>
+    <tu tuid="137">
+      <tuv xml:lang="et">
+        <seg>See leping kehtib sõltuma-ta sellest, kas välismaal asuv firma on kollektiivlepingule alla kirjutanud või mitte.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>din arbetsgivare erbjuder anställningsvillkor som är i nivå med svenska kollektivavtal eller vad som är brukligt inom yrket eller branschen (se nedan),</seg>
+      </tuv>
+    </tu>
+    <tu tuid="138">
+      <tuv xml:lang="et">
+        <seg>Eraisikute marja- korjamisest saadud tulu ei maksustata, kui see ei ületa 12 500 SEK aastas.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Avtalad minimilön i det avtalet är SEK 18 542 per månad 1 juni 2014 – 31 maj 2015.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="139">
+      <tuv xml:lang="et">
+        <seg>Aasta jooksul on ületunnitööd lubatud teha kuni 200 tundi.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Att plocka bär utan att vara anställd</seg>
+      </tuv>
+    </tu>
+    <tu tuid="140">
+      <tuv xml:lang="et">
+        <seg>Töökeskkonna ameti ülesanne on jälgida, et tööandjad peaksid töökeskkonna seaduse ja tööaja seaduse sätetest kinni.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det är möjligt för dig som har fått ett visum för släktbesök att plocka bär som privatperson.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="141">
+      <tuv xml:lang="et">
+        <seg>Võid pöörduda ka Munitsipaaltöötajate Liidu (Kommunal) poole, kellel on töökaitse alal oma regionaalvolinikud, kes jälgivad, et töökeskkond vastaks nõuetele.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Inkomster av att plocka bär är skattefria för privatpersoner upp till SEK 12 500 kr per person och år.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="142">
+      <tuv xml:lang="et">
+        <seg>Tööaja seaduse kohaldamisest võib loobuda kollektiivlepinguga poolte kokkuleppel.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>För privatpersoner gäller bestämmelser om visum.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="143">
+      <tuv xml:lang="et">
+        <seg>Kui Sa haigestud</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljö och arbetstid</seg>
+      </tuv>
+    </tu>
+    <tu tuid="144">
+      <tuv xml:lang="et">
+        <seg>Rootsi sotsiaalkindlustussüsteemis on ette nähtud hüvitised – nt haigusraha ja vanematoetus –, mis põhinevad sellel, et Sul on töö.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljön omfattar allt från att maskiner och redskap fyller de säkerhetskrav som ställts på dem, till att stressnivån inte är för hög.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="145">
+      <tuv xml:lang="et">
+        <seg>Ka tööandjale kehtib sel juhul tingimus.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Övertiden får uppgå till högst 200 timmar under ett kalenderår.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="146">
+      <tuv xml:lang="et">
+        <seg>Alaline tegevuskot on näiteks kontor, vabrik ja muu taoline.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljöverkets inspektörer besöker olika arbetsplatser och kontrollerar att arbetsgivare följer lagarna.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="147">
+      <tuv xml:lang="et">
+        <seg>Kui Sinu tööandjal on Rootsis alaline tegevuskoht ja Sa viibid Rootsis kuni kuus kuud, oled Sa kohustatud tasuma eritulumaksu (särskild inkomstskatt, rootsikeelne lühend SINK).</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Du kan också kontakta Kommunal, som har regionala skyddsombud som övervakar att arbetsmiljön är bra. 3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="148">
+      <tuv xml:lang="et">
+        <seg>Eritulumaksu suurus on 25 protsenti.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetstidslagen kan avtalas bort genom kollektivavtal.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="149">
+      <tuv xml:lang="et">
+        <seg>Tavapäraseid tulumaksustamise reegleid võidakse kohaldada ka korduva Rootsis viibimise korral.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Kollektivavtalet kan ersätta hela lagen eller delar av den.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="150">
+      <tuv xml:lang="et">
+        <seg>Täpsemat teavet leiad Maksuameti veebilehelt www.skatteverket.se.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Arbetsmiljöverket har inte tillsyn över arbetstidslagen när arbetstidsfrågan regleras i kollektivavtal.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="151">
+      <tuv xml:lang="et">
+        <seg>Lähetatud töötajate kohta loe täpsemalt aadressilt www.posting.se.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det finns även bosättningsbaserade förmåner.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="152">
+      <tuv xml:lang="et">
+        <seg>workinsweden.se Rootsi Instituudi veebilehtedelt www.sweden.se ja www.workinginsweden.se leiad veel infot Rootsi ja Rootsis töötamise kohta.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Personer som endast arbetar tillfälligt i Sverige omfattas vanligtvis inte av dessa förmåner.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="153">
+      <tuv xml:lang="et">
+        <seg>Lähetatud töötajatele laienevad Rootsis näiteks puhkusi ja sünnituspuhkusi puudutavad reeglid.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Anmälan påverkar inte den eventuella rätten till förmåner.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="154">
+      <tuv xml:lang="et">
+        <seg>Töökeskkonna amet on nn. kontaktbüroo, mis tegeleb lähetatud töötajatega seotud küsimustega.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Läs mer på Försäkringskassans webbplats, www.forsakringskassan.se.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="155">
+      <tuv xml:lang="et">
+        <seg>Siit saad teavet selle kohta, millised on Sinu õigused.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Inkomsterna är skattefria under förutsättning att arbetet inte överskrider 183 dagar under en ettårsperiod.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="156">
+      <tuv xml:lang="et">
+        <seg>Lähetatud töötajate kohta loe täpsemalt aadressilt www.posting.se.</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Det ställs dock även krav på arbetsgivaren.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="157">
+      <tuv xml:lang="et">
+        <seg>Välisministeerium</seg>
+      </tuv>
+      <tuv xml:lang="se">
+        <seg>Utrikesdepartementet</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

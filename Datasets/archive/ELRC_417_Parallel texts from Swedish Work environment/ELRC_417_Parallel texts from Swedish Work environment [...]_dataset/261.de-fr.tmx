@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T125354Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="de">
+    <prop type="x-tucount">13</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="de">
+        <seg>Ausländische Unternehmen, die Arbeitnehmer zu einem länger als fünf Tage dauernden Einsatz nach Schweden entsenden, müssen diese Maßnahme dem schwedischen</seg>
+      </tuv>
+      <tuv xml:lang="fr">
+        <seg>Quelle que soit la forme de l’emploi, la situation antérieure, la nationalité ou l’ethnicité du travailleur, toute personne a les mêmes droits à un</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="de">
+        <seg>Die Meldung kann über www.av.se/posting erfolgen.</seg>
+      </tuv>
+      <tuv xml:lang="fr">
+        <seg>Déclaration des travailleurs détachés en Suède</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="de">
+        <seg>Auf dieser Internetseite finden sich auch sonstige Hinweise zur Entsendung nach Schweden oder zur Arbeitssicherheit in Arbeitsstätten.</seg>
+      </tuv>
+      <tuv xml:lang="fr">
+        <seg>Les entreprises étrangères qui détachent des employés en Suède pour y travailler plus de cinq jours sont tenues de déclarer ce détachement</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="de">
+        <seg>ein Recht auf einen sicheren und gesundheitlich zuträglichen Arbeitsplatz.</seg>
+      </tuv>
+      <tuv xml:lang="fr">
+        <seg>Pour déclarer des employés détachés, rendez- vous sur notre site www.av.se/posting</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="de">
+        <seg>Entsandte Arbeitnehmer sind Personen, die ihr Arbeitgeber zu einem befristeten Arbeitseinsatz in ein anderes Land schickt.</seg>
+      </tuv>
+      <tuv xml:lang="fr">
+        <seg>Vous y trouverez en outre d’autres renseignements sur le travail détaché et les questions de sécurité du travail en Suède. lieu de travail sécurisé et sans danger pour sa santé.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="de">
+        <seg>In Schweden unterliegen sie gleichwohl während der Dauer des Einsatzes hier bestimmten Vorschriften schwedischen Rechts und schwedischer Tarifverträge.</seg>
+      </tuv>
+      <tuv xml:lang="fr">
+        <seg>Un employé détaché est une personne que son employeur envoie dans un autre pays pour y travailler pendant une période limitée.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="de">
+        <seg>Arbeitnehmerrechte stehen ihnen auf folgenden Gebieten zu: Arbeitssicherheit/-hygiene, Mindestentgelt, bezahlter Urlaub, Regelungen der Arbeitszeiten, Schutz vor Diskriminierung am Arbeitsplatz und Elternurlaub.</seg>
+      </tuv>
+      <tuv xml:lang="fr">
+        <seg>Les domaines couverts par les employés détachés sont : l’environnement professionnel, les salaires minimum et les salaires de congés payés, ainsi que les règlements concernant les horaires de travail, la discrimination sur le lieu de travail et les congés parentaux.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="de">
+        <seg>Sonderregelungen indessen bestehen, je nach Umständen der Beschäftigung, bei Steuern und Sozialleistungen.</seg>
+      </tuv>
+      <tuv xml:lang="fr">
+        <seg>Pour en savoir plus, consultez le site www.av.se/posting à l’Office suédois de l’environnement du travail Arbetsmiljö- verket.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="de">
+        <seg>Diese Pflicht gilt für Untenehmen sowohl aus der EU als auch aus Nicht-EU-Staaten.</seg>
+      </tuv>
+      <tuv xml:lang="fr">
+        <seg>L’employeur est également tenu de désigner une personne de contact en Suède.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="de">
+        <seg>Das Zentralamt für das Arbeitsumfeld ist eine staatliche Behörde.</seg>
+      </tuv>
+      <tuv xml:lang="fr">
+        <seg>L’Office suédois de l’environnement du travail Arbetsmiljöverket est une agence gouvernementale.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="de">
+        <seg>Sie führt die Aufsicht über die Einhaltung der gesetzlichen Arbeitsbedingungen wie Arbeitsschutz und -hygiene oder Arbeitszeiten.</seg>
+      </tuv>
+      <tuv xml:lang="fr">
+        <seg>Notre mission est d’assurer que la législation sur l’environnement professionnel et les horaires de travail est respectée.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="de">
+        <seg>Schädliche Arbeitsbedingungen, oder Bedingungen im Widerspruch zu den geltenden Vorschriften sind zunächst dem Arbeitgeber zu melden.</seg>
+      </tuv>
+      <tuv xml:lang="fr">
+        <seg>Toute situation de travail dangereuse ou non-conforme aux lois et règlements doit être signalée en premier lieu à votre employeur.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="de">
+        <seg>Danach können sie auch dem zuständigen Sicherheitsbeauftragten oder direkt dem Zentralamt für das Arbeitsumfeld angezeigt werden.</seg>
+      </tuv>
+      <tuv xml:lang="fr">
+        <seg>Elle peut alors en outre faire l’objet d’un rapport au délégué à l’hygiène et sécurité du travail ou directement à nous, Arbetsmiljöverket.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

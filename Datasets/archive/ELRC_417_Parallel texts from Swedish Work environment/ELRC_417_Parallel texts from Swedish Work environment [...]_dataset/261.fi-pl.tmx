@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T130007Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="fi">
+    <prop type="x-tucount">61</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="fi">
+        <seg>Monet rakennuksilla työskentelevät altistuvat tapaturmille ja ammatti- taudeille.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Warunki pracy na placach budowy reguluje prawo oraz przepisy wydane przez Arbetsmiljöverket. W niniejszej broszurze przedstawiamy kilka podstawowych zasad.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="fi">
+        <seg>Rakennuksilla pudotaan, työskennellään väärissä työasennois- sa, nostetaan raskaita kuormia tai loukkaannutaan koneita käytettäessä.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Wszelkie prace przy budowie, przebudowie, reparacji, konserwacji lub wyburzaniu budynków, obiektów lub instalacji reguluje Ustawa BHP oraz przepisy budowlane ustanowione przez Arbetsmiljöverket.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="fi">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="fi">
+        <seg>Putoamisriskin vähentäminen</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Ograniczenie ryzyka upadku z wysokości</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="fi">
+        <seg>Suojakaiteiden on oltava:</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Balustrady ochronne powinny:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="fi">
+        <seg>lujia</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>być stabilne i wytrzymałe</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="fi">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="fi">
+        <seg>Joskus tarvitaan myös näkö- ja kuulosuojaimia sekä käsineitä.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Należy zawsze używać hełmów ochronnych i obuwia ochronnego. Czasami konieczne jest zastosowanie okularów, słuchawek i rękawic ochronnych.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="fi">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="fi">
+        <seg>Raskaat kuormat ja väärät työasennot rasittavat kehoa</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Podnoszenie ciężarów i nieodpowiednia pozycja ciała przy pracy obciążają organizm</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="fi">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="fi">
+        <seg>Ruotsin kemikaalilainsäädäntö</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Szwedzkie przepisy dotyczące substancji chemicznych</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="fi">
+        <seg>Ruotsista ostetuissa kemikaaleissa käyttöturvallisuustiedotteen tulee olla ruotsinkielinen.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Na placu budowy powinien być dostępny wykaz wszystkich szkodliwych produktów chemicznych. Leży to w obowiązku każdego pracodawcy.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="fi">
+        <seg>Tiettyjä vaarallisia kemikaaleja koskevat erityisen tiukat määräykset:</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Niektóre ze szkodliwych substancji podlegają szczególnie surowym przepisom:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="fi">
+        <seg>Luvan saanti edelyttää dokumentoitua erityiskoulutusta ja lääkärintodistuksen.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Do otrzymania zezwolenia niezbędne jest posiadanie udokumentowanego specjalnego wyszkolenia oraz zaświadczenie lekarskie.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="fi">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="fi">
+        <seg>Yhdystiet ja kuljetukset</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Połączenia między poziomami i transport materiałów</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="fi">
+        <seg>Rakennustyömaan ajoteillä on oltava riittävät turvaetäisyydet tai suojalaitteet.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Drogi dojazdowe na placu budowy powinny być położone w bezpiecznej odległości od stanowisk pracy lub odpowiednio odgrodzone i oznakowane.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="fi">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="fi">
+        <seg>Tästä vastaa toimittaja.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Instrukcje obsługi urządzeń dźwigowych, maszyn i innego sprzętu</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="fi">
+        <seg>ja tarkastus</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Oznakowanie CE, homologacja i inspekcja urządzeń dźwigowych, maszyn i innego sprzętu</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="fi">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="fi">
+        <seg>Muuta huomiotavaa…</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Co więcej ...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="fi">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="fi">
+        <seg>Jos jotakin tapahtuu</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Gdy zdarzy się wypadek</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="fi">
+        <seg>Työympäristösuunnitelma</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Plan organizacji warunków pracy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="fi">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="fi">
+        <seg>Suunnitelman on sisällettävä:</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Plan powinien składać się następujące części:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="fi">
+        <seg>Rakennustyömaalla sovellettavat säännöt</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Zasad, które będą stosowane na placu budowy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="fi">
+        <seg>Kuvaus rakennusympäristötyön organisoinnista</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Opisu sposobu organizacji warunków pracy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="fi">
+        <seg>Kuvaus niistä rakennusympäristötoimenpiteistä, joihin ryhdytään rakennusvaiheessa jotta rakennusympäristöstä tulisi hyvä.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Opisu odpowiednich środków, jakie zostaną podjęte podczas trwania bu dowy, w celu zapewnienia pracownikom dobrych warunków pracy. Dotyczy to między innymi następujących robót:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="fi">
+        <seg>Se koskee mm. seuraavia töitä:</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>prac na wysokości (ryzyko upadku)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="fi">
+        <seg>työskentelyä tiettyjen kemiallisten tai biologisten aineiden kanssa</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>prac z zastosowaniem szkodliwych substancji chemicznych lub biologicznych</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="fi">
+        <seg>työ korkeajännitejohtojen läheisyydessä</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>prac w sąsiedztwie przewodów wysokiego napięcia</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="fi">
+        <seg>työtä, johon sisältyy hukkumisriski</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>prac, które niosą ze sobą ryzyko utonięcia</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="fi">
+        <seg>työskentelyä kaivoissa ja tunneleissa</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>robót w studniach i tunelach</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="fi">
+        <seg>työskentelyä räjähdysaineiden kanssa</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>prac z zastosowaniem środków wybuchowych</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="fi">
+        <seg>työtä, jossa asennetaan raskaita rakennuselementtejä</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>prac przy montażu ciężkich elementów budowlanych</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="fi">
+        <seg>työskentelyä liikenteensekaisella alueella sekä kantavien rakenteiden tai terveydelle vaarallisten materiaalien tai aineiden purkamista.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>robót w miejscach lub na obszarach czynnego ruchu drogowego oraz przy wyburzaniu elementów nośnych konstrukcji budynków lub wyburzaniu obiektów zawierających szkodliwe dla zdrowia materiały lub substancje.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="fi">
+        <seg>Etukäteisilmoitus</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Zgłoszenie rozpoczęcia prac budowlanych</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="fi">
+        <seg>Rakennuttajan on myös jätettävä kopio ilmoituksesta rakennustyömaalle ja huolehtia sen ajantasaisuudesta.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Inwestor jest także odpowiedzialny za wywieszenie kopii niniejszego pisma na placu budowy oraz za jego nieustanną aktualizację.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="fi">
+        <seg>11</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="fi">
+        <seg>Suunnittelu ja tiedotus</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Planowanie i informacja</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="fi">
+        <seg>ehkäisevät putoamisia ja sortumisia</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Należy wybierać metody pracy i wyposażenie, które:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="fi">
+        <seg>Siksi säännölliset työsuojelukierrokset ovat erittäin tärkeitä.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Na placu budowy zachodzą nieustannie szybkie zmiany niosące ze sobą różne rodzaje ryzyka. Dlatego niezbędne są regularne obchody w celu kontroli bezpieczeństwa pracy.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="fi">
+        <seg>12</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="fi">
+        <seg>Kuka vastaa mistä?</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Kto i za co jest odpowiedzialny?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="fi">
+        <seg>Lisäksi rakennuttaja vastaa siitä, että rakennustyö koordinoidaan työympäristön kannalta ja nimeää tästä tehtävästä vastuullisen.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Oprócz tego inwestor odpowiada za to, aby organizacja wykonania prac budowlanych i instalacyjnych była zgodna z normami dobrego środowiska pracy, a w związku z tym za wyznaczenie koordynatora warunków pracy d.s. wykonania robót.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="fi">
+        <seg>Näin voidaan tehdä, jos tehtävä sisältää itsenäisen vastuun koko suunnittelusta ja projektoinnista ja/tai koko projektin toteuttamisesta, esimerkiksi yleis- tai kokonaisurakointiyrityk- sissa.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>W niektórych przypadkach inwestor może na mocy pisemnej umowy przekazać odpowiedzialność za organizację środowiska pracy wykonawcy, w zakresie tej części projektu, która została wykonawcy zlecona. Jest to możliwe w przypadkach, gdy jeden i ten sam wykonawca będzie odpowiedzialny za całokształt planowania i projektowania i/lub całkowite wykonanie projektu, np. w przypadku kontraktu „pod klucz” lub generalnego wykonawstwa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="fi">
+        <seg>Aliurakointitapauksissa rakennuttajan vastuuta ei voi siirtää.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>W przypadku wynajęcia wielu wykonawców odpowiedzialność inwestora za organizację środowiska pracy nie może zostać przekazana.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="fi">
+        <seg>Suunnittelusta ja projektoinnista vastaava rakennustyöympäristön koordinaattori vastaa työympäristösuunnitelman laadinnasta ja dokumentoinnista.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Koordynator warunków pracy d.s. planowania i projektowania jest odpowiedzialny za zaplanowanie części projektu dotyczącej środowiska pracy oraz za sporządzenie planu organizacji warunków pracy i z tym związanej dokumentacji.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="fi">
+        <seg>Suunnittelijat (arkkitehdit, konsultit ym) vastaavat myös oman toimenkuvansa puitteissa rakennuksen aikaisesta työympäristöstä projektia valmisteltaessa.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Projektanci (architekci, konsultanci, itd.) ponoszą w swoim zakresie odpowiedzialność za uwzględnienie już w fazie przygotowawczej niezbędnych środków bezpieczeństwa i organizacji pracy danego projektu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="fi">
+        <seg>13</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>13</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="fi">
+        <seg>Muiden samassa työpaikassa työskentelevien yritysten on ilmoitettava koordinaattorille työn suorittamisesta ja riskeistä, joita niiden oma toiminta voi aiheuttaa.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Koordynator warunków pracy d.s. wykonania robót jest odpowiedzialny za zorganizowanie wykonania robót w sposób zgodny z normami dobrego środowiska pracy, dopasowanie planu organizacji warunków pracy do rzeczywistych potrzeb oraz czuwanie nad tym, aby wykonanie robót przebiegało w sposób zgodny z normami dobrego środowiska pracy i wytycznymi planu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="fi">
+        <seg>Yksityisyrityttäjinä tai perheyrityksissä työskentelevät noudattavat raken- nustyössä käytännössä samoja määräyksiä, jotka koskevat työnantajaa ja työntekijä.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Każdy pracodawca ponosi główną odpowiedzialność za warunki pracy swoich własnych pracowników. Pracodawca jest w pełni odpowiedzialny za swoich pracowników niezależnie od odpowiedzialności, jaką jednocześnie ponoszą projektanci, producenci maszyn używanych podczas robót lub koordynatorzy warunków pracy.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="fi">
+        <seg>Kemiallisten aineiden valmistajilla ja maahantuojilla on sama vastuu.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Robotnicy budowlani powinni przyczynić się tworzenia dobrych warunków pracy poprzez przestrzeganie obowiązujących przepisów oraz stosowanie wyznaczonych środków bezpieczeństwa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="fi">
+        <seg>14</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>14</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="fi">
+        <seg>15</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="fi">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="fi">
+        <seg>Tel.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Tel. +46-(0)8-730 97 00</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="fi">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>ADI 539 Pol Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,2144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T125219Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="bg">
+    <prop type="x-tucount">267</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="bg">
+        <seg>Рискьт за злополуки се намалява и работата става по-ефективна.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bau- und Anlagenarbeiten</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="bg">
+        <seg>Ние инспектираме условията на труд на строителни работни площадки и можем, ако се налага да поставяме изисквания за вземане на мерки водещи до приемливи условия при работа.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Das Zentralamt hat die Aufgabe, die Arbeitsbedingungen auf den Baustellen zu überprüfen und kann bei Bedarf fordern, dass geeignete Maßnahmen zur Verbesserung und Sicherung des Arbeitsumfelds ergriffen werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="bg">
+        <seg>Ако се установят значителни рискове имаме право да забраним продьлжаване на дейността докато взети мерки за подобрение не бьдат изпълнени.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Sollten sich die Gefahren als zu hoch erweisen, hat das Schwedische Zentralamt für Arbeitsumwelt die Möglichkeit die Fortsetzung der Arbeiten zu untersagen, bis die entsprechenden Verbesserungsmaßnahmen durchgeführt worden sind.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="bg">
+        <seg>Такава забрана трябва да се подпише при врьчване, но подписа означава само квитанция, че е получен документьт с решението.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ein solches Verbot muss unterzeichnet werden, wobei die Unterschrift lediglich eine Quittung dafür ist, dass der Entscheid entgegengenommen wurde.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="bg">
+        <seg>Много строителни работници претърпяват трудови злополуки и професионални заболявания.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Viele Bauarbeiter verunglücken bei der Arbeit oder leiden an einer Berufskrankheit.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="bg">
+        <seg>Човек може да падне, да работи в неправилно положение, да прави тежки вдигания или да бьде наранен от машини.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Sie stürzen, nehmen falsche Körperhaltung bei der Arbeit ein, müssen schwer heben oder können sich an Maschinen schwer verletzen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="bg">
+        <seg>Лошото планиране и недостига на време повишават риска за злополуки.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Schlechte Planung und Zeitmangel erhöhen das Unfallrisiko.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="bg">
+        <seg>Извьршването на строителни дейности е урегулирано в законодателството и наредбите на Съвета за условия на труд.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die Gesetze und Vorschriften des Schwedischen Zentralamts für Arbeitsumwelt enthalten Anweisungen für die ordnungsgemäßen Abläufe von Bauarbeiten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="bg">
+        <seg>В тази брошура са отбелязани някои минимални изискквания.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Mit der vorliegenden Broschüre wird Ihnen ein Überblick über einige Mindestanforderungen zur Verfügung gestellt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="bg">
+        <seg>Работата по строеж, преустройство, ремонт, поддръжка или събаряне на сгради или обекти е урегулирана в Закона за условия на труда и наредбите касаещи строителство издадени от Съвета за условията на труд.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bau-, Änderungs-, Reparatur-, Wartungs- oder Abrissarbeiten an Gebäuden oder Anlagen fallen unter das schwedische Arbeitsschutzgesetz und die Bauvorschriften des Schwedischen Zentralamts für Arbeitsumwelt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="bg">
+        <seg>Шведските правила за условията на труд се отнасят и за работна сила от чужбина използвана в Швеция без значение дали ресурса е назначен от фирма извън страната, нает под наем от друг шведски работодател или работещ в собствена фирма.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Schwedische Arbeitsschutzvorschriften gelten auch für ausländische Arbeitskraft und es spielt dabei keine Rolle ob eine Anstellung in einem ausländischen Unternehmen, eine vorübergehende Beschäftigung durch ein schwedisches Unternehmen oder eine Tätigkeit als selbstständiger Unternehmer vorliegt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="bg">
+        <seg>Или с други думи както към собственика на фирма така и към назначените се прилагат првилата без да се взема предвид формата на назначение.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Diese Vorschriften richten sich sowohl an den Unternehmer als auch an seine Mitarbeiter, unabhängig von der Art der Beschäftigung.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="bg">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="bg">
+        <seg>Намаляване на риска от падане от високо</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Reduzierung der Sturzgefahr</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="bg">
+        <seg>Падане от високо е най-обикновената причина за смърт и злополуки на строителни работни обекти.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Stürze sind die häufigste Ursache von Todesfällen und Unfällen auf Baustellen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="bg">
+        <seg>Рискът за падане трябва да е предотвратяем.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Deshalb ist der Vorgesetzte verpflichtet sicherzustellen, dass die Sturzgefahr möglichst gering ist.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="bg">
+        <seg>Ако има разлика в нивата по-голяма от два метра по правило е необходима някаква форма за обезопасяване.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn der Abstand zwischen zwei Ebenen größer als zwei Meter ist, wird in der Regel eine Schutzvorrichtung vorgeschrieben.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="bg">
+        <seg>Предпазни парапети, работни платформи и кошове, скелета или подобни средства се използват на първо място.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>In erster Linie sollten Geländer, Arbeitsplattformen, Arbeitskörbe, Gerüste oder eine ähnliche Schutzvorrichtung benutzt werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="bg">
+        <seg>да са стабилно закачени</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Schutzgeländer müssen:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="bg">
+        <seg>Може да са изработени и по друг начин, но трябва да осигуряват най-малко еквивалентна защита.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Sie dürfen auch anders aussehen, müssen allerdings einen gleichwertigen Schutz bieten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="bg">
+        <seg>При работа на покрив обикновено трябва да има защитни парапети или друго оборудване, което осигурява съответното обезопасяване.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bei Arbeiten auf Dächern muss es normalerweise Schutzgeländer oder andere Vorrichtungen geben, die einen gleichwertigen Schutz bieten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="bg">
+        <seg>Ако не може да се инсталира стабилна защита трябва да се използва лично оборудване със защитни ремъци за обезопасяване от падане.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Das Geländer muss direkt an der Traufe oder an einem Gestell angebracht werden, das direkt unterhalb der Traufe aufhört.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="bg">
+        <seg>Колан през кръста може да причини големи наранявания и не трябва да се използва.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ein Leibriemen sollte allerdings nicht verwendet werden, da es zu schweren Schäden kommen kann.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="bg">
+        <seg>Въжето се връзва към някое стабилно съоръжение на покрива.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Das Sicherungsseil muss an einem Anschlagpunkt auf dem Dach angebracht werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="bg">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="bg">
+        <seg>При някои работи е добре да използва зашитна мрежа.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bei einigen Arbeiten empfiehlt es sich, ein Schutznetz zu verwenden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="bg">
+        <seg>Важно е компетентно лице да провери мрежата и монтирането и преди тя да се използва.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Dabei ist es wichtig, dass eine kompetente Person das Netz und die Installation vor der Benutzung überprüft.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="bg">
+        <seg>Ако някой трябва да работи повече от четири часа върху малка площ на покрив с наклон по-голям от 1:4, трябва работната площ да е хоризонтална.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn jemand mehr als vier Stunden auf einer kleinen Dachfläche arbeiten muss und das Dach außerdem eine Neigung von mehr als 1:4 hat, muss es eine horizontale Arbeitsfläche geben.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="bg">
+        <seg>Защитните каска и обувки обикновено трябва да се ползват.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Schutzhelme und Sicherheitsschuhe müssen unter normalen Umständen immer getragen werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="bg">
+        <seg>Понякога са необходими и защитни очила, шумозаглушителни наушници и ръкавици.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Manchmal werden zudem Schutzbrillen, Gehörschutz und Handschuhe benötigt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="bg">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="bg">
+        <seg>Тежки вдигания и неправилни положения при работа натоварват човешкото тяло</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Schwere Hebearbeiten und falsche Körperhaltung belasten den Körper</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="bg">
+        <seg>Работата в строителството често е тежка и натоварва човешкото тяло.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Das Arbeiten am Bau ist meistens schwer und belastet den Körper.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="bg">
+        <seg>Затова трябва да има оборудване за вдигане и транспортиране на строителен материал.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Deshalb ist es wichtig, dass es Hubvorrichtungen zum Transport des Baumaterials gibt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="bg">
+        <seg>Машините и инструментите трябва да са ергономично оформени.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Maschinen und Werkzeuge müssen ergonomisch gestaltet sein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="bg">
+        <seg>Да се работи на стълба по-дълго време не е добре за тялото.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Längere Arbeiten auf einer Leiter sind nicht gut für den Körper.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="bg">
+        <seg>Стъпването върху равна повърхност, което например се постига при ползване на вдигаемоспускаеми платформи, дава възможност за по-добра работна стойка на тялото.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Eine ebene Stehfläche, z. B. höhenverstellbare Plattformen, sorgt für eine bessere Körperhaltung.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="bg">
+        <seg>Мускулите на тялото трябва да могат да се възстановят след натоварване.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Einseitige Belastung der Muskeln können durch abwechslungsreiche Tätigkeiten vermieden werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="bg">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="bg">
+        <seg>Правила за химическите вещества в Швеция</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Vorschriften, die für chemische Mittel in Schweden gelten</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="bg">
+        <seg>В строителния бранш се използват много отровни, кансерогенни, разяждащи или алергопричиняващи вещества.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>In der Baubranche werden häufig giftige, krebserregende, ätzende und Allergien verursachende Stoffe benutzt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="bg">
+        <seg>Например бетон и хоросан съдържат цимент, който при продължителен контакт с кожата може да причини рани.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Beton, Mörtel und Putz enthalten zum Beispiel Zement, der bei längerem Hautkontakt zu Verätzungen führen kann.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="bg">
+        <seg>Дори строителния прах и фибрите от минерална вълна се считат за опасни, защото могат да повлияят на дихателните пътища при вдишване.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Andere Produkte mit oftmals gefährlichen Inhalten sind Klebestoffe, Farben, Zweikomponen- tenprodukte usw. Sowohl Baustaub als auch Mineralfasern gelten als gefährlich, da sie beim Einatmen die Atemwege nachteilig beeinflussen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="bg">
+        <seg>За химически продукти съдържащи едно или повече опасни вещества трябва има на работното място предоставената от доставчика информация за безопасност.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Für den Fall, dass chemische Mittel benutzt werden, die einen oder mehrere gefährliche Stoffe beinhalten, muss ein Sicherheitsdatenblatt des Herstellers am Arbeitsplatz vorliegen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="bg">
+        <seg>За продукти закупени в Швеция информацията за безопасност трябва да е на шведски.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Für in Schweden erworbene Produkte muss ein Sicherheitsdatenblatt in schwedischer Sprache vorhanden sein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="bg">
+        <seg>Предприятие, което вкарва в Швеция опасен химически продукт за собствена употреба, отговаря за наличието на писмена информация за рискове и безопасност на език, който ползуващите веществото разбират.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Unternehmen, die für den eigenen Gebrauch gefährliche chemische Produkte nach Schweden einführen, haben die Verantwortung dafür, dass es schriftliche Risiko- und Schutzin- formationen zu dem Produkt am Arbeitsplatz in einer Sprache gibt, die von den Anwendern verstanden wird.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="bg">
+        <seg>На строителните работни места трябва да има опис на всички опасни химически вещества.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Auf der Baustelle muss ein Verzeichnis über alle gefährlichen chemischen Produkte vorhanden sein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="bg">
+        <seg>Всеки отделен работодател носи отговорност за това.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Jeder Arbeitgeber trägt dafür die Verantwortung.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="bg">
+        <seg>Работодателят трябва да информира работниците за рисковете относно опасните химически продукти и да е наясно, че работниците са разбрали информацията.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Arbeitgeber hat die Aufgabe, den Arbeitnehmer über die Gefahren im Umgang mit gefährlichen chemischen Produkten aufzuklären und er/sie muss sicherstellen, dass der Arbeitnehmer die Informationen tatsächlich verstanden hat.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="bg">
+        <seg>За някои опасни вещества важат изключително строги правила:</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bei bestimmten gefährlichen Stoffen gelten ganz besonders strenge Vorschriften:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="bg">
+        <seg>Азбест: За боравене и премахване на азбест на предпиятието,което ще извършва работата е необходимо разрешително от Съвета за условия на труд.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Asbest: Für den Umgang mit und die Beseitigung von Asbest benötigt das beauftragte Unternehmen eine Genehmigung des Schwedischen Zentralamts für Arbeitsumwelt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="bg">
+        <seg>За получаване на разрешителнио е необходимо да се представят документ за специално обучение и медицинско свидетелство.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Vorraussetzung für eine Genehmigung ist eine dokumentierte Spezialausbildung und eine ärztliche Bescheinigung.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="bg">
+        <seg>Нарушаването на тези правила е наказуемо и може да доведе до много високи глоби.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Verstöße gegen diese Vorschriften sind strafbar und können zu hohen Bußgeldern führen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="bg">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="bg">
+        <seg>Маршрути за движение и транспортиране</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Verkehrswege und Materialtransporte</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="bg">
+        <seg>На строителните учстъци трябва да са подсигурени безопасни места за минаване като например стълбище или рампа между различни етажи.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Auf Baustellen müssen sichere Verkehrswege vorhanden sein, z. B. eine Treppe oder eine Rampe zwischen verschiedenen Ebenen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="bg">
+        <seg>При наличието на автомобилни пътища на работния учстък трябва да се подсигури достатъчно разстояние за безопасност или или да се поставят защитни съоръжения.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bei Höhenunterschieden von mehr als zehn Metern muss ein Aufzug zur Verfügung stehen, da der Arbeitnehmer ansonsten häufig Treppen steigen müsste.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="bg">
+        <seg>Транспортирането между различни етажи трябва да се извършва така, че да не е необходимо да се махат парапети или други обезопасителни съоръжения.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Materialtransporte zwischen verschiedenen Ebenen müssen ohne Beseitigung der Schutzgeländer oder anderer Schutzvorrichtungen durchführbar sein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="bg">
+        <seg>Ако това не е възможно, транспортът трябва да се извършва посредством приемателен мостик, товарни отвори във фасадата, рампи или специални транспортни системи.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Falls dies nicht möglich ist, müssen die Transporte über Aufnahmebrücken, Lade- öffnungen in Fassaden, Rampen oder besondere Förderanlagen erfolgen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="bg">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="bg">
+        <seg>Инструкции за работа с повдигащи устройства, машини и някои други продукти</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bedienungsanleitung für Hubvorrichtungen, Maschinen und bestimmte andere Produkte</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="bg">
+        <seg>Повдигащи устройства или машини трябва да са придружени при доставка и започване на работа в Швеция с писмени инструкции за работа с тях на шведски.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn eine Maschine oder eine Hubvorrichtung in Schweden angeliefert oder in Betrieb genommen wird, muss eine schriftliche Bedienungsanleitung auf Schwedisch beigefügt sein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="bg">
+        <seg>За това отговаря доставчика.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Hersteller trägt dafür die Verantwortung.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="bg">
+        <seg>За доставчик се счита и лице, което внася машина за ползване в Швеция.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Auch eine Person, die eine Maschine zum Einsatz nach Schweden einführt, gilt als Hersteller.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="bg">
+        <seg>Информация за необходимото съдържание на инструкциите може да се намери в наредбите за машини на Съвета за условия на труд.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Informationen über den erforderlichen Inhalt einer Bedienungsanleitung können den Maschinenvorschriften des Schwedischen Zentralamts für Arbeitsumwelt entnommen werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="bg">
+        <seg>Дори за префабрицирани скелета трябва да има инструкции на шведски при доставката и те трябва да са достъпни след това на работния участък.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Vorgefertigte Gerüste müssen bei Anlieferung auch mit einer schriftlichen Bedienungsanleitung auf Schwedisch ausgestattet sein, die dann am Arbeitsplatz zur Verfügung stehen muss.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="bg">
+        <seg>В наредбите на Съвета за условията на труд за скелета е отбелязано какво да е съдържанието на инструкциите.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Aus den Vorschriften des Schwedischen Zentralamts für Arbeitsumwelt zu Gerüsten geht hervor, was diese Anweisungen beinhalten müssen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="bg">
+        <seg>CE-маркировка, удостоверение за типово удобряване и технически преглед на повдигащи устройства, машини и някои други продукти</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>CE-Kennzeichnung, Typenzulassung und Überprüfung von Hubvorrichtungen, Maschinen und bestimmten anderen Produkten</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="bg">
+        <seg>Префабрицираните скелета и стълби трябва, ако се доставят в Швеция, да са типово удобрени (за стълби като алтернатива с издаден сертификат) от акредитиран орган.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Vor der Anlieferung in Schweden müssen vorgefertigte Gerüste und Leitern eine Typenzulassung, vorgefertigte Leitern können auch eine Zertifizierung, von einem anerkannten Organ erhalten haben.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="bg">
+        <seg>На много машини и повдигащи устройства трябва периодически да се прави контролен преглед за да може да се използват.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die meisten Maschinen und Hubvorrichtungen müssen regelmäßig überprüft werden, damit sie zum Einsatz kommen können.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="bg">
+        <seg>Наказуемо е да се използват машини и повдигащи устройства, ако не им е правен контролен преглед или посочени на преглед недостатъци не са отстранени.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Es ist strafbar, Maschinen und Hubvorrichtungen einzusetzen, wenn die Überprüfung nicht erfolgt ist oder wenn die nachgewiesenen Mängel nicht beseitigt worden sind.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="bg">
+        <seg>Контролният преглед трябва да е направен според шведските изисквания.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die Überprüfung sollte entsprechend der schwedischen Vorschriften erfolgen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="bg">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="bg">
+        <seg>Още нещо за което да се помисли...</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Und nicht vergessen...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="bg">
+        <seg>Сериозни злополуки могат да се случат, ако складиран строителен материал се задвижи поради например силен вятър.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn gelagertes Baumaterial in Bewegung versetzt wird, z. B. durch starken Wind, können schwere Unfälle geschehen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="bg">
+        <seg>Затова е важно материалите да се стабилизират.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Deshalb ist es wichtig, das Material zu stabilisieren.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="bg">
+        <seg>Понякога може да е необходимо и строителите да са предпазени от вятър и студ.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Manchmal kann zudem eine Schutzhütte gegen Wind und Kälte für die Bauarbeiter benötigt werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="bg">
+        <seg>Участъци, в които има риск за падащи предмети се ограждат и маркират.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bereiche, in denen Gefahr durch herabfallende Gegenstände besteht, müssen abgesperrt und gekennzeichnet werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="bg">
+        <seg>Ако все пак те трябва да се посещават е необходим обезопасяващ покрив.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn man sich dennoch dort aufhalten muss, soll ein Schutzdach angebracht sein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="bg">
+        <seg>Изкопните работи се планират така, че земната площ да не се излага на по-силен натиск от този, който може да понесе.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Erdarbeiten sind so zu planen, dass der Boden den Belastungen standhält.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="bg">
+        <seg>Ако е необходимо трябва да се обезопаси срещу свличане.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bei Bedarf müssen Maßnahmen zur Erhaltung der Standsicherheit des Erdreichs getroffen werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="bg">
+        <seg>Движението на МПС трябва да е на достатъяно разстояние от шахтите.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Fahrzeugverkehr muss einen angemessenen Abstand zu der Baugrube halten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="bg">
+        <seg>Минаването на МПС до работните участъци е риск.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Vorbeifahrender Verkehr stellt für die Arbeiter auf dem Bauplatz eine Gefahr dar.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="bg">
+        <seg>На първо място трябва движението да се отбие.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn möglich, muss der Fahrverkehr umgeleitet werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="bg">
+        <seg>Работещ на участък, който не е отделен от движението на МПС рябва да носи сигнално облекло с рефлекси.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wer an einem Platz arbeitet, wo die Umleitung des Fahrverkehrs nicht möglich ist, muss Warnkleidung, die mit gut sichtbaren Reflektoren ausgestattet sind, tragen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86">
+      <tuv xml:lang="bg">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87">
+      <tuv xml:lang="bg">
+        <seg>Ако нещо се случи</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn etwas passiert</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88">
+      <tuv xml:lang="bg">
+        <seg>Всички трябва бързо и сигурно да могат да напуснат работното място например при пожар.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Alle müssen schnell und sicher, z. B. bei einem Brand, den Arbeitsplatz verlassen können.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89">
+      <tuv xml:lang="bg">
+        <seg>Евакуационните пътища и местата за събиране трябва да са маркирани с табелки.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Fluchtwege und Sammelplätze müssen durch Schilder gekennzeichnet sein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90">
+      <tuv xml:lang="bg">
+        <seg>Вратите за евакуация трябва да се отварят навън и трябва да има лесен достъп до противопожарните уреди.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Fluchttüren und Notausgänge müssen nach außen zu öffnen sein und Feuerlöschgeräte müssen leicht zugänglich sein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91">
+      <tuv xml:lang="bg">
+        <seg>Обикновено те разбират английски.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Dies ist meistens auch auf Englisch möglich.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92">
+      <tuv xml:lang="bg">
+        <seg>Това се отнася например при работа със строителни режещи инструменти или при монтиране на скеле.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Dies trifft vor allem z. B. auf Arbeiten mit Bausägen oder beim Aufbau von Baugerüsten zu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93">
+      <tuv xml:lang="bg">
+        <seg>План за условията на труд</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Sicherheits- und Gesundheitsschutzplan</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94">
+      <tuv xml:lang="bg">
+        <seg>Преди да се открие строителния работен участък трябва да се изготви план за условията на труд за целия обект.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Bauherr hat schon vor Beginn der Bauarbeiten sicherzustellen, dass ein Sicherheits- und Gesundheitsschutzplan für das ganze Projekt erstellt wird.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95">
+      <tuv xml:lang="bg">
+        <seg>На първо място за изработката на такъв отговаря кординатора за планиране и проектиране на условията на труд на строежа.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Es ist in erster Linie die Aufgabe des Sicherheits- und Gesundheitsschutzkoordinators, der für die Planung und Ausführung eingesetzt wurde, dafür zu sorgen, dass ein Sicherheits- und Gesundheitsschutzplan erstellt wird.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96">
+      <tuv xml:lang="bg">
+        <seg>Строителния инвеститор или предприемач, който е поел отговорноста му отговаря и за изработването на плана.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Bauherr oder ein Auftragnehmer, der die Aufgaben des Bauherrn übernommen hat, ist auch verantwortlich für die Erstellung des Sicherheits- und Gesundheitsschutzplans.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97">
+      <tuv xml:lang="bg">
+        <seg>Целта е плана за условията на труд впоследствие да се използва през цялото времетраене на строежа.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Es wird vorausgesetzt, dass dieser Sicherheits- und Gesundheitsschutzplan dann während der ganzen Bauzeit verwendet wird.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98">
+      <tuv xml:lang="bg">
+        <seg>Ако строителните работи ще се извършват на място, където едновременно ще има и друга дейност, то това трябва да е съобразено в плана за условията на труд.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Außerdem trägt der Sicherheits- und Gesundheitsschutzkoordinator die Verantwortung dafür, dass der Sicherheits- und Gesundheitsschutzplan bei Bedarf veränderten Bedingungen angepasst wird.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99">
+      <tuv xml:lang="bg">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100">
+      <tuv xml:lang="bg">
+        <seg>Плана трябва да съдържа следното:</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Plan sollte Folgendes beinhalten:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="101">
+      <tuv xml:lang="bg">
+        <seg>Правилата, които ще се прилагат на строителния работен участък</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die auf dem Arbeitsplatz geltenden Vorschriften</seg>
+      </tuv>
+    </tu>
+    <tu tuid="102">
+      <tuv xml:lang="bg">
+        <seg>Описание как е организирана работата за условията на труд</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Eine Beschreibung, wie die Arbeitssicherheit organisiert wird</seg>
+      </tuv>
+    </tu>
+    <tu tuid="103">
+      <tuv xml:lang="bg">
+        <seg>Това касае между другото следните работни процеси:</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Dies trifft insbesondere auf folgende Arbeiten zu:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="104">
+      <tuv xml:lang="bg">
+        <seg>работа с риск от падане</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Arbeiten mit Absturzgefahr</seg>
+      </tuv>
+    </tu>
+    <tu tuid="105">
+      <tuv xml:lang="bg">
+        <seg>шахтьорска работа с риск от свличане</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ausschachtungsarbeiten mit Absturzgefahr</seg>
+      </tuv>
+    </tu>
+    <tu tuid="106">
+      <tuv xml:lang="bg">
+        <seg>работа с някои химически или биологически вещества</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Arbeiten mit bestimmten chemischen oder biologischen Stoffen</seg>
+      </tuv>
+    </tu>
+    <tu tuid="107">
+      <tuv xml:lang="bg">
+        <seg>работа в близост до проводници с високо напрежение</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Arbeiten in der Nähe von Hochspannungsleitungen</seg>
+      </tuv>
+    </tu>
+    <tu tuid="108">
+      <tuv xml:lang="bg">
+        <seg>работа при която има риск от удавяне</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Arbeiten, bei denen Ertrinkungsgefahr besteht</seg>
+      </tuv>
+    </tu>
+    <tu tuid="109">
+      <tuv xml:lang="bg">
+        <seg>работа в кладенци и тунели</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Arbeiten in Brunnen und Tunneln</seg>
+      </tuv>
+    </tu>
+    <tu tuid="110">
+      <tuv xml:lang="bg">
+        <seg>работа при която се използват взривни вещества</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Arbeiten, die den Einsatz von Sprengmitteln involvieren</seg>
+      </tuv>
+    </tu>
+    <tu tuid="111">
+      <tuv xml:lang="bg">
+        <seg>работа при монтаж на тежки строителни елементи работа на места или участъци с минаващи МПС и събаряне на носещи кострукции или премахване на опасни за здравето материали и вещества</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Arbeiten auf einem Platz oder in einem Bereich mit Durchgangsverkehr als auch der Abriss von tragenden Konstruktionen oder von Materialien oder Stoffen, die ein Gesundheitsrisiko darstellen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="112">
+      <tuv xml:lang="bg">
+        <seg>Строителния инвеститор ( с изключение при малки работи) трябва да представи на Съвета за условита на труд (в най-близкия участък) предварително уведомление преди работата да се започне , виж § 7 в наредбата.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Gemäß § 7 Arbeitsschutzvorschriften muss der Bauherr, außer wenn es sich um kleinere Arbeiten handelt, vor Beginn der Arbeit eine Voranmeldung (förhands- anmälan) an das Schwedische Zentralamt für Arbeitsumwelt (im nächstliegenden Bezirk) übermitteln.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="113">
+      <tuv xml:lang="bg">
+        <seg>Планиране и информация</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Planung und Informationen</seg>
+      </tuv>
+    </tu>
+    <tu tuid="114">
+      <tuv xml:lang="bg">
+        <seg>Всяка работа трябва да се планира и да се прецени навреме от гледна точка на рисковете за да може да се извърши сигурно.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Alle Arbeiten müssen rechtzeitig geplant und die Risiken frühzeitig beurteilt werden, damit die Arbeiten sicher ausgeführt werden können.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="115">
+      <tuv xml:lang="bg">
+        <seg>Трябва да се планират площи за временни помещения, работилници и складове, както и маршрути за движение и транспорти.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Platz für Schuppen, Werkstätten und Lagerstellen sowie für Arbeitswege und Materialtransporte müssen eingeplant werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="116">
+      <tuv xml:lang="bg">
+        <seg>Важно е да има решение с възможен достъп до всички работни места.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Es ist wichtig, den Zugang zu allen Arbeitsplätzen im Voraus sicherzustellen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="117">
+      <tuv xml:lang="bg">
+        <seg>Работата трябва да се планира така, че да няма сблъсъци с различните дейности по начин, който води до риск за здравето или до злополуки.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die Arbeiten müssen so geplant werden, dass es bei verschiedenen, gleichzeitig ausgeführten Arbeiten nicht zu einer Kollision kommt, die Gesundheitsfährdung oder Unfälle mit sich bringen könnte.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="118">
+      <tuv xml:lang="bg">
+        <seg>Трябва да се изберат методи на работа и оборудване, които:</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Es müssen Arbeitsverfahren und Geräte gewählt werden, die:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="119">
+      <tuv xml:lang="bg">
+        <seg>Работниците трябва да се информират за работата, какви мерки за условията на труд са взети или планирани и какви правила важат.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die Arbeitnehmer müssen über die Arbeiten, die durchgeführten oder geplanten Sicherheitsmaßnahmen sowie die geltenden Vorschriften informiert werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="120">
+      <tuv xml:lang="bg">
+        <seg>Те могат да имат нужда от специално обучение или инструкции за нови продукти и работни методи, които ще се използват.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Manchmal brauchen die Arbeitnehmer eine besondere Schulung, wenn beispielsweise neue Produkte oder Arbeitsverfahren eingeführt werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="121">
+      <tuv xml:lang="bg">
+        <seg>На строителните обекти стават постоянни и бързи промени с много рискове.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Auf einer Baustelle kommt es ständig zu schnellen Veränderungen, die viele Risiken mit sich bringen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="122">
+      <tuv xml:lang="bg">
+        <seg>Затова е важно да се правят редовни прегледи по охрана на труда.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Deshalb ist es wichtig, regelmäßige Sicherheitsbegehungen durchzuführen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="123">
+      <tuv xml:lang="bg">
+        <seg>12</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu tuid="124">
+      <tuv xml:lang="bg">
+        <seg>Кой за какво отговаря?</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wer ist wofür zuständig?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="125">
+      <tuv xml:lang="bg">
+        <seg>За да се създадат добри условия на труд на работното място в строителството е много важно да се води профилактична дейност за тях и всички участващи да носят своята отговорност.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Es ist äußerst wichtig, dass vorbeugende Arbeit in Bezug auf Sicherheit und Gesundheitsschutz am Arbeitsplatz geleistet wird und dass jeder Akteur Verantwortung für die Durchführung übernimmt, um ein schonendes und sicheres Arbeitsumfeld auf dem Bauarbeitsplatz zu erreichen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="126">
+      <tuv xml:lang="bg">
+        <seg>Освен това е важно всички страни да си сътрудничат и строителните работници да съдействат в работата за условията на труд.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Eine Voraussetzung dafür ist außerdem eine gute Zusammenarbeit zwischen den verschiedenen Akteuren und dass sich die Bauarbeiter an dieser Arbeit beteiligen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="127">
+      <tuv xml:lang="bg">
+        <seg>Лице, благодарение на което се позволява извършването на строителни дейности (строителен инвеститор) носи главната отговорност условията на труд по време на строежа да са взети под внимание при подготовката на строителния проект (планиране и проектиране).</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Derjenige, der die Bau- oder Anlagenarbeiten ausführen lässt (der Bauherr) trägt die Hauptverantwortung dafür, dass der Arbeitsschutz schon in der Planungsphase (Projektplan und Durchführungsplan) berücksichtigt wird.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="128">
+      <tuv xml:lang="bg">
+        <seg>Строителния инвеститор носи също отговорност за изработването на предварително уведомление, план за условията на труд, документация и има грижата да бъде определен координатор за условията на труд, който да се грижи за планиране и проектиране.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Bauherr ist zudem dafür verantwortlich, dass eine Voranmeldung vorliegt, ein Sicherheits- und Gesundheitsschutzplan sowie eine Dokumentation der Ergebnisse aufgestellt und dass ein Sicherheits- und Gesundheitsschutzkoordinator mit der Planung und Ausführung beauftragt wird.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="129">
+      <tuv xml:lang="bg">
+        <seg>Инвеститора освен това носи и отговорност строителния процес да се координира от гледна точка на условията на труд и за целта трябва да определи и координатор на строителните условия за извършване на строежа.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Darüber hinaus hat der Bauherr die Aufgabe, dass die Bau- und Anlagenarbei- ten hinsichtlich Sicherheit und Gesundheitsschutz abgestimmt werden und dass ein Sicherheits- und Gesundheitsschutzkoordinator mit der Überwachung der ordnungsgemäßen Abwicklung der Arbeiten beauftragt wird.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="130">
+      <tuv xml:lang="bg">
+        <seg>В някои случаи инвеститорът може посредством писмен договор да прехвърли своята отговорнаст за условията на труд на извършител за онази част от проекта, за която извършителят е нает.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>In gewissen Fällen kann der Bauherr, in Form eines schriftlichen Vertrages, die Koordinationsverantwortung für Sicherheit und Gesundheitsschutz an eines der Unternehmen übertragen, die an den Arbeiten auf der gemeinsamen Baustelle beteiligt sind.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="131">
+      <tuv xml:lang="bg">
+        <seg>Това може да се направи, ако задачата означава да се носи самостоятелна отговорност за цялото планиране и проектиране и/или за цялото извършване на проекта като напрмер при генерално или пълно предприемачество.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Dies kann jedoch nur dann geschehen, wenn der Bauauftrag die selbstständige Verantwortung für die gesamte Planung und Ausführung und/ oder die gesamte Abwicklung des Projektes durch, z. B. einen Total- oder Generalunternehmer, einschließt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="132">
+      <tuv xml:lang="bg">
+        <seg>При частично такова отговорността не може да се прехвърля.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bei getrennter Vergabe kann die Bauherrenverant- wortung nicht übergeben werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="133">
+      <tuv xml:lang="bg">
+        <seg>Кординатора за условията на труд отговарящ за планиране и проектиране трябва да кординира проектирането отнасящо се до условията на труд и да се погрижи за изработването на план за условията на труд и документация.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Sicherheits- und Gesundheitsschutzkoordinator, der mit der Planung und Ausführung beauftragt wurde, trägt die Verantwortung dafür, dass die Ausführung hinsichtlich Sicherheit und Gesundheitsschutz eingehalten wird und dass der Sicherheits- und Gesundheitsschutzplan sowie die Dokumentation der Ergebnisse erstellt wird.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="134">
+      <tuv xml:lang="bg">
+        <seg>13</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>13</seg>
+      </tuv>
+    </tu>
+    <tu tuid="135">
+      <tuv xml:lang="bg">
+        <seg>Координатора на строителните условия за извършване на строежа координира работата от гледна точка на условията на труд, пригажда плана за условията на труд към действителнотоизвършване на работата, контролира коректното извършване на дейността относно условията на труд и изпьлнението на плана за условията на труд.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Sicherheits- und Gesundheitsschutzkoordinator, der mit der Überwachung der ordnungsgemäßen Abwicklung der Arbeiten beauftragt wurde, ist dafür verantwortlich, dass die Bau- und Anlagenarbeiten hinsichtlich Sicherheit und Gesundheitsschutz abgestimmt werden, der Sicherheits- und Gesundheitsschutzplan an die tatsächliche Durchführung der Arbeiten angepasst wird, die Arbeiten hinsichtlich Sicherheit und Gesundheitsschutz auf korrekte Art und Weise ausgeführt werden und dass der Sicherheits- und Gesundheitsschutz- plan eingehalten wird.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="136">
+      <tuv xml:lang="bg">
+        <seg>Другите предприятия на общото работно място трябва да дават сведения на координатора на условията на труд при изпълнението на работатаси за изключителни рискове, които могат да възникнат при собствената им дейност.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die anderen Unternehmen auf der gemeinsamen Baustelle müssen den Sicherheits- und Gesundheitsschutzkoordinator, der mit der Überwachung der ordnungsgemäßen Abwicklung der Arbeiten beauftragt wurde, über die besonderen Risiken aufklären, die durch die jeweiligen Arbeiten entstehen können.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="137">
+      <tuv xml:lang="bg">
+        <seg>Всички работещи на общото работно място са длъжни да спазват правилата за ред и обезопасеност, които координатора на условията на труд определя.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Alle, die auf der Baustelle beschäftigt sind, müssen nach den Ordnungs- und Sicherheitsvorschriften, die der Sicherheits- und Gesundheitsschutzkoordinator aufgestellt, handeln.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="138">
+      <tuv xml:lang="bg">
+        <seg>Всеки работодател носи главна отговорност за условията на труд на своите работници.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Jeder Arbeitgeber trägt die Hauptverantwortung für das Arbeitsumfeld seiner Arbeitnehmer.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="139">
+      <tuv xml:lang="bg">
+        <seg>Отговорността на работодателя важи изцяло дори когато например се носи едновременно подобна такава от извършители на проектирането, производители на използвана в работния процес машина или координатор на строителните условия.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Dies gilt grundsätzlich, selbst wenn es gleichzeitig Teilverant- wortliche, wie beispielsweise das ausführende Unternehmen, den Hersteller von Maschinen, die bei der Arbeit benutzt werden oder die Person, die als Sicherheits- und Gesundheitsschutzkoordinator beauftragt wurde, gibt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="140">
+      <tuv xml:lang="bg">
+        <seg>Самостоятелно заетите лица и онези работещи във фамилни фирми без наети работници трябва да спазват общо погледнато същите правила при строителна дейност, които важат за работодатели и работници.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Alleinunternehmer und Mitarbeiter in Familienbetrieben ohne Angestellte müssen bei Bau- und Anlagenarbeiten im Prinzip dieselben Bestimmungen einhalten, die auch für Arbeitgeber und Arbeitnehmer gelten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="141">
+      <tuv xml:lang="bg">
+        <seg>Строителния работник трябва да съдейства в работата за условията на труд, да спазва съответните разпоредби и да използва съществуващите обезопасителни съоръжения.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bauarbeiter müssen sich an der Arbeit bezüglich Sicherheit und Gesundheitsschutz beteiligen, die geltenden Gesetze und Vorschriften einhalten und die vorgeschriebenen Schutzvorrichtungen benutzen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="142">
+      <tuv xml:lang="bg">
+        <seg>Отговорниците за охрана на труда представляват работниците по въпроси касаещи безопасността.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Sicherheitsbeauftragte vertritt die Arbeitnehmer in Bezug auf Arbeits- sicherheitsfragen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="143">
+      <tuv xml:lang="bg">
+        <seg>Ако някоя работна дейност означава непосредствена и сериозна опасност за живота или здравето и работодателя не отстрани незабавно риска, отговорникът за охрана на труда има право да прекрати работата в очакване на решение от страна на Съвета за охрана на труда.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn von einer Tätigkeit unmittelbare Gefahr für Leben und Gesundheit ausgeht und der Arbeitgeber nicht sofort die Gefahrenquelle beseitigt, hat der Sicherheitsbeauftragte das Recht die Arbeit zu unterbrechen, bis das Schwedische Zentralamt für Arbeitsumwelt hierzu eine Stellungnahme abgegeben hat.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="144">
+      <tuv xml:lang="bg">
+        <seg>14</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>14</seg>
+      </tuv>
+    </tu>
+    <tu tuid="145">
+      <tuv xml:lang="bg">
+        <seg>Производители, вносители или наемодатели на технически съоръжения имат отговорност продуктите им да са безопасни.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Hersteller, Importeure und Vermieter von technischen Geräten sind für die Sicherheit ihrer Produkte verantwortlich.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="146">
+      <tuv xml:lang="bg">
+        <seg>Производители и вносители на химически продукти и други вещества имат също подобна отговорност.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Hersteller und Importeure von chemischen Produkten oder anderen Stoffen haben im Prinzip die gleiche Verantwortung.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="147">
+      <tuv xml:lang="bg">
+        <seg>Производители, вносители и наемодатели трябва да предоставят и необходимата информация за продуктите си за предпазване от злополуки и нарушаване на здравето.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Hersteller, Importeure und Vermieter müssen Produktinformationen bereithalten, die für Gesundheitsvorsorge und Unfallverhütung am Arbeitsplatz benötigt werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="148">
+      <tuv xml:lang="bg">
+        <seg>В закона за условията на труд има и разпореждания за отговорност на лица, които наемат работна сила и лица, които се разпореждат на дадено работно място.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Für Firmen, die Arbeitskräfte anheuern, und für die Oberaufsicht einer Baustelle enthält das schwedische Arbeitsschutzgesetz besondere Vorschriften.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="149">
+      <tuv xml:lang="bg">
+        <seg>15</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu tuid="150">
+      <tuv xml:lang="bg">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="151">
+      <tuv xml:lang="bg">
+        <seg>Swedish Work Environment Authority, publication services, 112 79 Stockholm.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Swedish Work Environment Authority, publication services, 112 79 Stockholm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="152">
+      <tuv xml:lang="bg">
+        <seg>+46-(0)8-730 97 00</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Tel. +46-(0)8-730 97 00</seg>
+      </tuv>
+    </tu>
+    <tu tuid="153">
+      <tuv xml:lang="bg">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="154">
+      <tuv xml:lang="bg">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+    </tu>
+    <tu tuid="155">
+      <tuv xml:lang="bg">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+    </tu>
+    <tu tuid="156">
+      <tuv xml:lang="bg">
+        <seg>ADI 539 Bul Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>ADI 539 Tys Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+    </tu>
+    <tu tuid="157">
+      <tuv xml:lang="bg">
+        <seg>Настоящото е информационна брошура от Ведомството за работната среда за онези, които искат да работят като берачи на горски плодове в Швеция.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Dies ist eine Informationsbroschüre des Schwedischen Zentralamtes für Arbeitsumwelt (Arbetsmiljöverket) für alle, die als Beerenpflücker in Schweden arbeiten möchten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="158">
+      <tuv xml:lang="bg">
+        <seg>Ведомството за работната среда е държавният орган, който контролира спазването и изпълнението на Закона за работната среда, Закона за работно време и другите правила за условията на труд на шведските работни места.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Das Zentralamt für Arbeitsumwelt ist die staatliche Behörde die überprüft, dass die Arbeitsumweltgesetze, das Arbeitszeit- gesetz und aller anderen Vorschriften für die Arbeitsumwelt auf schwedischen Arbeitsplätzen befolgt werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="159">
+      <tuv xml:lang="bg">
+        <seg>Ние разра- ботваме също така правила и разпространяваме информация за микросредата и безопасността на работните места.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wir erstellen auch Regeln und informieren zum Thema Arbeitsumwelt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="160">
+      <tuv xml:lang="bg">
+        <seg>Освен това, Ведомството за работната среда е бюрото за свръзка по въпросите на изпращане на работа/командироване и дислокация.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Das Zentralamt für Arbeitsumwelt ist außerdem Koordinationsbüro für Entsendungsfragen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="161">
+      <tuv xml:lang="bg">
+        <seg>Това означава между другото, че ние предоставяме информация относно онова, което се отнася до чуждестранните работници, които работят временно в Швеция.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Das bedeutet unter anderem, dass wir über die Bedingungen informieren, die für im Ausland angestellte Arbeitnehmer gelten, die vorübergehend in Schweden arbeiten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="162">
+      <tuv xml:lang="bg">
+        <seg>В настоящата брошура можете да прочетете правилата за пребиваване и разрешенията за работа, за работната среда, работното време, за минималната работна заплата и др. п. в Швеция, валидни през 2010 година.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>In dieser Broschüre erfahren Sie etwas über die Regeln, die in Schweden in Bezug auf Arbeits- und Aufenthaltsgenehmigung, Arbeitsumwelt, Arbeitszeit, Mindestlohn und anderes im Jahr 2010 gelten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="163">
+      <tuv xml:lang="bg">
+        <seg>Начиная от летния сезон 2010 Миграционното ведомство ще разглежда заявките за разрешителни за работа на берачите на горски плодове по същия начин, както относно всяко друго заявление за разрешително за работа.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ab der Saison 2010 wird das Schwedische Migrationsamt (Migrationsverket) alle Anträge auf Arbeitsgenehmigung für Pflücker wilder Beeren genauso prüfen wie alle anderen Anträge auf Arbeitsgenehmigung.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="164">
+      <tuv xml:lang="bg">
+        <seg>Какво означава това, можете да прочетете повече по-долу.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Näheres dazu im Nachfolgenden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="165">
+      <tuv xml:lang="bg">
+        <seg>За тези, които искат да работят като берачи на горски плодове в Швеция</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>An alle, die als Beerenpflücker in Schweden arbeiten möchten</seg>
+      </tuv>
+    </tu>
+    <tu tuid="166">
+      <tuv xml:lang="bg">
+        <seg>Ако искате да работите като берачи на горски плодове в Швеция и не идвате от страна на ЕС, обикновено трябва да имате разрешително за работа.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn Sie als Beerenpflücker in Schweden arbeiten möchten und nicht aus einem EU-Land kommen, brauchen Sie in der Regel eine Arbeitsgenehmigung.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="167">
+      <tuv xml:lang="bg">
+        <seg>В повечето случаи, гражданите на страни извън ЕС се нуждаят и от виза за пребиваване Швеция.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Staatsangehörige aus Ländern außerhalb der EU brauchen meistens auch ein Visum für den Aufenthalt in Schweden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="168">
+      <tuv xml:lang="bg">
+        <seg>Ако ще работите в Швеция за повече от три месеца, се нуждаете освен от разрешение за работа, и от разрешение за пребиваване в страната.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Falls Sie länger als drei Monate in Schweden arbeiten möchten, brauchen Sie außer der Arbeitsgenehmigung auch eine Aufenthaltsgenehmigung.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="169">
+      <tuv xml:lang="bg">
+        <seg>Имиграционните власти, в лицето на Миграционното ведомство, отговарят за правилата за разрешителни за работа и пребиваване.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Das Schwedische Migrationsamt ist für die Regeln in Bezug auf Arbeits- und Aufenthaltsgenehmigungen zuständig.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="170">
+      <tuv xml:lang="bg">
+        <seg>Вие трябва да кандидатствате за разрешение преди да отпътувате за Швеция.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die Genehmigungen müssen vor Ihrer Abreise nach Schweden beantragt werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="171">
+      <tuv xml:lang="bg">
+        <seg>Можете да кандидатствате за пребиваване и работа на уебсайта на Миграционното ведомство, www.migrationsverket.se.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Aufenthalts- und Arbeitsgenehmigungen können im Internet auf der Webseite des Migrationsamtes www.migrationsverket.se beantragt werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="172">
+      <tuv xml:lang="bg">
+        <seg>Ако искате да работите в Швеция за по-малко време от три месеца и се нуждаете от виза за влизане в Швеция, трябва да подадете молбата си за разрешително за работа в шведско посолство или консулство.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn Sie weniger als drei Monate in Schweden arbeiten möchten und ein Visum für die Einreise in Schweden benötigen,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="173">
+      <tuv xml:lang="bg">
+        <seg>Какво се изисква за получаване на разрешително за работа?</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Welches sind die Bedingungen für den Erhalt einer Arbeitsgenehmigung?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="174">
+      <tuv xml:lang="bg">
+        <seg>За да получите необходимото разрешително се налага</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Dies sind die Voraussetzungen:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="175">
+      <tuv xml:lang="bg">
+        <seg>да имате валиден паспорт;</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Sie müssen einen gültigen Pass haben,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="176">
+      <tuv xml:lang="bg">
+        <seg>да можете да се издържате от работата, работата да е от такава величина, че заплатата да е поне 13 000 шв. крони месечно (вижте обаче точка 5);</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die Arbeit ist so umfangreich, dass der Lohn mindestens 13 000 SEK im Monat beträgt (beachten Sie jedoch Punkt 5),</seg>
+      </tuv>
+    </tu>
+    <tu tuid="177">
+      <tuv xml:lang="bg">
+        <seg>Вашият работодател да е дал обявление за работата в Швеция и Европейския съюз в продължение на най-малко десет дни (при набирането на нов персонал),</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ihr Arbeitgeber hat das Stellenangebot mindestens zehn Tage lang in Schweden und der EU ausgeschrieben (bei Neueinstellungen),</seg>
+      </tuv>
+    </tu>
+    <tu tuid="178">
+      <tuv xml:lang="bg">
+        <seg>Вашият работодател предлага работни условия, които са в съответствие с шведските колективни трудови договори или онова, което е прието като норма в съответната професия или отрасъл (виж по-долу),</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ihr Arbeitgeber bietet Anstellungsbedingungen, die den Normen schwedischer Tarifverträge oder sonstigen Berufs- oder Branchenstandards entsprechen (Näheres siehe unten)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="179">
+      <tuv xml:lang="bg">
+        <seg>Какви условия за наемане на работа важат по шведските колективни трудови договори за берачите на горски плодове?</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Welche Anstellungsbedingungen gelten nach dem schwedischen Tarifvertrag für Beerenpflücker?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="180">
+      <tuv xml:lang="bg">
+        <seg>Ако Ви се плаща на час, договорът съдържа и информация за минималната ставка на дължимото часово заплащане.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Für den Fall, dass Sie Stundenlohn bekommen, enthält der Vertrag auch Angaben über Mindeststundenlöhne.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="181">
+      <tuv xml:lang="bg">
+        <seg>Ако сте служител, назначен на чужда компания, която няма дейност в Швеция, например, агенция за осигуряване на персонал, валиден ще бъде договора за работа.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn Sie von einem ausländischen Unternehmen angestellt sind, das nicht in Schweden tätig ist, zum Beispiel von einem Zeitarbeitsunternehmen, gilt der Tarifvertrag für Dienstleistungsunternehmen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="182">
+      <tuv xml:lang="bg">
+        <seg>Един берач на горски плодове трябва значи да печели поне минималната работна заплата по шведския колективен трудов договор.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ein Beerenpflücker soll in Schweden mindestens den tariflich vereinbarten Mindestlohn verdienen</seg>
+      </tuv>
+    </tu>
+    <tu tuid="183">
+      <tuv xml:lang="bg">
+        <seg>Ако Вашият работодател е подписал споразумение с шведския Съюз на Общинските работници, споразумението важи в неговата цялост.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn Ihr Arbeitgeber Kommunal einen Tarifvertrag getroffen hat, gilt dieser Vertrag in vollem Umfang.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="184">
+      <tuv xml:lang="bg">
+        <seg>Тя се предлага преведена на няколко различни езици.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die Broschüre gibt es in mehreren Sprachen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="185">
+      <tuv xml:lang="bg">
+        <seg>Как да берем плодове, без да сме назначени на работа</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Beeren pflücken, ohne angestellt zu sein</seg>
+      </tuv>
+    </tu>
+    <tu tuid="186">
+      <tuv xml:lang="bg">
+        <seg>Възможно е тези, които са получили виза за посещение на роднини да берат плодове в качеството си на частни лица.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Personen, die ein Visum bekommen haben, um Verwandte zu besuchen, ist es erlaubt als Privatperson Beeren zu pflücken.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="187">
+      <tuv xml:lang="bg">
+        <seg>Постъпленията/приходите от беритбата на плодове не се облагат с такси или данъци до размер 12 500 шв. крони на човек годишно.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Für Privatpersonen ist ein Verdienst für das Beerenpflücken von bis zu 12 500 SEK pro Person und Jahr steuerfrei.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="188">
+      <tuv xml:lang="bg">
+        <seg>За физическите лица важат правилата за получаване на визи.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Für Privatpersonen gelten Visumbestimmungen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="189">
+      <tuv xml:lang="bg">
+        <seg>Информация за визовия режим има на уебсайта на Миграционното ведомство.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Informationen über Visumbestimmungen finden Sie auf der Webseite des Migrationsamtes.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="190">
+      <tuv xml:lang="bg">
+        <seg>Работна среда и работно време</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Arbeitsumwelt und Arbeitszeit</seg>
+      </tuv>
+    </tu>
+    <tu tuid="191">
+      <tuv xml:lang="bg">
+        <seg>Вашият работодател трябва да съблюдават правилата на шведския Закон за работната среда, подзаконовите правила за работната среда органа и работното време, издадени от Ведомството за работната среда за времето, през което ще работите в Швеция.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>In der Zeit, in der Sie in Schweden arbeiten, muss Ihr Arbeitgeber die Bestimmungen des schwedischen Arbeitsum- weltgesetzes, die Vorschriften des schwedischen Amtes für Arbeitsumwelt und des Arbeitszeitgesetzes befolgen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="192">
+      <tuv xml:lang="bg">
+        <seg>В Закона за работната среда се съдържат правила относно задълженията на работодателите и други служители по обезопасяването за предотвратяване на заболявания и трудовите злополуки.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Das Arbeitsumweltgesetz beinhaltet Regeln über die Verpflichtung der Arbeitgeber und anderer Sicherheitsver- antwortlicher, gesundheitlichen Gefahren und Unfällen bei der Arbeit vorzubeugen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="193">
+      <tuv xml:lang="bg">
+        <seg>В работната среда се включва всичко, от факта, че машините и оборудването трябва да отговарят на изискванията за безопасност, които са им наложени, до това нивото на стреса да не е твърде високо.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Umwelt umfasst alles - angefangen bei der Verantwortung für Maschinen und Geräte, die den Sicherheitsanforderungen entsprechen müssen, bis hin zur Verantwortung, dass der Stresspegel nicht zu hoch ist.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="194">
+      <tuv xml:lang="bg">
+        <seg>Законът за работното време съдържа правила за това, колко можете да работите на ден, на седмица и на година.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Das Arbeitszeitgesetz beinhaltet Regeln zur Arbeitszeit pro Tag, pro Woche und pro Jahr.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="195">
+      <tuv xml:lang="bg">
+        <seg>Вие например, имате право на отпуск най-малко 11 после- до-вателни часа за всеки период от 24 часа.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Sie haben zum Beispiel Anspruch auf eine ununterbrochene Ruhezeit von mindestens 11 Stunden innerhalb eines Zeitraums von 24 Stunden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="196">
+      <tuv xml:lang="bg">
+        <seg>Това се нарича дневна почивка.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Das ist die tägliche Ruhezeit.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="197">
+      <tuv xml:lang="bg">
+        <seg>Стандартната работна седмица не може да надвишава 40 часа седмично.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die normale Arbeitszeit darf nicht über 40 Stunden pro Woche liegen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="198">
+      <tuv xml:lang="bg">
+        <seg>Когато е необходимо, тя може да се състои от средно 40 часа седмично в рамките на един период от четири седмици.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn es erforderlich ist, darf die Arbeitszeit in einem Zeitraum von vier Wochen durchschnittlich 40 Stunden pro Woche betragen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="199">
+      <tuv xml:lang="bg">
+        <seg>Това означава, че е възможно да се работи повече по време на няколко седмици и по-малко по време на други.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Es ist also möglich, während einiger Wochen mehr zu arbeiten und während anderer weniger.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="200">
+      <tuv xml:lang="bg">
+        <seg>Обикновено трябва да работите по 8 часа на ден.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Normalerweise arbeiten Sie 8 Stunden pro Tag.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="201">
+      <tuv xml:lang="bg">
+        <seg>Когато има особена нужда, можете да работите извънредно, но не повече от 48 часа в продължение на четири седмици или 50 часа в продължение на един календарен месец.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Im Bedarfsfall dürfen Sie in einem Zeitraum von vier Wochen höchstens 48 Überstunden oder während eines Kalendermonats 50 Überstunden leisten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="202">
+      <tuv xml:lang="bg">
+        <seg>Извънредният труд не може да надвишава 200 часа за една календарна година.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Während eines Kalenderjahres dürfen höchstens 200 Überstunden geleistet werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="203">
+      <tuv xml:lang="bg">
+        <seg>Ведомството за работната среда носи отговорност за това работодателите да спазват правилата съгласно Закона за работната среда и Закона за работното време.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Das Schwedische Zentralamt für Arbeitsumwelt hat dafür zu sorgen, dass Arbeitgeber die Regeln des Arbeitsumwelt- gesetzes und des Arbeitszeitgesetzes befolgen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="204">
+      <tuv xml:lang="bg">
+        <seg>Инспекторите на Ведомството посещават различни работни места и контролират дали работодателите спазват законите.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die Inspektoren des Amtes besuchen verschiedene Arbeitsplätze und kontrollieren, dass die Arbeitgeber die Gesetze befolgen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="205">
+      <tuv xml:lang="bg">
+        <seg>Ако разпоредбите на Закона за работната среда не се спазват, може например изпълнението на някои задачи да бъде забранено.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bei Verstößen gegen das Arbeitsumweltgesetz können beispielsweise bestimmte Arbeitsaufgaben verboten werden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="206">
+      <tuv xml:lang="bg">
+        <seg>Ако мислите, че Вашият работодател нарушава правилата, свържете се с Ведомството за работната среда.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn Sie glauben, dass Ihr Arbeitgeber gegen die Bestimmungen verstößt, wenden Sie sich bitte an das Zentralamt für Arbeitsumwelt (Arbetsmiljöverket).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="207">
+      <tuv xml:lang="bg">
+        <seg>Законът за работното време може да бъде дерогиран по силата на споразумение чрез колективно договаряне.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Dieser hat regionale Arbeitsschutzbeauftragte, die überwachen, dass die Arbeitsumwelt gut ist.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="208">
+      <tuv xml:lang="bg">
+        <seg>Тогава Ведомството не може и да разреши изключения от някои правила на закона.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ein Tarifvertrag kann das Gesetz ganz oder teilweise ersetzen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="209">
+      <tuv xml:lang="bg">
+        <seg>Ако се разболеете</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn Sie krank werden</seg>
+      </tuv>
+    </tu>
+    <tu tuid="210">
+      <tuv xml:lang="bg">
+        <seg>В шведската система за социално осигуряване има привилегии, базиращи се на работа, така например платен отпуск по болест и по майчинство или бащинство, които се основават на факта дали имате работа.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Das schwedische Sozialversicherungssystem beinhaltet arbeitsbasierte Leistungen, zum Beispiel Krankengeld und Elterngeld, die darauf aufbauen, dass Sie eine Arbeit haben.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="211">
+      <tuv xml:lang="bg">
+        <seg>Освен това има и привилегии, които се базират на основата на пребиваване в страната.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Es gibt auch wohnbasierte Leistungen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="212">
+      <tuv xml:lang="bg">
+        <seg>Хората, които работят само временно в Швеция обикновено не се обхващат от тези обезщететителни привилегии.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Für Personen, die nur vorübergehend in Schweden arbeiten, kommen diese Leistungen meistens nicht in Frage.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="213">
+      <tuv xml:lang="bg">
+        <seg>Ако работите в Швеция, като изпратен тук и нает на работа от агенцията за осигуряване на персонал в собствената Ви страна, то вие сте осигурени в собствената си страна.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn Sie nach Schweden entsandt worden sind, das heißt, wenn Sie bei einem Zeitarbeitsunternehmen in Ihrer Heimat angestellt sind, sind Sie in Ihrer Heimat versichert.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="214">
+      <tuv xml:lang="bg">
+        <seg>Ако вместо това сте назначен от шведски работодател, шведското социално осигуряване ще се отнася за Вас, поне по отношение на привилегиите базирани на работа/ заетост.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn Sie stattdessen bei einem schwedischen Arbeitgeber angestellt sind, soll die schwedische Sozialversicherung für Sie gelten, das gilt jedenfalls für die arbeitsbasierten Leistungen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="215">
+      <tuv xml:lang="bg">
+        <seg>Ако ще пребивавате в Швеция за по-малко от една година, се счита, че нямате место-пребиваване в Швеция и не можете да ползвате привилегиите, базирани на основата на пребиваване.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn Sie sich weniger als ein Jahr in Schweden aufhalten, gelten Sie nicht als wohnhaft in Schweden und können die wohnbasierten Leistungen nicht beziehen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="216">
+      <tuv xml:lang="bg">
+        <seg>Берачи на горски плодове, които идват от друга държава на ЕС се обхващат от специални правила, което означава, че те могат да имат право на привилегии, както на основата на пребиваване, така и базирани на работа, ако работят само в Швеция.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Für Beerenpflücker aus einem anderen EU-Land gelten besondere Regeln die bedeuten, dass sie ein Recht sowohl auf wohnbasierte als auch auf arbeitsbasierte Leistungen haben können, wenn sie ausnahmslos in Schweden arbeiten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="217">
+      <tuv xml:lang="bg">
+        <seg>Шведското управление за социално осигуряване решава дали едно лице е осигурено в Швеция и има право на привилегии и обезщетение.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Es ist Sache der schwedischen Versicherungskasse (Försäkringskassan) zu beschließen, ob eine Person in Schweden versichert ist und Anspruch auf Leistungen hat.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="218">
+      <tuv xml:lang="bg">
+        <seg>Прочетете повече на уебсайта на Управлението за обществено осигуряване, www.forsakringskassan.se.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die Anmeldung hat keinen Einfluss auf eventuelle Leistungsansprüche.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="219">
+      <tuv xml:lang="bg">
+        <seg>Трябва ли да плащате данък в Швеция?</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Müssen Sie in Schweden Steuern zahlen?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="220">
+      <tuv xml:lang="bg">
+        <seg>Доходите са без такси и данъци, при условие, че работата не превишава 183 дни за период от една година.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Unter der Voraussetzung, dass die Arbeit in einem Jahr nicht länger als 183 Tage dauert, sind Einkommen steuerfrei.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="221">
+      <tuv xml:lang="bg">
+        <seg>В тази връзка, обаче, съществуват също изисквания и към работодателя.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Es werden jedoch Ansprüche an den Arbeitgeber gestellt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="222">
+      <tuv xml:lang="bg">
+        <seg>За да може да се приложи изключението за освобождаване от данъци, трябва работодателят да няма място за стопанска дейност в Швеция.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Damit die Ausnahme gelten kann, darf der Arbeitgeber keine feste Betriebsstelle in Schweden haben.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="223">
+      <tuv xml:lang="bg">
+        <seg>Постоянно място за стопанска дейност могат да бъдат офис, фабрика или нещо подобно.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Eine feste Betriebsstelle kann ein Büro, eine Fabrik oder Ähnliches sein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="224">
+      <tuv xml:lang="bg">
+        <seg>Ако Вашият работодател има място за стопанска дейност в Швеция, е наложително Ние да заплащате специален данък общ доход, наречен СИНК (SINK), при положение че останете в Швеция за повече от шест месеца.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn Ihr Arbeitgeber eine feste Betriebsstelle in Schweden hat müssen Sie, vorausgesetzt, dass Sie höchstens sechs Monate in Schweden bleiben, eine besondere Einkommensteuer bezahlen, die so genannte SINK.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="225">
+      <tuv xml:lang="bg">
+        <seg>Данъчната ставка е 25 процента.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Der Steuersatz beträgt 25 Prozent.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="226">
+      <tuv xml:lang="bg">
+        <seg>След шест месеца вие се считате за данъчно пребиваващ в Швеция и следва да заплатщате данък в съответствие с обичайните правила.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Nach sechs Monaten gelten Sie steuermä- ßig als wohnhaft in Schweden und werden dann nach den üblichen Regeln besteuert.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="227">
+      <tuv xml:lang="bg">
+        <seg>Това може да бъде приложено и в случаите, когато престоят Ви в Швеция се повтаря.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Dieser Fall kann auch eintreten, wenn Sie wiederholt nach Schweden kommen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="228">
+      <tuv xml:lang="bg">
+        <seg>Изпращане или командироване на работа и дислокация</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Entsendung</seg>
+      </tuv>
+    </tu>
+    <tu tuid="229">
+      <tuv xml:lang="bg">
+        <seg>Специални разпоредби в шведското законодателство се прилагат, в случаите когато сте изпратени/командировани на работа, тоест, ако Вашият работодател в родната Ви страна, Ви изпрати в Швеция на временна работа тук.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Das schwedische Recht enthält besondere Bestimmungen für Personen, die entsandt wurden, das heißt, wenn Ihr Arbeitgeber in Ihrer Heimat Sie nach Schweden schickt, um hier vorübergehend zu arbeiten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="230">
+      <tuv xml:lang="bg">
+        <seg>Ако например, Вие сте назначен от агенция за наемане на работна сила в родната си страна и тя Ви изпрати в Швеция, за да работите тук в продължение на няколко месеца, Вие се считате за командирован на работа.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn Sie zum Beispiel bei einem Zeitarbeitsunternehmen in Ihrer Heimat angestellt sind und nach Schweden geschickt werden, um hier einige Monate zu arbeiten, sind Sie entsandt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="231">
+      <tuv xml:lang="bg">
+        <seg>За командированите работници важат например разпоредби за почивка/отпуска и отпуск по майчинство.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Für entsandte Mitarbeiter gelten beispielsweise Bestimmungen für Urlaub und Mutterschaftsurlaub.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="232">
+      <tuv xml:lang="bg">
+        <seg>Ведомството за работната среда е т. нар. служба за връзка по въпросите на изпращане/командировки и дислокация и може да предостави информация за това, с какви права разполагате.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Das Zentralamt für Arbeitsumwelt (Arbetsmiljöverket) ist das so genannte Koordinationsbüro für Entsendungsfragen und kann Sie über Ihre Rechte informieren.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="233">
+      <tuv xml:lang="bg">
+        <seg>Прочетете повече по въпросите на изпращане и командировки на сайта www.posting.se.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Näheres über Entsendung finden auf der Webseite www.posting.se.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="234">
+      <tuv xml:lang="bg">
+        <seg>workinginsweden.se</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Workinginsweden.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="235">
+      <tuv xml:lang="bg">
+        <seg>На сайта на Шведския институт, www.sweden.se и на www.workinginsweden.se, ще намерите повече информация за Швеция и за това как се работи тук.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Auf den Webseiten des Schwedischen Instituts, www.sweden.se und www.workinginsweden.se, finden Sie weitere Informationen über Schweden und über die Arbeit in Schweden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="236">
+      <tuv xml:lang="bg">
+        <seg>Изпращане или командироване на работа и дислокация</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Entsendung</seg>
+      </tuv>
+    </tu>
+    <tu tuid="237">
+      <tuv xml:lang="bg">
+        <seg>Специални разпоредби в шведското законодателство се прилагат, в случаите когато сте изпратени/командировани на работа, тоест, ако Вашият работодател в родната Ви страна, Ви изпрати в Швеция на временна работа тук.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Das schwedische Recht enthält besondere Bestimmungen für Personen, die entsandt wurden, das heißt, wenn Ihr Arbeitgeber in Ihrer Heimat Sie nach Schweden schickt, um hier vorübergehend zu arbeiten.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="238">
+      <tuv xml:lang="bg">
+        <seg>Ако например, Вие сте назначен от агенция за наемане на работна сила в родната си страна и тя Ви изпрати в Швеция, за да работите тук в продължение на няколко месеца, Вие се считате за командирован на работа.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wenn Sie zum Beispiel bei einem Zeitarbeitsunternehmen in Ihrer Heimat angestellt sind und nach Schweden geschickt werden, um hier einige Monate zu arbeiten, sind Sie entsandt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="239">
+      <tuv xml:lang="bg">
+        <seg>За командированите работници важат например разпоредби за почивка/отпуска и отпуск по майчинство.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Für entsandte Mitarbeiter gelten beispielsweise Bestimmungen für Urlaub und Mutterschaftsurlaub.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="240">
+      <tuv xml:lang="bg">
+        <seg>Ведомството за работната среда е т. нар. служба за връзка по въпросите на изпращане/командировки и дислокация и може да предостави информация за това, с какви права разполагате.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Das Zentralamt für Arbeitsumwelt (Arbetsmiljöverket) ist das so genannte Koordinationsbüro für Entsendungsfragen und kann Sie über Ihre Rechte informieren.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="241">
+      <tuv xml:lang="bg">
+        <seg>Прочетете повече по въпросите на изпращане и командировки на сайта www.posting.se.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Näheres über Entsendung finden auf der Webseite www.posting.se.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="242">
+      <tuv xml:lang="bg">
+        <seg>workinginsweden.se</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Workinginsweden.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="243">
+      <tuv xml:lang="bg">
+        <seg>На сайта на Шведския институт, www.sweden.se и на www.workinginsweden.se, ще намерите повече информация за Швеция и за това как се работи тук.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Auf den Webseiten des Schwedischen Instituts, www.sweden.se und www.workinginsweden.se, finden Sie weitere Informationen über Schweden und über die Arbeit in Schweden.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="244">
+      <tuv xml:lang="bg">
+        <seg>За повече информация вижте сайта на Данъчното ведомство, www.skatteverket.se.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Näheres dazu erfahren Sie auf der Webseite der Versicherungskasse, www.forsakringskassan.se.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="245">
+      <tuv xml:lang="bg">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="246">
+      <tuv xml:lang="bg">
+        <seg>Swedish Work Environment Authority, publicationservices, 112 79 Stockholm.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Swedish Work Environment Authority, publicationservices, 112 79 Stockholm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="247">
+      <tuv xml:lang="bg">
+        <seg>+46-(0)8-730 97 00</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Tel. +46-(0)8-730 97 00</seg>
+      </tuv>
+    </tu>
+    <tu tuid="248">
+      <tuv xml:lang="bg">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se ADI 653 Bul</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se ADI 653 Tys</seg>
+      </tuv>
+    </tu>
+    <tu tuid="249">
+      <tuv xml:lang="bg">
+        <seg>Информация за контакти</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Kontaktangaben:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="250">
+      <tuv xml:lang="bg">
+        <seg>Ведомството за работната среда</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Amt für Arbeitsumwelt</seg>
+      </tuv>
+    </tu>
+    <tu tuid="251">
+      <tuv xml:lang="bg">
+        <seg>Tfn: +46-(0)8-730 90 00 www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Tfn: +46-(0)8-730 90 00 www.av.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="252">
+      <tuv xml:lang="bg">
+        <seg>Противопожарната служба</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Feuerwehr</seg>
+      </tuv>
+    </tu>
+    <tu tuid="253">
+      <tuv xml:lang="bg">
+        <seg>Tfn: 112</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Tfn: 112</seg>
+      </tuv>
+    </tu>
+    <tu tuid="254">
+      <tuv xml:lang="bg">
+        <seg>Tfn: +46-(0)498-200 700 Tfn: +46-(0)771-524 524 www.forsakringskassan.se</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Versicherungskasse Tfn: +46-(0)498-200 700 Tfn: +46-(0)771-524 524 www.forsakringskassan.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="255">
+      <tuv xml:lang="bg">
+        <seg>Полицията</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Polizei</seg>
+      </tuv>
+    </tu>
+    <tu tuid="256">
+      <tuv xml:lang="bg">
+        <seg>Tfn: 112 (emergency),</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Tfn: 112 (emergency),</seg>
+      </tuv>
+    </tu>
+    <tu tuid="257">
+      <tuv xml:lang="bg">
+        <seg>Tfn: +46-(0)77-114 14 00 (non-emergency) www.polisen.se</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Tfn: +46-(0)77-114 14 00 (non-emergency) www.polisen.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="258">
+      <tuv xml:lang="bg">
+        <seg>Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+    </tu>
+    <tu tuid="259">
+      <tuv xml:lang="bg">
+        <seg>Комунал - професионалния съюз на общинските работници</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Kommunalarbeiterverband</seg>
+      </tuv>
+    </tu>
+    <tu tuid="260">
+      <tuv xml:lang="bg">
+        <seg>Tfn: +46-(0)10-442 70 00 www.kommunal.se</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Tfn: +46-(0)10-442 70 00 www.kommunal.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="261">
+      <tuv xml:lang="bg">
+        <seg>Данъчното ведомство</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Steuerbehörde</seg>
+      </tuv>
+    </tu>
+    <tu tuid="262">
+      <tuv xml:lang="bg">
+        <seg>Tfn: +46-(0)771-778 778 www.skatteverket.se</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Tfn: +46-(0)771-778 778 www.skatteverket.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="263">
+      <tuv xml:lang="bg">
+        <seg>SOS Аларма</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Notruf</seg>
+      </tuv>
+    </tu>
+    <tu tuid="264">
+      <tuv xml:lang="bg">
+        <seg>Tfn: 112 www.sosalarm.se</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Tfn: 112 www.sosalarm.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="265">
+      <tuv xml:lang="bg">
+        <seg>Шведският институт www.sweden.se</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Schwedisches Institut www.sweden.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="266">
+      <tuv xml:lang="bg">
+        <seg>Министерството на външните работи</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Außenministerium</seg>
+      </tuv>
+    </tu>
+    <tu tuid="267">
+      <tuv xml:lang="bg">
+        <seg>Tfn: +46-(0)8-405 10 00 www.regeringen.se www.sweden.gov.se</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Tfn: +46-(0)8-405 10 00 www.regeringen.se www.sweden.gov.se</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

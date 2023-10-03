@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T130018Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="fr">
+    <prop type="x-tucount">15</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="fr">
+        <seg>Quelle que soit la forme de l’emploi, la situation antérieure, la nationalité ou l’ethnicité du travailleur, toute personne a les mêmes droits à un</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Indiferent de forma de angajare sau de condiția, naționalitatea sau etnicitatea lucrătorului, fiecare are același drept la un loc de muncă sigur și sănătos.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="fr">
+        <seg>Déclaration des travailleurs détachés en Suède</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Raportarea lucrătorilor detașați în Suedia</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="fr">
+        <seg>Les entreprises étrangères qui détachent des employés en Suède pour y travailler plus de cinq jours sont tenues de déclarer ce détachement</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Companiile străine care-și detașează angajați să lucreze în Suedia pentru mai mult de cinci zile sunt obligați să r aporteze detașarea la Autori-</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="fr">
+        <seg>Un employé détaché est une personne que son employeur envoie dans un autre pays pour y travailler pendant une période limitée.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Un lucrător detașat este o persoană care este trimisă în altă țară de către angajatorul său pentru a lucra pe o perioadă limitată.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="fr">
+        <seg>Un employé détaché est couvert par certaines dispositions de la législation suédoise et des conventions collectives pendant sa période d’emploi effectuée en Suède.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Un lucrător detașat este acoperit de anumite prevederi ale legii și acordurilor colective de muncă suedeze în timpul perioadei de angajare a acestuia/acesteia în Suedia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="fr">
+        <seg>Les domaines couverts par les employés détachés sont : l’environnement professionnel, les salaires minimum et les salaires de congés payés, ainsi que les règlements concernant les horaires de travail, la discrimination sur le lieu de travail et les congés parentaux.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Domeniile acoperite de drepturile lucrătorilor detașați sunt: mediul de muncă, salariile minime și concediul plătit și reglementările referitoare la orele de lucru, discriminarea la locul de muncă și concediul patern/matern.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="fr">
+        <seg>En ce qui concerne les impôts et les avantages sociaux, les règlements concernant les travailleurs étrangers diffèrent selon leur situation.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Cu privire la impozitele și ajutoarele sociale, există reglementări diferite pentru lucrătorii străini, în funcție de situația lor.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="fr">
+        <seg>Pour en savoir plus, consultez le site www.av.se/posting à l’Office suédois de l’environnement du travail Arbetsmiljö- verket.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Mai multe informații pot fi găsite la pagina de webb www.av.se/posting tatea Mediului de Muncă din Suedia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="fr">
+        <seg>Cette obligation s’applique aux employeurs des pays appartenant ou non à l’Union européenne.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Această obligație se aplică angajatorilor străinii atât din cât și din afara UE.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="fr">
+        <seg>L’employeur est également tenu de désigner une personne de contact en Suède.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Angajatorul este de asemenea obligat să desemneze o persoană de contact person în Suedia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="fr">
+        <seg>Cette personne doit être en mesure de présenter des documents attestant que la législation concernant le détachement de travailleurs en Suède est respectée, par exemple l’existence d’un contrat de travail en cours de validité.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Această persoană trebuie să aibă posibilitatea să prezinte documentație care dovedește că legile care acoperă detașarea în Suedia sunt respectate - de exemplu un contract de angajare valabil.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="fr">
+        <seg>L’Office suédois de l’environnement du travail Arbetsmiljöverket est une agence gouvernementale.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Autoritatea Mediului de Muncă din Suedia este o agenție guvernamentală.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="fr">
+        <seg>Notre mission est d’assurer que la législation sur l’environnement professionnel et les horaires de travail est respectée.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Noi asigurăm respectarea legislație referitoare la condițiile de muncă și orele de lucru.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="fr">
+        <seg>Toute situation de travail dangereuse ou non-conforme aux lois et règlements doit être signalée en premier lieu à votre employeur.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Condiții periculoase de muncă sau condiții de muncă care nu corespund cu legile și regulamentele, ar trebui raportate în primul rând angajatorului.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="fr">
+        <seg>Elle peut alors en outre faire l’objet d’un rapport au délégué à l’hygiène et sécurité du travail ou directement à nous, Arbetsmiljöverket.</seg>
+      </tuv>
+      <tuv xml:lang="ro">
+        <seg>Ele mai pot fi raportate la inspectorul de siguranță sau direct la noi la Autoritatea Mediului de Muncă din Suedia.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

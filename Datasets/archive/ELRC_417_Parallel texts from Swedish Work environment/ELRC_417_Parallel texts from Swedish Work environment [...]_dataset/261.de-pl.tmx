@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T125417Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="de">
+    <prop type="x-tucount">110</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="de">
+        <seg>Die Meldung kann über www.av.se/posting erfolgen.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Zgłaszanie pracowników delegowanych w Szwecji</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="de">
+        <seg>ein Recht auf einen sicheren und gesundheitlich zuträglichen Arbeitsplatz.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Przedsiębiorstwa zagraniczne delegujące pracowników do Szwecji na okres przekraczający pięć dni mają obowiązek</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="de">
+        <seg>Danach können sie auch dem zuständigen Sicherheitsbeauftragten oder direkt dem Zentralamt für das Arbeitsumfeld angezeigt werden.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Informacje na temat niebezpiecznych warunków pracy lub warunków pracy niespełniających przepisów ustawowych i wykonawczych powinny być zgłaszane przede wszystkim pracodawcy. Można je także zgłaszać specjalistom ds. bezpieczeństwa lub bezpośrednio do Szwedzkiego Urzędu ds. Bezpieczeństwa i Higieny Pracy.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="de">
+        <seg>Das Zentralamt hat die Aufgabe, die Arbeitsbedingungen auf den Baustellen zu überprüfen und kann bei Bedarf fordern, dass geeignete Maßnahmen zur Verbesserung und Sicherung des Arbeitsumfelds ergriffen werden.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Dobre środowisko pracy opłaca się wszystkim. Spada ryzyko wypadków i rośnie wydajność pracy. “Arbetsmiljöverket” to państwowy, szwedzki urząd d.s. kontroli środowiska pracy. Urząd ten przeprowadza kontrole warunków pracy na budowach i jeśli zajdzie taka potrzeba, może on wymagać podjęcia kroków prowadzących do ich polepszenia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="de">
+        <seg>Sollten sich die Gefahren als zu hoch erweisen, hat das Schwedische Zentralamt für Arbeitsumwelt die Möglichkeit die Fortsetzung der Arbeiten zu untersagen, bis die entsprechenden Verbesserungsmaßnahmen durchgeführt worden sind.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>W przypadku, gdy ryzyko wypadków jest zbyt duże, urząd ten może zabronić dalszych prac budowlanych aż do momentu poprawy warunków pracy. Taki zakaz należy podpisać, ale sam podpis oznacza tylko pokwitowanie przyjęcia decyzji o zakazie.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="de">
+        <seg>Die Gesetze und Vorschriften des Schwedischen Zentralamts für Arbeitsumwelt enthalten Anweisungen für die ordnungsgemäßen Abläufe von Bauarbeiten.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Warunki pracy na placach budowy reguluje prawo oraz przepisy wydane przez Arbetsmiljöverket. W niniejszej broszurze przedstawiamy kilka podstawowych zasad.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="de">
+        <seg>Schwedische Arbeitsschutzvorschriften gelten auch für ausländische Arbeitskraft und es spielt dabei keine Rolle ob eine Anstellung in einem ausländischen Unternehmen, eine vorübergehende Beschäftigung durch ein schwedisches Unternehmen oder eine Tätigkeit als selbstständiger Unternehmer vorliegt.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Szwedzkie przepisy BHP obowiązują cudzoziemskich robotników zatrudnionych w Szwecji, niezależnie od tego czy są oni zatrudnieni w zagranicznej firmie, wynajęci przez szwedzkiego pracodawcę czy pracują we własnej firmie. A zatem dotyczą one zarówno samego przedsiębiorcy jak i jego pracowników, niezależnie od rodzaju zatrudnienia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="de">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="de">
+        <seg>Reduzierung der Sturzgefahr</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Ograniczenie ryzyka upadku z wysokości</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="de">
+        <seg>In erster Linie sollten Geländer, Arbeitsplattformen, Arbeitskörbe, Gerüste oder eine ähnliche Schutzvorrichtung benutzt werden.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Upadek z wysokości to najczęstsza przyczyna wypadków ciężkich lub śmiertelnych na placach budowy.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="de">
+        <seg>Schutzgeländer müssen:</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Balustrady ochronne powinny:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="de">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="de">
+        <seg>Es kann die Gefahr bestehen, dass Oberflächen betreten werden, die keine ausreichende Tragfähigkeit haben – in solchen Fällen müssen die Flächen abgesperrt werden.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Powierzchnie, których wytrzymałość nie zapewnia bezpiecznego przebywania na nich pracowników należy odgrodzić. Jeżeli praca na takich powierzchniach jest jednak konieczna, należy zastosować specjalne środki ochrony.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="de">
+        <seg>Dabei ist es wichtig, dass eine kompetente Person das Netz und die Installation vor der Benutzung überprüft.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Przy wykonywaniu niektórych prac konieczne będzie zastosowanie siatki ochronnej. Przed rozpoczęciem użytkowania stan techniczny siatki i sposób jej zamontowania powinien zostać sprawdzony przez kompetentną osobę.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="de">
+        <seg>Schutzhelme und Sicherheitsschuhe müssen unter normalen Umständen immer getragen werden.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Należy zawsze używać hełmów ochronnych i obuwia ochronnego. Czasami konieczne jest zastosowanie okularów, słuchawek i rękawic ochronnych.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="de">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="de">
+        <seg>Schwere Hebearbeiten und falsche Körperhaltung belasten den Körper</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Podnoszenie ciężarów i nieodpowiednia pozycja ciała przy pracy obciążają organizm</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="de">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="de">
+        <seg>Vorschriften, die für chemische Mittel in Schweden gelten</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Szwedzkie przepisy dotyczące substancji chemicznych</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="de">
+        <seg>Für in Schweden erworbene Produkte muss ein Sicherheitsdatenblatt in schwedischer Sprache vorhanden sein.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Na placu budowy powinien być dostępny wykaz wszystkich szkodliwych produktów chemicznych. Leży to w obowiązku każdego pracodawcy.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="de">
+        <seg>Auf der Baustelle muss ein Verzeichnis über alle gefährlichen chemischen Produkte vorhanden sein.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Pracodawca powinien poinformować pracowników o zagrożeniach, jakie niosą ze sobą szkodliwe produkty chemiczne oraz powinien on upewnić się, że pracownicy zrozumieli te informacje.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="de">
+        <seg>Jeder Arbeitgeber trägt dafür die Verantwortung.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Niektóre ze szkodliwych substancji podlegają szczególnie surowym przepisom:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="de">
+        <seg>Der Arbeitgeber hat die Aufgabe, den Arbeitnehmer über die Gefahren im Umgang mit gefährlichen chemischen Produkten aufzuklären und er/sie muss sicherstellen, dass der Arbeitnehmer die Informationen tatsächlich verstanden hat.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Azbest: Dokonywanie wyburzania obiektów i pozbycia się gruzu, w którym znajduje się azbest nie jest możliwe bez zezwolenia Arbetsmiljöverket.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="de">
+        <seg>Bei bestimmten gefährlichen Stoffen gelten ganz besonders strenge Vorschriften:</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Do otrzymania zezwolenia niezbędne jest posiadanie udokumentowanego specjalnego wyszkolenia oraz zaświadczenie lekarskie.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="de">
+        <seg>Asbest: Für den Umgang mit und die Beseitigung von Asbest benötigt das beauftragte Unternehmen eine Genehmigung des Schwedischen Zentralamts für Arbeitsumwelt.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Termoutwardzalne tworzywa sztuczne: Nawet przed przystąpieniem do pracy z termoutwardzalnymi tworzywami (takimi jak pianka do uszczelniania zawierająca izocyjaniny, klej Epoxy, farba Epoxy, itp.) wymagane jest badanie lekarskie i szkolenie.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="de">
+        <seg>Verstöße gegen diese Vorschriften sind strafbar und können zu hohen Bußgeldern führen.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Złamanie powyższych przepisów jest karalne i podlega wysokiej karze grzywny.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="de">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="de">
+        <seg>Verkehrswege und Materialtransporte</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Połączenia między poziomami i transport materiałów</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="de">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="de">
+        <seg>Bedienungsanleitung für Hubvorrichtungen, Maschinen und bestimmte andere Produkte</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Instrukcje obsługi urządzeń dźwigowych, maszyn i innego sprzętu</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="de">
+        <seg>Diese Anweisungen müssen zudem in einer Sprache verfasst sein, die der Arbeitnehmer versteht.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Pracownicy posługujący się w swojej pracy maszynami, urządzeniami dźwigowymi, rusztowaniami, itp. powinni mieć dostęp do instrukcji obsługi powyższych urządzeń. Instrukcje te powinny być dostępne w języku, którym mówią pracownicy.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="de">
+        <seg>CE-Kennzeichnung, Typenzulassung und Überprüfung von Hubvorrichtungen, Maschinen und bestimmten anderen Produkten</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Oznakowanie CE, homologacja i inspekcja urządzeń dźwigowych, maszyn i innego sprzętu</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="de">
+        <seg>Vor der Anlieferung in Schweden müssen vorgefertigte Gerüste und Leitern eine Typenzulassung, vorgefertigte Leitern können auch eine Zertifizierung, von einem anerkannten Organ erhalten haben.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Nowe maszyny i urządzenia dźwigowe, które mają być dopuszczone do użytku w Szwecji, powinny ogólnie rzecz biorąc posiadać oznakowanie CE. Prefabrykaty rusztowań i drabin, które będą dostarczane do Szwecji, powinny być zbadane i oznakowane (a drabiny certyfikowane) przez upoważniony do tego urząd.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="de">
+        <seg>Die meisten Maschinen und Hubvorrichtungen müssen regelmäßig überprüft werden, damit sie zum Einsatz kommen können.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Dopuszczenie wielu maszyn i urządzeń dźwigowych do użytku wymaga periodycznych inspekcji. Używanie maszyn i urządzeń dźwigowych, które nie zostały poddane inspekcji, lub których wady nie zostały naprawione jest karalne. Inspekcji dokonuje się według szwedzkich norm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="de">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="de">
+        <seg>Und nicht vergessen...</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Co więcej ...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="de">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="de">
+        <seg>Wenn etwas passiert</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Gdy zdarzy się wypadek</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="de">
+        <seg>Sicherheits- und Gesundheitsschutzplan</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Plan organizacji warunków pracy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="de">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="de">
+        <seg>Der Plan sollte Folgendes beinhalten:</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Plan powinien składać się następujące części:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="de">
+        <seg>Die auf dem Arbeitsplatz geltenden Vorschriften</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Zasad, które będą stosowane na placu budowy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="de">
+        <seg>Eine Beschreibung, wie die Arbeitssicherheit organisiert wird</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Opisu sposobu organizacji warunków pracy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="de">
+        <seg>Eine Beschreibung der Arbeitsschutzmaßnahmen, die während der Bauzeit getroffen werden, um ein sicheres Arbeitsumfeld zu gewährleisten.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Opisu odpowiednich środków, jakie zostaną podjęte podczas trwania bu dowy, w celu zapewnienia pracownikom dobrych warunków pracy. Dotyczy to między innymi następujących robót:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="de">
+        <seg>Arbeiten mit Absturzgefahr</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>prac na wysokości (ryzyko upadku)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="de">
+        <seg>Ausschachtungsarbeiten mit Absturzgefahr</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>robót ziemnych (ryzyko zawalenia ścian wykopu)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="de">
+        <seg>Arbeiten in der Nähe von Hochspannungsleitungen</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>prac w sąsiedztwie przewodów wysokiego napięcia</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="de">
+        <seg>Arbeiten, bei denen Ertrinkungsgefahr besteht</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>prac, które niosą ze sobą ryzyko utonięcia</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="de">
+        <seg>Arbeiten in Brunnen und Tunneln</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>robót w studniach i tunelach</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="de">
+        <seg>Arbeiten, die die Montage schwerer Bauelemente enthalten</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Zgłoszenie rozpoczęcia prac budowlanych</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="de">
+        <seg>Arbeiten auf einem Platz oder in einem Bereich mit Durchgangsverkehr als auch der Abriss von tragenden Konstruktionen oder von Materialien oder Stoffen, die ein Gesundheitsrisiko darstellen.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Przed rozpoczęciem prac budowlanych (z wyjątkiem małych projektów) inwestor jest zobowiązany złożyć do najbliższego okręgowego urzędu Arbetsmiljöverket pismo zgłaszające rozpoczęcie planowanego projektu (zobacz w § 7 przepisów).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="de">
+        <seg>11</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="de">
+        <seg>Die Arbeitnehmer müssen über die Arbeiten, die durchgeführten oder geplanten Sicherheitsmaßnahmen sowie die geltenden Vorschriften informiert werden.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Na placu budowy zachodzą nieustannie szybkie zmiany niosące ze sobą różne rodzaje ryzyka. Dlatego niezbędne są regularne obchody w celu kontroli bezpieczeństwa pracy.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="de">
+        <seg>12</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="de">
+        <seg>Wer ist wofür zuständig?</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Kto i za co jest odpowiedzialny?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="de">
+        <seg>Es ist äußerst wichtig, dass vorbeugende Arbeit in Bezug auf Sicherheit und Gesundheitsschutz am Arbeitsplatz geleistet wird und dass jeder Akteur Verantwortung für die Durchführung übernimmt, um ein schonendes und sicheres Arbeitsumfeld auf dem Bauarbeitsplatz zu erreichen.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Zleceniodawca prac budowlanych lub instalacyjnych (inwestor) ponosi główną odpowiedzialność za uwzględnienie już w fazie przygotowawczej (planowanie i projektowanie) niezbędnych środków bezpieczeństwa i organizacji pracy danego projektu. W gestii inwestora leży także zgłoszenie rozpoczęcia prac budowlanych w odpowiednim urzędzie, sporządzenie planu organizacji warunków pracy i odpowiedniej dokumentacji oraz wyznaczenie koordynatora warunków pracy d.s. planowania i projektowania.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="de">
+        <seg>Eine Voraussetzung dafür ist außerdem eine gute Zusammenarbeit zwischen den verschiedenen Akteuren und dass sich die Bauarbeiter an dieser Arbeit beteiligen.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Oprócz tego inwestor odpowiada za to, aby organizacja wykonania prac budowlanych i instalacyjnych była zgodna z normami dobrego środowiska pracy, a w związku z tym za wyznaczenie koordynatora warunków pracy d.s. wykonania robót.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="de">
+        <seg>Bei getrennter Vergabe kann die Bauherrenverant- wortung nicht übergeben werden.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>W przypadku wynajęcia wielu wykonawców odpowiedzialność inwestora za organizację środowiska pracy nie może zostać przekazana.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="de">
+        <seg>Alle, die auf der Baustelle beschäftigt sind, müssen nach den Ordnungs- und Sicherheitsvorschriften, die der Sicherheits- und Gesundheitsschutzkoordinator aufgestellt, handeln.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Koordynator warunków pracy d.s. planowania i projektowania jest odpowiedzialny za zaplanowanie części projektu dotyczącej środowiska pracy oraz za sporządzenie planu organizacji warunków pracy i z tym związanej dokumentacji.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="de">
+        <seg>Dies gilt grundsätzlich, selbst wenn es gleichzeitig Teilverant- wortliche, wie beispielsweise das ausführende Unternehmen, den Hersteller von Maschinen, die bei der Arbeit benutzt werden oder die Person, die als Sicherheits- und Gesundheitsschutzkoordinator beauftragt wurde, gibt.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Koordynator warunków pracy d.s. wykonania robót jest odpowiedzialny za zorganizowanie wykonania robót w sposób zgodny z normami dobrego środowiska pracy, dopasowanie planu organizacji warunków pracy do rzeczywistych potrzeb oraz czuwanie nad tym, aby wykonanie robót przebiegało w sposób zgodny z normami dobrego środowiska pracy i wytycznymi planu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="de">
+        <seg>15</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="de">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="de">
+        <seg>Swedish Work Environment Authority, publication services, 112 79 Stockholm.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Swedish Work Environment Authority, publication services, 112 79 Stockholm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="de">
+        <seg>Tel. +46-(0)8-730 97 00</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Tel. +46-(0)8-730 97 00</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="de">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="de">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="de">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="de">
+        <seg>ADI 539 Tys Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>ADI 539 Pol Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="de">
+        <seg>Dies ist eine Informationsbroschüre des Schwedischen Zentralamtes für Arbeitsumwelt (Arbetsmiljöverket) für alle, die als Beerenpflücker in Schweden arbeiten möchten.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Niniejsza broszura informacyjna, opracowana przez Szwedzki Urząd ds. Bezpieczeństwa i Higieny Pracy [Arbetsmiljöverket], przeznaczona jest dla osób pragnących podjąć pracę jako zbieracze jagód w Szwecji.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="de">
+        <seg>Das Schwedische Migrationsamt ist für die Regeln in Bezug auf Arbeits- und Aufenthaltsgenehmigungen zuständig.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Poniżej omówiono w skrócie przepisy dotyczące pozwolenia na pracę i pobyt, bezpieczeństwa i higieny pracy, czasu pracy oraz minimalnego wynagrodzenia obowiązujące w</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="de">
+        <seg>Die Genehmigungen müssen vor Ihrer Abreise nach Schweden beantragt werden.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Szwecji w 2010 roku.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="de">
+        <seg>Sie können Ihren Antrag auch bei der schwedischen Botschaft oder beim schwedischen Konsulat in dem Land einreichen, in dem Sie wohnen.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Urząd ds. Migracji podjął decyzję, że począwszy od sezonu 2010, będzie rozpatrywał wnioski o pozwolenie na pracę przy zbieraniu dzikich jagód na tych samych zasadach, na jakich rozpatruje się wszystkie pozosta e wnioski o pozwolenie na pracę. Poniżej znajduje się więcej informacji o konsekwencjach tej decyzji.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="de">
+        <seg>Nach diesem Vertrag beträgt der Mindestlohn 19 355 SEK pro Monat, und zwar unabhängig davon, ab das ausländische Unternehmen einen Tarifvertrag abgeschlossen hat oder nicht.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>W przypadku zbieraczy jagód zatrudnianych przez przedsiębiorstwa prowadzące działalność w Szwecji, obowiązującym układem zbiorowym jest umowa pomiędzy Szwedzką Organizacją Pracowników Gminnych [Svenska Kommunalarbetareförbundet] oraz Organizacją Pracodawców Branży Leśnej i Rolniczej [Skogs- och lantarbetsgivar- förbundet].</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="de">
+        <seg>Arbeitsumwelt und Arbeitszeit</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Higiena i czas pracy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="de">
+        <seg>Das Schwedische Zentralamt für Arbeitsumwelt hat dafür zu sorgen, dass Arbeitgeber die Regeln des Arbeitsumwelt- gesetzes und des Arbeitszeitgesetzes befolgen.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Twój pracodawca ma obowiązek stosować się do przepisów szwedzkiej ustawy o bezpieczeństwie i higienie pracy, innych przepisach Urzędu ds. Bezpieczeństwa i Higieny Pracy oraz ustawy o czasie pracy w trakcie wykonywania przez Ciebie pracy w Szwecji.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="de">
+        <seg>Wenn Sie krank werden</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>W razie choroby</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="de">
+        <seg>Sie können sich freiwillig bei der Versicherungskasse anmelden, wenn Sie nach Schweden kommen, um hier zu arbeiten.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Kiedy przyjedziesz by pracować w Szwecji, możesz osobiście zgłosić się do Kasy Ubezpieczeń. Zgłoszenie nie ma wpływu na ewentualne prawo do świadczeń.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="de">
+        <seg>Die Anmeldung hat keinen Einfluss auf eventuelle Leistungsansprüche.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Informacje znajdziesz na stronie internetowej Kasy Ubezpieczeń [Försäkringskassan], www.forsakringskassan.se.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="de">
+        <seg>Müssen Sie in Schweden Steuern zahlen?</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Czy musisz płacić podatki w Szwecji?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="de">
+        <seg>Unter der Voraussetzung, dass die Arbeit in einem Jahr nicht länger als 183 Tage dauert, sind Einkommen steuerfrei.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Pracownicy zatrudnieni przez pracodawcę w swoim kraju pochodzenia a pracujący okresowo w Szwecji, nie podlegają obowiązkowi odprowadzania podatku. Dochody są zwolnione z opodatkowania pod warunkiem, że okres pracy nie</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="de">
+        <seg>Entsendung</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Delegowanie pracowników</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="de">
+        <seg>Das Zentralamt für Arbeitsumwelt (Arbetsmiljöverket) ist das so genannte Koordinationsbüro für Entsendungsfragen und kann Sie über Ihre Rechte informieren.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Urząd ds. Bezpieczeństwa i Higieny Pracy pełni rolę biura łącznikowego ds. spraw pracowników delegowanych do pracy za granicą i udziela informacji o prawach pracownika. Więcej informacji o delegowaniu pracowników znajdziesz na stronie internetowej www.posting.se.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="de">
+        <seg>Workinginsweden.se</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>workinginsweden.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="de">
+        <seg>Auf den Webseiten des Schwedischen Instituts, www.sweden.se und www.workinginsweden.se, finden Sie weitere Informationen über Schweden und über die Arbeit in Schweden.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Na stronie internetowej Instytutu Szwedzkiego, www.sweden.se i www.workinginsweden.se, znajdziesz więcej informacji na temat Szwecji i pracy.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="de">
+        <seg>Entsendung</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Delegowanie pracowników</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86">
+      <tuv xml:lang="de">
+        <seg>Das Zentralamt für Arbeitsumwelt (Arbetsmiljöverket) ist das so genannte Koordinationsbüro für Entsendungsfragen und kann Sie über Ihre Rechte informieren.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Urząd ds. Bezpieczeństwa i Higieny Pracy pełni rolę biura łącznikowego ds. spraw pracowników delegowanych do pracy za granicą i udziela informacji o prawach pracownika. Więcej informacji o delegowaniu pracowników znajdziesz na stronie internetowej www.posting.se.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87">
+      <tuv xml:lang="de">
+        <seg>Workinginsweden.se</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>workinginsweden.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88">
+      <tuv xml:lang="de">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89">
+      <tuv xml:lang="de">
+        <seg>Swedish Work Environment Authority, publicationservices, 112 79 Stockholm.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Swedish Work Environment Authority, publicationservices, 112 79 Stockholm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90">
+      <tuv xml:lang="de">
+        <seg>Tel. +46-(0)8-730 97 00</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Tel. +46-(0)8-730 97 00</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91">
+      <tuv xml:lang="de">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se ADI 653 Tys</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se ADI 653 Pol</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92">
+      <tuv xml:lang="de">
+        <seg>Kontaktangaben:</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Informacja o kontaktach</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93">
+      <tuv xml:lang="de">
+        <seg>Amt für Arbeitsumwelt</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Urząd ds. Bezpieczeństwa i Higieny Pracy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94">
+      <tuv xml:lang="de">
+        <seg>Tfn: +46-(0)8-730 90 00 www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Tfn: +46-(0)8-730 90 00 www.av.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95">
+      <tuv xml:lang="de">
+        <seg>Feuerwehr</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Straż pożarna</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96">
+      <tuv xml:lang="de">
+        <seg>Tfn: 112</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Tfn: 112</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97">
+      <tuv xml:lang="de">
+        <seg>Migrationsamt Tfn: +46-(0)771-19 44 00 Tfn: +46-(0)771-235 235 www.migrationsverket.se</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Tfn: +46-(0)771-235 235 www.migrationsverket.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98">
+      <tuv xml:lang="de">
+        <seg>Polizei</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Policja</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99">
+      <tuv xml:lang="de">
+        <seg>Tfn: 112 (emergency),</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Tfn: 112 (emergency),</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100">
+      <tuv xml:lang="de">
+        <seg>Tfn: +46-(0)77-114 14 00 (non-emergency) www.polisen.se</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Tfn: +46-(0)77-114 14 00 (non-emergency) www.polisen.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="101">
+      <tuv xml:lang="de">
+        <seg>Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+    </tu>
+    <tu tuid="102">
+      <tuv xml:lang="de">
+        <seg>Kommunalarbeiterverband</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Związek pracowników gminnych</seg>
+      </tuv>
+    </tu>
+    <tu tuid="103">
+      <tuv xml:lang="de">
+        <seg>Tfn: +46-(0)10-442 70 00 www.kommunal.se</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Tfn: +46-(0)10-442 70 00 www.kommunal.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="104">
+      <tuv xml:lang="de">
+        <seg>Steuerbehörde</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Urząd Skarbowy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="105">
+      <tuv xml:lang="de">
+        <seg>Tfn: +46-(0)771-778 778 www.skatteverket.se</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Tfn: +46-(0)771-567 567 www.skatteverket.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="106">
+      <tuv xml:lang="de">
+        <seg>Notruf</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>SOS Alarm</seg>
+      </tuv>
+    </tu>
+    <tu tuid="107">
+      <tuv xml:lang="de">
+        <seg>Tfn: 112 www.sosalarm.se</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Tfn: 112 www.sosalarm.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="108">
+      <tuv xml:lang="de">
+        <seg>Schwedisches Institut www.sweden.se</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Instytut Szwedzki www.sweden.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="109">
+      <tuv xml:lang="de">
+        <seg>Außenministerium</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Ministerstwo Spraw Zagranicznych</seg>
+      </tuv>
+    </tu>
+    <tu tuid="110">
+      <tuv xml:lang="de">
+        <seg>Tfn: +46-(0)8-405 10 00 www.regeringen.se www.sweden.gov.se</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Tfn: +46-(0)8-405 10 00 www.regeringen.se www.sweden.gov.se</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

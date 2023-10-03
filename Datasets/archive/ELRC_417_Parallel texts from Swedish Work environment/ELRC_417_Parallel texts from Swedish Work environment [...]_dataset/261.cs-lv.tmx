@@ -1,0 +1,1792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T125325Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="cs">
+    <prop type="x-tucount">223</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="cs">
+        <seg>Riziko zranění se snižuje a práce je efektivnější.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Samazinās risks gūt traumas, un darbs kļūst efektīvāks.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="cs">
+        <seg>Švédský úřad pro pracovní prostředí je státní úřad dohlížející na oblast pracovního prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darba vides pārvalde ir zviedru valsts uzraudzības institūcija, kas darbojas darba vides jomā.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="cs">
+        <seg>Provádíme mj. inspekci pracovního prostředí na stavbách a můžeme v případě potřeby vyžadovat opatření pro úpravu pracovního prostředí na uspokojivou úroveň.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Mēs pārbaudām darba vidi būvlaukumos un, ja tas nepieciešams, izvirzām prasības attiecībā uz veicamajiem pasākumiem, kuriem jānodrošina, lai darba vide tiktu atzīta par pieņemamu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="cs">
+        <seg>Jsou-li rizika příliš velká, můžeme další pokračování prací do vykonání nápravných opatření zakázat.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Ja risks ir pārāk liels, mēs varam aizliegt turpināt darbu, līdz tiek veikti darba vides uzlabošanas pasākumi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="cs">
+        <seg>Takový zákaz je třeba podepsat, ale podpis znamená jen potvrzení o převzetí dokumentu o rozhodnutí.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Šādam aizliegumam jābūt parakstītam, taču ar parakstu apstiprina vien to, ka saņemts ir pats lēmuma dokuments.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="cs">
+        <seg>Stavebním dělníkům se často přihodí úraz nebo dostanou nemoc z povolání.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Daudzi būvniecībā strādājošie cieš negadījumos un iegūst arodslimības.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="cs">
+        <seg>Dochází k pádům, pracím při chybném držení těla, zvedání těžkých nákladů nebo ke zraněním při práci se stroji.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Strādnieki, nokrītot no augstuma, sasitas, strādā nepareizā darba pozā, ceļ smagumus vai gūst traumas, strādājot ar mašīnām.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="cs">
+        <seg>Špatné plánování a časová tíseň riziko úrazů zvyšují</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Slikta plānošana un laika trūkums palielina nelaimes gadījumu risku.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="cs">
+        <seg>Existují zákony a předpisy od Švédského úřadu pro pracovní prostředí regulující provádění stavebních prací.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darba vides pārvalde ir izdevusi likumus un priekšrakstus par to, kā jānotiek būvdarbiem.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="cs">
+        <seg>V této brožuře se můžete dočíst o některých minimálních požadavcích.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Šajā brošūrā jūs varat iepazīties ar dažām minimālajām prasībām.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="cs">
+        <seg>Práce s budováním, přestavbami, opravami, údržbou nebo bouráním budov či jiných konstrukcí spadá pod Zákon o pracovním prostředí a stavební předpisy Švédského úřadu pro pracovní prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Uz darbu, kas saistīts ar būvju un ēku celtniecību, izmainīšanu, labošanu, uzturēšanu vai nojaukšanu, attiecas Darba vides likuma un Darba vides pārvaldes būvniecības priekšnoteikumi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="cs">
+        <seg>Švédská ustanovení o pracovním prostředí platí pro zahraniční pracovníky ve Švédsku, ať už jsou zaměstnáni v zahraničním podniku, najati švédským zaměstnavatelem nebo pracují jako samostatní živnostníci.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Zviedru darba vides noteikumi attiecas uz ārvalstu darbaspēku Zviedrijā, un vienalaga, vai to pieņēmis darbā ārzemju uzņēmums, vai noīrējis zviedru darba devējs, vai tas strādā kā uzņēmējs.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="cs">
+        <seg>Zahrnuti jsou tedy jak podnikatel tak zaměstnanci bez ohledu na formu pracovního poměru.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Noteikumi attiecas gan uz pašu uzņēmumu, gan uz darbiniekiem, neskatoties uz darbā pieņemšanas veidu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="cs">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="cs">
+        <seg>Jak snížit riziko pádu</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Samazināt risku nokrist no augstuma</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="cs">
+        <seg>Pád je nejběžnější příčinou smrtelných úrazů a nehod na stavebních pracovištích.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Kritiens no augstuma ir parastākais nāves un nelaimes gadījumu iemesls būvlaukumos.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="cs">
+        <seg>Je proto třeba předejít nebezpečí pádu.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Krišanas iespējamības risks jāparedz iepriekš.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="cs">
+        <seg>Je-li výškový rozdíl větší než dva metry, je v zásadě zapotřebí nějaký druh ochrany.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Ja līmeņu starpība ir vairāk kā divi metri, kā likums, jāparedz kaut kāda aizsardzība.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="cs">
+        <seg>Ochranné zábradlí, pracovní platformy, pracovní koše, lešení nebo další ochranné pomůcky nutno používat v první řadě.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Pirmkārt, jāizmanto aizsargmargas, darba platformas, darba grozi, sastatnes vai līdzīga aizsardzība.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="cs">
+        <seg>Ochrana může být nutná i při menších výškových rozdílech, například je-li tam voda nebo jsou-li dole ostré předměty.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Aizsardzība var būt nepieciešama arī pie mazākām līmeņu starpībām, piemēram, ja apakšā atrodas ūdens vai asi priekšmeti.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="cs">
+        <seg>Ochranná zábradlí musí být:</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Aizsargmargām jābūt:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="cs">
+        <seg>pevná</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>izturīgām,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="cs">
+        <seg>a nejméně jeden metr vysoká musí mít horní a střední příčku a úchyt lištou dole.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>vismaz vienu metru augstām, ar virsējo, vidējo un kājlīsti.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="cs">
+        <seg>Mohou mít i jinou konstrukci, ale musí skýtat nejméně stejně bezpečnou ochranu.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Tās var būt izgatavotas arī citādā veidā, bet jānodrošina tikpat laba aizsardzība.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="cs">
+        <seg>Při práci na střeše musí normálně existovat ochranné zábradlí nebo jiné zařízení dávající odpovídající ochranu.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Veicot darbus uz jumta, normāli tur jāatrodas aizsargmargām vai līdzīgam aprīkojumam, kas garantētu atbilstošu aizsardzību.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="cs">
+        <seg>Namontujte zábradlí na okapovou římsu nebo na lešení, jež končí hned pod okapem.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Margas jāmontē pie jumta dzegas vai sastatnēm, kas beidzas uzreiz zem dzegas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="cs">
+        <seg>Může být zapotřebí i zvlášť mohutné zábradlí, aby dokázalo zachytit osobu sjíždějící z příkré střechy.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Var būt nepieciešamas īpaši izturīgas margas, lai noturētu kādu personu, kas slīd lejā pa stāvu jumtu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="cs">
+        <seg>Není-li možná instalace pevné ochrany, musí se použít lanové osobní zařízení s postrojem zabraňujícím pádu.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Ja nav iespējams izveidot pastāvīgu aizsardzību, jāizmanto personīgie aizsardzības līdzekļi ar drošības virvēm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="cs">
+        <seg>Bokový pás může způsobit těžká zranění a používat se nesmí.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Virve ap jostasvietu var izraisīt smagas traumas un tā to nedrīkst izmantot.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="cs">
+        <seg>Lano se musí přichytit na pevný úchyt na střeše.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Virvi jāpiesien pie kādas nostiprinātas ierīces uz jumta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="cs">
+        <seg>Zkontrolujte, zda úchyty opravdu drží.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Jāpārbauda vai uz stiprinājumu var paļauties.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="cs">
+        <seg>Nedá-li se lano nikde uchytit, lze ho obmotat za pevné zařízení a držet jej napnuté jinou osobou.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Ja virvi nevar nekur nostiprināt, to var aptīt ap kādu nostiprinātu ierīci un nostieptu turēt kāda cita persona.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="cs">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="cs">
+        <seg>Může existovat riziko propadnutí skrz plochy, jež nemají dostatečnou nosnost – takové plochy zablokujte.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Pastāv risks izkrist cauri virsmām, kam nav pietiekoša nestspēja, un šādas virsmas ir jānorobežo.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="cs">
+        <seg>Používejte zvláštní ochranné zařízení, máte-li na takové ploše pracovat.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Gadījumā, ja uz šādām virsmām vienalga ir jāstrādā, jāizmanto īpašs aizsardzības aprīkojums.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="cs">
+        <seg>Při některých pracích je vhodné používat ochrannou síť.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Daļai darbu nepieciešams izmantot aizsargtīklu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="cs">
+        <seg>Je důležité, aby kompetentní osoba síť a její montáž před použitím zkontrolovala.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Ir svarīgi, lai kompetenta persona pārbaudītu tīklu un tā montēšanu, pirms tīkla izmantošanas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="cs">
+        <seg>Má-li se práce vykonávat víc než čtyři hodiny na malé ploše střechy a pokud má střecha sklon víc než 1:4, musí existovat vodorovná pracovní plocha.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Ja kādam jāstrādā vairāk kā četras stundas nelielā laukumā uz jumta, un, ja jumta slīpums pārsniedz 1:4, jābūt horizontālai darba virsmai.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="cs">
+        <seg>Běžně je třeba používat ochrannou přilbu a ochrannou obuv.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Parasti jāizmanto aizsargķivere un aizsargapavi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="cs">
+        <seg>Někdy se musí používat ochranné brýle, ochrana sluchu a rukavice.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Dažreiz nepieciešams arī acu aizsargs, dzirdes aizsargs un cimdi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="cs">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="cs">
+        <seg>Zdvihání těžkých nákladů a chybné pracovní polohy zatěžují tělo</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Smagumu celšana un nepareiza darba poza noslogo ķermeni</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="cs">
+        <seg>Práce ve stavebnictví je často těžká a představuje tělesnou zátěž, proto musí být pro dopravu stavebního materiálu k dispozici zdvihací zařízení.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Būvniecības darbi bieži vien ir smagi, un tie noslogo ķermeni, tādēļ ir jābūt pacelšanas iekārtām, lai transportētu būvniecības materiālus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="cs">
+        <seg>Stroje a nástroje musí mít ergonomické provedení.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Mašīnām un instrumentiem jābūt ergonomiskiem.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="cs">
+        <seg>Dlouhodobější práce na žebříku tělu neprospívá.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Ilgi strādājot no saliekamām trepēm, ķermenis ātri nogurst.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="cs">
+        <seg>Lepší pracovní polohu dává rovná pracovní plocha, např. výzdvižné platformy.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Stāvēšana uz plakanas virsmas, piemēram, uz paceļamām un nolaižamām platformām, veicina ērtāku darba pozu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="cs">
+        <seg>Svaly musí po námaze dostat příležitost k odpočinku.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Muskuļiem ķermenī ir jādod iespēja atpūsties pēc sasprindzinājuma.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="cs">
+        <seg>Vyhněte se jednostrannému zatěžování svalů tím, že práci budete obměňovat.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Izvairieties no vienveidīgas muskuļu noslogošanas, dažādojot darbu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="cs">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="cs">
+        <seg>Švédské předpisy o chemických materiálech</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Noteikumi par ķīmiskām vielām Zviedrijā</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="cs">
+        <seg>Ve stavebnictví se používá mnoho jedovatých, rakovinotvorných, žíravých nebo alergii vyvolávajících látek.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Būvniecības nozarē izmanto daudz indīgu, kancerogēnu, kodīgu vai alerģiju izraisošu vielu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="cs">
+        <seg>Například beton, malta a štuk obsahují cement, který při dlouhodobějším doteku s kůží může způsobit leptavé poranění.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Piemēram, betona sastāvā, mūrjavā un apmetumā esošais cements var radīt apdegumus, ja ilgāku laiku tam ir kontakts ar ādu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="cs">
+        <seg>Chemické produkty obsahující jednu nebo více nebezpečných látek musí být doprovázeny bezpečnostním listem výrobce, který musí být na pracovišti.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Kopā ar ķīmiskiem produktiem, kas satur vienu vai vairākas bīstamas vielas, darba vietā jāatrodas piegādātāja drošības instrukcijas lapai.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="cs">
+        <seg>U produktů koupených ve Švédsku musí být bezpečnostní list napsán ve švédštině.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Ja runa ir par produktiem, kas pirkti Zviedrijā, drošības instrukcijas lapai jābūt zviedru valodā.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="cs">
+        <seg>Podnik, který dovezl do Švédska nebezpečný chemický produkt pro svou vlastní potřebu, odpovídá za to, že se na pracovišti o produktu nacházejí písemné informace o rizicích a ochraně v jazyce, kterému uživatelé rozumí.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Uzņēmums, kas ieved Zviedrijā kādu bīstamu ķīmisku produktu pašu vajadzībām, pats arī atbild par to, lai darba vietā atrastos rakstiska riska un drošības informācija par produktu tajā valodā, kuru saprot izmantotāji.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="cs">
+        <seg>Na pracovišti musí být seznam všech nebezpečných chemických produktů.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Būvlaukumā jāatrodas sarakstam ar visiem bīstamiem ķīmiskiem produktiem.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="cs">
+        <seg>Každý zaměstnavatel za to odpovídá.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Katrs darba devējs ir par to atbildīgs.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="cs">
+        <seg>Zaměstnavatel musí informovat zaměstnance o všech rizicích spojených s nebezpečnými chemickými produkty a ujistit se o tom, že zaměstnanec informacím porozuměl.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darba devējam ir jāinformē darba ņēmēji par riskiem, kas saistīti ar šiem bīstamiem ķīmiskiem produktiem, un jāpārliecinās, ka darba ņēmējs informāciju ir sapratis.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="cs">
+        <seg>Pro určité nebezpečné látky platí zvlášť přísná pravidla:</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Uz noteiktām bīstamām vielām attiecas īpaši stingri noteikumi:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="cs">
+        <seg>Azbest: Pro zacházení s azbestem a pro jeho odstraňování potřebuje podnik, který má práci vykonat, povolení od Švédského úřadu pro pracovní prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Azbests: Lai rīkotos ar azbestu un to nojauktu, uzņēmumam, kas veiks darbus, nepieciešama atļauja no Darba vides pārvaldes.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="cs">
+        <seg>K tomu, aby toto bylo uděleno, je třeba dokumentované zvláštní školení a lékařské potvrzení.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Lai saņemtu atļauju, nepieciešama īpaša izglītība un ārsta izziņa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="cs">
+        <seg>Porušení těchto pravidel je trestné a může mít za následek vysoké pokuty.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Par šo noteikumu neievērošanu var sodīt un soda nauda var būt liela.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="cs">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="cs">
+        <seg>Spoje a doprava</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Savienojošie ceļi un transports</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="cs">
+        <seg>Na stavbě musí být bezpečné komunikace, například schody nebo rampa mezi jednotlivými podlažími.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Būvlaukumā jābūt drošiem savienojošiem ceļiem, piemēram, kāpnēm vai rampai starp dažādiem līmeņiem.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="cs">
+        <seg>Při vyškových rozdílech větších než deset metrů musí být nainstalován výtah, kdyby jinak zaměstnanec musel často chodit po schodech.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Tur, kur augstums pārsniedz desmit metrus, jābūt liftam, lai darba ņēmējam nebūtu jāpārvietojas tik daudz pa trepēm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="cs">
+        <seg>Na staveništi, kde jezdí auta, musí být dostatečné bezpečnostní vzdálenosti nebo ochranná zařízení.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Transporta ceļiem būvlaukumā jābūt veidotiem pietiekami drošā attālumā vai norobežotiem ar aizsargjoslu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="cs">
+        <seg>Doprava mezi různými podlažími musí fungovat i bez sejmutí ochranných zábradlí nebo jiných ochranných zařízení.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Transportēšanu starp dažādiem līmeņiem jāspēj noorganizēt tā, lai nebūtu nepieciešams noņemt aizsardzības barjeru vai kādu citu drošībai domātu aprīkojumu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="cs">
+        <seg>Není-li toto možné, je nutno dopravu provádět přes nákladové mosty, nákladové otvory ve fasádě, rampy nebo zvláštní dopravní systémy.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Ja tas nav iespējams, transportēšanai jānotiek caur iekraušanas platformām, kravas lūkām fasādēs, rampām vai īpašām transporta sistēmām.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="cs">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="cs">
+        <seg>Návody k používání zvedacích zařízení, strojů a některých dalších produktů</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Ceļamiekārtu, mašīnu un citu speciālo produktu lietošanas pamācības</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="cs">
+        <seg>Při dovezení nebo uvedení do provozu ve Švédsku stroje či zvedacího zařízení, musí být k dispozici písemný návod k použití ve švédštině.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Ja kādu mašīnu vai ceļamiekārtu piegādā Zviedrijai vai uzsāk tās lietošanu Zviedrijā, tai līdzi jābūt rakstiskai lietošanas pamācībai zviedru valodā.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="cs">
+        <seg>Za to odpovídá dodavatel.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Par to atbild piegādātājs.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="cs">
+        <seg>Za dodavatele se počítá i ten, kdo ve Švédsku uvádí stroj do provozu.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Par piegādātāju uzskata arī to, kurš ieved mašīnu, lai to izmantotu Zviedrijā.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="cs">
+        <seg>Informace o tom, co mají obsahovat návody k použití jsou uvedeny v předpisech Švédského úřadu pro pracovní prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Informācija par to, kam jābūt ietvertam lietošanas pamācībā, atrodas Darba vides pārvaldes priekšrakstos par mašīnām.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="cs">
+        <seg>I pro prefabrikovaná lešení mají být při dodání k dispozici písemné instukce ve švédštině, jež musí být dostupné na pracovišti.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Arī piegādājot iepriekš izgatavotas sastatnes, tām līdzi jābūt rakstiskai instrukcijai zviedru valodā, un tai jābūt pieejamai darba vietā.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="cs">
+        <seg>Předpisy Švédského úřadu pro pracovní prostředí o lešeních udávají, co instrukce mají obsahovat.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darba vides pārvaldes priekšrakstos par sastatnēm norādīts, kam jābūt ietvertam instrukcijās.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="cs">
+        <seg>Když se při stavebních pracích používají stroj, zvedací zařízení, lešení aj, musí mít zaměstnanci, kterých se to týká, přístup k instrukcím k nim.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Kad būvdarbos izmanto kādu mašīnu, ceļamiekārtas, sastatnes u.c., darba ņēmējam, kurš ar to saistīts, jābūt pieejamām iekārtu lietošanas instrukcijām.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="cs">
+        <seg>Instrukce musí být v tom jazyku, kterému zaměstnanec rozumí.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Instrukcijām ir jābūt tajā valodā, ko saprot darba ņēmējs.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="cs">
+        <seg>Označení CE, typové schválení a inspekce zvedacích zařízení, strojů a některých dalších výrobků</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>CE-marķējums, ceļamiekārtu, mašīnu un citu speciālo produktu atzīšana par piemērotiem un tehniskā apskate</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="cs">
+        <seg>Nová zvedací zařízení a nové stroje musejí obecně nést označení CE k tomu, aby mohly být používány ve Švédsku.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Visām jaunām ceļamiekārtām un mašīnām jābūt CE-marķētām, lai tās būtu atļauts izmantot Zviedrijā.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="cs">
+        <seg>Prefabrikovaná lešení a žebříky musejí být, pokud jsou dodávány do Švédska, typově kontrolovány (a žebříky také certifikovány) akreditovaným orgánem.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Akreditētai institūcijai jāveic iepriekš izgatavotu sastatņu un kāpņu tipa kontrole (kāpnēm alternatīva sertificēšana), ja tās piegādā Zviedrijai.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="cs">
+        <seg>Mnohé stroje a zvedací zařízení musejí být pravidelně kontrolovány, aby mohly být používány.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Daudzām mašīnām un ceļamiekārtām jāveic atkārtotas tehniskās apskates, lai tās varētu izmantot.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="cs">
+        <seg>Je trestné používat stroje a zvedací zařízení, aniž by byla provedena kontrola nebo pokud nebyly napraveny vytčené nedostatky.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Ja apskate nav veikta vai iepriekš atrastie trūkumi nav novērsti, bet mašīnas un ceļamiekārtas tiek izmantotas, tad draud sods.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="cs">
+        <seg>Technická prohlídka se musí konat podle švédských předpisů.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Pārbaudēm jābūt veiktām atbilstoši zviedru noteikumiem.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86">
+      <tuv xml:lang="cs">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87">
+      <tuv xml:lang="cs">
+        <seg>Nač nutno také myslet ...</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Vēl par ko padomāt ...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88">
+      <tuv xml:lang="cs">
+        <seg>K vážným nehodám může dojít, když skladovaný stavebni materiál, například v důsledku prudkého větru, se dostane do pohybu.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Nopietni nelaimes gadījumi var notikt, ja izkustas uzkrātie būvmateriāli, piemēram, spēcīga vēja dēļ.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89">
+      <tuv xml:lang="cs">
+        <seg>Proto je důležité stabilizovat stavební materiál.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Tādēļ svarīgi ir materiālus nostabilizēt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90">
+      <tuv xml:lang="cs">
+        <seg>Někdy je také třeba pro stavební dělníky ochrana proti větru a chladu.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Dažreiz būvniecībā strādājošos nepieciešams pasargāt no tādiem laika apstākļiem kā vēja brāzmas un aukstums.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91">
+      <tuv xml:lang="cs">
+        <seg>Uzavřete a označte místa, kde existuje riziko padajících předmětů.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Norobežo un atzīmē vietas, kur jāuzmanās no krītošiem priekšmetiem.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92">
+      <tuv xml:lang="cs">
+        <seg>Pokud je tam přesto nutné chodit, tak tam musí být ochranné zastřešení.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Ja tik un tā ir tur jāiet, jābūt aizsargjumtam.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93">
+      <tuv xml:lang="cs">
+        <seg>Plánujte zemní práce tak, aby půda nebyla vystavena větším zatížením než jaká vydrží.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Zemes darbi jāplāno tā, lai zeme netiktu noslogota ar lielāku smagumu nekā tā var izturēt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94">
+      <tuv xml:lang="cs">
+        <seg>Je-li třeba, musí být na místě ochrana proti sesuvu.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Ja nepieciešams, jābūt aizsargam pret nogruvumu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95">
+      <tuv xml:lang="cs">
+        <seg>Zkontrolujte, nejsou-li pod zemí vedení nebo nebezpečné látky a aby neexistovalo nebezpečí, že stroje spadnou do jámy.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Pārbaudiet, vai zemē neatrodas vadi vai bīstamas vielas, un vai nepastāv risks, ka mašīnas var iekrist bedrē.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96">
+      <tuv xml:lang="cs">
+        <seg>Automobilová doprava se nesmí dostat do blízkosti vyhloubené jámy.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Satiksmes līdzekļiem jāatrodas drošā attālumā no šahtu tranšejām.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97">
+      <tuv xml:lang="cs">
+        <seg>Vozidla projížděící kolem stavby představují riziko.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Būvdarbu vietai garām braucoši satiksmes līdzekļi rada risku.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98">
+      <tuv xml:lang="cs">
+        <seg>Především je třeba změnit dopravní trasu.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Pirmkārt, satiksme ir jānovada citur.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99">
+      <tuv xml:lang="cs">
+        <seg>Ten, kdo pracuje na místě, jež není odděleno od dopravy, musí nosit oděv s výstražným značením a s reflexními plochami.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Tam, kurš strādā satiksmes tuvumā, jāvalkā brīdinošs apģērbs ar atstarotājiem.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100">
+      <tuv xml:lang="cs">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="101">
+      <tuv xml:lang="cs">
+        <seg>Když se něco stane</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Ja kaut kas notiek</seg>
+      </tuv>
+    </tu>
+    <tu tuid="102">
+      <tuv xml:lang="cs">
+        <seg>Všichni musejí umět rychle a bezpečně vyklidit pracoviště, např. když hoří.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Jābūt iespējai visiem ātri un droši aizkļūt prom no darba vietas, piemēram, ugunsgrēka gadījumā.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="103">
+      <tuv xml:lang="cs">
+        <seg>Únikové cesty a shromaždiště musí být označeny nápisy.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Avārijas ejām un pulcēšanās vietām jābūt marķētām ar zīmēm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="104">
+      <tuv xml:lang="cs">
+        <seg>Únikové dveře se musejí otvírat ven, a hasicí přístroje musejí být snadno dostupné.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Avārijas izejas durvīm jābūt veramām uz ārpusi, un jārada iespēja viegli piekļūt ugunsdzēsības ierīcēm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="105">
+      <tuv xml:lang="cs">
+        <seg>Je třeba vždy umět poskytnout první pomoc a musejí existovat nápisy, které ukazují, kde je umístěno zařízení pro takovou pomoc.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Vienmēr jābūt redzamai pirmajai palīdzībai, un jābūt zīmēm, kas norāda, kur ir avārijas izeja un pirmās palīdzības aprīkojums.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="106">
+      <tuv xml:lang="cs">
+        <seg>Vývěska s telefonními čísly na sanitku a záchrannou službu, adresou pracoviště a eventuálně i popis cesty tu také musejí být.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Jābūt arī ziņojumu dēlim ar ātrās palīdzības un glābšanas dienesta tālruņa numuru, darba vietas adresi un, iespējams, arī ceļa aprakstu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="107">
+      <tuv xml:lang="cs">
+        <seg>Nezapomeňte, že ten, kdo volá, se musí umět domluvit se Švédskou záchrannou službou.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Padomājiet par to, ka personai, kura zvana, jāspēj komunicēties ar zviedru glābšanas dienestu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="108">
+      <tuv xml:lang="cs">
+        <seg>Obyčejně tam rozumějí anglicky.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Dienesta darbinieki parasti saprot arī angļu valodu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="109">
+      <tuv xml:lang="cs">
+        <seg>Pokud výpadek proudu by mohl způsobit zvláštní rizika při práci, musi být nainstalováno nouzové osvětlení.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Ja strāvas pārtraukums var izraisīt īpašus riskus darbā, jābūt avārijas apgaismojumam.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="110">
+      <tuv xml:lang="cs">
+        <seg>Platí to např. pro práce se stavebními pilami nebo při stavění lešení.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Tas attiecas, piemēram, uz darbu ar būvniecības zāģi vai darbu, uzstādot būvniecības sastatnes.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="111">
+      <tuv xml:lang="cs">
+        <seg>Plán pracovního prostředí</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darba drošības un veselības aizsardzības plāns</seg>
+      </tuv>
+    </tu>
+    <tu tuid="112">
+      <tuv xml:lang="cs">
+        <seg>Plán pracovního prostředí pro celý objekt je nutno vypracovat ještě před zahájením prací na staveništi.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darba drošības un veselības aizsardzības plāns visam objektam ir jāsastāda vēl pirms tiek izveidots būvlaukums.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="113">
+      <tuv xml:lang="cs">
+        <seg>Dohlédnout na to, že toto bude provedeno, je v první řadě úlohou stavebního koordinátora pro plánování a projektování pracovního prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Tas ir darba drošības un veselības aizsardzības lietu koordinātors projekta sagatavošanas posmā, kuram, pirmkārt, jāraugās, lai plāns tiktu sastādīts.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="114">
+      <tuv xml:lang="cs">
+        <seg>Stavitel nebo podnikatel, který převzal jeho odpovědnost, jsou také odpovědní vypracovat plán.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Klients vai darbu izpildītājs, kurš pārņēmis tā atbildību, ir arī atbildīgs, lai plāns tiktu sastādīts.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="115">
+      <tuv xml:lang="cs">
+        <seg>Smyslem je, že plán pracovního prostředí bude potom používán po celou dobu stavby.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darba drošības un veselības aizsardzības plānu paredzēts izmantot visas būvniecības laikā.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="116">
+      <tuv xml:lang="cs">
+        <seg>Dohlédnout na to, že plán je dostupný na staveništi od samého začátku, je úlohou stavebního koordinátora pro provedení prací ohledně pracovního prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darba drošības un veselības aizsardzības lietu koordinātors projekta izpildes posmā ir tas, kuram, pirmkārt, jāraugās, lai plāns būtu pieejams būvlaukumā uzreiz, kad tas izveidots.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="117">
+      <tuv xml:lang="cs">
+        <seg>Koordinátor musí také provést nutné adaptace plánu.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Koordinātoram jāveic arī nepieciešamā plāna pielietošana.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="118">
+      <tuv xml:lang="cs">
+        <seg>Jestliže stavební práce budou prováděny na místě, kde současně probíhá jiná činnost, je třeba v plánu pracovního prostředí brát na to ohled.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Ja būvniecības vai inženiertehniskie darbi tiks veikti vietā, kur vienlaicīgi notiks arī cita darbība, tas jāņem vērā, sastādot darba drošības un veselības aizsardzības plānu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="119">
+      <tuv xml:lang="cs">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="120">
+      <tuv xml:lang="cs">
+        <seg>Plán musí obsahovat násle• dující:</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Plānā jābūt ietvertam sekojošam:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="121">
+      <tuv xml:lang="cs">
+        <seg>Pravidla, jež budou uplatňována na staveništi</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Noteikumiem, kas jāpiemēro būvdarbu vietā</seg>
+      </tuv>
+    </tu>
+    <tu tuid="122">
+      <tuv xml:lang="cs">
+        <seg>Popis způsobu organizace práce s pracovním prostředí</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Aprakstam par to, kā tiks organizēts darba vides plāns</seg>
+      </tuv>
+    </tu>
+    <tu tuid="123">
+      <tuv xml:lang="cs">
+        <seg>Popis opatření na ochranu pracovního prostředí, jež je třeba podniknout v průběhu stavebních prací za účelem dosáhnout dobrého pracovního prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Aprakstam par to, kādi darba vides pasākumi tiks veikti būvniecības laikā, lai būtu laba darba vide.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="124">
+      <tuv xml:lang="cs">
+        <seg>To se týká mj. následujících prací:</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Tas attiecas, cita starpā, uz sekojošiem darbiem:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="125">
+      <tuv xml:lang="cs">
+        <seg>práce, kde existuje nebezpečí pádu</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>darbs, kurā ir risks nokrist no augstuma</seg>
+      </tuv>
+    </tu>
+    <tu tuid="126">
+      <tuv xml:lang="cs">
+        <seg>kopání šachet a jam s nebezpečím sesuvu půdy</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>šahtu darbs ar nogruvuma draudiem</seg>
+      </tuv>
+    </tu>
+    <tu tuid="127">
+      <tuv xml:lang="cs">
+        <seg>práce s některými chemickými nebo biologickými látkami</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>darbs ar speciālām ķīmiskām vai bioloģiskām vielām</seg>
+      </tuv>
+    </tu>
+    <tu tuid="128">
+      <tuv xml:lang="cs">
+        <seg>práce v blízkosti vedení vysokého napětí</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>darbs augstsprieguma līniju tuvumā</seg>
+      </tuv>
+    </tu>
+    <tu tuid="129">
+      <tuv xml:lang="cs">
+        <seg>práce s rizikem utopení</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>darbs, kurā darbinieki pakļauti riskam noslīkt</seg>
+      </tuv>
+    </tu>
+    <tu tuid="130">
+      <tuv xml:lang="cs">
+        <seg>práce ve studnách a tunelech</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>darbs akās un tuneļos</seg>
+      </tuv>
+    </tu>
+    <tu tuid="131">
+      <tuv xml:lang="cs">
+        <seg>práce, kde se používají výbušniny</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>darbs, kas saistīts ar sprāgstvielu izmantošanu</seg>
+      </tuv>
+    </tu>
+    <tu tuid="132">
+      <tuv xml:lang="cs">
+        <seg>práce s montováním těžkých stavebních dílů</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>darbs, kas saistīts ar smagu būvelementu montāžu</seg>
+      </tuv>
+    </tu>
+    <tu tuid="133">
+      <tuv xml:lang="cs">
+        <seg>práce na místě nebo v oblasti s mimo projíždějící autodopravou bourání nosných konstrukcí nebo odstraňování zdraví škodlivých materiálů nebo látek.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>strādājot vietā vai apvidū ar garām braucošu satiksmi nojaucot nesošās konstrukcijas kā arī veselībai bīstamus materiālus vai vielas</seg>
+      </tuv>
+    </tu>
+    <tu tuid="134">
+      <tuv xml:lang="cs">
+        <seg>Předběžné oznámení</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Iepriekšējs paziņojums</seg>
+      </tuv>
+    </tu>
+    <tu tuid="135">
+      <tuv xml:lang="cs">
+        <seg>Stavitel musí, s výjimkou menších prací, podat předběžné oznámení Švédskému úřadu pro pracovní prostředí (nejbližší okrsek) do zahájení prací, viz § 7 v předpisech.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Izņemot mazākus darbus, pirms darbu uzsākšanas klientam jāiesniedz iepriekšējs paziņojums Darba vides pārvaldei (tuvākajā apgabalā), skat. priekšrakstu 7.§.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="136">
+      <tuv xml:lang="cs">
+        <seg>Stavitel také musi dohlédnout na to, aby kopie oznámení byla vyvěšena na staveništi a aby bylo pravidelně aktualizováno.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Klientam jāraugās arī, lai iepriekšējā paziņojuma kopija atrastos uz ziņojuma dēļa būvdarbu vietā, un, lai paziņojums tiktu atjaunots.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="137">
+      <tuv xml:lang="cs">
+        <seg>11</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="138">
+      <tuv xml:lang="cs">
+        <seg>Plánování a informace</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Plānošana un informācija</seg>
+      </tuv>
+    </tu>
+    <tu tuid="139">
+      <tuv xml:lang="cs">
+        <seg>Všechny práce je třeba plánovat dostatečně včas a předem posuzovat jejich rizika, aby mohly být provedeny bezpečně.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Lai darbus varētu veikt droši, tie jāplāno un savlaicīgi jānovērtē ar tiem saistītais risks.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="140">
+      <tuv xml:lang="cs">
+        <seg>Je třeba naplánovat prostory pro boudy, dílny a dočasné sklady, jakož i pro komunikace a dopravu.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Jāieplāno vieta strādnieku vagoniņiem, darbnīcām un noliktavām, kā arī savienojošiem ceļiem un transportam.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="141">
+      <tuv xml:lang="cs">
+        <seg>Je důležité vyřešit otázku přístupu ke všem pracovištím.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Svarīgi ir paredzēt to, kā nokļūt līdz visām darba vietām.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="142">
+      <tuv xml:lang="cs">
+        <seg>Práci je třeba plánovat tak, aby se různé činnosti navzájem nekřížily tak, že by vzniklo nebezpečí poškození zdraví nebo nehod.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darbs jāplāno tā, lai dažādas darbības netraucētu viena otrai, un lai strādājošie netiktu pakļauti saslimšanas vai negadījumu riskam.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="143">
+      <tuv xml:lang="cs">
+        <seg>Časový plán je zvláště důležitý, jestli je práce rozsáhlá a doba stavby krátká.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Laika plānošana ir īpaši svarīga tad, kad darbs ir apjomīgs, bet būvniecības laiks ir īss.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="144">
+      <tuv xml:lang="cs">
+        <seg>Je třeba vybírat pracovní metody a zařízení, která:</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Jāizvēlas tādas darba metodes un aprīkojums, kas:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="145">
+      <tuv xml:lang="cs">
+        <seg>předcházejí nehodám vzniklým pádem nebo sesuvem půdy,</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>pasargātu no nelaimes gadījumiem saistībā ar nokrišanu no augstuma vai nogruvumu,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="146">
+      <tuv xml:lang="cs">
+        <seg>znamenají, že nedochází ke zdraví škodlivému nebo zbytečně únavnému tělesnému zatížení, mají za následek nízké vystavení hluku, vibracím, nebezpečným látkám a znečištěnému vzduchu.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>ļautu ķermenim izvairīties no veselībai bīstamiem vai nevajadzīgi nogurdinošiem noslogojumiem, būtu saistīts ar mazāku pakļaušanu trokšņiem, vibrācijām, bīstamām vielām un gaisa piesārņojumam.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="147">
+      <tuv xml:lang="cs">
+        <seg>Zaměstnanci musejí dostat informace o práci, a o tom, jaká opatření ohledně pracovního prostředí byla provedena nebo naplánována a jaká platí pravidla.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darba ņēmēji jāinformē, kādi darba drošības pasākumi ir veikti vai plānoti veikt, kādi noteikumi ir spēkā.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="148">
+      <tuv xml:lang="cs">
+        <seg>Mohou potřebovat zvláštní školení nebo instrukce, mají-li se používat nové produkty nebo pracovní metody.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Iespējams nepieciešama īpaša apmācība vai instrukcijas par jauniem produktiem vai darba metodēm, kas tiks pielietotas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="149">
+      <tuv xml:lang="cs">
+        <seg>Na staveništi neustále dochází k rychlým změnám a tak vznikají mnohá rizika.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Būvlaukumā pastāvīgi notiek ātras izmaiņas, kuras saistītas ar daudziem riskiem.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="150">
+      <tuv xml:lang="cs">
+        <seg>Proto je důležité provádět pravidelné bezpečnostní obchůzky.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Tādēļ ir svarīgi veikt regulārus reidus, pārbaudot darba drošību.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="151">
+      <tuv xml:lang="cs">
+        <seg>12</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu tuid="152">
+      <tuv xml:lang="cs">
+        <seg>Kdo odpovídá za co?</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Kas par ko atbild?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="153">
+      <tuv xml:lang="cs">
+        <seg>Pro vytvoření dobrého pracovního prostředí na staveništi je velmi důležitá preventivní práce ohledně pracovního prostředí a aby všichni účastníci vzali na sebe svou odpovědnost.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Lai izveidotu labu darba vidi būvlaukumā, ļoti svarīgi ir veikt priekšlaicīgu darba vides sagatavošanas darbu, un, lai visas iesaitītās puses uzņemtos savu atbildību.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="154">
+      <tuv xml:lang="cs">
+        <seg>Kromě toho je důležité, aby všichni účastníci spolupracovali a aby stavební dělníci se podíleli na této práci.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Bez tam ir svarīgi, lai šīs dažādās iesaistītās puses sadarbotos, un, lai būvlaukumā strādājošie piedalītos darba vides jautājumos.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="155">
+      <tuv xml:lang="cs">
+        <seg>Ten, kdo nechává vykonat stavební a konstrukční práce (stavitel), nese hlavní odpovědnost za to, že se bere ohled na pracovní prostředí v průběhu stavby při přípravě stavebního projektu (plánování a projektování).</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Tam, kurš pasūta būvniecības vai inženiertehnisko darbu izpildi (klients), ir galvenā atbildība par to, lai tiktu ievēroti darba drošības un veselības jautājumi projekta sagatavošanas posmā (plānošana un projektēšana).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="156">
+      <tuv xml:lang="cs">
+        <seg>Stavitel má také odpovědnost za vypracování předběžného oznámení, plánu pracovního prostředí a dokumentace a za jmenování koordinátora pro plánování a projektování stavebního pracovního prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Klients atbild arī par to, lai tiktu iesniegts iepriekšējs paziņojums, lai tiktu sastādīts darba drošības un veselības aizsardzības plāns un, lai tiktu izraudzīts darba drošības un veselības aizsardzības lietu koordinātors projekta plānošanas un projektēšanas posmā.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="157">
+      <tuv xml:lang="cs">
+        <seg>Stavitel má také odpovědnost za to, že stavební a konstrukční práce jsou koordinovány z hlediska pracovního prostředí a musí také jmenovat koordinátora pro vykonávání stavebních a konstrukčních prácí.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Bez tam klients atbild par to, lai būvniecības un inženiertehniskais darbs atbilstu darba drošībai un, lai tiktu izraudzīts darba drošības un veselības aizsardzības lietu koordinātors projekta izpildes posmā.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="158">
+      <tuv xml:lang="cs">
+        <seg>V určitých případech může stavitel písemnou dohodou přenechat svou odpovědnost za pracovní prostředí dodavateli za tu část stavebního projektu týkající se zakázky.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Atsevišķos gadījumos klients ar rakstisku līgumu var nodot savu atbildību par darba drošības jautājumiem projekta izpildītājam par to būvprojekta daļu, ko aptver pasūtījums.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="159">
+      <tuv xml:lang="cs">
+        <seg>Toto je možné, když zakázka znamená samostatnou odpovědnost za celé plánování a projektování a/nebo provedení celého projektu, například jde-li o generální- nebo totální tendr.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>To var darīt, ja pasūtījums nozīmē patstāvīgu atbildību visā plānošanas un projektēšanas un/vai visā projekta izpildīšanas laikā, piemēram, ģenerāluzņēmēja vai kopējā kontrakta gadījumā.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="160">
+      <tuv xml:lang="cs">
+        <seg>Při společném tendru nelze přenechat odpovědnost stavitele.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Dalīta darba kontrakta gadījumā klienta atbildību nevar nodot citam.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="161">
+      <tuv xml:lang="cs">
+        <seg>Stavební koordinátor pracovního prostředí pro plánování a projektování má koordinovat projektování s ohledem na pracovní prostředí a dohlédnout na to, aby byl vypracován plán pracovního prostředí a dokumentace.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darba drošības un veselības aizsardzības lietu koordinātoram projekta plānošanas un projektēšanas posmā jāsaskaņo projektēšana, ņemot vērā darba vidi, un jāraugās, lai tiktu izveidots darba drošības un veselības aizsardzības plāns un dokumentācija.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="162">
+      <tuv xml:lang="cs">
+        <seg>Stavební koordinátor pracovního prostředí pro provedení stavební a konstrukční práce má koordinovat práce z hlediska pracovního prostředí, přizpůsobit plán pracovního prostředí k faktickým podmínkám práce, zkontrolovat, že práce jsou prováděny správně, pokud jde o pracovní prostředí a že je dodržován plán pracovního prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darba drošības un veselības aizsardzības lietu koordinātoram būvniecības un inženiertehnisko darbu laikā jāsaskaņo darbi, ņemot vērā darba vidi, jāpiemēro darba vides plāns tam, kā darbi patiesībā tiek veikti, un jāraugās, lai darbi tiktu veikti atbilstoši darba drošībai, un, lai darba drošības un veselības aizsardzības plāns tiktu pildīts.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="163">
+      <tuv xml:lang="cs">
+        <seg>13</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>13</seg>
+      </tuv>
+    </tu>
+    <tu tuid="164">
+      <tuv xml:lang="cs">
+        <seg>Ostatní podniky na společném pracovišti musejí informovat stavebního koordinátora pracovního prostředí o zvláštních rizicích, které mohou vzniknout jejich vlastní činností.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Citiem uzņēmumiem kopīgā darba vietā jāiesniedz darba drošības un veselības aizsardzības lietu koordinātoram būvniecības darbu laikā informācija par īpašiem riskiem, kas var rasties viņu pašu darbības dēļ.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="165">
+      <tuv xml:lang="cs">
+        <seg>Všichni, kdo působí na společném pracovišti, musejí dodržovat pravidla pořádku a bezpečnosti práce, vydané stavebním koordinátorem odpovědným za pracovní prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Visiem, kuri darbojas kopīgā darba vietā, jāievēro tie kārtības un aizsardzības noteikumi, ko izdevis darba drošības un veselības aizsardzības lietu koordinātors.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="166">
+      <tuv xml:lang="cs">
+        <seg>Každý zaměstnavatel nese hlavní odpovědnost za pracovní prostředí svých zaměstnanců.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Katrs darba devējs nes galveno atbildību par savu darba ņēmēju darba vidi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="167">
+      <tuv xml:lang="cs">
+        <seg>Odpovědnost zaměstnavatele za vlastní zaměstnance platí v plné míře, i když současně existuje odpovědnost například i u toho, kdo provádí projektaci, u toho, kdo vyrobil stroj, používaný při práci nebo u toho, kdo je stavebním koordinátorem pracovního prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darba devēja atbildība par saviem darba ņēmējiem ir pilnā apmērā, ja vienlaicīgi atbildību nes arī tas, kurš veic projektēšanu, tas, kurš ražojis mašīnu, kuru izmanto darbā vai tas, kurš ir darba drošības un veselības aizsardzības lietu koordinātors.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="168">
+      <tuv xml:lang="cs">
+        <seg>Samostatní podnikatelé a ti, kdo pracují v rodinných podnicích bez zaměstnanců, musejí při stavebních a konstrukčních prácích v podstatě dodržovat stejná ustanovení, jež platí pro zaměstnavatele a zaměstnance.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Pašnodarbinātai personai un tiem, kas strādā ģimenes uzņēmumā bez darbiniekiem, būvniecības un inženiertehnisko darbu laikā lielā mērā jāievēro tie paši noteikumi, kas attiecas uz darba devēju un darba ņēmēju.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="169">
+      <tuv xml:lang="cs">
+        <seg>Stavební dělníci jsou povinni se účastnit práce na pracovním prostředí, dodržovat předpisy a používat existující ochranné pomůcky a zařízení.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Būvniecības strādniekam ir jāpiedalās darba vides veidošanas darbā, jāievēro atbilstošie priekšraksti un jāizmanto pieejamais aizsardzības aprīkojums.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="170">
+      <tuv xml:lang="cs">
+        <seg>Bezpečnostní referent zastupuje zaměstnance v otázkách bezpečnosti práce.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Pilnvarotais pārstāvis darba vides jautājumos pārstāv darba ņēmējus darba vides aizsardzības jautājumos.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="171">
+      <tuv xml:lang="cs">
+        <seg>Jestli práce znamená bezprostřední a vážné nebezpečí životu a zdraví a zaměstnavatel okamžitě neodstraní riziko, má bezpečnostní referent právo práci přerušit, zatím co čeká na vyjádření Švédského úřadu pro pracovní prostředí.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Ja darba veikšana saistīta ar tūlītējām un nopietnām briesmām, kas apdraud dzīvību vai veselību, un darba devējs risku nekavējoties nenovērš, pilnvarotajam pārstāvim darba vides jautājumos ir tiesības pārtraukt darbu, nogaidot Darba vides pārvaldes nostāju.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="172">
+      <tuv xml:lang="cs">
+        <seg>Výrobci, dovozci a pronajímatelé technických zařízení nesou odpovědnost za to, že jejich výrobky jsou bezpečné.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Tehnisko ierīču ražotāji, importētāji un iznomātāji atbild par to, lai viņu produkti būtu droši.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="173">
+      <tuv xml:lang="cs">
+        <seg>Výrobci a dovozci chemických produktů a jiných látek mají podobnou odpovědnost.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Līdzīga atbildība ir ķīmisko produktu un citu vielu ražotājiem un importētājiem.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="174">
+      <tuv xml:lang="cs">
+        <seg>Výrobci, dovozci a pronajímatelé jsou povinni poskytnout informace o produktu potřebné k prevenci špatného zdraví a pracovních úrazů.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Ražotājiem, importētājiem un iznomātājiem ir arī jāsniedz tā produktu informācija, kas nepieciešama, lai izvairītos no veselības traucējumiem un nelaimes gadījumiem.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="175">
+      <tuv xml:lang="cs">
+        <seg>V zákonu o pracovním prostředí jsou ustanovení o odpovědnosti u těch, kdo najímají pracovní síly a u těch, kdo rozhodují na pracovišti.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darba vides likumā atrodami arī noteikumi par atbildību, ko nes tas, kurš noīrē darba spēku un tas, kurš pārvalda darba vietu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="176">
+      <tuv xml:lang="cs">
+        <seg>14</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>14</seg>
+      </tuv>
+    </tu>
+    <tu tuid="177">
+      <tuv xml:lang="cs">
+        <seg>15</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu tuid="178">
+      <tuv xml:lang="cs">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="179">
+      <tuv xml:lang="cs">
+        <seg>Swedish Work Environment Authority, publication services, 112 79 Stockholm.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Swedish Work Environment Authority, publication services, 112 79 Stockholm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="180">
+      <tuv xml:lang="cs">
+        <seg>Tel.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Tel.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="181">
+      <tuv xml:lang="cs">
+        <seg>+46-(0)8-730 97 00</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>+46-(0)8-730 97 00</seg>
+      </tuv>
+    </tu>
+    <tu tuid="182">
+      <tuv xml:lang="cs">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="183">
+      <tuv xml:lang="cs">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+    </tu>
+    <tu tuid="184">
+      <tuv xml:lang="cs">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+    </tu>
+    <tu tuid="185">
+      <tuv xml:lang="cs">
+        <seg>ADI 539 Tje Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>ADI 539 Let Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+    </tu>
+    <tu tuid="186">
+      <tuv xml:lang="cs">
+        <seg>Systematická práce pro pracovní prostředí</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Sistemātiska darba vides uzlabošana</seg>
+      </tuv>
+    </tu>
+    <tu tuid="187">
+      <tuv xml:lang="cs">
+        <seg>Účelem našeho zákona o pracovním prostředí je zabránit zraněním při práci.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Zviedrijas Likuma par darba aizsardzību mērķis ir profilakses veicināšana un nelaimes gadījumu novēršana darba vietā.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="188">
+      <tuv xml:lang="cs">
+        <seg>Jako zaměstnavatel musíte počítat se všemi podmínkami, které můžou mít vliv na zdraví a bezpečnost zaměstnanců.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darba devēja pienākums ir ņemt vērā visus apstākļus, kas varētu ietekmēt darba ņēmēju veselību un drošību.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="189">
+      <tuv xml:lang="cs">
+        <seg>Máte odpovědnost za pracovní prostředí všech, kteří pro vás pracují.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darba devējs ir atbildīgs par visu uzņēmuma darbinieku darba vidi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="190">
+      <tuv xml:lang="cs">
+        <seg>Změny v používání křovinořezů a motorových řetězových pil</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Izmaiņas noteikumos par motorzāģu un zāles pļāvēju izmantošanu</seg>
+      </tuv>
+    </tu>
+    <tu tuid="191">
+      <tuv xml:lang="cs">
+        <seg>Pravidla platná pro používání motorových řetězových pil a křovinořezů jsou v nových předpisech AFS 2012:1, který vstoupil v platnost 1. prosince 2012.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Noteikumi, kas attiecas uz motorzāģu un zāles pļāvēju izmantošanu, ir atrodami normatīvos AFS 2012:1, kas stājās spēkā 2012.gada 1.decembrī.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="192">
+      <tuv xml:lang="cs">
+        <seg>Čtyři velké změny v předpisech AFS 2012:1</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Vienlaikus tika atcelti normatīvi AFS 2000:2.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="193">
+      <tuv xml:lang="cs">
+        <seg>Požadavek dokumentovaných znalostí ve formě zvládnutých teoretických a praktických zkoušek.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Četri svarīgi jaunumi normatīvos AFS 2012:1</seg>
+      </tuv>
+    </tu>
+    <tu tuid="194">
+      <tuv xml:lang="cs">
+        <seg>Zaměstnavatel je povinen splnit požadavek zvlád- nutých zkoušek do 1. ledna 2015.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Prasība par dokumentētām zināšanām, nokārtojot teorētisku un praktisku zināšanu pārbaudi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="195">
+      <tuv xml:lang="cs">
+        <seg>Ochranné vysoké boty/ochranné kotníkové boty s ochranou proti pilám.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Aizsardzības zābaki /apavi zāģēšanai ar pastiprinātiem purngaliem.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="196">
+      <tuv xml:lang="cs">
+        <seg>Být připraven na nejhorší</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Gatavība nelaimes gadījumā</seg>
+      </tuv>
+    </tu>
+    <tu tuid="197">
+      <tuv xml:lang="cs">
+        <seg>Musí vždy být po ruce někdo, kdo má kompetenci, dokáže poskytnout první pomoc a musí být též po ruce výbava pro první pomoc.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darba vietā vienmēr uz vietas jābūt kompetentam speciālistam, kas var sniegt pirmo palīdzību, kā arī izmantot attiecīgu aprīkojumu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="198">
+      <tuv xml:lang="cs">
+        <seg>Zaměstnavatel musí vědět, jak přivolat sanitku a jiná pohotovostní vozidla a dokázat podat zřetelný popis cesty k místu nehody, občas za pomoci koordinátů.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darba devējiem ir jābūt informētiem par to, kā tiek izsaukta ātrā palīdzība un citi neatliekamās palīdzības sniedzēji, kā arī par to, kā sniegt detalizētas nelaimes gadījuma vietas aprakstu ar ceļa norādēm, reizēm izmantojot arī koordinātes.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="199">
+      <tuv xml:lang="cs">
+        <seg>Vienam dirbant</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darbs vienatnē</seg>
+      </tuv>
+    </tu>
+    <tu tuid="200">
+      <tuv xml:lang="cs">
+        <seg>Dirbant vienam miške, keliami atskiri reikalavimai palaikant ryšį su išoriniu pasauliu.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Uz darbu vienatnē mežā attiecas īpašas prasības attiecībā uz komunikāciju ar ārpasauli.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="201">
+      <tuv xml:lang="cs">
+        <seg>Práce samotného jednotlivce</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darbinieku telpas</seg>
+      </tuv>
+    </tu>
+    <tu tuid="202">
+      <tuv xml:lang="cs">
+        <seg>Pracovní vedoucí nebo kolega v práci musí vědět, kde daná osoba v lese pracuje.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darbu telpām ir jāatrodas netālu no darba vietas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="203">
+      <tuv xml:lang="cs">
+        <seg>Práce na polomech nesmí být vykonávána samotným jednotlivcem, osoba musí mít přímé spojení s kolegou nebo s jinou osobou.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>ADI 674, pieejams tikai PDR formātā tīmekļa vietnē www.av.se.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="204">
+      <tuv xml:lang="cs">
+        <seg>Ochranné osobní pracovní prostředky</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Personīgi aizsardzības līdzekļi</seg>
+      </tuv>
+    </tu>
+    <tu tuid="205">
+      <tuv xml:lang="cs">
+        <seg>Pracovník s motorovou řetězovou pilou musí používat tyto ochranné pomůcky:</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Strādājot ar motorzāģi, ir jāizmanto sekojošs personīgi aizsardzības līdzekļi:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="206">
+      <tuv xml:lang="cs">
+        <seg>Ochrannou přilbu Chrániče sluchu Ochranné brýle</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Aizsargķivere, Ausu ielikņi, Aizsargbriles,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="207">
+      <tuv xml:lang="cs">
+        <seg>Obvazové vybavení první pomoci</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Brūces asiņošanu apturši līdzekļi,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="208">
+      <tuv xml:lang="cs">
+        <seg>Ochrannou blůzu nebo vestu s upozorňovací barvou</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Aizsargjaka vai veste, kas aprīkota ar atstarotājiem,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="209">
+      <tuv xml:lang="cs">
+        <seg>Pracovní rukavice Ochranné kalhoty</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Darba cimdi,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="210">
+      <tuv xml:lang="cs">
+        <seg>Ochrannou obuv – vysoké nebo kotníkové boty s ochranou proti pilám</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Aizsargjaka vai veste, kas aprīkota ar atstarotājiem,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="211">
+      <tuv xml:lang="cs">
+        <seg>Chemická rizika při výsadbě a postřiku sazenic</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Aizsardzības zābaki /apavi zāģēšanai ar pastiprinātiem purngaliem.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="212">
+      <tuv xml:lang="cs">
+        <seg>Při styku s chemickou látkou můžete být zraněni přímo nebo onemocnět mnohem později.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Riski, strādājot ar ķīmiskām vielām, veicot augu stādīšanu un smidzināšanu</seg>
+      </tuv>
+    </tu>
+    <tu tuid="213">
+      <tuv xml:lang="cs">
+        <seg>Brožura Úřadu pro pracovní prostředí (Arbetsmiljöverket) Bezpečná práce při ošetřování lesních sazenic a při postřiku po výsadbě (Säkert arbete med behandlade skogsplantor och vid besprutning efter plantering) obsahuje více informací.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Zviedrijas Darba vides pārvaldes brošūra ”Drošs darbs ar apsmidzinātiem stādiem mežā un smidzināšanas laikā pēc stādīšanas” satur papildu informāciju.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="214">
+      <tuv xml:lang="cs">
+        <seg>Pamatujte, že nezletilí nesmějí podle AFS 2012:3 s pesticidy třídy 1 a 2 pracovat.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>1. un 2.klases pesticīdiem saskaņā ar normatīviem AFS 2012:3.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="215">
+      <tuv xml:lang="cs">
+        <seg>Také nesmějí sázet sazenice, které byly těmito pesticidy ošetřeny.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Nepilngadīgām personām ir arī aizliegts strādāt ar smidzinātiem augiem.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="216">
+      <tuv xml:lang="cs">
+        <seg>Kdo smí pracovat s motorovou řetězovou pilou?</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Personas, kas drīkst strādāt ar motorzāģi</seg>
+      </tuv>
+    </tu>
+    <tu tuid="217">
+      <tuv xml:lang="cs">
+        <seg>Osoba musí absolvovat teoretickou a praktickou zkoušku, která potvrzuje, že má znalosti odpovídající pracovním úkolům, jež je třeba vykonat.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Personai, kas ir nokārtojusi teorētisku un praktisku zināšanu pārbaudi, pierādot zināšanu līmeni, kas atbilst darba uzdevuma prasībām.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="218">
+      <tuv xml:lang="cs">
+        <seg>Osoba musí také vlastnit dokumentaci potvrzující požadavky.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Personai ir jābūt apliecinājumam, kurā ir dokumentētas prasības.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="219">
+      <tuv xml:lang="cs">
+        <seg>Kdo smí pracovat s křovinořezem?</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Personas, kas drīkst strādāt ar zāles pļāvēju</seg>
+      </tuv>
+    </tu>
+    <tu tuid="220">
+      <tuv xml:lang="cs">
+        <seg>Kdo pracuje s křovinořezem, musí absolvovat školení pro ten typ práce, která má být vykonána a mít znalosti pro danou práci.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Persona, kas strādā ar zāles pļāvēju, ir jāiziet apmācība, kurā iekļauta zināšanu pārbaude par veicamo darba uzdevumu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="221">
+      <tuv xml:lang="cs">
+        <seg>Zachovejte respekt před padajícími stromy</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Esiet uzmanīgi krītošu koku tuvumā</seg>
+      </tuv>
+    </tu>
+    <tu tuid="222">
+      <tuv xml:lang="cs">
+        <seg>Každoročně se přihodí vícero smrtelných úrazů při kácení stromů.</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Katru gadu tiek reģistrēti vairāki naves gadījumi, gāžot kokus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="223">
+      <tuv xml:lang="cs">
+        <seg>Internetová stránka úřadu Arbetsmiljöverket – Úřadu pro pracovní prostředí</seg>
+      </tuv>
+      <tuv xml:lang="lv">
+        <seg>Zviedrijas Darba vides pārvaldes tīmekļa vietne</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,1685 @@
+
+Acclimatisation
+The physiological adaptation to climatic variations.
+Active layer
+The top layer of soil or rock in permafrost that is subjected to
+seasonal freezing and thawing.
+Adaptability
+See adaptive capacity.
+Adaptation
+Adjustment in natural or human systems in response to actual or
+expected climatic stimuli or their effects, which moderates harm
+or exploits beneficial opportunities. Various types of adaptation
+can be distinguished, including anticipatory, autonomous and
+planned adaptation:
+Anticipatory adaptation – Adaptation that takes place before
+impacts of climate change are observed.Also referred
+to as proactive adaptation.
+Autonomous adaptation – Adaptation that does not constitute
+a conscious response to climatic stimuli but is
+triggered by ecological changes in natural systems
+and by market or welfare changes in human systems.
+Also referred to as spontaneous adaptation.
+Planned adaptation – Adaptation that is the result of a deliberate
+policy decision, based on an awareness that
+conditions have changed or are about to change and
+that action is required to return to, maintain, or
+achieve a desired state.
+Adaptation assessment
+The practice of identifying options to adapt to climate change
+and evaluating them in terms of criteria such as availability, benefits,
+costs, effectiveness, efficiency and feasibility.
+Adaptation benefits
+The avoided damage costs or the accrued benefits following the
+adoption and implementation of adaptation measures.
+Adaptation costs
+Costs of planning, preparing for, facilitating, and implementing
+adaptation measures, including transition costs.
+Adaptive capacity (in relation to climate change impacts)
+The ability of a system to adjust to climate change (including
+climate variability and extremes) to moderate potential damages,
+to take advantage of opportunities, or to cope with the consequences.
+Aerosols
+A collection of air-borne solid or liquid particles, with a typical
+size between 0.01 and 10 μm, that reside in the atmosphere for
+at least several hours. Aerosols may be of either natural or anthropogenic
+origin.Aerosols may influence climate in two ways:
+directly through scattering and absorbing radiation, and indirectly
+through acting as condensation nuclei for cloud formation
+or modifying the optical properties and lifetime of clouds.
+Afforestation
+Direct human-induced conversion of land that has not been
+forested for a period of at least 50 years to forested land through
+planting, seeding and/or the human-induced promotion of natural
+seed sources. See also reforestation and deforestation. For a
+discussion of the term forest and related terms such as afforestation,
+reforestation and deforestation, see the IPCC Special
+Report on Land Use, Land-Use Change, and Forestry (IPCC,
+).
+Aggregate impacts
+Total impacts integrated across sectors and/or regions. The aggregation
+of impacts requires knowledge of (or assumptions
+about) the relative importance of impacts in different sectors and
+regions. Measures of aggregate impacts include, for example,
+the total number of people affected, or the total economic costs.
+Albedo
+The fraction of solar radiation reflected by a surface or object,
+often expressed as a percentage. Snow-covered surfaces have a
+Appendix I: Glossary
+Notes:
+. This glossary defines some specific terms as the lead authors intend them to be interpreted in the context of this Report.
+.Words in italic indicate that the following term is also contained in this glossary.
+high albedo; the albedo of soils ranges from high to low; vegetation-
+covered surfaces and oceans have a low albedo. The
+Earth’s albedo varies mainly through varying cloudiness, snow,
+ice, leaf area, and land-cover changes.
+Algae
+Photosynthetic, often microscopic and planktonic, organisms occurring
+in marine and freshwater ecosystems.
+Algal bloom
+A reproductive explosion of algae in a lake, river or ocean.
+Alpine
+The biogeographic zone made up of slopes above the tree line
+characterised by the presence of rosette-forming herbaceous
+plants and low, shrubby, slow-growing woody plants.
+Anthropogenic
+Resulting from or produced by human beings.
+AOGCM
+See climate model.
+Aquaculture
+The managed cultivation of aquatic plants or animals such as
+salmon or shellfish held in captivity for the purpose of harvesting.
+Aquifer
+A stratum of permeable rock that bears water. An unconfined
+aquifer is recharged directly by local rainfall, rivers and lakes,
+and the rate of recharge will be influenced by the permeability
+of the overlying rocks and soils.
+Aragonite
+Acalcium carbonate (limestone) mineral, used by shell- or skeleton-
+forming, calcifying organisms such as corals (warm- and coldwater
+corals), some macroalgae, pteropods (marine snails) and
+non-pteropod molluscs such as bivalves (e.g., clams, oysters),
+cephalopods (e.g., squids, octopuses).Aragonite is more sensitive
+to ocean acidification than calcite, also used by many marine organisms.
+See also calcite and ocean acidification.
+Arbovirus
+Any of various viruses transmitted by blood-sucking arthropods
+(e.g., mosquitoes, ticks, etc.) and including the causative agents
+of dengue fever, yellow fever, and some types of encephalitis.
+Arid region
+A land region of low rainfall, where ‘low’ is widely accepted to
+be <250 mm precipitation per year.
+Atmosphere
+The gaseous envelope surrounding the Earth. The dry atmosphere
+consists almost entirely of nitrogen and oxygen, together
+with trace gases including carbon dioxide and ozone.
+Attribution
+See Detection and attribution
+Baseline/reference
+The baseline (or reference) is the state against which change is
+measured. It might be a ‘current baseline’, in which case it represents
+observable, present-day conditions. It might also be a
+‘future baseline’, which is a projected future set of conditions
+excluding the driving factor of interest. Alternative interpretations
+of the reference conditions can give rise to multiple baselines.
+Basin
+The drainage area of a stream, river or lake.
+Benthic community
+The community of organisms living on or near the bottom of a
+water body such as a river, a lake or an ocean.
+Biodiversity
+The total diversity of all organisms and ecosystems at various
+spatial scales (from genes to entire biomes).
+Biofuel
+A fuel produced from organic matter or combustible oils produced
+by plants. Examples of biofuel include alcohol, black
+liquor from the paper-manufacturing process, wood, and soybean
+oil.
+Biomass
+The total mass of living organisms in a given area or volume; recently
+dead plant material is often included as dead biomass.
+The quantity of biomass is expressed as a dry weight or as the
+energy, carbon or nitrogen content.
+Biome
+Major and distinct regional element of the biosphere, typically
+consisting of several ecosystems (e.g., forests, rivers, ponds,
+swamps) within a region of similar climate. Biomes are characterised
+by typical communities of plants and animals.
+Biosphere
+The part of the Earth system comprising all ecosystems and living
+organisms in the atmosphere, on land (terrestrial biosphere),
+or in the oceans (marine biosphere), including derived dead organic
+matter, such as litter, soil organic matter, and oceanic detritus.
+Biota
+All living organisms of an area; the flora and fauna considered
+as a unit.
+Bog
+Peat-accumulating acidic wetland.
+Boreal forest
+Forests of pine, spruce, fir and larch stretching from the east
+coast of Canada westward toAlaska and continuing from Siberia
+Appendix I: Glossary
+
+westward across the entire extent of Russia to the European
+Plain. The climate is continental, with long, very cold winters
+(up to 6 months with mean temperatures below freezing), and
+short, cool summers (50 to 100 frost-free days). Precipitation increases
+during summer months, although annual precipitation is
+still small. Low evaporation rates can make this a humid climate.
+See taiga.
+Breakwater
+Ahard engineering structure built in the sea which, by breaking
+waves, protects a harbour, anchorage, beach or shore area. A
+breakwater can be attached to the coast or lie offshore.
+C3 plants
+Plants that produce a three-carbon compound during photosynthesis,
+including most trees and agricultural crops such as rice,
+wheat, soybeans, potatoes and vegetables.
+C4 plants
+Plants, mainly of tropical origin, that produce a four-carbon compound
+during photosynthesis, includingmany grasses and the agriculturally
+important cropsmaize, sugar cane,millet and sorghum.
+Calcareous organisms
+A large and diverse group of organisms, many marine, that use
+calcite or aragonite to form shells or skeletons. See calcite,
+aragonite and ocean acidification.
+Calcite
+A calcium carbonate (limestone) mineral, used by shell- or
+skeleton-forming, calcifying organisms such as foraminifera,
+some macroalgae, lobsters, crabs, sea urchins and starfish. Calcite
+is less sensitive to ocean acidification than aragonite, also
+used by many marine organisms. See also aragonite and ocean
+acidification.
+Capacity building
+In the context of climate change, capacity building is developing
+the technical skills and institutional capabilities in developing
+countries and economies in transition to enable their
+participation in all aspects of adaptation to, mitigation of, and research
+on climate change, and in the implementation of the
+Kyoto Mechanisms, etc.
+Carbon cycle
+The term used to describe the flow of carbon (in various forms,
+e.g., carbon dioxide) through the atmosphere, ocean, terrestrial
+biosphere and lithosphere.
+Carbon dioxide (CO2)
+A naturally occurring gas fixed by photosynthesis into organic
+matter. A by-product of fossil fuel combustion and biomass
+burning, it is also emitted from land-use changes and other industrial
+processes. It is the principal anthropogenic greenhouse
+gas that affects the Earth’s radiative balance. It is the reference
+gas against which other greenhouse gases are measured, thus
+having a GlobalWarming Potential of 1.
+Carbon dioxide fertilisation
+The stimulation of plant photosynthesis due to elevated CO2 concentrations, leading to either enhanced productivity and/or
+efficiency of primary production. In general, C3 plants show a
+larger response to elevated CO2 than C4 plants.
+Carbon sequestration
+The process of increasing the carbon content of a reservoir/pool
+other than the atmosphere.
+Catchment
+An area that collects and drains rainwater.
+CDM (Clean Development Mechanism)
+The CDM allows greenhouse gas emission reduction projects
+to take place in countries that have no emission targets under the
+United Nations Framework Convention on Climate Change
+(UNFCCC) Kyoto Protocol, yet are signatories.
+Chagas’ disease
+A parasitic disease caused by the Trypanosoma cruzi and transmitted
+by triatomine bugs in the Americas, with two clinical periods:
+acute (fever, swelling of the spleen, oedemas) and chronic
+(digestive syndrome, potentially fatal heart condition).
+Cholera
+A water-borne intestinal infection caused by a bacterium (Vibrio
+cholerae) that results in frequent watery stools, cramping abdominal
+pain, and eventual collapse from dehydration and
+shock.
+Climate
+Climate in a narrow sense is usually defined as the ‘average
+weather’, or more rigorously, as the statistical description in
+terms of the mean and variability of relevant quantities over a
+period of time ranging from months to thousands or millions of
+years. These quantities are most often surface variables such as
+temperature, precipitation, and wind. Climate in a wider sense is
+the state, including a statistical description, of the climate system.
+The classical period of time is 30 years, as defined by the
+World Meteorological Organization (WMO).
+Climate change
+Climate change refers to any change in climate over time,
+whether due to natural variability or as a result of human activity.
+This usage differs from that in the United Nations Framework
+Convention on Climate Change (UNFCCC), which defines
+‘climate change’ as: ‘a change of climate which is attributed directly
+or indirectly to human activity that alters the composition
+of the global atmosphere and which is in addition to natural climate
+variability observed over comparable time periods’. See
+also climate variability.
+Climate change commitment
+Due to the thermal inertia of the ocean and slow processes in the
+biosphere, the cryosphere and land surfaces, the climate would
+continue to change even if the atmospheric composition was
+held fixed at today’s values. Past change in atmospheric com-
+Appendix I: Glossary
+
+Appendix I: Glossary
+
+position leads to a ‘committed’ climate change which continues
+for as long as a radiative imbalance persists and until all components
+of the climate system have adjusted to a new state. The
+further change in temperature after the composition of the atmosphere
+is held constant is referred to as the committed warming
+or warming commitment. Climate change commitment
+includes other future changes, for example in the hydrological
+cycle, in extreme weather events, and in sea-level rise.
+Climate model
+A numerical representation of the climate system based on the
+physical, chemical, and biological properties of its components,
+their interactions and feedback processes, and accounting for all
+or some of its known properties. The climate system can be represented
+by models of varying complexity (i.e., for any one component
+or combination of components a hierarchy of models can
+be identified, differing in such aspects as the number of spatial
+dimensions, the extent to which physical, chemical, or biological
+processes are explicitly represented, or the level at which
+empirical parameterisations are involved. Coupled atmosphere/
+ocean/sea-ice General Circulation Models (AOGCMs)
+provide a comprehensive representation of the climate system.
+More complex models include active chemistry and biology. Climate
+models are applied, as a research tool, to study and simulate
+the climate, but also for operational purposes, including
+monthly, seasonal, and interannual climate predictions.
+Climate prediction
+A climate prediction or climate forecast is the result of an attempt
+to produce an estimate of the actual evolution of the climate
+in the future, e.g., at seasonal, interannual or long-term
+time scales. See also climate projection and climate (change)
+scenario.
+Climate projection
+The calculated response of the climate system to emissions or
+concentration scenarios of greenhouse gases and aerosols, or
+radiative forcing scenarios, often based on simulations by climate
+models. Climate projections are distinguished from climate
+predictions, in that the former critically depend on the emissions/
+concentration/radiative forcing scenario used, and therefore
+on highly uncertain assumptions of future socio-economic
+and technological development.
+Climate (change) scenario
+Aplausible and often simplified representation of the future climate,
+based on an internally consistent set of climatological relationships
+and assumptions of radiative forcing, typically
+constructed for explicit use as input to climate change impact
+models.A‘climate change scenario’ is the difference between a
+climate scenario and the current climate.
+Climate sensitivity
+The equilibrium temperature rise that would occur for a doubling
+of CO2 concentration above pre-industrial levels.
+Climate system
+The climate system is defined by the dynamics and interactions
+of five major components: atmosphere, hydrosphere, cryosphere,
+land surface, and biosphere. Climate system dynamics
+are driven by both internal and external forcing, such as volcanic
+eruptions, solar variations, or human-induced modifications to
+the planetary radiative balance, for instance via anthropogenic
+emissions of greenhouse gases and/or land-use changes.
+Climate threshold
+The point at which external forcing of the climate system, such
+as the increasing atmospheric concentration of greenhouse
+gases, triggers a significant climatic or environmental event
+which is considered unalterable, or recoverable only on very
+long time-scales, such as widespread bleaching of corals or a
+collapse of oceanic circulation systems.
+Climate variability
+Climate variability refers to variations in the mean state and
+other statistics (such as standard deviations, statistics of extremes,
+etc.) of the climate on all temporal and spatial scales beyond
+that of individual weather events. Variability may be due
+to natural internal processes within the climate system (internal
+variability), or to variations in natural or anthropogenic external
+forcing (external variability). See also climate change.
+CO2 fertilisation
+See carbon dioxide fertilisation.
+Coastal squeeze
+The squeeze of coastal ecosystems (e.g., salt marshes, mangroves
+and mud and sand flats) between rising sea levels and
+naturally or artificially fixed shorelines, including hard engineering
+defences (see Chapter 6).
+Coccolithophores
+Single-celled microscopic phytoplankton algae which construct
+shell-like structures from calcite (a form of calcium carbonate).
+See also calcite and ocean acidification.
+Committed to extinction
+This term describes a species with dwindling population that is
+in the process of inescapably becoming extinct in the absence
+of human intervention. See also extinction.
+Communicable disease
+An infectious disease caused by transmission of an infective biological
+agent (virus, bacterium, protozoan, or multicellular
+macroparasite).
+Confidence
+In this Report, the level of confidence in a statement is expressed
+using a standard terminology defined in the Introduction. See
+also uncertainty.
+Control run
+A model run carried out to provide a ‘baseline’ for comparison
+with climate-change experiments. The control run uses constant
+values for the radiative forcing due to greenhouse gases and anthropogenic
+aerosols appropriate to pre-industrial conditions.
+Appendix I: Glossary
+
+Coral
+The term ‘coral’ has several meanings, but is usually the common
+name for the Order Scleractinia, all members of which have
+hard limestone skeletons, and which are divided into reef-building
+and non-reef-building, or cold- and warm-water corals.
+Coral bleaching
+The paling in colour which results if a coral loses its symbiotic,
+energy-providing, organisms.
+Coral reefs
+Rock-like limestone (calcium carbonate) structures built by
+corals along ocean coasts (fringing reefs) or on top of shallow,
+submerged banks or shelves (barrier reefs, atolls), most conspicuous
+in tropical and sub-tropical oceans.
+Cryosphere
+The component of the climate system consisting of all snow and
+ice (including permafrost) on and beneath the surface of the
+Earth and ocean.
+Cryptogams
+An outdated but still-used term, denoting a group of diverse and
+taxonomically unrelated organisms, including fungi and lower
+plants such as algae, lichens, hornworts, liverworts, mosses and
+ferns.
+Deforestation
+Natural or anthropogenic process that converts forest land to
+non-forest. See afforestation and reforestation.
+Dengue fever
+An infectious viral disease spread by mosquitoes, often called
+breakbone fever because it is characterised by severe pain in the
+joints and back. Subsequent infections of the virus may lead to
+dengue haemorrhagic fever (DHF) and dengue shock syndrome
+(DSS), which may be fatal.
+Desert
+A region of very low rainfall, where ‘very low’ is widely accepted
+to be <100 mm per year.
+Desertification
+Land degradation in arid, semi-arid, and dry sub-humid areas
+resulting from various factors, including climatic variations and
+human activities. Further, the United Nations Convention to
+Combat Desertification (UNCCD) defines land degradation as a
+reduction or loss in arid, semi-arid, and dry sub-humid areas of
+the biological or economic productivity and complexity of rainfed
+cropland, irrigated cropland, or range, pasture, forest and
+woodlands resulting from land uses or from a process or combination
+of processes, including those arising from human activities
+and habitation patterns, such as: (i) soil erosion caused by
+wind and/or water; (ii) deterioration of the physical, chemical,
+and biological or economic properties of soil; and (iii) long-term
+loss of natural vegetation.
+Detection and attribution
+Detection of change in a system (natural or human) is the
+process of demonstrating that the system has changed in some
+defined statistical sense, without providing a reason for that
+change.
+Attribution of such an observed change in a system to anthropogenic
+climate change is usually a two-stage process. First, the
+observed change in the system must be demonstrated to be associated
+with an observed regional climate change with a specified
+degree of confidence. Second, a measurable portion of the
+observed regional climate change, or the associated observed
+change in the system, must be attributed to anthropogenic climate
+forcing with a similar degree of confidence.
+Confidence in such joint attribution statements must be lower
+than the confidence in either of the individual attribution steps
+alone due to the combination of two separate statistical assessments.
+Diadromous
+Fish that travel between salt water and freshwater.
+Discount rate
+The degree to which consumption now is preferred to consumption
+one year hence, with prices held constant, but average
+incomes rising in line with GDP per capita.
+Disturbance regime
+Frequency, intensity, and types of disturbances, such as fires, insect
+or pest outbreaks, floods and droughts.
+Downscaling
+A method that derives local- to regional-scale (10 to 100 km)
+information from larger-scale models or data analyses.
+Drought
+The phenomenon that exists when precipitation is significantly
+below normal recorded levels, causing serious hydrological imbalances
+that often adversely affect land resources and production
+systems.
+Dyke
+A human-made wall or embankment along a shore to prevent
+flooding of low-lying land.
+Dynamic global vegetation model (DGVM)
+Models that simulate vegetation development and dynamics
+through space and time, as driven by climate and other environmental
+changes.
+Ecological community
+Acommunity of plants and animals characterised by a typical assemblage
+of species and their abundances. See also ecosystem.
+Ecological corridor
+A thin strip of vegetation used by wildlife, potentially allowing
+movement of biotic factors between two areas.
+Ecophysiological process
+Individual organisms respond to environmental variability, such
+as climate change, through ecophysiological processes which
+operate continuously, generally at a microscopic or sub-organ
+scale. Ecophysiological mechanisms underpin individual organism’s
+tolerance to environmental stress, and comprise a
+broad range of responses defining the absolute tolerance limits
+of individuals to environmental conditions. Ecophysiological responses
+may scale up to control species geographic ranges.
+Ecosystem
+The interactive system formed from all living organisms and
+their abiotic (physical and chemical) environment within a given
+area. Ecosystems cover a hierarchy of spatial scales and can
+comprise the entire globe, biomes at the continental scale or
+small, well-circumscribed systems such as a small pond.
+Ecosystem approach
+The ecosystem approach is a strategy for the integrated management
+of land, water and living resources that promotes conservation
+and sustainable use in an equitable way.An ecosystem
+approach is based on the application of appropriate scientific
+methodologies focused on levels of biological organisation,
+which encompass the essential structure, processes, functions
+and interactions among organisms and their environment. It
+recognises that humans, with their cultural diversity, are an integral
+component of many ecosystems. The ecosystem approach
+requires adaptive management to deal with the complex and dynamic
+nature of ecosystems and the absence of complete knowledge
+or understanding of their functioning. Priority targets are
+conservation of biodiversity and of the ecosystem structure and
+functioning, in order to maintain ecosystem services.
+Ecosystem services
+Ecological processes or functions having monetary or non-monetary
+value to individuals or society at large. There are (i) supporting
+services such as productivity or biodiversity
+maintenance, (ii) provisioning services such as food, fibre, or
+fish, (iii) regulating services such as climate regulation or carbon
+sequestration, and (iv) cultural services such as tourism or
+spiritual and aesthetic appreciation.
+Ecotone
+Transition area between adjacent ecological communities (e.g.,
+between forests and grasslands).
+El Niño-Southern Oscillation (ENSO)
+El Niño, in its original sense, is a warm-water current that periodically
+flows along the coast of Ecuador and Peru, disrupting the
+local fishery. This oceanic event is associated with a fluctuation of
+the inter-tropical surface pressure pattern and circulation in the Indian
+and PacificOceans, called the SouthernOscillation. This coupled
+atmosphere-ocean phenomenon is collectively known as El
+Niño-Southern Oscillation. During an El Niño event, the prevailing
+tradewindsweaken and the equatorial countercurrent strengthens,
+causing warm surface waters in the Indonesian area to flow
+eastward to overlie the cold waters of the Peru current. This event
+has great impact on the wind, sea surface temperature, and precipitation
+patterns in the tropical Pacific. It has climatic effects
+throughout the Pacific region and inmany other parts of theworld.
+The opposite of an El Niño event is called La Niña.
+Emissions scenario
+A plausible representation of the future development of emissions
+of substances that are potentially radiatively active (e.g.,
+greenhouse gases, aerosols), based on a coherent and internally
+consistent set of assumptions about driving forces (such as demographic
+and socio-economic development, technological
+change) and their key relationships. In 1992, the IPCC presented
+a set of emissions scenarios that were used as a basis for the climate
+projections in the SecondAssessment Report. These emissions
+scenarios are referred to as the IS92 scenarios. In the IPCC
+Special Report on Emissions Scenarios (SRES) (Nakićenović et
+al., 2000), new emissions scenarios – the so-called SRES scenarios
+– were published.
+Endemic
+Restricted or peculiar to a locality or region. With regard to
+human health, endemic can refer to a disease or agent present
+or usually prevalent in a population or geographical area at all
+times.
+Ensemble
+A group of parallel model simulations used for climate projections.
+Variation of the results across the ensemble members gives
+an estimate of uncertainty. Ensembles made with the same
+model but different initial conditions only characterise the uncertainty
+associated with internal climate variability, whereas
+multi-model ensembles including simulations by several models
+also include the impact of model differences.
+Epidemic
+Occurring suddenly in incidence rates clearly in excess of normal
+expectancy, applied especially to infectious diseases but
+may also refer to any disease, injury, or other health-related
+event occurring in such outbreaks.
+Erosion
+The process of removal and transport of soil and rock by weathering,
+mass wasting, and the action of streams, glaciers, waves,
+winds and underground water.
+Eustatic sea-level rise
+See sea-level rise.
+Eutrophication
+The process by which a body of water (often shallow) becomes
+(either naturally or by pollution) rich in dissolved nutrients, with
+a seasonal deficiency in dissolved oxygen.
+Evaporation
+The transition process from liquid to gaseous state.
+Evapotranspiration
+The combined process of water evaporation from the Earth’s
+surface and transpiration from vegetation.
+Appendix I: Glossary
+
+Externalities
+Occur when a change in the production or consumption of one
+individual or firm affects indirectly the well-being of another individual
+or firm. Externalities can be positive or negative. The
+impacts of pollution on ecosystems, water courses or air quality
+represent classic cases of negative externality.
+Extinction
+The global disappearance of an entire species.
+Extirpation
+The disappearance of a species from part of its range; local extinction.
+Extreme weather event
+An event that is rare within its statistical reference distribution
+at a particular place. Definitions of ‘rare’ vary, but an extreme
+weather event would normally be as rare as or rarer than the 10th
+or 90th percentile. By definition, the characteristics of what is
+called ‘extreme weather’may vary from place to place. Extreme
+weather events may typically include floods and droughts.
+Feedback
+An interaction mechanism between processes is called a feedback.
+When the result of an initial process triggers changes in a
+second process and that in turn influences the initial one.Apositive
+feedback intensifies the original process, and a negative
+feedback reduces it.
+Food chain
+The chain of trophic relationships formed if several species feed
+on each other. See food web and trophic level.
+Food security
+A situation that exists when people have secure access to sufficient
+amounts of safe and nutritious food for normal growth, development
+and an active and healthy life. Food insecurity may
+be caused by the unavailability of food, insufficient purchasing
+power, inappropriate distribution, or inadequate use of food at
+the household level.
+Food web
+The network of trophic relationships within an ecological community
+involving several interconnected food chains.
+Forecast
+See climate prediction and climate projection.
+Forest limit/line
+The upper elevational or latitudinal limit beyond which natural
+tree regeneration cannot develop into a closed forest stand. It is
+typically at a lower elevation or more distant from the poles than
+the tree line.
+Freshwater lens
+A lenticular fresh groundwater body that underlies an oceanic
+island. It is underlain by saline water.
+Functional extinction
+This term defines a species which has lost its capacity to persist
+and to recover because its populations have declined to below a
+minimum size. See committed to extinction.
+General Circulation Model (GCM)
+See climate model.
+Generalist
+A species that can tolerate a wide range of environmental conditions.
+Glacier
+A mass of land ice flowing downhill (by internal deformation
+and sliding at the base) and constrained by the surrounding topography
+(e.g., the sides of a valley or surrounding peaks). A
+glacier is maintained by accumulation of snow at high altitudes,
+balanced by melting at low altitudes or discharge into the sea.
+Globalisation
+The growing integration and interdependence of countries
+worldwide through the increasing volume and variety of crossborder
+transactions in goods and services, free international capital
+flows, and the more rapid and widespread diffusion of
+technology, information and culture.
+Greenhouse effect
+The process in which the absorption of infrared radiation by the
+atmosphere warms the Earth.
+In common parlance, the term ‘greenhouse effect’ may be used
+to refer either to the natural greenhouse effect, due to naturally
+occurring greenhouse gases, or to the enhanced (anthropogenic)
+greenhouse effect, which results from gases emitted as a result
+of human activities.
+Greenhouse gas
+Greenhouse gases are those gaseous constituents of the atmosphere,
+both natural and anthropogenic, that absorb and emit radiation
+at specific wavelengths within the spectrum of infrared
+radiation emitted by the Earth’s surface, the atmosphere, and
+clouds. This property causes the greenhouse effect.Water vapour
+(H2O), carbon dioxide (CO2), nitrous oxide (N2O), methane
+(CH4) and ozone (O3) are the primary greenhouse gases in the
+Earth’s atmosphere. As well as CO2, N2O, and CH4, the Kyoto
+Protocol deals with the greenhouse gases sulphur hexafluoride
+(SF6), hydrofluorocarbons (HFCs) and perfluorocarbons (PFCs).
+Gross Domestic Product
+Gross Domestic Product (GDP) is the monetary value of all
+goods and services produced within a nation.
+Gross National Product
+Gross National Product (GNP) is the monetary value of all goods
+and services produced in a nation’s economy, including income
+generated abroad by domestic residents, but without income
+generated by foreigners.
+Appendix I: Glossary
+
+Gross primary production
+The total carbon fixed by plant through photosynthesis.
+Groundwater recharge
+The process by which external water is added to the zone of saturation
+of an aquifer, either directly into a formation or indirectly
+by way of another formation.
+Groyne
+Alow, narrow jetty, usually extending roughly perpendicular to
+the shoreline, designed to protect the shore from erosion by currents,
+tides or waves, by trapping sand for the purpose of replenishing
+or making a beach.
+Habitat
+The locality or natural home in which a particular plant, animal,
+or group of closely associated organisms lives.
+Hantavirus
+A virus in the family Bunyaviridae that causes a type of haemorrhagic
+fever. It is thought that humans catch the disease mainly
+from infected rodents, either through direct contact with the animals
+or by inhaling or ingesting dust that contains aerosolised
+viral particles from their dried urine and other secretions.
+Heat island
+An urban area characterised by ambient temperatures higher
+than those of the surrounding non-urban area. The cause is a
+higher absorption of solar energy by materials of the urban fabric
+such as asphalt.
+Herbaceous
+Flowering, non-woody.
+Human system
+Any system in which human organisations play a major role.
+Often, but not always, the term is synonymous with ‘society’ or
+‘social system’ e.g., agricultural system, political system, technological
+system, economic system; all are human systems in
+the sense applied in the AR4.
+Hydrographic events
+Events that alter the state or current of waters in oceans, rivers
+or lakes.
+Hydrological systems
+The systems involved in movement, distribution, and quality of
+water throughout the Earth, including both the hydrologic cycle
+and water resources.
+Hypolimnetic
+Referring to the part of a lake below the thermocline made up of
+water that is stagnant and of essentially uniform temperature except
+during the period of overturn.
+Hypoxic events
+Events that lead to a deficiency of oxygen.
+Ice cap
+A dome-shaped ice mass covering a highland area that is considerably
+smaller in extent than an ice sheet.
+Ice sheet
+A mass of land ice that is sufficiently deep to cover most of the
+underlying bedrock topography. An ice sheet flows outwards
+from a high central plateau with a small average surface slope.
+The margins slope steeply, and the ice is discharged through fastflowing
+ice streams or outlet glaciers, in some cases into the sea
+or into ice shelves floating on the sea. There are only two large
+ice sheets in the modern world – on Greenland and Antarctica,
+the Antarctic ice sheet being divided into east and west by the
+TransantarcticMountains; during glacial periods there were others.
+Ice shelf
+Afloating ice sheet of considerable thickness attached to a coast
+(usually of great horizontal extent with a level or gently undulating
+surface); often a seaward extension of ice sheets. Nearly
+all ice shelves are in Antarctica.
+(climate change) Impact assessment
+The practice of identifying and evaluating, in monetary and/or
+non-monetary terms, the effects of climate change on natural
+and human systems.
+(climate change) Impacts
+The effects of climate change on natural and human systems.
+Depending on the consideration of adaptation, one can distinguish
+between potential impacts and residual impacts:
+Potential impacts: all impacts that may occur given a projected
+change in climate, without considering adaptation.
+Residual impacts: the impacts of climate change that would
+occur after adaptation. See also aggregate impacts, market
+impacts, and non-market impacts.
+Indigenous peoples
+No internationally accepted definition of indigenous peoples exists.
+Common characteristics often applied under international
+law, and by United Nations agencies to distinguish indigenous
+peoples include: residence within or attachment to geographically
+distinct traditional habitats, ancestral territories, and their
+natural resources; maintenance of cultural and social identities,
+and social, economic, cultural and political institutions separate
+from mainstream or dominant societies and cultures; descent
+from population groups present in a given area, most frequently
+before modern states or territories were created and current borders
+defined; and self-identification as being part of a distinct
+indigenous cultural group, and the desire to preserve that cultural
+identity.
+Industrial revolution
+Aperiod of rapid industrial growth with far-reaching social and
+economic consequences, beginning in England during the second
+half of the 18th century and spreading to Europe and later
+to other countries including the USA. The industrial revolution
+marks the beginning of a strong increase in combustion of fos-
+Appendix I: Glossary
+
+sil fuels and related emissions of carbon dioxide. In the AR4,
+the term ‘pre-industrial’ refers, somewhat arbitrarily, to the period
+before 1750.
+Infectious disease
+Any disease caused by microbial agents that can be transmitted
+from one person to another or from animals to people. This may
+occur by direct physical contact, by handling of an object that
+has picked up infective organisms, through a disease carrier, via
+contaminated water, or by the spread of infected droplets
+coughed or exhaled into the air.
+Infrastructure
+The basic equipment, utilities, productive enterprises, installations
+and services essential for the development, operation and
+growth of an organisation, city or nation.
+Integrated assessment
+An interdisciplinary process of combining, interpreting and
+communicating knowledge from diverse scientific disciplines
+so that all relevant aspects of a complex societal issue can be
+evaluated and considered for the benefit of decision-making.
+Integrated water resources management (IWRM)
+The prevailing concept for water management which, however,
+has not been defined unambiguously. IWRM is based on four
+principles that were formulated by the International Conference
+onWater and the Environment in Dublin, 1992: (1) fresh water
+is a finite and vulnerable resource, essential to sustain life, development
+and the environment; (2) water development and
+management should be based on a participatory approach, involving
+users, planners and policy-makers at all levels; (3)
+women play a central part in the provision, management and
+safeguarding of water; (4) water has an economic value in all its
+competing uses and should be recognised as an economic good.
+Invasive species and invasive alien species (IAS)
+Aspecies aggressively expanding its range and population density
+into a region in which it is not native, often through outcompeting
+or otherwise dominating native species.
+Irrigation water-use efficiency
+Irrigation water-use efficiency is the amount of biomass or seed
+yield produced per unit irrigation water applied, typically about
+tonne of dry matter per 100 mm water applied.
+Isohyet
+A line on a map connecting locations that receive the same
+amount of rainfall.
+Joint attribution
+Involves both attribution of observed changes to regional climate
+change and attribution of a measurable portion of either
+regional climate change or the associated observed changes in
+the system to anthropogenic causes, beyond natural variability.
+This process involves statistically linking climate-change simulations
+from climate models with the observed responses in the
+natural or managed system. Confidence in joint attribution statements
+must be lower than the confidence in either of the individual
+attribution steps alone due to the combination of two separate
+statistical assessments.
+Keystone species
+A species that has a central servicing role affecting many other
+organisms and whose demise is likely to result in the loss of a
+number of species and lead to major changes in ecosystem function.
+Kyoto Protocol
+The Kyoto Protocol was adopted at the Third Session of the
+Conference of the Parties (COP) to the UN Framework Convention
+on Climate Change (UNFCCC) in 1997 in Kyoto, Japan.
+It contains legally binding commitments, in addition to those included
+in the UNFCCC. Countries included in Annex B of the
+Protocol (most member countries of the Organisation for Economic
+Cooperation and Development (OECD) and those with
+economies in transition) agreed to reduce their anthropogenic
+greenhouse gas emissions (CO2, CH4, N2O, HFCs, PFCs, and
+SF6) by at least 5% below 1990 levels in the commitment period
+to 2012. The Kyoto Protocol entered into force on 16 February
+.
+La Niña
+See El Niño-Southern Oscillation (ENSO).
+Landslide
+Amass of material that has slipped downhill by gravity, often assisted
+by water when the material is saturated; the rapid movement
+of a mass of soil, rock or debris down a slope.
+Large-scale singularities
+Abrupt and dramatic changes in the state of given systems, in
+response to gradual changes in driving forces. For example, a
+gradual increase in atmospheric greenhouse gas concentrations
+may lead to such large-scale singularities as slowdown or collapse
+of the thermohaline circulation or collapse of the West
+Antarctic ice sheet. The occurrence, magnitude, and timing of
+large-scale singularities are difficult to predict.
+Last Glacial Maximum
+The Last Glacial Maximum refers to the time of maximum extent
+of the ice sheets during the last glaciation, approximately
+,000 years ago.
+Leaching
+The removal of soil elements or applied chemicals by water
+movement through the soil.
+Leaf area index (LAI)
+The ratio between the total leaf surface area of a plant and the
+ground area covered by its leaves.
+Legume
+Plants that fix nitrogen from the air through a symbiotic relationship
+with bacteria in their soil and root systems (e.g., soybean,
+peas, beans, lucerne, clovers).
+Appendix I: Glossary
+
+Likelihood
+The likelihood of an occurrence, an outcome or a result, where
+this can be estimated probabilistically, is expressed in this Report
+using a standard terminology, defined in the Introduction. See
+also uncertainty and confidence.
+Limnology
+Study of lakes and their biota.
+Littoral zone
+A coastal region; the zone between high and low watermarks.
+Malaria
+Endemic or epidemic parasitic disease caused by species of the
+genus Plasmodium (Protozoa) and transmitted by mosquitoes of
+the genus Anopheles; produces bouts of high fever and systemic
+disorders, affects about 300 million and kills approximately
+million people worldwide every year.
+Market impacts
+Impacts that can be quantified in monetary terms, and directly
+affect Gross Domestic Product – e.g., changes in the price of
+agricultural inputs and/or goods. See also non-market impacts.
+Meningitis
+Inflammation of the meninges (part of the covering of the brain),
+usually caused by bacteria, viruses or fungi.
+Meridional overturning circulation (MOC)
+See thermohaline circulation (THC).
+Microclimate
+Local climate at or near the Earth’s surface. See also climate.
+Millennium Development Goals (MDGs)
+A list of ten goals, including eradicating extreme poverty and
+hunger, improving maternal health, and ensuring environmental
+sustainability, adopted in 2000 by the UN General Assembly,
+i.e., 191 States, to be reached by 2015. The MDGs commit the
+international community to an expanded vision of development,
+and have been commonly accepted as a framework for measuring
+development progress.
+Mires
+Peat-accumulating wetlands. See bog.
+Mitigation
+An anthropogenic intervention to reduce the anthropogenic forcing
+of the climate system; it includes strategies to reduce greenhouse
+gas sources and emissions and enhancing greenhouse gas
+sinks.
+Mixed layer
+The upper region of the ocean, well mixed by interaction with
+the overlying atmosphere.
+Monsoon
+A monsoon is a tropical and sub-tropical seasonal reversal in
+both the surface winds and associated precipitation.
+Montane
+The biogeographic zone made up of relatively moist, cool upland
+slopes below the sub-alpine zone that is characterised by
+the presence of mixed deciduous at lower and coniferous evergreen
+forests at higher elevations.
+Morbidity
+Rate of occurrence of disease or other health disorders within a
+population, taking account of the age-specific morbidity rates.
+Morbidity indicators include chronic disease incidence/prevalence,
+rates of hospitalisation, primary care consultations, disability-
+days (i.e., days of absence from work), and prevalence
+of symptoms.
+Morphology
+The form and structure of an organism or land-form, or any of
+its parts.
+Mortality
+Rate of occurrence of deathwithin a population; calculation ofmortality
+takes account of age-specific death rates, and can thus yield
+measures of life expectancy and the extent of premature death.
+Net biome production (NBP)
+Net biome production is the net ecosystem production (NEP)
+minus carbon losses resulting from disturbances such as fire or
+insect defoliation.
+Net ecosystem production (NEP)
+Net ecosystem production is the difference between net primary
+production (NPP) and heterotrophic respiration (mostly decomposition
+of dead organic matter) of that ecosystem over the
+same area (see also net biome production (NBP).
+Net primary production (NPP)
+Net primary production is the gross primary production minus
+autotrophic respiration, i.e., the sum of metabolic processes for
+plant growth and maintenance, over the same area.
+Nitrogen oxides (NOx)
+Any of several oxides of nitrogen.
+No regrets policy
+A policy that would generate net social and/or economic benefits
+irrespective of whether or not anthropogenic climate change
+occurs.
+Non-linearity
+Aprocess is called ‘non-linear’ when there is no simple proportional
+relation between cause and effect.
+Non-market impacts
+Impacts that affect ecosystems or human welfare, but that are
+not easily expressed in monetary terms, e.g., an increased risk of
+premature death, or increases in the number of people at risk of
+hunger. See also market impacts.
+Appendix I: Glossary
+
+Normalised difference vegetation index (NDVI)
+Asatellite-based remotely sensed measure of the ‘greenness’ of
+the vegetation cover.
+North Atlantic Oscillation (NAO)
+The NorthAtlantic Oscillation (NAO) consists of opposing variations
+of barometric pressure near Iceland and near the Azores.
+It is the dominant mode of winter climate variability in the North
+Atlantic region.
+Ocean acidification
+Increased concentrations of CO2 in sea water causing a measurable
+increase in acidity (i.e., a reduction in ocean pH). This may
+lead to reduced calcification rates of calcifying organisms such
+as corals, molluscs, algae and crustacea.
+Ombrotrophic bog
+An acidic peat-accumulating wetland that is rainwater (instead
+of groundwater) fed and thus particularly poor in nutrients.
+Opportunity costs
+The cost of an economic activity forgone through the choice of
+another activity.
+Ozone
+The triatomic form of oxygen (O3), a gaseous atmospheric constituent.
+In the troposphere, it is created both naturally and by
+photochemical reactions involving gases resulting from human
+activities (photochemical smog). In high concentrations, tropospheric
+ozone can be harmful to many living organisms. Tropospheric
+ozone acts as a greenhouse gas. In the stratosphere,
+ozone is created by the interaction between solar ultraviolet radiation
+and molecular oxygen (O2). Depletion of stratospheric
+ozone, due to chemical reactions that may be enhanced by climate
+change, results in an increased ground-level flux of ultraviolet
+(UV) B radiation.
+Paludification
+he process of transforming land into a wetland such as a marsh,
+a swamp or a bog.
+Particulates
+Very small solid exhaust particles emitted during the combustion
+of fossil and biomass fuels. Particulates may consist of a wide
+variety of substances. Of greatest concern for health are particulates
+of less than or equal to 10 nm in diameter, usually designated
+as PM10.
+Peat
+Peat is formed from dead plants, typically Sphagnum mosses,
+which are only partially decomposed due to the permanent submergence
+in water and the presence of conserving substances
+such as humic acids.
+Peatland
+Typically a wetland such as a mire slowly accumulating peat.
+Pelagic community
+The community of organisms living in the open waters of a river,
+a lake or an ocean (in contrast to benthic communities living on
+or near the bottom of a water body).
+Permafrost
+Perennially frozen ground that occurs where the temperature remains
+below 0°C for several years.
+Phenology
+The study of natural phenomena that recur periodically (e.g., development
+stages, migration) and their relation to climate and
+seasonal changes.
+Photochemical smog
+A mix of photochemical oxidant air pollutants produced by the
+reaction of sunlight with primary air pollutants, especially hydrocarbons.
+Photosynthesis
+The synthesis by plants, algae and some bacteria of sugar from
+sunlight, carbon dioxide and water, with oxygen as the waste
+product. See also carbon dioxide fertilisation, C3 plants and C4
+plants.
+Physiographic
+Of, relating to, or employing a description of nature or natural
+phenomena.
+Phytoplankton
+The plant forms of plankton. Phytoplankton are the dominant
+plants in the sea, and are the basis of the entire marine food web.
+These single-celled organisms are the principal agents of photosynthetic
+carbon fixation in the ocean. See also zooplankton.
+Plankton
+Microscopic aquatic organisms that drift or swim weakly. See
+also phytoplankton and zooplankton.
+Plant functional type (PFT)
+An idealised vegetation class typically used in dynamic global
+vegetation models (DGVM).
+Polynya
+Areas of permanently unfrozen sea water resulting from warmer
+local water currents in otherwise sea-ice covered oceans. They
+are biological hotspots, since they serve as breathing holes or
+refuges for marine mammals such as whales and seals, and fishhunting
+birds.
+Population system
+An ecological system (not ecosystem) determined by the dynamics
+of a particular vagile species that typically cuts across
+several ecological communities and even entire biomes. An example
+is migratory birds that seasonally inhabit forests as well
+as grasslands and visit wetlands on their migratory routes.
+Appendix I: Glossary
+
+Potential production
+Estimated crop productivity under non-limiting soil, nutrient and
+water conditions.
+Pre-industrial
+See industrial revolution.
+Primary production
+All forms of production accomplished by plants, also called primary
+producers. See GPP, NPP, NEP and NBP.
+Projection
+The potential evolution of a quality or set of quantities, often
+computed with the aid of a model. Projections are distinguished
+from predictions in order to emphasise that projections involve
+assumptions – concerning, for example, future socio-economic
+and technological developments, that may or may not be realised
+– and are therefore subject to substantial uncertainty. See also
+climate projection and climate prediction.
+Pteropods
+Planktonic, small marine snails with swimming organs resembling
+wings.
+Pure rate of time preference
+The degree to which consumption now is preferred to consumption
+one year later, with prices and incomes held constant,
+which is one component of the discount rate.
+Radiative forcing
+Radiative forcing is the change in the net vertical irradiance (expressed
+inWatts per square metre;Wm−2) at the tropopause due
+to an internal or external change in the forcing of the climate
+system, such as a change in the concentration of CO2 or the output
+of the Sun.
+Rangeland
+Unmanaged grasslands, shrublands, savannas and tundra.
+Recalcitrant
+Recalcitrant organic material or recalcitrant carbon stocks resist
+decomposition.
+Reference scenario
+See baseline/reference.
+Reforestation
+Planting of forests on lands that have previously contained
+forests but that have been converted to some other use. For a
+discussion of the term forest and related terms such as afforestation,
+reforestation and deforestation, see the IPCC Special
+Report on Land Use, Land-Use Change, and Forestry (IPCC,
+).
+Reid’s paradox
+This refers to the apparent contradiction between inferences of
+high plant migration rates as suggested in the palaeo-record (particularly
+after the last Ice Age), and the low potential rates of
+migration that can be inferred through studying the seed dispersal
+of the plants involved, e.g., in wind-tunnel experiments.
+Reinsurance
+The transfer of a portion of primary insurance risks to a secondary
+tier of insurers (reinsurers); essentially ‘insurance for insurers’.
+Relative sea-level rise
+See sea-level rise.
+Reservoir
+A component of the climate system, other than the atmosphere,
+that has the capacity to store, accumulate or release a substance
+of concern (e.g., carbon or a greenhouse gas). Oceans, soils, and
+forests are examples of carbon reservoirs. The term also means
+an artificial or natural storage place for water, such as a lake,
+pond or aquifer, from which the water may be withdrawn for
+such purposes as irrigation or water supply.
+Resilience
+The ability of a social or ecological system to absorb disturbances
+while retaining the same basic structure and ways of
+functioning, the capacity for self-organisation, and the capacity
+to adapt to stress and change.
+Respiration
+The process whereby living organisms convert organic matter
+to carbon dioxide, releasing energy and consuming oxygen.
+Riparian
+Relating to or living or located on the bank of a natural watercourse
+(such as a river) or sometimes of a lake or a tidewater.
+River discharge
+Water flow within a river channel, for example expressed in
+m3/s. A synonym for streamflow.
+Runoff
+That part of precipitation that does not evaporate and is not transpired.
+Salinisation
+The accumulation of salts in soils.
+Salt-water intrusion / encroachment
+Displacement of fresh surface water or groundwater by the advance
+of salt water due to its greater density. This usually occurs
+in coastal and estuarine areas due to reducing land-based
+influence (e.g., either from reduced runoff and associated
+groundwater recharge, or from excessive water withdrawals
+from aquifers) or increasing marine influence (e.g., relative sealevel
+rise).
+Savanna
+Tropical or sub-tropical grassland or woodland biomes with scattered
+shrubs, individual trees or a very open canopy of trees, all
+characterised by a dry (arid, semi-arid or semi-humid) climate.
+Appendix I: Glossary
+
+Scenario
+A plausible and often simplified description of how the future
+may develop, based on a coherent and internally consistent set
+of assumptions about driving forces and key relationships. Scenarios
+may be derived from projections, but are often based on
+additional information from other sources, sometimes combined
+with a ‘narrative storyline’. See also climate (change) scenario,
+emissions scenario and SRES.
+Sea-ice biome
+The biome formed by all marine organisms living within or on
+the floating sea ice (frozen sea water) of the polar oceans.)
+Sea-level rise
+An increase in the mean level of the ocean. Eustatic sea-level
+rise is a change in global average sea level brought about by an
+increase in the volume of the world ocean. Relative sea-level
+rise occurs where there is a local increase in the level of the
+ocean relative to the land, which might be due to ocean rise
+and/or land level subsidence. In areas subject to rapid land-level
+uplift, relative sea level can fall.
+Sea wall
+A human-made wall or embankment along a shore to prevent
+wave erosion.
+Semi-arid regions
+Regions of moderately low rainfall, which are not highly productive
+and are usually classified as rangelands. ‘Moderately
+low’ is widely accepted as between 100 and 250 mm precipitation
+per year. See also arid region.
+Sensitivity
+Sensitivity is the degree to which a system is affected, either adversely
+or beneficially, by climate variability or change. The effect
+may be direct (e.g., a change in crop yield in response to a
+change in the mean, range or variability of temperature) or indirect
+(e.g., damages caused by an increase in the frequency of
+coastal flooding due to sea-level rise).
+Sequestration
+See carbon sequestration.
+Silviculture
+Cultivation, development and care of forests.
+Sink
+Any process, activity, or mechanism that removes a greenhouse
+gas, an aerosol, or a precursor of a greenhouse gas or aerosol
+from the atmosphere.
+Snow water equivalent
+The equivalent volume/mass of water that would be produced if
+a particular body of snow or ice was melted.
+Snowpack
+A seasonal accumulation of slow-melting snow.
+Social cost of carbon
+The value of the climate change impacts from 1 tonne of carbon
+emitted today as CO2, aggregated over time and discounted
+back to the present day; sometimes also expressed as value per
+tonne of carbon dioxide.
+Socio-economic scenarios
+Scenarios concerning future conditions in terms of population,
+Gross Domestic Product and other socio-economic factors relevant
+to understanding the implications of climate change. See
+SRES (source: Chapter 6).
+SRES
+The storylines and associated population, GDP and emissions
+scenarios associated with the Special Report on Emissions Scenarios
+(SRES) (Nakićenović et al., 2000), and the resulting climate
+change and sea-level rise scenarios. Four families of
+socio-economic scenario (A1, A2, B1 and B2) represent different
+world futures in two distinct dimensions: a focus on economic
+versus environmental concerns, and global versus
+regional development patterns.
+Stakeholder
+A person or an organisation that has a legitimate interest in a
+project or entity, or would be affected by a particular action or
+policy.
+Stock
+See reservoir.
+Stratosphere
+Highly stratified region of atmosphere above the troposphere
+extending from about 10 km (ranging from 9 km in high latitudes
+to 16 km in the tropics) to about 50 km.
+Streamflow
+Water flow within a river channel, for example, expressed in
+m3/s. A synonym for river discharge.
+Sub-alpine
+The biogeographic zone below the tree line and above the montane
+zone that is characterised by the presence of coniferous forest
+and trees.
+Succulent
+Succulent plants, e.g., cactuses, possessing organs that store
+water, thus facilitating survival during drought conditions.
+Surface runoff
+The water that travels over the land surface to the nearest surface
+stream; runoff of a drainage basin that has not passed beneath the
+surface since precipitation.
+Sustainable development
+Development that meets the cultural, social, political and economic
+needs of the present generation without compromising
+the ability of future generations to meet their own needs.
+Appendix I: Glossary
+
+Taiga
+The northernmost belt of boreal forest adjacent to theArctic tundra.
+Thermal expansion
+In connection with sea-level rise, this refers to the increase in
+volume (and decrease in density) that results from warming
+water. A warming of the ocean leads to an expansion of the
+ocean volume and hence an increase in sea level.
+Thermocline
+The region in the world’s ocean, typically at a depth of 1 km,
+where temperature decreases rapidly with depth and which
+marks the boundary between the surface and the ocean.
+Thermohaline circulation (THC)
+Large-scale, density-driven circulation in the ocean, caused by
+differences in temperature and salinity. In the NorthAtlantic, the
+thermohaline circulation consists of warm surface water flowing
+northward and cold deepwater flowing southward, resulting in a
+net poleward transport of heat. The surface water sinks in highly
+restricted regions located in high latitudes. Also called meridional
+overturning circulation (MOC).
+Thermokarst
+Aragged landscape full of shallow pits, hummocks and depressions
+often filled with water (ponds), which results from thawing
+of ground ice or permafrost. Thermokarst processes are the
+processes driven by warming that lead to the formation of
+thermokarst.
+Threshold
+The level of magnitude of a system process at which sudden or
+rapid change occurs. A point or level at which new properties
+emerge in an ecological, economic or other system, invalidating
+predictions based on mathematical relationships that apply at
+lower levels.
+Transpiration
+The evaporation of water vapour from the surfaces of leaves
+through stomata.
+Tree line
+The upper limit of tree growth in mountains or high latitudes. It
+is more elevated or more poleward than the forest line.
+Trophic level
+The position that an organism occupies in a food chain.
+Trophic relationship
+The ecological relationship which results when one species feeds
+on another.
+Troposphere
+The lowest part of the atmosphere from the surface to about
+km in altitude in mid-latitudes (ranging from 9 km in high
+latitudes to 16 km in the tropics on average) where clouds and
+‘weather’ phenomena occur. In the troposphere, temperatures
+generally decrease with height.
+Tsunami
+Alarge wave produced by a submarine earthquake, landslide or
+volcanic eruption.
+Tundra
+Atreeless, level, or gently undulating plain characteristic of the
+Arctic and sub-Arctic regions characterised by low temperatures
+and short growing seasons.
+Uncertainty
+An expression of the degree to which a value (e.g., the future
+state of the climate system) is unknown. Uncertainty can result
+from lack of information or from disagreement about what is
+known or even knowable. It may have many types of sources,
+from quantifiable errors in the data to ambiguously defined concepts
+or terminology, or uncertain projections of human behaviour.
+Uncertainty can therefore be represented by quantitative
+measures (e.g., a range of values calculated by various models)
+or by qualitative statements (e.g., reflecting the judgement of a
+team of experts). See also confidence and likelihood.
+Undernutrition
+The temporary or chronic state resulting from intake of lower
+than recommended daily dietary energy and/or protein requirements,
+through either insufficient food intake, poor absorption,
+and/or poor biological use of nutrients consumed.
+Ungulate
+Ahoofed, typically herbivorous, quadruped mammal (including
+ruminants, swine, camel, hippopotamus, horse, rhinoceros and
+elephant).
+United Nations Framework Convention on Climate
+Change (UNFCCC)
+The Convention was adopted on 9 May 1992, in New York, and
+signed at the 1992 Earth Summit in Rio de Janeiro by more than
+countries and the European Community. Its ultimate objective
+is the ‘stabilisation of greenhouse gas concentrations in the
+atmosphere at a level that would prevent dangerous anthropogenic
+interference with the climate system’. It contains commitments
+for all Parties. Under the Convention, Parties included
+inAnnex I aim to return greenhouse gas emissions not controlled
+by the Montreal Protocol to 1990 levels by the year 2000. The
+Convention entered in force inMarch 1994. See also Kyoto Protocol.
+Upwelling region
+Aregion of an ocean where cold, typically nutrient-rich watersfrom
+the bottom of the ocean surface.
+Urbanisation
+The conversion of land from a natural state or managed natural
+state (such as agriculture) to cities; a process driven by net ruralto-
+urban migration through which an increasing percentage of
+the population in any nation or region come to live in settlements
+that are defined as ‘urban centres’.
+Appendix I: Glossary
+
+Appendix I: Glossary
+
+Vagile
+Able to migrate.
+Vascular plants
+Higher plants with vascular, i.e., sap-transporting, tissues.
+Vector
+A blood-sucking organism, such as an insect, that transmits a
+pathogen from one host to another. See also vector-borne diseases.
+Vector-borne diseases
+Disease that are transmitted between hosts by a vector organism
+(such as a mosquito or tick); e.g., malaria, dengue fever and
+leishmaniasis.
+Vernalisation
+The biological requirements of certain crops, such as winter cereals,
+which need periods of extreme cold temperatures before
+emergence and/or during early vegetative stages, in order to
+flower and produce seeds. By extension, the act or process of
+hastening the flowering and fruiting of plants by treating seeds,
+bulbs or seedlings with cold temperatures, so as to induce a
+shortening of the vegetative period.
+Vulnerability
+Vulnerability is the degree to which a system is susceptible to,
+and unable to cope with, adverse effects of climate change, including
+climate variability and extremes. Vulnerability is a function
+of the character, magnitude, and rate of climate change and
+variation to which a system is exposed, its sensitivity, and its
+adaptive capacity.
+Water consumption
+Amount of extracted water irretrievably lost during its use (by
+evaporation and goods production).Water consumption is equal
+to water withdrawal minus return flow.
+Water productivity
+The ratio of crop seed produced per unit water applied. In the
+case of irrigation, see irrigation water-use efficiency. For rainfed
+crops, water productivity is typically 1 t/100 mm.
+Water stress
+A country is water-stressed if the available freshwater supply
+relative to water withdrawals acts as an important constraint on
+development. Withdrawals exceeding 20% of renewable water
+supply have been used as an indicator of water stress. A crop is
+water-stressed if soil-available water, and thus actual evapotranspiration,
+is less than potential evapotranspiration demands.
+Water-use efficiency
+Carbon gain in photosynthesis per unit water lost in evapotranspiration.
+It can be expressed on a short-term basis as the ratio
+of photosynthetic carbon gain per unit transpirational water loss,
+or on a seasonal basis as the ratio of net primary production or
+agricultural yield to the amount of available water.
+Welfare
+An economic term used to describe the state of well-being of
+humans on an individual or collective basis. The constituents of
+well-being are commonly considered to include materials to satisfy
+basic needs, freedom and choice, health, good social relations,
+and security.
+Wetland
+A transitional, regularly waterlogged area of poorly drained
+soils, often between an aquatic and a terrestrial ecosystem, fed
+from rain, surface water or groundwater. Wetlands are characterised
+by a prevalence of vegetation adapted for life in saturated
+soil conditions.
+Yedoma
+Ancient organic material trapped in permafrost that is hardly decomposed.
+Zoonoses
+Diseases and infections which are naturally transmitted between
+vertebrate animals and people.
+Zooplankton
+The animal forms of plankton. They consume phytoplankton or
+other zooplankton.
+
+
+[CO2] Concentration of carbon dioxide
+AAO Antarctic Oscillation
+ABM Agent-based models
+AC Air-conditioning
+ACIA Arctic Climate ImpactAssessment
+AEJ African Easterly Jet
+AEZ Agro-ecological zone
+AGCM Atmospheric General Circulation Model
+AGO Australian Greenhouse Office
+AIACC Assessments of Impacts andAdaptations to
+Climate Change in Multiple Regions and
+Sectors
+AIDS Acquired Immune Deficiency Syndrome
+AO Arctic Oscillation
+AOGCM Atmosphere-Ocean General Circulation
+Model
+APF Adaptation Policy Framework
+AR4 FourthAssessment Report
+Aus Australia
+AVHRR Advanced Very High Resolution
+Radiometer
+BAU Business-as-usual scenario
+BSATs Brazilian semi-arid tropics
+CAA CanadianArctic archipelago
+CAPRADE ComitéAndino para la Prevención y
+Atención de Desastres (Andean Committee
+for Disaster Prevention andAssistance)
+CBA Cost-benefit analysis
+CBD Convention on Biological Diversity
+CC Climate change
+CCAMLR Commission for the Conservation of
+Antarctic Marine Living Resources
+CCD (United Nations) Convention to Combat
+Desertification
+CCIAV Climate change impacts, adaptation and
+vulnerability
+CCN Cloud condensation nuclei
+CDF Conditional damage function
+CDM Clean Development Mechanism
+CEE Central and Eastern Europe
+CFP Common Fisheries Policy
+CGE Computable general equilibrium (model)
+CIESIN Center for International Earth Science
+Information Network
+CITES Convention on International Trade in
+Endangered Species ofWild Flora and
+Fauna
+CMAQ Community multiscale air quality (model)
+COP Conference of the Parties (to the
+UNFCCC)
+CPPS Comisión Permanente del Pacífico Sur
+(Permanent Commission of the South
+Pacific)
+CRID Centro Regional de Información sobre
+Desastres (Regional Disaster Information
+Centre – LatinAmerica and the Caribbean)
+CSIRO Commonwealth Scientific and Industrial
+Research Organisation
+DAC DevelopmentAssistance Committee
+DAI Dangerous anthropogenic interference
+DALY Disability adjusted life year
+DDC Data Distribution Centre (of the IPCC)
+Defra Department for Environment, Food and
+RuralAffairs (of the UK Government)
+DGVM Dynamic global vegetation model
+DIC Dissolved inorganic carbon
+DJF December, January, February
+DMS Dimethyl sulphide
+DOC Dissolved organic carbon
+DPSIR Drivers-pressures-state-impacts-response
+DWC Dialogue onWater and Climate
+ECCP European Climate Change Programme
+ECLAC Economic Commission for LatinAmerica
+and the Caribbean
+EF Ecological footprint
+EIA Environmental ImpactAssessment
+EMIC Earth-system model of intermediate
+complexity
+ENSO El Niño-Southern Oscillation
+EPA Environmental ProtectionAgency
+EPOC Environment Policy Committee
+EPPA Anthropogenic emission prediction and
+policy analysis
+Appendix IV: Acronyms
+EPPA-HHL The EPPAhigh-emissions scenario
+EPPA-LLH The EPPAlow-emissions scenario
+ET Evapotranspiration
+EU European Union
+EU15 The 15 countries in the European Union
+before the expansion on 1 May 2004
+EU25 The 25 countries in the European Union
+after the expansion on 1 May 2004, but
+prior to 1 January 2007
+EWS Early-warning systems
+FACE Free-air carbon dioxide enrichment
+FAO Food andAgriculture Organization
+FFF Food, fibre and forestry
+FFFF Food, fibre, forestry and fishery
+GBR Great Barrier Reef
+GCM General Circulation Model
+GDP Gross domestic product
+GEF Global Environment Facility
+GEOSS Global Earth Observation System of
+Systems
+GHG Greenhouse gas(es)
+GIMMS Global Inventory Modeling and Mapping
+Studies
+GIS Geographic information system
+GISS Goddard Institute for Space Studies
+GLOF Glacial lake outburst flood
+GMAT Global mean annual temperature
+GMT Global mean temperature
+GNP Gross national product
+GPP Gross primary production
+GPS Global Positioning System
+GWP GlobalWater Partnership
+HABs Harmful algal blooms
+HANPP Human appropriation of net primary
+productivity
+HIV Human immunodeficiency virus
+HPS Hantavirus pulmonary syndrome
+HYV High-yield varieties
+IAM Integrated assessment model
+IAS Invasive alien species
+ICLIPS IntegratedAssessment of Climate
+Protection Strategies
+ICM Integrated coastal management
+ICZM Integrated coastal zone management
+IFRCRC International Federation of Red Cross and
+Red Crescent Societies
+IGBP International Geosphere-Biosphere
+Programme
+IHDP International Human Dimensions
+Programme
+IIASA International Institute forApplied Systems
+Analysis
+INAP Integrated National PilotAdaptation Plan
+IOCARIBE-GOOS Intergovernmental Oceanographic
+Commission Regional Sub-Commission
+for the Caribbean andAdjacent Regions
+Global Ocean Observing System
+IOD Indian Ocean Dipole
+IPCC Intergovernmental Panel on Climate
+Change
+IPO Inter-decadal Pacific Oscillation
+IRRI International Rice Research Institute
+ITCZ Intertropical Convergence Zone
+ITTO International Tropical Timber Organization
+IUCN International Union for the Conservation of
+Nature and Natural Resources (World
+Conservation Union)
+JFM January, February, March
+JJA June, July,August
+LA LatinAmerica
+LAI Leaf-area index
+LBA Large Scale Biosphere-Atmosphere
+(experiment)
+LDC Less/Least Developed Countries
+LGA Local government authority (Chapter 11)
+LGM Last Glacial Maximum
+LGP Length of growing period
+LIA Little IceAge
+LPJ Lund-Potsdam-Jena (model)
+LULUCF Land use, land-use change and forestry
+M&E Monitoring and evaluation
+MA Millennium EcosystemAssessment
+MACC MainstreamingAdaptation to Climate
+Change in the Caribbean
+MAMJ March,April, May, June
+MARA/ARMA Mapping Malaria Risk inAfrica/Atlas du
+Risque de la Malaria enAfrique
+MASL Metres above sea level
+MDB Murray-Darling Basin
+MDGs Millennium Development Goals
+MEA Multilateral environmental agreement
+MER Market exchange rates
+MJO Madden-Julian Oscillation
+MOC Meridional overturning circulation
+MTE Mediterranean-type ecosystems
+NAH NorthAtlantic Sub-tropical High
+NAO NorthAtlantic Oscillation
+NAPA NationalAdaptation Programme ofAction
+NBP Net biome productivity
+NC National Communication
+NCAR PCM National Center forAtmospheric Research
+Parallel Climate Model
+NDVI Normalised Difference Vegetation Index
+NEP Net ecosystem productivity
+NEPAD New Partnership forAfrica’s Development
+NGO Non-governmental organisation
+Appendix IV: Acronyms
+
+NHT Northern Hemisphere temperature
+NPP Net primary productivity
+NSW New SouthWales
+NT Northern Territory
+NTFP Non-timber forest products
+NWMP NationalWater Management Plan
+NZ New Zealand
+ODA Official DevelopmentAssistance
+OECD Organisation for Economic Co-operation
+and Development
+OND October, November, December
+PAHO Pan-American Health Organization
+PAL PathfinderAVHRR Land
+PDF Probability density function
+PDI Power dissipation index
+PDO Pacific Decadal Oscillation
+PDSI Palmer Drought Severity Index
+P-E Precipitation-evaporation
+PEAC Pacific ENSOApplications Center
+PFT Plant functional types
+PIA Participatory integrated assessment
+PI-GCOS Pacific Islands Global Climate Observing
+System
+P-IND Pre-industrial
+PM Particulate matter
+ppb Parts per billion
+ppm Parts per million
+PPP Purchasing power parity
+PRA Participatory rural appraisal
+Qld Queensland
+RCM Regional Climate Model
+RRA Rapid rural appraisal
+RSLR Relative sea-level rise
+SACZ SouthAtlantic Convergence Zone
+SAP Structural adjustment programme
+SAS Storyline and simulation
+SBW Spruce bud worm
+SCAPE Soft Cliff and Platform Erosion (model)
+SD Statistical downscaling
+SDSM Statistical downscaling model
+SEAFRAME Sea-level fine resolution acoustic
+measuring equipment
+SIDS Small Island Developing States
+SLR Sea-level rise
+SM Supplementary material
+SoCAB South CoastAir Basin (California)
+SON September, October, November
+SPCZ South Pacific Convergence Zone
+SRES Special Report on Emissions Scenarios
+SST Sea surface temperature
+SWE Snow water equivalent
+TAR ThirdAssessment Report (of the IPCC)
+TBE Tick-borne encephalitis
+TEJ Tropical Easterly Jet
+TEK Traditional ecological knowledge
+TGICA Task Group on Data and Scenario Support
+for Impact and ClimateAnalysis
+THC Thermohaline circulation
+TOGA Tropical Ocean-GlobalAtmosphere
+TOPEX Ocean Topography Experiment
+TWA Tolerable windows approach
+UHI Urban heat-island
+UK United Kingdom
+UKCIP United Kingdom Climate Impacts
+Programme
+UNDP United Nations Development Programme
+UNFCCC United Nations Framework Convention on
+Climate Change
+US United States (ofAmerica)
+USEPA United States Environmental Protection
+Agency
+UVR Ultraviolet radiation
+VBD Vector-borne disease
+VOC Volatile organic compound
+WA WesternAustralia
+WAIS WestAntarctic ice sheet
+WAMU WestAfrican Monetary Union
+WBD Water-borne disease
+WCRP World Climate Research Programme
+WE Western Europe
+WG Working Group (of the IPCC)
+WHO World Health Organization
+WMO World Meteorological Organization
+WNV West Nile virus
+WTO World Trade Organization
+WWW WorldWeatherWatch

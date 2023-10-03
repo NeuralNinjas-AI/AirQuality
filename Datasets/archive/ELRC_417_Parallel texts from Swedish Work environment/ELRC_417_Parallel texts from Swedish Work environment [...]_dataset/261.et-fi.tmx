@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T125917Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="et">
+    <prop type="x-tucount">166</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="et">
+        <seg>Väheneb vigastuste oht ja töö muutub tõhusamaks.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Vahinkojen vaara pienenee ja työnteko tehostuu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="et">
+        <seg>Töökeskkonnaamet (Arbetsmiljöverket) on Rootsi riiklik institutsioon, mis teostab kontrolli töökeskkonna suhtes.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ruotsissa työympäristöön liittyviä asioita valvoo valtion viranomainen, Työympäristövirasto (Arbetsmiljöverket).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="et">
+        <seg>Me kontrollime ehitus- ja rajatisplatside töökeskkonda ning meil on õigus esitada nõudmisi meetmete kasutuselevõtuks töökeskkonna turvalisusnõuetele vastavaks muutmisel.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Teemme tarkastuksia ja voimme niiden perusteella vaatia toimenpiteitä, jotta työympäristöstä tulisi asianmukainen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="et">
+        <seg>Kui riskid on liiga suured, on meil õigus edasine töö ehitusplatsil keelata seniks, kuni töökeskkonda on parendatud.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jos riskit ovat liian suuria, voimme kieltää työnteon jatkamisen siihen saakka, kunnes määrätyt parannustoimenpiteet on tehty.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="et">
+        <seg>Keeld tuleb allkirjastada, kuid allkiri tõendab ühtlasi, et tööandja on vastu võtnud kirjaliku koopia ettekirjutustest.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tällainen kielto on allekirjoitettava, mutta allekirjoitus on vain kuittaus siitä, että varsinainen päätösasiakirja on otettu vastaan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="et">
+        <seg>Paljude ehitustöölistega tuleb ette õnnetusi ja tööst tingitud haigestumisi või vigastusi.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Monet rakennuksilla työskentelevät altistuvat tapaturmille ja ammatti- taudeille.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="et">
+        <seg>Võib juhtuda, et tööline kukub, töötab vales tööasendis, tõstab midagi rasket või vigastab end mõne masinaga töötades.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennuksilla pudotaan, työskennellään väärissä työasennois- sa, nostetaan raskaita kuormia tai loukkaannutaan koneita käytettäessä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="et">
+        <seg>Halb planeerimine ja ajaressursi vähesus tõstab õnnetuste riske.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Onnettomuusriskiä lisäävät huono suunnittelu ja aikapula.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="et">
+        <seg>Töökeskkonnaameti välja antud seadused ja ettekirjutused näevad ette, kuidas ehitustöid tuleb läbi viia.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennustoimintaa säätelee monia Työympäristöviraston antamia lakeja ja asetuksia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="et">
+        <seg>Käesolevast brožüürist võite lugeda mõnigatest minimaalsetest nõuetest.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tässä esitteessä on kerrottu rakentamiseen liittyvistä vähimmäisvaatimuksista.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="et">
+        <seg>Ehitiste ja hoonete ehitamise, muutmise, rekonstrueerimise, hoolduse või lammutustega seonduvad töid reguleerivad Töökeskkonnaseadus ja Töökeskkonnaameti ehituseeskirjad.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työympäristölaki ja Työympäristöviraston rakennusmääräykset koskevat rakentamista, muutosten tekemistä, korjaamista, rakennusten tai laitosten kunnossapitoa ja purkamista.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="et">
+        <seg>Rootsi töökeskkonna reeglid kehtivad Rootsis töötava välismaise tööjõu puhul olenemata sellest, kas tööline on tööle võetud välismaise ettevõtte poolt, palgatud lepinguliselt rootsi tööandja poolt või töötab iseseisva ettevõtjana.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ruotsin työympäristösäännöt koskevat ulkomaista työvoimaa Ruotsissa riippumatta siitä, onko sen palkannut ulkomainen yritys, vuokrannut ruotsalainen työntantaja vai toimiiko se itsenäisenä yrittäjänä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="et">
+        <seg>Reeglid käivad nii ettevõtte omaniku kui töövõtja kohta, olenemata töövõtuvormist.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Se koskee siis sekä yrittäjää itseään että työntekijöitä työsuhteen muodosta riippumatta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="et">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="et">
+        <seg>Kukkumiste ohu vähendamine</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Putoamisriskin vähentäminen</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="et">
+        <seg>Kukkumine on ehitusplatsidel kõige tavalisemaks surmade või õnnetuste põhjuseks.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Putoamiset ovat yleisin kuolemien ja tapaturmien syy rakennustyömailla.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="et">
+        <seg>Kukkummiste oht peab olema ennetatud.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Putoamisriskejä on ehkäistävä vennalta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="et">
+        <seg>Kaitse võib osutuda tarvilikuks ka väiksemate tasandite vahe puhul, nt kui allpool asetseb vesi või teravad esemed.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Suojia voidaan tarvita myös myös pienemmissä tasoeroissa, jos alla on esim. vettä tai teräviä esineitä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="et">
+        <seg>Kaitsepiirded peavad:</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Suojakaiteiden on oltava:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="et">
+        <seg>olema turvalised</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>lujia</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="et">
+        <seg>olema vähemalt ühe meetri kõrgused koosnema ülemisest, keskmisest ja alumisest piirdest.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>vähintään metrin korkuisia on oltava yläjuoksu, keskijuoksu ja jalkalista.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="et">
+        <seg>Need võivad olla valmistatud ka teistmoodi, kuid nad peavad tagama turvalisuse vähemalt samal tasemel.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Muukin rakenne on mahdollinen, mutta suojaustason on oltava yhtä hyvä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="et">
+        <seg>Katustel läbiviidavate tööde puhul peab tavaliselt olemas olema kaitsepiire või muu varustus, mis tagab vajaliku kaitse.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Katolla työskentelyssä tarvitaan suojakaiteita tai muita varusteita, jotka antavat vastaavan suojan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="et">
+        <seg>Monteerige kaitsepiire katuseräästa külge või katuseräästa juures lõppevate ehitustellingute külge.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Asenna telineet räystääseen tai suo- raan sen alla olevaan telineeseen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="et">
+        <seg>Kui kaitse kinnitamine pole võimalik, tuleb kasutada personaalseid turvistikuga varustatud kaitseseadmeid.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jos kiinteää suojarakennelmaa ei voida asen- taa, on käytettävä henkilökohtaisia turvaval- jaita.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="et">
+        <seg>Keskkoha turvarihm võib kaasa tuua suuri vigastusi ning seda ei tohi seetõttu kasutada.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Lannevyö voi aiheuttaa suuria vahinkoja eikä sitä saa käyttää pelkästään.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="et">
+        <seg>Kinnitage ohutusnöör mingi kindla ja turvalise konstruktsiooni külge katusel.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Kiinnitä köydet johonkin kiinteään rakennelmään katolla ja tarkista niiden pysyvyys.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="et">
+        <seg>Kui ohutusnööri pole võimalik kuhugi kinnitada, võib selle siduda ümber turvalise konstruktsiooni ning mõni teine inimene peab seda pingul hoidma.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jos köyttä ei voi kiinnittää mihinkään, se voidaan kiertää kiinteän laitteen ympäri, ja toinen henkilö on vastaamassa köyden sopivasta kireydestä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="et">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="et">
+        <seg>Sellised pinnad, mis ei kannata raskusi ning millest võib läbi kukkuda, tuleb blokeerida.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Kantamattomille rakenteille astumisessa voi myös piillä putoamisriski – sulje pääsy tällaisiin paikkoin.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="et">
+        <seg>Kui sellistel pindadel tuleb siiski töid läbi viia, kasutage vastavaid turvaseadmeid.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Käytä ylimääräisiä suojavarusteita, jos tällaisissa paikoissa on kuitenkin työskenneltävä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="et">
+        <seg>Osade tööde puhul on vajalik kasutada kaitsevõrku.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Joissakin työtehtävissä saatetaan tarvita erityistä suojaverkkoa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="et">
+        <seg>Enne kasutamist peab võrgu ja selle paigalduse üle kontrollima pädev isik.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ennen sen käyttöä asiantuntevan henkilön on tarkastettava verkko ja sen asennus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="et">
+        <seg>Kui keegi peab töötama katusel väiksel tööpinnal üle nelja tunni ning katuse kalle on rohkem kui 1:4, peab tagatud olema horistonaaltne tööpind.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Kun työskennellään yli neljä tuntia pienellä katon osalla, jonka kaltevuus on yli 1:4, on käytettävä vaakasuoraa työtasoa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="et">
+        <seg>Tavaliselt tuleb kasutada kaitsekiivrit ning kaitsejalanõusid.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Suojakypärää ja turvakenkiä on normaalisti käytettävä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="et">
+        <seg>Vahel on tarvis kasutada ka silmakaitseid, kuulmekaitseid ja kindaid.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Joskus tarvitaan myös näkö- ja kuulosuojaimia sekä käsineitä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="et">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="et">
+        <seg>Rasked tõsted ja väärad tööasendid koormavad keha</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Raskaat kuormat ja väärät työasennot rasittavat kehoa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="et">
+        <seg>Ehitustöö on tihti raske ja koormav kehale ning seetõttu on ehitusmaterjalide transpordiks vajalik tõsteseadmed.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennustyö on usein raskasta ja kuormittaa kehoa, minkä vuoksi rakennusmateriaalien kuljettamiseen ja nostamiseen tarvitaan sopivaa kalustoa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="et">
+        <seg>Masinad ja tööriistad peavad olema ergonoomilised.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Koneiden ja työkalujen on oltava ergonomisesti muotoiltuja.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="et">
+        <seg>Pikemat aega redelilt töötamine pole kehale hea.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Pitkäaikainen työskentely tikkailta käsin on erityisen raskasta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="et">
+        <seg>Parema tööasendi tagab tasane pind, nt sellised platvormid, mida on võimalik tõsta või langetada.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tasaisella pinnalla, esimerkiksi korkeussäädettävällä työtasolla seistessä työasennon.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="et">
+        <seg>Pärast pingutamist peavad lihased kehas taastuma.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Lihasten on saatava palautua rasituksen jälkeen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="et">
+        <seg>Erinevaid töid tehes väldite lihaste ühekülgset pingutust.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Yksipuolista kuormitusta voi vähentää mm. vaihtelemalla työtetyötehtäviä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="et">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="et">
+        <seg>Keemiliste ainete kohta käivad reeglid Rootsis</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ruotsin kemikaalilainsäädäntö</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="et">
+        <seg>Ehitusalal kasutatakse mitmeid mürgiseid, kantserogeenseid, söövitavaid või allergiaid tekitavaid aineid.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennusalalla käytetään yleisesti monia myrkyllisiä, syöpää aiheuttavia, syövyttäviä tai allergisoivia kemikaaleja.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="et">
+        <seg>Keemiliste toodete puhul, mis sisaldavad ühte või enamat ohtlikku ainet, peab tööplatsil saadaval olema ka edasimüüja ohutusalane teabeleht.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työpaikalla on säilytettävä käyttöturvallisuustiedotteet sellaisista kemiallisista aineista, jotka sisältävät ainakin yhtä vaarallista ainetta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="et">
+        <seg>Kui tegemist on Rootsis ostetud toodetega, peab ohutusalane teabeleht olema rootsikeelne.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ruotsista ostetuissa kemikaaleissa käyttöturvallisuustiedotteen tulee olla ruotsinkielinen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="et">
+        <seg>Ettevõte, kes toob Rootsi sisse ohtlikke keemilisi tooteid oma tarbeks kasutamiseks, vastutab selle eest, et toote kohta on töökohal olemas kirjalik ohutus- ja turvaalane teave töötajatele arusaadavas keeles.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jos yritys tuo vaarallista kemikaalia Ruotsiin omaan käyttöönsä, se vastaavat siitä, työpaikalta löytyy kirjallinen käyttöturvallisuustiedote kielellä, jota käyttäjät ymmärtävät.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="et">
+        <seg>Tööandja peab töövõtjaid teavitama keemiliste toodetega kaasnevatest riskidest ning veenduma, et töövõtjad on teabest aru saanud.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työnantajan on kerrottava työntekijöille kemikaalien riskeistä ja varmistettava, että työntekijät ovat ymmärtäneet ne.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="et">
+        <seg>Teatud ohtlike ainete puhul kehtivad eriti ranged reeglid:</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tiettyjä vaarallisia kemikaaleja koskevat erityisen tiukat määräykset:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="et">
+        <seg>Asbest: asbestiga töötamiseks ja selle eemaldamiseks on töid läbiviival ettevõttel tarvis hankida Töökeskkonnaametilt luba.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Asbesti: Asbestin käsittelyä ja purkua suorittavat yritykset tarvitsevat luvan Työympäristövirastolta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="et">
+        <seg>Loa saamiseks on vajalik esitada dokumendid vastava väljaõppe kohta ning arstitõend.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Luvan saanti edelyttää dokumentoitua erityiskoulutusta ja lääkärintodistuksen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="et">
+        <seg>Termoplast: ka termoplastiga seonduvate tööde puhul (nt vahtplast, mis sisaldab isotsüanaate, epoksiliimi, epoksivärvi jne) on vajalik enne tööde läbiviimist arstlik läbivaatus ning koolitus.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Kovamuovit (kertamuovit): Myös kovamuovien (isosyanaatteja sisältävä saumausvaahto, epoksiliima, epoksimaali ym.)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="et">
+        <seg>Nende reeglite rikkumine on karistatav ja võib lõppeda suurte trahvidega.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Näiden sääntöjen rikkominen on rangaistavaa ja se voi johtaa suuriin sakkoihin.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="et">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="et">
+        <seg>Ühenduskohad ja transport</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Yhdystiet ja kuljetukset</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="et">
+        <seg>Ehitusplatsil peavad olema turvalised ühenduskohad, nt trepp või kaldtee erinevate tasandite vahel.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennustyömaiden yhdysteiden, esimerkiksi rappusten ja eri tasoja yhdistävien ramppien on oltava turvallisia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="et">
+        <seg>Kui töövõtja peab palju treppe kasutama, peab üle 10-meetriste tasanditevahelise vahede puhul olema tööplatsil tagatud lifti olemasolu.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Yli kymmenen metrin tasoeroihin tarvitaan hissi, jottei työntekijöiden tarvitse kulkea liian paljon portaissa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="et">
+        <seg>Ehitusplatsile jäävate autoteede puhul peab turvalisus olema tagatud kas piisava vahemaa kindlustamise või kaitseseadmete olemasolu läbi.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennustyömaan ajoteillä on oltava riittävät turvaetäisyydet tai suojalaitteet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="et">
+        <seg>Kui see pole võimalik, tuleb transpordiks kasutada laadimisplatvorme, fassaadis olevaid koormaavausi, rampe või erilisi transpordisüsteeme.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jos tämä ei ole mahdollista, kuljetusten on tapahduttava kuormasiltojen, lastausaukkojen, ramppien tai erityisten kuljetusjärjestelmien avulla.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="et">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="et">
+        <seg>Tõsteseadmete, masinate ja teatud muude toodete kasutusjuhendid</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Nostolaittteiden, koneiden ja tiettyjen muiden tuotteiden käyttööhjeet</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="et">
+        <seg>Masina või tõsteseadme kohale toimetamisel või kasutuselevõtul Rootsis, peab seade või masin olema varustatud kirjaliku rootsikeelse kasutusjuhendiga.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ruotsiin toimitettavan tai siellä käyttöön otettavan koneen tai nostolaitteen mukana on olatava kirjalliset, ruotsinkieliset käyttöohjeet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="et">
+        <seg>Selle eest vastutab edasimüüja.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tästä vastaa toimittaja.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="et">
+        <seg>Edasimüüjaks loetakse ka ettevõtet või isikut, kes toob masina maale Rootsis kasutamiseks.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Toimittajaksi lasketaan myös se, joka tuo koneen Ruotsiin käyttöä varten. koneen käyttöön Ruotsissa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="et">
+        <seg>Teave kasutusjuhendi kohustusliku sisu kohta on saadaval Rootsi Töökeskkonnaameti reeglistikus masinate kohta.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tietoa siitä, mitä käyttöohjeiden pitää sisältää, löytyy Työympäristöviraston koneita ja laitteita koskevista määräyksistä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="et">
+        <seg>Eelnevalt kokkupandud ehitustellingute puhul peavad kirjalikud rootsikeelsed juhendid seadmete kohale toimetamisel kaasas olema ning need peavad olema ehitustööplatsil kättesaadavad.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Myös tehdasvalmisteisten telineiden mukana on oltava kirjalliset ohjeet ruotsiksi toimituksessa, ja niidenkin on löydyttävä työmaalta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="et">
+        <seg>Teave kasutusjuhendi kohustusliku sisu kohta on saadaval Rootsi Töökeskkonaaameti reeglistikus ehitustellingute kohta.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työympä- ristöviraston määräyksissä on kerrottu, mitä tietoa ohjeissa tulee olla.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="et">
+        <seg>Et uusi tõsteseadmeid ja masinaid Rootsis kasutada, peavad need üldiselt olema varustatud CE-märgiga.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Uusissa nostolaitteissa ja koneissa on yleensä oltava CE-merkintä, jotta niitä voisi käyttää Ruotsissa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="et">
+        <seg>Rootsi toimetatavad eelnevalt kokkupandud ehitustellingud ja redelid peavad olema saanud volitatud organi poolt tüübikinnituse (redelite puhul ka sertifitseeringu).</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ruotsiin toimitettavilla tehdasvalmisteisilla telineillä ja tikkailla on oltava valtuutetun elimen tyyppihyväksyntä (ja tikkailla lisäksi sertifiointi).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="et">
+        <seg>Paljud masinad ja tõsteseadmed peavad selleks, et neid jätkuvalt kasutada tohiks, läbima korrapäraseid ülevaatusi.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Monia koneita ja nostolaitteita on katsastettava säännöllisesti, jotta niitä voidaan käyttää.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="et">
+        <seg>Kui ülevaatust pole tehtud või kui ülevaatuse korras esile toodud puudusi pole kõrvaldatud, on masina või tõsteseadme kasutamine karistatav.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>On rangaistavaa käyttää koneita ja nostolaitteita, jos katsastusta ei ole tehty tai määrättyjä korjauksia ei ole toteutettu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="et">
+        <seg>Ülevaatus tuleb läbi viia vastavuses Rootsi seadusandlusega.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Katsastus on suoritettava Ruotsin sääntöjen mukaisesti.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="et">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="et">
+        <seg>Mida veel meeles pidada</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Muuta huomiotavaa…</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="et">
+        <seg>Tõsiseid õnnetusi võib põhjustada ladustatud ehitusmaterjali liikumine, nt põhjustatuna tugevast tuulest.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Vakavia onnettomuuksia voi tapahtua, jos rakennusmateriaali alkaa liikkua esimerkiksi kovan tuulen vuoksi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="et">
+        <seg>Seetõttu on oluline materjali püsistamine.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Sen takia materiaalit on ankkuroitava huolellisesti.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="et">
+        <seg>Mõnikord on vajalik ka töövõtjate kaitsmine ilmastiku tingimuste (nt tuulte ja külma) vastu.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Myös työntekijät tarvitsevat riittävän suojan kylmää ja tuulta vastaan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="et">
+        <seg>Alad, kus on kukkuvate esemete oht, tuleb blokeerida.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Eristä ja merkitse alueet, joissa on putoavien esineiden vaara.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="et">
+        <seg>Kui neile aladele on siiski vaja juurde pääseda, on vajalik kaitsekatuse olemasolu.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jos tällaisella alueella on kuitenkin työskenneltävä, tarvitaan suojakatto.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="et">
+        <seg>Maapinnatööd tuleb planeerida nii, et maapinda ei koormataks rohkem, kui see välja kannatab.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Suunnittele maanrakennustyöt siten, ettei maaperää altisteta suuremmalle kuormitukselle kuin mitä se kestää.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="et">
+        <seg>Vajadusel tuleb kindlustada kaitse maalihke suhtes.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Sortuminen on tarvit- taessa estettävä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="et">
+        <seg>Veenduge, et maapinnas poleks kaableid ega ohtlikke aineid ning et välistatud oleks masinate süvenditesse kukkumise oht.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tarkista, ettei maassa ole johtoja tai vaarallisia aineita ja ettei koneilla ole vaaraa vyöryä kuoppaan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86">
+      <tuv xml:lang="et">
+        <seg>Sõidukid tuleb süvenditest eemal hoida.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ajoneuvoliikenne on pidettävä etäällä kaivuukuopasta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87">
+      <tuv xml:lang="et">
+        <seg>Ehitusplatsidelt mööduvad sõidukid kujutavad endast ohtu.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ajoneuvoliikennen rakennustyömaalla on riski.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88">
+      <tuv xml:lang="et">
+        <seg>Esmajärjekorras tuleb liiklus ümber suunata.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ensi kädessä liikenne on ohjattava muualle.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89">
+      <tuv xml:lang="et">
+        <seg>Liiklusest eraldamata tööplatsil töötav isik peab kandma helkuritega varustatud kõrgnähtavust tagavaid riideid.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennustyömaalla, joka sijaitsee liikenteen keskellä, työntekijöiden on käytettävä heijastavaa turvavaatetusta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90">
+      <tuv xml:lang="et">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91">
+      <tuv xml:lang="et">
+        <seg>Kui midagi juhtub</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jos jotakin tapahtuu</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92">
+      <tuv xml:lang="et">
+        <seg>Kõik peavad suutma turvaliselt ja kiiresti tööplatsilt lahkuda, nt tulekahju puhul.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Kaikkien on osattava nopeasti ja turvallisesti tie ulos työpaikalta esimerkiksi tulipalon alta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93">
+      <tuv xml:lang="et">
+        <seg>Väljapääsud ja kogunemiskohad peavad olema siltidega varustatud.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Hätäpoistumis- tiet ja kokoontumispaikat on merkittävä kyltein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94">
+      <tuv xml:lang="et">
+        <seg>Evakuatsiooniuksed peavad avanema sissepoole ning tulekustutusvahenditele peab olema tagatud hõlbus ligipääs.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Poistumisteiden ovien on avauduttava ulospäin ja sammutusvälineiden on oltava helposti saatavilla.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95">
+      <tuv xml:lang="et">
+        <seg>Alati peab olema valmisolek esmaabi osutamiseks ning sellise abi osutamiseks vajalikele ruumidele ja varustusele ligipääs peab olema siltidega viidastatud.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ensiapua on aina osattava antaa, ja tilat ja välineet sitä varten on osoitettava kyltein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96">
+      <tuv xml:lang="et">
+        <seg>Samuti peab töökohas olema teabesilt, millelt on loetavad kiirabi ja päästeameti telefoninumbrid, töökoha aadress ja vajadusel ka teejuhised.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Hätänumero, työpaikan osoite ja mahdollinen reittikuvaus on myös oltava selvästi näkyvillä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97">
+      <tuv xml:lang="et">
+        <seg>Kui voolukatkestus toob endaga kaasa erilisi ohutusalaseid riske töökohas, peab töökoht olema varustatud avariivalgustusega.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Mikäli sähköjen katkeaminen aiheuttaisi erityisiä vaaroja työpaikalla, on oltava hätävalaistus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98">
+      <tuv xml:lang="et">
+        <seg>See kehtib nt tööde puhul, mis on seotud ehitussaega või ehitustellingute ülesseadmisega.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tämä koskee erityisesti rakennussahan käyttöä tai rakennustelineiden pystyttämistä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99">
+      <tuv xml:lang="et">
+        <seg>Töökeskkonna plaan</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työympäristösuunnitelma</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100">
+      <tuv xml:lang="et">
+        <seg>Töökeskkonna plaan tuleb välja töötada juba enne ehitustöödega alustamist.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ennen rakennustyömaan perustamista on laadittava työympäristösuunni- telma.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="101">
+      <tuv xml:lang="et">
+        <seg>Eelkõige vastutab planeerimis- ja projekteerimisala ehitustöökeskkonna koordinaator plaani välja töötamise eest.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tämän toteuttamisesta vastaa ensi kädessä rakennustyöympäristön suunnittelun ja projektointnin koordinaattori.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="102">
+      <tuv xml:lang="et">
+        <seg>Töökeskkonna plaani kasutatakse kogu ehitusaja jooksul.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tarkoituksena on, että työympäristösuunnitelmaa käytetään koko rakentamisvaiheen ajan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="103">
+      <tuv xml:lang="et">
+        <seg>Ehitustöökeskkonna koordinaatori ülesandeks on vastutada selle eest, et plaan oleks kättesaadav töökohal niipea, kui ehitustöödega on alustatud.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työn suorittamista valvova raken- nustyöympäristön koordinaattori huolehtii siitä, että suunnitelma löytyy työmaalta heti kun se on perustettu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="104">
+      <tuv xml:lang="et">
+        <seg>Koordinaatori ülesandeks on ka plaani vajalike muudatuste ja kohanduste tegemine.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Koordinaattorin on myös suoritettava tarpeen tullen suunnitelmaan muutoksia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="105">
+      <tuv xml:lang="et">
+        <seg>Kui ehitus- või rajatistöid viiakse läbi kohtades, kus samaaegselt jääb toimuma mingi muu tegevus, tuleb seda töökeskkonna plaanis arvesse võtta.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jos työmaa on paikassa, jossa jo on tai tulee olemaan muuta toimintaa, on se huomioitava työympäris- tösuunnitelmassa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="106">
+      <tuv xml:lang="et">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="107">
+      <tuv xml:lang="et">
+        <seg>Plaanis peab sisalduma alljärgnev:</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Suunnitelman on sisällettävä:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="108">
+      <tuv xml:lang="et">
+        <seg>tööplatsil rakendatavad reeglid</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennustyömaalla sovellettavat säännöt</seg>
+      </tuv>
+    </tu>
+    <tu tuid="109">
+      <tuv xml:lang="et">
+        <seg>See on kehtiv muu hulgas ka allpool loetletud tööde puhul:</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Se koskee mm. seuraavia töitä:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="110">
+      <tuv xml:lang="et">
+        <seg>teatud keemiliste või bioloogiliste ainetega seotud tööd</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>työskentelyä tiettyjen kemiallisten tai biologisten aineiden kanssa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="111">
+      <tuv xml:lang="et">
+        <seg>tööd kõrgepingeliinide läheduses</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>työ korkeajännitejohtojen läheisyydessä</seg>
+      </tuv>
+    </tu>
+    <tu tuid="112">
+      <tuv xml:lang="et">
+        <seg>uppumisohuga seotud tööd</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>työtä, johon sisältyy hukkumisriski</seg>
+      </tuv>
+    </tu>
+    <tu tuid="113">
+      <tuv xml:lang="et">
+        <seg>kaevude ja tunnelitega seotud tööd</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>työskentelyä kaivoissa ja tunneleissa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="114">
+      <tuv xml:lang="et">
+        <seg>lõhkemisainete kasutamisega seotud tööd</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>työskentelyä räjähdysaineiden kanssa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="115">
+      <tuv xml:lang="et">
+        <seg>raskete ehituselementide monteerimisega seotud tööd</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>työtä, jossa asennetaan raskaita rakennuselementtejä</seg>
+      </tuv>
+    </tu>
+    <tu tuid="116">
+      <tuv xml:lang="et">
+        <seg>töö aladel, mida läbivad sõidukid kandekonstruktsioone lammutamisega või tervisele ohtlike materjalide või ainetega seotud tööd.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>työskentelyä liikenteensekaisella alueella sekä kantavien rakenteiden tai terveydelle vaarallisten materiaalien tai aineiden purkamista.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="117">
+      <tuv xml:lang="et">
+        <seg>Eelnev avaldus</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Etukäteisilmoitus</seg>
+      </tuv>
+    </tu>
+    <tu tuid="118">
+      <tuv xml:lang="et">
+        <seg>Töödeülem vastutab ka selle eest, et avalduse koopia pannakse üles ehitustööde platsil ning seda ajakohastatakse.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennuttajan on myös jätettävä kopio ilmoituksesta rakennustyömaalle ja huolehtia sen ajantasaisuudesta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="119">
+      <tuv xml:lang="et">
+        <seg>11</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="120">
+      <tuv xml:lang="et">
+        <seg>Planeerimine ja teave</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Suunnittelu ja tiedotus</seg>
+      </tuv>
+    </tu>
+    <tu tuid="121">
+      <tuv xml:lang="et">
+        <seg>Kõiki töid tuleb eelnevalt planeerida ja riski suhtes hinnata, et nende läbiviimine oleks turvaline.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Kaikki työt on suunniteltava ja niiden riskit arvioitava hyvissa ajoin niin, että työt voidaan suorittaa turvallisesti.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="122">
+      <tuv xml:lang="et">
+        <seg>Laohooned, töökojad ja hoidlad ning ühendused ja transport tuleb eelnevalt planeerida.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Parakkien, verstaiden ja varastojen, kuljetus- ja kulkuteiden sijainti ja tilat on myös suunniteltava.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="123">
+      <tuv xml:lang="et">
+        <seg>Oluline on leida lahendus töökohtadele pääsemiseks.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>On tärkeää ratkaista kuinka eri työskentelypisteisiin pääsee.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="124">
+      <tuv xml:lang="et">
+        <seg>Töö tuleb planeerida nii, et erinevad tegevused ei satuks kokku viisil, mis võib põhjustada õnnetusi või ohtu tervisele.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työ on suunnitelta niin, etteivät eri toiminnot häiritse toisiaan niin, ettei synny terveys- tai onnettomuusriskejä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="125">
+      <tuv xml:lang="et">
+        <seg>Ajaplaneerimine on eriti oluline kui töö on ulatuslik kuid ehitusaeg lühike.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ajankäyttö on myös suunniteltava, varsinkin jos työ on laaja ja rakennusaika lyhyt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="126">
+      <tuv xml:lang="et">
+        <seg>Valida tuleb töömeetodeid või varustust, mis:</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>On valittavat työmenetelmät ja laitteet, jotka</seg>
+      </tuv>
+    </tu>
+    <tu tuid="127">
+      <tuv xml:lang="et">
+        <seg>väldivad õnnetuste juhtumist seoses maalihete või kukkumistega seoses,</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>ehkäisevät putoamisia ja sortumisia</seg>
+      </tuv>
+    </tu>
+    <tu tuid="128">
+      <tuv xml:lang="et">
+        <seg>tagavad terviskahjustavate või ebavajalikult keha väsitavate koormuste välti mise, toovad kaasa madala müra- ja vibratsioonitaseme, ohtlike ainete ja õhusaaste taseme.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>joiden avulla voidaan välttää terveyshaittoja ja kehon rasitusta altistavat mahdollisimman vähän melulle, tärinälle, vaarallisille aineille ja ilman epäpuhtauksille.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="129">
+      <tuv xml:lang="et">
+        <seg>Töövõtjaid teavitatakse tööst ja töökeskkonnaalaste meetmete rakendamisest või nende planeerimisest ning kehtivatest reeglitest.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työntekijöille on kerrottava miktä työympäristötoimenpiteet on toteutettu tai suunniteltu ja mitkä määräykset ovat voimassa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="130">
+      <tuv xml:lang="et">
+        <seg>Töötajad võivad vajada eriväljaõpet või juhiseid uute toodete või töömeetodite kasutuselevõtul.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>He saattavat tarvita erityista koulutusta tai ohjausta uusien tuotteiden tai työmenetelmien käyttöön.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="131">
+      <tuv xml:lang="et">
+        <seg>Ehitusplatsil toimub pidevalt ja kiiresti mitmeid ohte kaasa toovaid muutusi.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennustyömlaalla tapahtuu jatkuvia ja nopeita muutoksia, joihin liittyy monia riskejä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="132">
+      <tuv xml:lang="et">
+        <seg>Seetõttu on vajalikud reeglipärased turvaalased ringkäigud.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Siksi säännölliset työsuojelukierrokset ovat erittäin tärkeitä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="133">
+      <tuv xml:lang="et">
+        <seg>12</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu tuid="134">
+      <tuv xml:lang="et">
+        <seg>Kes vastutab mille eest?</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Kuka vastaa mistä?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="135">
+      <tuv xml:lang="et">
+        <seg>Ehitusplatsil hea töökeskkonna loomiseks on väga oluline ennetav töökeskkonnaalane töö ning kõigi asjaosaliste vastutus.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jotta voitaisiin luoda rakennustyömaalle hyvä työympäristö, ennaltaehkäi- sevillä toimenpiteillä on tärkeä merkitys.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="136">
+      <tuv xml:lang="et">
+        <seg>Samuti on tähtis, et erinevad osapooled teevad koostööd ning ehitustöölised võtavad osa töökeskkonnaalasest tööst.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Lisäksi on tärkeää, että kaikilla toimijoilla on oma vastuualueensa ja että nämä tekevät yhteistyötä ja vaikuttavat kukin osaltaan työympäristöön.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="137">
+      <tuv xml:lang="et">
+        <seg>Projektijuht vastutab ka selle eest, et ajakohastataks eelnev avaldus, töökeskkonnaplaan ja dokumentatsioon ning et keegi määratakse planeerimise ja projekteerimise ajaks töökeskkonna koordinaatoriks.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennuttajalla on päävastuu siitä, että rakennusvaiheen aikainen työympäristö otetaan huomioon jo rakennusprojektia valmisteltaessa (suunnittelu ja projektointi).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="138">
+      <tuv xml:lang="et">
+        <seg>Mõnikord võib projektijuht kirjaliku lepinguga anda oma töökeskkonnaalase vastutuse üle mõnele tööettevõtjale ehitusprojekti selle osa suhtes, mida töövõtt hõlmab.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tietyissä tapauksissa rakennuttaja voi kirjallisella sopimuksella siirtää työympäristövastuunsa jollekin yhteisellä työmaalla työhön osallistuvista yrityksistä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="139">
+      <tuv xml:lang="et">
+        <seg>Vastutuse võib üle anda juhul, kui tööettevõtja vastutab iseseisvalt kogu planeerimise ja projekteerimise ja/või projekti kogu läbiviimise eest, nt üld- või täistöövõtulepingu korral.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Näin voidaan tehdä, jos tehtävä sisältää itsenäisen vastuun koko suunnittelusta ja projektoinnista ja/tai koko projektin toteuttamisesta, esimerkiksi yleis- tai kokonaisurakointiyrityk- sissa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="140">
+      <tuv xml:lang="et">
+        <seg>Osalise töövõtulepingu korral ei saa projektijuht sellist vastutust üle anda.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Aliurakointitapauksissa rakennuttajan vastuuta ei voi siirtää.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="141">
+      <tuv xml:lang="et">
+        <seg>Ehitustöökeskkonna koordinaator planeerimise- ja projekteerimise alal koordineerib projekteerimist lähtudes töökeskkonnast ning vastutab töökeskkonna plaani ja dokumentatsiooni koostamise eest.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Suunnittelusta ja projektoinnista vastaava rakennustyöympäristön koordinaattori vastaa työympäristösuunnitelman laadinnasta ja dokumentoinnista.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="142">
+      <tuv xml:lang="et">
+        <seg>Projekteerijad (arhitektid, konsultandid jne) vastutavad samuti oma töö raames selle eest, et ehitusprojekti koostamisel võetakse arvesse ehitusaegset töökeskkonda.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Suunnittelijat (arkkitehdit, konsultit ym) vastaavat myös oman toimenkuvansa puitteissa rakennuksen aikaisesta työympäristöstä projektia valmisteltaessa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="143">
+      <tuv xml:lang="et">
+        <seg>Ehitustöökeskkonna koordinaator ehitus- ja rajatistööde ajal koordineerib töid lähtudes töökeskkonnast, kohandab töökeskkonna plaani vastavalt tööde tegelikule läbiviimisele, kontrollib, et töid teostataks vastavalt töökeskkonnaalastele nõuetele ning et järgitakse töökeskkonna plaani.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennustyön suorittamisesta vastaava rakennusympäristön koordinaattori sovittaa työt yhteet työympäristön kannalta, sopeuttaa työympäristösuunnitelmaa sen mukaan kuinka työt todellisuudessa tehdään, kontrolloi että työt suoritetaan työympäristölliselta kannalta oikein ja että työympäristösuunnitelmaa noudatetaan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="144">
+      <tuv xml:lang="et">
+        <seg>13</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>13</seg>
+      </tuv>
+    </tu>
+    <tu tuid="145">
+      <tuv xml:lang="et">
+        <seg>Teised ettevõtted, kes tegutsevad samaaegselt samal ehitustöödega seotud tööplatsil, peavad andma ehitustöökeskkonna koordinaatorile andmed oma tööde läbiviimise kohta, kui nende enda tegevus võib kaasa tuua erilisi riske.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Muiden samassa työpaikassa työskentelevien yritysten on ilmoitettava koordinaattorille työn suorittamisesta ja riskeistä, joita niiden oma toiminta voi aiheuttaa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="146">
+      <tuv xml:lang="et">
+        <seg>Kõik ühisel tööpaigal tegutsevad inimesed peavad järgima ehitustöökeskkonna koordinaatori välja antud juhiseid ja turvareegleid.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Kaikkien samalla työpaikalla toimivien on noudatettava koordinointivastuussa olevan yrityksen määräämiä järjestys- ja turvasääntöjä</seg>
+      </tuv>
+    </tu>
+    <tu tuid="147">
+      <tuv xml:lang="et">
+        <seg>Igal tööandjal lasub põhivastutus oma töötajate töökeskkonna suhtes.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jokaisella työnantajalla on päävastuu työntekijän työympäristöstä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="148">
+      <tuv xml:lang="et">
+        <seg>Tööandja vastutus oma töövõtjate suhtes kehtib täielikult ka siis, kui tööandja vastutab lisaks veel projekteerimise eest, tööl kasutatava masina tootja eest või töökeskkonna koordinaatori eest.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työnantajan vastuu omista työntekijöistä on voimassa täysimääräisesti, vaikka samanaikaisesti oma vastuunsa tästä on suunnittelijoilla, työssä käytettävien koneiden valmistajilla tai rakennusympäristön koordinaat- torilla.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="149">
+      <tuv xml:lang="et">
+        <seg>Iseseisev ettevõtja ja need, kes töötavad pereettevõtetes, kus pole töövõtjaid, peavad ehitis- ja rajatistööde puhul järgima suures osas samu reegleid, mis on kehtivad tööandja ja töövõtja puhul.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Yksityisyrityttäjinä tai perheyrityksissä työskentelevät noudattavat raken- nustyössä käytännössä samoja määräyksiä, jotka koskevat työnantajaa ja työntekijä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="150">
+      <tuv xml:lang="et">
+        <seg>Ehitustöötajad osalevad töökeskkonnaalases töös, järgivad kehtivaid ettekirjutusi ja kasutavad olemasolevaid kaitsevahendeid ja -seadmeid.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennustyöntekijän on myös osallistuttava työympäristötyöhän, noudatettava voimassa olevia määräyksiä ja käytettävä olemassa olevia suojavarusteita.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="151">
+      <tuv xml:lang="et">
+        <seg>Ohutusvolinik esindab töövõtjaid turvaalastes küsimustes.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työsuojeluvaltuutettu edustaa työntekijöitä turvakysymyksissä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="152">
+      <tuv xml:lang="et">
+        <seg>Kui mingi töö tegemine toob kaasa vahetu ja tõsise ohu elule või tervisele ning tööandja ei kõrvalda otsekohe sellist ohtu, on ohutusvolinikul õigus töö katkestada selleks ajaks, kui Töökeskkonnaamet esitab olukorra kohta oma seisukoha.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jos työhön liittyy välitön terveyttä tai henkeä uhkaava vaara eikä työnantaja välittömästi poista riskiä, on työsuojeluvaltuutetulla oikeus keskeyttää työt ja odottaa Työympäristöviraston kannanottoa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="153">
+      <tuv xml:lang="et">
+        <seg>Tootja, maaletooja ja tehniliste seadmete rendile andja vastutavad oma toodete ohutuse eest.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Laitteiden valmistajat, maahantuojat ja vuokraajat vastaavat tuotteidensa turvallisuudesta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="154">
+      <tuv xml:lang="et">
+        <seg>Keemiliste toodete ja muude ainete tootjatel ja maaletoojatel on sarnane vastutus.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Kemiallisten aineiden valmistajilla ja maahantuojilla on sama vastuu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="155">
+      <tuv xml:lang="et">
+        <seg>Tootja, maaletooja ja rendile andja peavad andma ka vajaliku tooteteabe terviserikete ja õnnetuste ennetamiseks.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Valmistajien, maahantuojien ja vuokraajien on myös annettava tapaturmien ja terveyshaittojen välttämiseksi tarvittavat käyttöturvallisuustiedotteet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="156">
+      <tuv xml:lang="et">
+        <seg>Töökeskkonnaseadus reguleerib ka ajutiste lepingutega töötajaid värbava tööandja kui ka töökoha eest vastutava isiku vastutusala.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työympäristölaissa on myös vastuumääräykset työvoiman vuokraajille ja niille, jotka määräävät työpaikasta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="157">
+      <tuv xml:lang="et">
+        <seg>14</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>14</seg>
+      </tuv>
+    </tu>
+    <tu tuid="158">
+      <tuv xml:lang="et">
+        <seg>15</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu tuid="159">
+      <tuv xml:lang="et">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="160">
+      <tuv xml:lang="et">
+        <seg>Swedish Work Environment Authority, publication services, 112 79 Stockholm.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Swedish Work Environment Authority, publication services, 112 79 Stockholm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="161">
+      <tuv xml:lang="et">
+        <seg>Tel.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tel.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="162">
+      <tuv xml:lang="et">
+        <seg>+46-(0)8-730 97 00</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>+46-(0)8-730 97 00</seg>
+      </tuv>
+    </tu>
+    <tu tuid="163">
+      <tuv xml:lang="et">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="164">
+      <tuv xml:lang="et">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+    </tu>
+    <tu tuid="165">
+      <tuv xml:lang="et">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+    </tu>
+    <tu tuid="166">
+      <tuv xml:lang="et">
+        <seg>ADI 539 Est Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>ADI 539 Fin Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,1280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T125352Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="de">
+    <prop type="x-tucount">159</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="de">
+        <seg>Das Schwedische Zentralamt für Arbeitsumwelt (Arbetsmiljöverket) ist die staatliche schwedische Aufsichtsbehörde im Bereich des Arbeitsschutzes.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ruotsissa työympäristöön liittyviä asioita valvoo valtion viranomainen, Työympäristövirasto (Arbetsmiljöverket).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="de">
+        <seg>Das Zentralamt hat die Aufgabe, die Arbeitsbedingungen auf den Baustellen zu überprüfen und kann bei Bedarf fordern, dass geeignete Maßnahmen zur Verbesserung und Sicherung des Arbeitsumfelds ergriffen werden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jos riskit ovat liian suuria, voimme kieltää työnteon jatkamisen siihen saakka, kunnes määrätyt parannustoimenpiteet on tehty.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="de">
+        <seg>Sollten sich die Gefahren als zu hoch erweisen, hat das Schwedische Zentralamt für Arbeitsumwelt die Möglichkeit die Fortsetzung der Arbeiten zu untersagen, bis die entsprechenden Verbesserungsmaßnahmen durchgeführt worden sind.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tällainen kielto on allekirjoitettava, mutta allekirjoitus on vain kuittaus siitä, että varsinainen päätösasiakirja on otettu vastaan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="de">
+        <seg>Ein solches Verbot muss unterzeichnet werden, wobei die Unterschrift lediglich eine Quittung dafür ist, dass der Entscheid entgegengenommen wurde.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Monet rakennuksilla työskentelevät altistuvat tapaturmille ja ammatti- taudeille.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="de">
+        <seg>Sie stürzen, nehmen falsche Körperhaltung bei der Arbeit ein, müssen schwer heben oder können sich an Maschinen schwer verletzen.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennuksilla pudotaan, työskennellään väärissä työasennois- sa, nostetaan raskaita kuormia tai loukkaannutaan koneita käytettäessä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="de">
+        <seg>Schlechte Planung und Zeitmangel erhöhen das Unfallrisiko.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Onnettomuusriskiä lisäävät huono suunnittelu ja aikapula.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="de">
+        <seg>Die Gesetze und Vorschriften des Schwedischen Zentralamts für Arbeitsumwelt enthalten Anweisungen für die ordnungsgemäßen Abläufe von Bauarbeiten.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennustoimintaa säätelee monia Työympäristöviraston antamia lakeja ja asetuksia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="de">
+        <seg>Mit der vorliegenden Broschüre wird Ihnen ein Überblick über einige Mindestanforderungen zur Verfügung gestellt.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tässä esitteessä on kerrottu rakentamiseen liittyvistä vähimmäisvaatimuksista.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="de">
+        <seg>Bau-, Änderungs-, Reparatur-, Wartungs- oder Abrissarbeiten an Gebäuden oder Anlagen fallen unter das schwedische Arbeitsschutzgesetz und die Bauvorschriften des Schwedischen Zentralamts für Arbeitsumwelt.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työympäristölaki ja Työympäristöviraston rakennusmääräykset koskevat rakentamista, muutosten tekemistä, korjaamista, rakennusten tai laitosten kunnossapitoa ja purkamista.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="de">
+        <seg>Schwedische Arbeitsschutzvorschriften gelten auch für ausländische Arbeitskraft und es spielt dabei keine Rolle ob eine Anstellung in einem ausländischen Unternehmen, eine vorübergehende Beschäftigung durch ein schwedisches Unternehmen oder eine Tätigkeit als selbstständiger Unternehmer vorliegt.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ruotsin työympäristösäännöt koskevat ulkomaista työvoimaa Ruotsissa riippumatta siitä, onko sen palkannut ulkomainen yritys, vuokrannut ruotsalainen työntantaja vai toimiiko se itsenäisenä yrittäjänä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="de">
+        <seg>Diese Vorschriften richten sich sowohl an den Unternehmer als auch an seine Mitarbeiter, unabhängig von der Art der Beschäftigung.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Se koskee siis sekä yrittäjää itseään että työntekijöitä työsuhteen muodosta riippumatta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="de">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="de">
+        <seg>Reduzierung der Sturzgefahr</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Putoamisriskin vähentäminen</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="de">
+        <seg>Stürze sind die häufigste Ursache von Todesfällen und Unfällen auf Baustellen.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Putoamiset ovat yleisin kuolemien ja tapaturmien syy rakennustyömailla.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="de">
+        <seg>Deshalb ist der Vorgesetzte verpflichtet sicherzustellen, dass die Sturzgefahr möglichst gering ist.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Putoamisriskejä on ehkäistävä vennalta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="de">
+        <seg>Auch bei geringeren Höhenunterschieden können Schutzvorrichtungen notwendig sein, das trifft z. B. zu, wenn sich Wasser oder scharfe Gegenstände unterhalb des Arbeitsplatzes befinden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Suojia voidaan tarvita myös myös pienemmissä tasoeroissa, jos alla on esim. vettä tai teräviä esineitä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="de">
+        <seg>stabil sein mindestens einen Meter hoch sein einen Handlauf, Zwischenstreben und eine Fußleiste haben.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>vähintään metrin korkuisia on oltava yläjuoksu, keskijuoksu ja jalkalista.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="de">
+        <seg>Sie dürfen auch anders aussehen, müssen allerdings einen gleichwertigen Schutz bieten.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Muukin rakenne on mahdollinen, mutta suojaustason on oltava yhtä hyvä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="de">
+        <seg>Bei Arbeiten auf Dächern muss es normalerweise Schutzgeländer oder andere Vorrichtungen geben, die einen gleichwertigen Schutz bieten.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Katolla työskentelyssä tarvitaan suojakaiteita tai muita varusteita, jotka antavat vastaavan suojan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="de">
+        <seg>Das Geländer muss direkt an der Traufe oder an einem Gestell angebracht werden, das direkt unterhalb der Traufe aufhört.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Asenna telineet räystääseen tai suo- raan sen alla olevaan telineeseen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="de">
+        <seg>Um den Absturz einer Person zu verhindern, die auf einem steilen Dach nach unten rutscht, werden ganz besonders stabile Geländer benötigt.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Telineiden on oltava erityisen vahvat, jotta ne voisivat seisauttaa turvallisesti jyrkältä katolta alas liukuvan henkilön.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="de">
+        <seg>Falls es nicht gelingt eine feste Absturzsicherung zu installieren, muss ein persönlicher Anseilschutz in Form von Auffanggurten benutzt werden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jos kiinteää suojarakennelmaa ei voida asen- taa, on käytettävä henkilökohtaisia turvaval- jaita.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="de">
+        <seg>Ein Leibriemen sollte allerdings nicht verwendet werden, da es zu schweren Schäden kommen kann.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Lannevyö voi aiheuttaa suuria vahinkoja eikä sitä saa käyttää pelkästään.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="de">
+        <seg>Das Sicherungsseil muss an einem Anschlagpunkt auf dem Dach angebracht werden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Kiinnitä köydet johonkin kiinteään rakennelmään katolla ja tarkista niiden pysyvyys.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="de">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="de">
+        <seg>Wenn das Sicherungsseil nirgendwo angebracht werden kann, kann es um eine feste Vorrichtung gewickelt und von einer anderen Person straff gehalten werden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Kantamattomille rakenteille astumisessa voi myös piillä putoamisriski – sulje pääsy tällaisiin paikkoin.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="de">
+        <seg>Wenn man dennoch auf solch einer Fläche arbeiten muss, ist die Verwendung einer besonderen Schutzvorrichtung notwendig.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Käytä ylimääräisiä suojavarusteita, jos tällaisissa paikoissa on kuitenkin työskenneltävä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="de">
+        <seg>Bei einigen Arbeiten empfiehlt es sich, ein Schutznetz zu verwenden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Joissakin työtehtävissä saatetaan tarvita erityistä suojaverkkoa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="de">
+        <seg>Dabei ist es wichtig, dass eine kompetente Person das Netz und die Installation vor der Benutzung überprüft.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ennen sen käyttöä asiantuntevan henkilön on tarkastettava verkko ja sen asennus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="de">
+        <seg>Wenn jemand mehr als vier Stunden auf einer kleinen Dachfläche arbeiten muss und das Dach außerdem eine Neigung von mehr als 1:4 hat, muss es eine horizontale Arbeitsfläche geben.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Kun työskennellään yli neljä tuntia pienellä katon osalla, jonka kaltevuus on yli 1:4, on käytettävä vaakasuoraa työtasoa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="de">
+        <seg>Schutzhelme und Sicherheitsschuhe müssen unter normalen Umständen immer getragen werden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Suojakypärää ja turvakenkiä on normaalisti käytettävä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="de">
+        <seg>Manchmal werden zudem Schutzbrillen, Gehörschutz und Handschuhe benötigt.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Joskus tarvitaan myös näkö- ja kuulosuojaimia sekä käsineitä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="de">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="de">
+        <seg>Schwere Hebearbeiten und falsche Körperhaltung belasten den Körper</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Raskaat kuormat ja väärät työasennot rasittavat kehoa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="de">
+        <seg>Maschinen und Werkzeuge müssen ergonomisch gestaltet sein.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Koneiden ja työkalujen on oltava ergonomisesti muotoiltuja.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="de">
+        <seg>Längere Arbeiten auf einer Leiter sind nicht gut für den Körper.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Pitkäaikainen työskentely tikkailta käsin on erityisen raskasta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="de">
+        <seg>Eine ebene Stehfläche, z. B. höhenverstellbare Plattformen, sorgt für eine bessere Körperhaltung.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tasaisella pinnalla, esimerkiksi korkeussäädettävällä työtasolla seistessä työasennon.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="de">
+        <seg>Die Muskeln des Körpers müssen sich nach einer Anstrengung wieder erholen können.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Lihasten on saatava palautua rasituksen jälkeen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="de">
+        <seg>Einseitige Belastung der Muskeln können durch abwechslungsreiche Tätigkeiten vermieden werden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Yksipuolista kuormitusta voi vähentää mm. vaihtelemalla työtetyötehtäviä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="de">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="de">
+        <seg>Vorschriften, die für chemische Mittel in Schweden gelten</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ruotsin kemikaalilainsäädäntö</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="de">
+        <seg>In der Baubranche werden häufig giftige, krebserregende, ätzende und Allergien verursachende Stoffe benutzt.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Muita vaarallisia aineita sisältäviä tuotteita ovat mm. liimat, maalit ja kaksikomponenttituotteet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="de">
+        <seg>Beton, Mörtel und Putz enthalten zum Beispiel Zement, der bei längerem Hautkontakt zu Verätzungen führen kann.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Myös rakennuspöly ja mineraalivilla lasketaan vaarallisiksi, koska ne voivat vahingoittaa hengitysteitä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="de">
+        <seg>Für den Fall, dass chemische Mittel benutzt werden, die einen oder mehrere gefährliche Stoffe beinhalten, muss ein Sicherheitsdatenblatt des Herstellers am Arbeitsplatz vorliegen.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työpaikalla on säilytettävä käyttöturvallisuustiedotteet sellaisista kemiallisista aineista, jotka sisältävät ainakin yhtä vaarallista ainetta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="de">
+        <seg>Für in Schweden erworbene Produkte muss ein Sicherheitsdatenblatt in schwedischer Sprache vorhanden sein.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ruotsista ostetuissa kemikaaleissa käyttöturvallisuustiedotteen tulee olla ruotsinkielinen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="de">
+        <seg>Unternehmen, die für den eigenen Gebrauch gefährliche chemische Produkte nach Schweden einführen, haben die Verantwortung dafür, dass es schriftliche Risiko- und Schutzin- formationen zu dem Produkt am Arbeitsplatz in einer Sprache gibt, die von den Anwendern verstanden wird.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jos yritys tuo vaarallista kemikaalia Ruotsiin omaan käyttöönsä, se vastaavat siitä, työpaikalta löytyy kirjallinen käyttöturvallisuustiedote kielellä, jota käyttäjät ymmärtävät.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="de">
+        <seg>Der Arbeitgeber hat die Aufgabe, den Arbeitnehmer über die Gefahren im Umgang mit gefährlichen chemischen Produkten aufzuklären und er/sie muss sicherstellen, dass der Arbeitnehmer die Informationen tatsächlich verstanden hat.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työnantajan on kerrottava työntekijöille kemikaalien riskeistä ja varmistettava, että työntekijät ovat ymmärtäneet ne.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="de">
+        <seg>Bei bestimmten gefährlichen Stoffen gelten ganz besonders strenge Vorschriften:</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tiettyjä vaarallisia kemikaaleja koskevat erityisen tiukat määräykset:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="de">
+        <seg>Asbest: Für den Umgang mit und die Beseitigung von Asbest benötigt das beauftragte Unternehmen eine Genehmigung des Schwedischen Zentralamts für Arbeitsumwelt.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Asbesti: Asbestin käsittelyä ja purkua suorittavat yritykset tarvitsevat luvan Työympäristövirastolta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="de">
+        <seg>Vorraussetzung für eine Genehmigung ist eine dokumentierte Spezialausbildung und eine ärztliche Bescheinigung.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Luvan saanti edelyttää dokumentoitua erityiskoulutusta ja lääkärintodistuksen.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="de">
+        <seg>Verstöße gegen diese Vorschriften sind strafbar und können zu hohen Bußgeldern führen.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Näiden sääntöjen rikkominen on rangaistavaa ja se voi johtaa suuriin sakkoihin.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="de">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="de">
+        <seg>Verkehrswege und Materialtransporte</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Yhdystiet ja kuljetukset</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="de">
+        <seg>Auf Baustellen müssen sichere Verkehrswege vorhanden sein, z. B. eine Treppe oder eine Rampe zwischen verschiedenen Ebenen.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennustyömaiden yhdysteiden, esimerkiksi rappusten ja eri tasoja yhdistävien ramppien on oltava turvallisia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="de">
+        <seg>Bei Höhenunterschieden von mehr als zehn Metern muss ein Aufzug zur Verfügung stehen, da der Arbeitnehmer ansonsten häufig Treppen steigen müsste.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Yli kymmenen metrin tasoeroihin tarvitaan hissi, jottei työntekijöiden tarvitse kulkea liian paljon portaissa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="de">
+        <seg>Außerdem müssen ausreichende Sicherheitsabstände oder Schutzvorrichtungen vorhanden sein, wenn Verkehrswege über die Baustelle verlaufen.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennustyömaan ajoteillä on oltava riittävät turvaetäisyydet tai suojalaitteet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="de">
+        <seg>Materialtransporte zwischen verschiedenen Ebenen müssen ohne Beseitigung der Schutzgeländer oder anderer Schutzvorrichtungen durchführbar sein.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Eri tasojen väliset kuljetukset on pystyttävä hoitamaan niin, ettei turvavarustuksia tarvitse purkaa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="de">
+        <seg>Falls dies nicht möglich ist, müssen die Transporte über Aufnahmebrücken, Lade- öffnungen in Fassaden, Rampen oder besondere Förderanlagen erfolgen.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jos tämä ei ole mahdollista, kuljetusten on tapahduttava kuormasiltojen, lastausaukkojen, ramppien tai erityisten kuljetusjärjestelmien avulla.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="de">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="de">
+        <seg>Bedienungsanleitung für Hubvorrichtungen, Maschinen und bestimmte andere Produkte</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Nostolaittteiden, koneiden ja tiettyjen muiden tuotteiden käyttööhjeet</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="de">
+        <seg>Wenn eine Maschine oder eine Hubvorrichtung in Schweden angeliefert oder in Betrieb genommen wird, muss eine schriftliche Bedienungsanleitung auf Schwedisch beigefügt sein.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ruotsiin toimitettavan tai siellä käyttöön otettavan koneen tai nostolaitteen mukana on olatava kirjalliset, ruotsinkieliset käyttöohjeet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="de">
+        <seg>Der Hersteller trägt dafür die Verantwortung.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tästä vastaa toimittaja.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="de">
+        <seg>Auch eine Person, die eine Maschine zum Einsatz nach Schweden einführt, gilt als Hersteller.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Toimittajaksi lasketaan myös se, joka tuo koneen Ruotsiin käyttöä varten. koneen käyttöön Ruotsissa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="de">
+        <seg>Informationen über den erforderlichen Inhalt einer Bedienungsanleitung können den Maschinenvorschriften des Schwedischen Zentralamts für Arbeitsumwelt entnommen werden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tietoa siitä, mitä käyttöohjeiden pitää sisältää, löytyy Työympäristöviraston koneita ja laitteita koskevista määräyksistä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="de">
+        <seg>Vorgefertigte Gerüste müssen bei Anlieferung auch mit einer schriftlichen Bedienungsanleitung auf Schwedisch ausgestattet sein, die dann am Arbeitsplatz zur Verfügung stehen muss.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Myös tehdasvalmisteisten telineiden mukana on oltava kirjalliset ohjeet ruotsiksi toimituksessa, ja niidenkin on löydyttävä työmaalta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="de">
+        <seg>Aus den Vorschriften des Schwedischen Zentralamts für Arbeitsumwelt zu Gerüsten geht hervor, was diese Anweisungen beinhalten müssen.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työympä- ristöviraston määräyksissä on kerrottu, mitä tietoa ohjeissa tulee olla.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="de">
+        <seg>Wenn eine Maschine, eine Hubvorrichtung, ein Gerüst oder dergleichen bei den Bauarbeiten verwendet wird, müssen die entsprechenden Anweisungen den davon betroffenen Arbeitnehmern zur Verfügung gestellt werden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Kun konetta, nostolaitetta, telinettä tai muuta vastaavaa käytetään rakennustyössä, työntekijän on voitava saada lukea niitä koskevat ohjeet sillä kielellä, jota tämä ymmärtää.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="de">
+        <seg>Diese Anweisungen müssen zudem in einer Sprache verfasst sein, die der Arbeitnehmer versteht.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Koneiden, nostolaitteiden ja tiettyjen muiden tuotteiden CE-merkintä, tyyppihyväksyntä</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="de">
+        <seg>CE-Kennzeichnung, Typenzulassung und Überprüfung von Hubvorrichtungen, Maschinen und bestimmten anderen Produkten</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>ja tarkastus</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="de">
+        <seg>Neue Hubvorrichtungen und Maschinen müssen für gewöhnlich mit einem CE- Kennzeichen ausgestattet sein, damit sie in Schweden angewendet werden dürfen.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Uusissa nostolaitteissa ja koneissa on yleensä oltava CE-merkintä, jotta niitä voisi käyttää Ruotsissa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="de">
+        <seg>Vor der Anlieferung in Schweden müssen vorgefertigte Gerüste und Leitern eine Typenzulassung, vorgefertigte Leitern können auch eine Zertifizierung, von einem anerkannten Organ erhalten haben.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ruotsiin toimitettavilla tehdasvalmisteisilla telineillä ja tikkailla on oltava valtuutetun elimen tyyppihyväksyntä (ja tikkailla lisäksi sertifiointi).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="de">
+        <seg>Die meisten Maschinen und Hubvorrichtungen müssen regelmäßig überprüft werden, damit sie zum Einsatz kommen können.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Monia koneita ja nostolaitteita on katsastettava säännöllisesti, jotta niitä voidaan käyttää.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="de">
+        <seg>Es ist strafbar, Maschinen und Hubvorrichtungen einzusetzen, wenn die Überprüfung nicht erfolgt ist oder wenn die nachgewiesenen Mängel nicht beseitigt worden sind.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>On rangaistavaa käyttää koneita ja nostolaitteita, jos katsastusta ei ole tehty tai määrättyjä korjauksia ei ole toteutettu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="de">
+        <seg>Die Überprüfung sollte entsprechend der schwedischen Vorschriften erfolgen.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Katsastus on suoritettava Ruotsin sääntöjen mukaisesti.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="de">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="de">
+        <seg>Und nicht vergessen...</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Muuta huomiotavaa…</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="de">
+        <seg>Wenn gelagertes Baumaterial in Bewegung versetzt wird, z. B. durch starken Wind, können schwere Unfälle geschehen.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Vakavia onnettomuuksia voi tapahtua, jos rakennusmateriaali alkaa liikkua esimerkiksi kovan tuulen vuoksi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="de">
+        <seg>Deshalb ist es wichtig, das Material zu stabilisieren.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Sen takia materiaalit on ankkuroitava huolellisesti.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="de">
+        <seg>Manchmal kann zudem eine Schutzhütte gegen Wind und Kälte für die Bauarbeiter benötigt werden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Myös työntekijät tarvitsevat riittävän suojan kylmää ja tuulta vastaan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="de">
+        <seg>Bereiche, in denen Gefahr durch herabfallende Gegenstände besteht, müssen abgesperrt und gekennzeichnet werden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Eristä ja merkitse alueet, joissa on putoavien esineiden vaara.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="de">
+        <seg>Wenn man sich dennoch dort aufhalten muss, soll ein Schutzdach angebracht sein.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jos tällaisella alueella on kuitenkin työskenneltävä, tarvitaan suojakatto.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="de">
+        <seg>Erdarbeiten sind so zu planen, dass der Boden den Belastungen standhält.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Suunnittele maanrakennustyöt siten, ettei maaperää altisteta suuremmalle kuormitukselle kuin mitä se kestää.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="de">
+        <seg>Bei Bedarf müssen Maßnahmen zur Erhaltung der Standsicherheit des Erdreichs getroffen werden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Sortuminen on tarvit- taessa estettävä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="de">
+        <seg>Außerdem muss überprüft werden, ob Leitungen oder gefährliche Stoffe im Boden vorhanden sind und die Gefahr besteht, dass Maschinen in die Baugrube fallen könnten.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tarkista, ettei maassa ole johtoja tai vaarallisia aineita ja ettei koneilla ole vaaraa vyöryä kuoppaan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="de">
+        <seg>Der Fahrzeugverkehr muss einen angemessenen Abstand zu der Baugrube halten.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ajoneuvoliikenne on pidettävä etäällä kaivuukuopasta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86">
+      <tuv xml:lang="de">
+        <seg>Vorbeifahrender Verkehr stellt für die Arbeiter auf dem Bauplatz eine Gefahr dar.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ajoneuvoliikennen rakennustyömaalla on riski.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87">
+      <tuv xml:lang="de">
+        <seg>Wenn möglich, muss der Fahrverkehr umgeleitet werden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ensi kädessä liikenne on ohjattava muualle.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88">
+      <tuv xml:lang="de">
+        <seg>Wer an einem Platz arbeitet, wo die Umleitung des Fahrverkehrs nicht möglich ist, muss Warnkleidung, die mit gut sichtbaren Reflektoren ausgestattet sind, tragen.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennustyömaalla, joka sijaitsee liikenteen keskellä, työntekijöiden on käytettävä heijastavaa turvavaatetusta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89">
+      <tuv xml:lang="de">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90">
+      <tuv xml:lang="de">
+        <seg>Wenn etwas passiert</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jos jotakin tapahtuu</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91">
+      <tuv xml:lang="de">
+        <seg>Alle müssen schnell und sicher, z. B. bei einem Brand, den Arbeitsplatz verlassen können.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Kaikkien on osattava nopeasti ja turvallisesti tie ulos työpaikalta esimerkiksi tulipalon alta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92">
+      <tuv xml:lang="de">
+        <seg>Fluchtwege und Sammelplätze müssen durch Schilder gekennzeichnet sein.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Hätäpoistumis- tiet ja kokoontumispaikat on merkittävä kyltein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93">
+      <tuv xml:lang="de">
+        <seg>Fluchttüren und Notausgänge müssen nach außen zu öffnen sein und Feuerlöschgeräte müssen leicht zugänglich sein.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Poistumisteiden ovien on avauduttava ulospäin ja sammutusvälineiden on oltava helposti saatavilla.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94">
+      <tuv xml:lang="de">
+        <seg>Es sollte immer eine Möglichkeit geben, Erste Hilfe leisten zu können und es sollten Schilder vorhanden sein, die darauf hinweisen, wo die entsprechende Rettungs- und Hilfsausrüstung und die entsprechenden Hilfsmittel aufbewahrt werden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ensiapua on aina osattava antaa, ja tilat ja välineet sitä varten on osoitettava kyltein.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95">
+      <tuv xml:lang="de">
+        <seg>Außerdem sollten Hinweise mit Telefonnummern von Krankenhaus und Not- und Rettungsdienst, Adressen zum Arbeitsplatz und eventuell eine Anfahrtsbeschreibung vorhanden sein.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Hätänumero, työpaikan osoite ja mahdollinen reittikuvaus on myös oltava selvästi näkyvillä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96">
+      <tuv xml:lang="de">
+        <seg>Vergessen Sie nicht, dass der Anrufer in der Lage sein muss, mit dem schwedischen Not- und Rettungsdienst (Räddnings- tjänsten) kommunizieren zu können.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Mikäli sähköjen katkeaminen aiheuttaisi erityisiä vaaroja työpaikalla, on oltava hätävalaistus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97">
+      <tuv xml:lang="de">
+        <seg>Dies trifft vor allem z. B. auf Arbeiten mit Bausägen oder beim Aufbau von Baugerüsten zu.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tämä koskee erityisesti rakennussahan käyttöä tai rakennustelineiden pystyttämistä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98">
+      <tuv xml:lang="de">
+        <seg>Sicherheits- und Gesundheitsschutzplan</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työympäristösuunnitelma</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99">
+      <tuv xml:lang="de">
+        <seg>Der Bauherr hat schon vor Beginn der Bauarbeiten sicherzustellen, dass ein Sicherheits- und Gesundheitsschutzplan für das ganze Projekt erstellt wird.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ennen rakennustyömaan perustamista on laadittava työympäristösuunni- telma.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100">
+      <tuv xml:lang="de">
+        <seg>Es ist in erster Linie die Aufgabe des Sicherheits- und Gesundheitsschutzkoordinators, der für die Planung und Ausführung eingesetzt wurde, dafür zu sorgen, dass ein Sicherheits- und Gesundheitsschutzplan erstellt wird.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tämän toteuttamisesta vastaa ensi kädessä rakennustyöympäristön suunnittelun ja projektointnin koordinaattori.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="101">
+      <tuv xml:lang="de">
+        <seg>Der Bauherr oder ein Auftragnehmer, der die Aufgaben des Bauherrn übernommen hat, ist auch verantwortlich für die Erstellung des Sicherheits- und Gesundheitsschutzplans.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennushankkeen toteut- taja tai rakentaja, joka on ottanut tämän henkilön vastuu, vastaa myös suunnitelman teosta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="102">
+      <tuv xml:lang="de">
+        <seg>Es wird vorausgesetzt, dass dieser Sicherheits- und Gesundheitsschutzplan dann während der ganzen Bauzeit verwendet wird.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tarkoituksena on, että työympäristösuunnitelmaa käytetään koko rakentamisvaiheen ajan.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="103">
+      <tuv xml:lang="de">
+        <seg>Außerdem trägt der Sicherheits- und Gesundheitsschutzkoordinator die Verantwortung dafür, dass der Sicherheits- und Gesundheitsschutzplan bei Bedarf veränderten Bedingungen angepasst wird.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Koordinaattorin on myös suoritettava tarpeen tullen suunnitelmaan muutoksia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="104">
+      <tuv xml:lang="de">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="105">
+      <tuv xml:lang="de">
+        <seg>Der Plan sollte Folgendes beinhalten:</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Suunnitelman on sisällettävä:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="106">
+      <tuv xml:lang="de">
+        <seg>Die auf dem Arbeitsplatz geltenden Vorschriften</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennustyömaalla sovellettavat säännöt</seg>
+      </tuv>
+    </tu>
+    <tu tuid="107">
+      <tuv xml:lang="de">
+        <seg>Eine Beschreibung, wie die Arbeitssicherheit organisiert wird</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Kuvaus rakennusympäristötyön organisoinnista</seg>
+      </tuv>
+    </tu>
+    <tu tuid="108">
+      <tuv xml:lang="de">
+        <seg>Eine Beschreibung der Arbeitsschutzmaßnahmen, die während der Bauzeit getroffen werden, um ein sicheres Arbeitsumfeld zu gewährleisten.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Kuvaus niistä rakennusympäristötoimenpiteistä, joihin ryhdytään rakennusvaiheessa jotta rakennusympäristöstä tulisi hyvä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="109">
+      <tuv xml:lang="de">
+        <seg>Dies trifft insbesondere auf folgende Arbeiten zu:</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Se koskee mm. seuraavia töitä:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="110">
+      <tuv xml:lang="de">
+        <seg>Arbeiten mit Absturzgefahr</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>töitä, joissa on putoamisriski</seg>
+      </tuv>
+    </tu>
+    <tu tuid="111">
+      <tuv xml:lang="de">
+        <seg>Ausschachtungsarbeiten mit Absturzgefahr</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>kaivuutöitä, joissa on maan sortumisrsiki</seg>
+      </tuv>
+    </tu>
+    <tu tuid="112">
+      <tuv xml:lang="de">
+        <seg>Arbeiten mit bestimmten chemischen oder biologischen Stoffen</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>työskentelyä tiettyjen kemiallisten tai biologisten aineiden kanssa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="113">
+      <tuv xml:lang="de">
+        <seg>Arbeiten in der Nähe von Hochspannungsleitungen</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>työ korkeajännitejohtojen läheisyydessä</seg>
+      </tuv>
+    </tu>
+    <tu tuid="114">
+      <tuv xml:lang="de">
+        <seg>Arbeiten, bei denen Ertrinkungsgefahr besteht</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>työtä, johon sisältyy hukkumisriski</seg>
+      </tuv>
+    </tu>
+    <tu tuid="115">
+      <tuv xml:lang="de">
+        <seg>Arbeiten in Brunnen und Tunneln</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>työskentelyä kaivoissa ja tunneleissa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="116">
+      <tuv xml:lang="de">
+        <seg>Arbeiten, die den Einsatz von Sprengmitteln involvieren</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>työskentelyä räjähdysaineiden kanssa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="117">
+      <tuv xml:lang="de">
+        <seg>Arbeiten, die die Montage schwerer Bauelemente enthalten</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>työtä, jossa asennetaan raskaita rakennuselementtejä</seg>
+      </tuv>
+    </tu>
+    <tu tuid="118">
+      <tuv xml:lang="de">
+        <seg>Arbeiten auf einem Platz oder in einem Bereich mit Durchgangsverkehr als auch der Abriss von tragenden Konstruktionen oder von Materialien oder Stoffen, die ein Gesundheitsrisiko darstellen.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>työskentelyä liikenteensekaisella alueella sekä kantavien rakenteiden tai terveydelle vaarallisten materiaalien tai aineiden purkamista.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="119">
+      <tuv xml:lang="de">
+        <seg>Gemäß § 7 Arbeitsschutzvorschriften muss der Bauherr, außer wenn es sich um kleinere Arbeiten handelt, vor Beginn der Arbeit eine Voranmeldung (förhands- anmälan) an das Schwedische Zentralamt für Arbeitsumwelt (im nächstliegenden Bezirk) übermitteln.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennushankkeen toteuttajan on pieniä töitä lukuun ottamatta jätettävä etukäteisilmoitus työympäristövirastolle (lähimmälle alueelle) ennen työn aloittamista, ks. määräysten 7 §.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="120">
+      <tuv xml:lang="de">
+        <seg>Außerdem muss der Bauherr dafür Sorge tragen, dass eine Kopie der Voranmeldung am Bauarbeitsplatz ausgehängt wird, und dass die Voranmeldung immer aktuell gehalten wird.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennuttajan on myös jätettävä kopio ilmoituksesta rakennustyömaalle ja huolehtia sen ajantasaisuudesta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="121">
+      <tuv xml:lang="de">
+        <seg>Planung und Informationen</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="122">
+      <tuv xml:lang="de">
+        <seg>Alle Arbeiten müssen rechtzeitig geplant und die Risiken frühzeitig beurteilt werden, damit die Arbeiten sicher ausgeführt werden können.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Suunnittelu ja tiedotus</seg>
+      </tuv>
+    </tu>
+    <tu tuid="123">
+      <tuv xml:lang="de">
+        <seg>Platz für Schuppen, Werkstätten und Lagerstellen sowie für Arbeitswege und Materialtransporte müssen eingeplant werden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Parakkien, verstaiden ja varastojen, kuljetus- ja kulkuteiden sijainti ja tilat on myös suunniteltava.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="124">
+      <tuv xml:lang="de">
+        <seg>Es ist wichtig, den Zugang zu allen Arbeitsplätzen im Voraus sicherzustellen.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>On tärkeää ratkaista kuinka eri työskentelypisteisiin pääsee.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="125">
+      <tuv xml:lang="de">
+        <seg>Die Arbeiten müssen so geplant werden, dass es bei verschiedenen, gleichzeitig ausgeführten Arbeiten nicht zu einer Kollision kommt, die Gesundheitsfährdung oder Unfälle mit sich bringen könnte.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työ on suunnitelta niin, etteivät eri toiminnot häiritse toisiaan niin, ettei synny terveys- tai onnettomuusriskejä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="126">
+      <tuv xml:lang="de">
+        <seg>Die Zeitplanung ist dann besonders wichtig, wenn für umfangreiche Arbeiten nur eine kurze Bauzeit zur Verfügung steht.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Ajankäyttö on myös suunniteltava, varsinkin jos työ on laaja ja rakennusaika lyhyt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="127">
+      <tuv xml:lang="de">
+        <seg>Unfällen infolge von Absturz oder Einsturz entgegenwirken, bewirken, dass schädliche oder stark ermüdende Körperhaltung verhindert wird, die Beschäftigten im höchstmöglichen Maße vor Lärm, Vibrationen, gefährlichen Stoffen und Luftverschmutzungen schützen.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>joiden avulla voidaan välttää terveyshaittoja ja kehon rasitusta altistavat mahdollisimman vähän melulle, tärinälle, vaarallisille aineille ja ilman epäpuhtauksille.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="128">
+      <tuv xml:lang="de">
+        <seg>Die Arbeitnehmer müssen über die Arbeiten, die durchgeführten oder geplanten Sicherheitsmaßnahmen sowie die geltenden Vorschriften informiert werden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työntekijöille on kerrottava miktä työympäristötoimenpiteet on toteutettu tai suunniteltu ja mitkä määräykset ovat voimassa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="129">
+      <tuv xml:lang="de">
+        <seg>Manchmal brauchen die Arbeitnehmer eine besondere Schulung, wenn beispielsweise neue Produkte oder Arbeitsverfahren eingeführt werden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>He saattavat tarvita erityista koulutusta tai ohjausta uusien tuotteiden tai työmenetelmien käyttöön.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="130">
+      <tuv xml:lang="de">
+        <seg>Auf einer Baustelle kommt es ständig zu schnellen Veränderungen, die viele Risiken mit sich bringen.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennustyömlaalla tapahtuu jatkuvia ja nopeita muutoksia, joihin liittyy monia riskejä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="131">
+      <tuv xml:lang="de">
+        <seg>Deshalb ist es wichtig, regelmäßige Sicherheitsbegehungen durchzuführen.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Siksi säännölliset työsuojelukierrokset ovat erittäin tärkeitä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="132">
+      <tuv xml:lang="de">
+        <seg>12</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu tuid="133">
+      <tuv xml:lang="de">
+        <seg>Wer ist wofür zuständig?</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Kuka vastaa mistä?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="134">
+      <tuv xml:lang="de">
+        <seg>Derjenige, der die Bau- oder Anlagenarbeiten ausführen lässt (der Bauherr) trägt die Hauptverantwortung dafür, dass der Arbeitsschutz schon in der Planungsphase (Projektplan und Durchführungsplan) berücksichtigt wird.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jotta voitaisiin luoda rakennustyömaalle hyvä työympäristö, ennaltaehkäi- sevillä toimenpiteillä on tärkeä merkitys.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="135">
+      <tuv xml:lang="de">
+        <seg>Der Bauherr ist zudem dafür verantwortlich, dass eine Voranmeldung vorliegt, ein Sicherheits- und Gesundheitsschutzplan sowie eine Dokumentation der Ergebnisse aufgestellt und dass ein Sicherheits- und Gesundheitsschutzkoordinator mit der Planung und Ausführung beauftragt wird.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Lisäksi on tärkeää, että kaikilla toimijoilla on oma vastuualueensa ja että nämä tekevät yhteistyötä ja vaikuttavat kukin osaltaan työympäristöön.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="136">
+      <tuv xml:lang="de">
+        <seg>In gewissen Fällen kann der Bauherr, in Form eines schriftlichen Vertrages, die Koordinationsverantwortung für Sicherheit und Gesundheitsschutz an eines der Unternehmen übertragen, die an den Arbeiten auf der gemeinsamen Baustelle beteiligt sind.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennuttajalla on päävastuu siitä, että rakennusvaiheen aikainen työympäristö otetaan huomioon jo rakennusprojektia valmisteltaessa (suunnittelu ja projektointi).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="137">
+      <tuv xml:lang="de">
+        <seg>Dies kann jedoch nur dann geschehen, wenn der Bauauftrag die selbstständige Verantwortung für die gesamte Planung und Ausführung und/ oder die gesamte Abwicklung des Projektes durch, z. B. einen Total- oder Generalunternehmer, einschließt.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Näin voidaan tehdä, jos tehtävä sisältää itsenäisen vastuun koko suunnittelusta ja projektoinnista ja/tai koko projektin toteuttamisesta, esimerkiksi yleis- tai kokonaisurakointiyrityk- sissa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="138">
+      <tuv xml:lang="de">
+        <seg>Bei getrennter Vergabe kann die Bauherrenverant- wortung nicht übergeben werden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Aliurakointitapauksissa rakennuttajan vastuuta ei voi siirtää.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="139">
+      <tuv xml:lang="de">
+        <seg>Der Sicherheits- und Gesundheitsschutzkoordinator, der mit der Planung und Ausführung beauftragt wurde, trägt die Verantwortung dafür, dass die Ausführung hinsichtlich Sicherheit und Gesundheitsschutz eingehalten wird und dass der Sicherheits- und Gesundheitsschutzplan sowie die Dokumentation der Ergebnisse erstellt wird.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Suunnittelusta ja projektoinnista vastaava rakennustyöympäristön koordinaattori vastaa työympäristösuunnitelman laadinnasta ja dokumentoinnista.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="140">
+      <tuv xml:lang="de">
+        <seg>Auch Projektbeteiligte (Architekten, Berater und dergleichen) tragen, im Rahmen ihres Auftrags, die Verantwortung dafür, dass schon in der Planungsphase des Bauvorhabens das Arbeitsumfeld und der Arbeitsschutz in den Durchführungsphasen, berücksichtigt wird.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Suunnittelijat (arkkitehdit, konsultit ym) vastaavat myös oman toimenkuvansa puitteissa rakennuksen aikaisesta työympäristöstä projektia valmisteltaessa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="141">
+      <tuv xml:lang="de">
+        <seg>13</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>13</seg>
+      </tuv>
+    </tu>
+    <tu tuid="142">
+      <tuv xml:lang="de">
+        <seg>Die anderen Unternehmen auf der gemeinsamen Baustelle müssen den Sicherheits- und Gesundheitsschutzkoordinator, der mit der Überwachung der ordnungsgemäßen Abwicklung der Arbeiten beauftragt wurde, über die besonderen Risiken aufklären, die durch die jeweiligen Arbeiten entstehen können.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Muiden samassa työpaikassa työskentelevien yritysten on ilmoitettava koordinaattorille työn suorittamisesta ja riskeistä, joita niiden oma toiminta voi aiheuttaa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="143">
+      <tuv xml:lang="de">
+        <seg>Alle, die auf der Baustelle beschäftigt sind, müssen nach den Ordnungs- und Sicherheitsvorschriften, die der Sicherheits- und Gesundheitsschutzkoordinator aufgestellt, handeln.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Kaikkien samalla työpaikalla toimivien on noudatettava koordinointivastuussa olevan yrityksen määräämiä järjestys- ja turvasääntöjä</seg>
+      </tuv>
+    </tu>
+    <tu tuid="144">
+      <tuv xml:lang="de">
+        <seg>Jeder Arbeitgeber trägt die Hauptverantwortung für das Arbeitsumfeld seiner Arbeitnehmer.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jokaisella työnantajalla on päävastuu työntekijän työympäristöstä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="145">
+      <tuv xml:lang="de">
+        <seg>Dies gilt grundsätzlich, selbst wenn es gleichzeitig Teilverant- wortliche, wie beispielsweise das ausführende Unternehmen, den Hersteller von Maschinen, die bei der Arbeit benutzt werden oder die Person, die als Sicherheits- und Gesundheitsschutzkoordinator beauftragt wurde, gibt.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työnantajan vastuu omista työntekijöistä on voimassa täysimääräisesti, vaikka samanaikaisesti oma vastuunsa tästä on suunnittelijoilla, työssä käytettävien koneiden valmistajilla tai rakennusympäristön koordinaat- torilla.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="146">
+      <tuv xml:lang="de">
+        <seg>Alleinunternehmer und Mitarbeiter in Familienbetrieben ohne Angestellte müssen bei Bau- und Anlagenarbeiten im Prinzip dieselben Bestimmungen einhalten, die auch für Arbeitgeber und Arbeitnehmer gelten.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Yksityisyrityttäjinä tai perheyrityksissä työskentelevät noudattavat raken- nustyössä käytännössä samoja määräyksiä, jotka koskevat työnantajaa ja työntekijä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="147">
+      <tuv xml:lang="de">
+        <seg>Bauarbeiter müssen sich an der Arbeit bezüglich Sicherheit und Gesundheitsschutz beteiligen, die geltenden Gesetze und Vorschriften einhalten und die vorgeschriebenen Schutzvorrichtungen benutzen.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Rakennustyöntekijän on myös osallistuttava työympäristötyöhän, noudatettava voimassa olevia määräyksiä ja käytettävä olemassa olevia suojavarusteita.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="148">
+      <tuv xml:lang="de">
+        <seg>Der Sicherheitsbeauftragte vertritt die Arbeitnehmer in Bezug auf Arbeits- sicherheitsfragen.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työsuojeluvaltuutettu edustaa työntekijöitä turvakysymyksissä.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="149">
+      <tuv xml:lang="de">
+        <seg>Wenn von einer Tätigkeit unmittelbare Gefahr für Leben und Gesundheit ausgeht und der Arbeitgeber nicht sofort die Gefahrenquelle beseitigt, hat der Sicherheitsbeauftragte das Recht die Arbeit zu unterbrechen, bis das Schwedische Zentralamt für Arbeitsumwelt hierzu eine Stellungnahme abgegeben hat.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Jos työhön liittyy välitön terveyttä tai henkeä uhkaava vaara eikä työnantaja välittömästi poista riskiä, on työsuojeluvaltuutetulla oikeus keskeyttää työt ja odottaa Työympäristöviraston kannanottoa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="150">
+      <tuv xml:lang="de">
+        <seg>Hersteller, Importeure und Vermieter von technischen Geräten sind für die Sicherheit ihrer Produkte verantwortlich.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Laitteiden valmistajat, maahantuojat ja vuokraajat vastaavat tuotteidensa turvallisuudesta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="151">
+      <tuv xml:lang="de">
+        <seg>Hersteller und Importeure von chemischen Produkten oder anderen Stoffen haben im Prinzip die gleiche Verantwortung.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Kemiallisten aineiden valmistajilla ja maahantuojilla on sama vastuu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="152">
+      <tuv xml:lang="de">
+        <seg>Hersteller, Importeure und Vermieter müssen Produktinformationen bereithalten, die für Gesundheitsvorsorge und Unfallverhütung am Arbeitsplatz benötigt werden.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Valmistajien, maahantuojien ja vuokraajien on myös annettava tapaturmien ja terveyshaittojen välttämiseksi tarvittavat käyttöturvallisuustiedotteet.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="153">
+      <tuv xml:lang="de">
+        <seg>Für Firmen, die Arbeitskräfte anheuern, und für die Oberaufsicht einer Baustelle enthält das schwedische Arbeitsschutzgesetz besondere Vorschriften.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Työympäristölaissa on myös vastuumääräykset työvoiman vuokraajille ja niille, jotka määräävät työpaikasta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="154">
+      <tuv xml:lang="de">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Additional copies of this publication can be ordered from:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="155">
+      <tuv xml:lang="de">
+        <seg>Swedish Work Environment Authority, publication services, 112 79 Stockholm.</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Swedish Work Environment Authority, publication services, 112 79 Stockholm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="156">
+      <tuv xml:lang="de">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="157">
+      <tuv xml:lang="de">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+    </tu>
+    <tu tuid="158">
+      <tuv xml:lang="de">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>Tryck; Davidsons Tryckeri AB, Växjö Layout; Susan Westin Okt 2010</seg>
+      </tuv>
+    </tu>
+    <tu tuid="159">
+      <tuv xml:lang="de">
+        <seg>ADI 539 Tys Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+      <tuv xml:lang="fi">
+        <seg>ADI 539 Fin Our vision: Everyone wants to, and can, create a good work environment</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

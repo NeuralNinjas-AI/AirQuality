@@ -1,0 +1,1376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T130021Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="hu">
+    <prop type="x-tucount">171</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="hu">
+        <seg>Mindenki számára előnyös a jó munkakörnyezet.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Gera darbo aplinka apsimoka visiems.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="hu">
+        <seg>Az Arbetsmiljöverket (az Országos Munkavédelmi Hivatal) a munkakörnyezeti kérdések állami felügyeleti szerve Svédországban.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Švedijos Valstybinė darbo aplinkos inspekcija yra valstybinė žinyba, atliekanti tikrinimus darbo aplinkos srityje.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="hu">
+        <seg>Az ilyen tilalmat alá kell írni, de az aláírás csak azt igazolja, hogy az illető átvette magát a döntésről szóló okiratot.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Tokį draudimą reikia pasirašyti, tačiau parašas tereiškia patvirtinimą, kad gautas sprendimo dokumentas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="hu">
+        <seg>Sok építőmunkás szenved munkahelyi balesetet, vagy betegszik meg szakmai betegségben.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Daug statybos darbuotojų ištinka nelaimingi atsitikimai ir ligos, susijusios su darbu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="hu">
+        <seg>Lezuhan, hibás testhelyzetben dolgozik, súlyos dolgokat emel, vagy munkagépek használatakor sérül meg.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Jie nukrenta, dirba neteisingoje darbo pozicijoje, kilnoja sunkų svorį ar būna sužeidžiami mašinų.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="hu">
+        <seg>A rossz munkaszervezés és az időhiány növeli a balesetek kockázatát.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Blogas planavimas ir laiko stoka didina nelaimingų atsitikimų riziką.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="hu">
+        <seg>Törvények és a Munkavédelmi Hivatal előírásai szabályozzák az építési munkák véghezvitelét.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Valstybinės darbo aplinkos inspekcijos įstatymai ir nuostatos apibrėžia, kaip turi vykti statybos darbai.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="hu">
+        <seg>Ebben a füzetben néhány minimális követelményt ismertetünk.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Šiame lankstinuke galima pasiskaityti apie keletą minimalių reikalavimų.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="hu">
+        <seg>Az épületek építési, átépítési, javítási és karbantartási munkálataira a Munkavédelmi törvény és a Munkavédelmi Hivatal építési előírásai vonatkoznak.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Pastatų ar kompleksų statybos, rekonstrukcijos, remonto, planinio remonto ir griovimo darbus reglamentuoja Darbo aplinkos įstatymas ir Valstybinės darbo aplinkos inspekcijos nuostatos.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="hu">
+        <seg>A svéd munkakörnyezeti szabályok a Svédországban dolgozó külföldi munkaerőre is érvényesek, függetlenül attól, hogy külföldi cég alkalmazottjaként, svéd cég megbízásából, vagy magánvállalkozóként dolgoznak.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Švedijos darbo aplinkos taisyklės galioja Švedijoje darbuotojams iš užsienio, nepaisant to, ar jie yra įdarbinti užsienio įmonės, yra samdomi švedų darbdavio, ar dirba savarankiškai.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="hu">
+        <seg>Mind a munkaadót, mind pedig a munkavállalót kötelezik tehát ezek a szabályok, alkalmazási formától függetlenül.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Taigi taisyklės galioja ir savarankiškai dirbančiam asmeniui, ir įdarbintiems darbuotojams, nepriklausomai nuo įdarbinimo formos.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="hu">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="hu">
+        <seg>Csökkentse a lezuhanás kockázatát</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Kritimo iš aukštai rizikos sumažinimas</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="hu">
+        <seg>Az építőtelepeken történő balesetek és halálesetek leggyakoribb oka a lezuhanás.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Kritimas iš aukštai yra pagrindinė mirčių ir nelaimingų atsitikimų statybvietėse priežastis.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="hu">
+        <seg>A lezuhanás kockázatát meg kell előzni.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Yra Yra privaloma kritimo iš aukštai rizikos prevencija.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="hu">
+        <seg>Két méternél nagyobb szintkülönbség esetén rendszerint valamilyen típusú védőeszközre van szükség.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Jei lygių skirtumas yra didesnis nei du metrai, pagal taisyklę reikia apsaugos.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="hu">
+        <seg>Védőkorlátot, munkaemelvényt, munkakosarat, állványzatot vagy hasonló védőeszközt kell első sorban használni.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Apsauginiai aptvarai, darbo platformos, darbo krepšiai, pastoliai ir panašios apsauginės priemonės turi būti naudojamos pirmiausiai.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="hu">
+        <seg>Védelmi intézkedésekre kisebb szintkülönbség esetén is szükség lehet, például víz vagy éles tárgyak felett.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Apsauginių priemonių gali prireikti ir esant mažesniam lygių skirtumui, pavyzdžiui, jei apačioje yra vandens ar aštrių daiktų.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="hu">
+        <seg>A védőkorlátnak</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Apsauginiai aptvarai turi būti:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="hu">
+        <seg>szilárdnak kell lennie,</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>stabilūs</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="hu">
+        <seg>legkevesebb egy méter magasnak, karfával, középléccel és lábdeszkával ellátottnak.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>mažiausiai vieno metro aukščio turi turėti turėklą viršuje, tarpinį turėklą ir lentjuostę.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="hu">
+        <seg>Más kivitelezésű is lehet, de minimum ugyanolyan jó védelmet kell nyújtania.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Jie gali būti padaryti kitu būdu, bet turi užtikrinti mažiausiai tokią pat saugą.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="hu">
+        <seg>Tetőn végzett munkák esetén védőkorlátnak vagy egyéb, hasonló védelmet nyújtó védőeszköznek kell lennie.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Atliekant darbus ant stogo paprastai reikia apsauginių aptvarų ar kitos įrangos, užtikrinančios atitinkamą saugą.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="hu">
+        <seg>A korlátot az eresz- hez, vagy az eresz alatt közvetlenül elhelyezett állványzathoz kell rögzíteni.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Sumontuokite aptvarą ant stogo krašto ar ant pastolių, kurių pabaiga yra prie pat stogo krašto.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="hu">
+        <seg>Különösen erős korlátra van szükség, amely fel tud fogni egy meredek tetőn hirtelen lecsúszó személyt.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Gali prireikti ypač tvirtų aptvarų, kad sustabdytų asmenį, besiridenantį žemyn nuo stataus stogo.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="hu">
+        <seg>Ha csoportos védőeszköz felszerelésére nincs lehetőség, akkor egyéni védőfelszerelést kell használni, biztonsági kötéllel és hevederrel.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Jei nepavyksta įrengti įtvirtintos apsaugos, turi būti naudojama asmeninė kritimo apsauga su saugos diržu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="hu">
+        <seg>Derékövet ne alkalmazzanak, mert ennek has- ználata súlyos sérülésekhez vezethet.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Juosmens diržas gali sukelti didelius sužeidimus, todėl jo naudoti negalima.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="hu">
+        <seg>Rögzítse a biztonsági kötelet a tető valamilyen szilárd részéhez.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Pritvirtinkite pririšimo lyną prie kokio nors fiksuoto įrenginio ant stogo.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="hu">
+        <seg>Győződjön meg arról, hogy a rögzítés megbízható.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Patikrinkite, ar įtvirtinimai yra patikimi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="hu">
+        <seg>Ha a kötelet nem lehet máshogy rögzíteni, akkor egy szilárdan álló szerkezet köré kell tekerni, és egy másik személy által feszesen tartani.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Jei pririšimo lyno nepavyksta niekur pritvirtinti, galima jį užvynioti ant fiksuoto įrenginio, o kitas asmuo jį turi laikyti ištiestą.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="hu">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="hu">
+        <seg>Használjon külön védőeszközt, ha mégis ilyen felületeken kénytelen dolgozni.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Pasitaiko rizikos įlūžti pro nepakamai tvirtą paviršių – tokius paviršius aptverkite.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="hu">
+        <seg>Bizonyos munkálatoknál védőháló használata a megfelelő.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Naudokite ypatingą saugos įrangą, jei ant tokio paviršiaus dirbti būtina.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="hu">
+        <seg>Fontos, hogy használat- bavétel előtt egy hozzáértő személy ellenőrizze a hálót és annak felszerelését.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Svarbu, kad kompetentingas asmuo tinklus ir montavimą prieš naudojimą patikrintų.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="hu">
+        <seg>Védősisakot és védőlábbelit szokás szerint viselni kell.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Paprastai reikia naudoti apsauginį šalmą ir apsauginius batus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="hu">
+        <seg>Néha védőszemüvegre, hallásvédőre és munkakesztyűre is szükség van.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Kartais reikalinga akių apsauga, ausų apsauga bei pirštinės.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="hu">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="hu">
+        <seg>Súlyos tárgyak emelése és hibás testhelyzet megterheli a testet</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Sunkūs svoriai ir neteisinga darbo pozicija apkrauna kūną</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="hu">
+        <seg>Az építőmunka gyakran nehéz, és megterhelő a testre, ezért az építőanyagok szállításához anyagmozgató szerkezetekre van szükség.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Statybų darbas dažnai būna sunkus ir apkrauna kūną, todėl statybinių medžiagų pervežimui reikia kėlimo mechanizmų.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="hu">
+        <seg>A gépeknek és szerszá- moknak ergonómikus kialakításúaknak kell lenniük.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Mašinos ir įrankiai turi būti ergonomiški.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="hu">
+        <seg>A test számára nem jó hosszabb ideig létrán dolgozni.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Darbas ilgesnį laiką ant kopėčių kūnui nėra palankus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="hu">
+        <seg>Vízszintes munkafelület, például emelhető-süllyeszthető munkaállvány jobb testhelyzetet biztosít.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Plokščias paviršius, ant kurio būtų galima stovėti, pavyzdžiui, pakeliamos ir nuleidžiamos platformos, sąlygoja patogesnę darbo poziciją.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="hu">
+        <seg>Az izmoknak megerőltetés után szükségük van lazításra.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Kūno raumenys turi atsigauti nuo įtampos.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="hu">
+        <seg>A munka változatossá tételével kerülje el az izmok egyoldalú megterhelését.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Venkite vienpusio raumenų apkrovimo keisdami darbo užduotis.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="hu">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="hu">
+        <seg>Vegyi anyagokra vonatkozó szabályok Svédországban</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Švedijos taisyklės dėl cheminių medžiagų</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="hu">
+        <seg>Az építőiparban sok mérgező, rákkeltő, maró vagy allergiakeltő anyagot használnak.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Statybos srityje naudojama daug nuodingų, vėžį sukeliančių, graužiančių ir alergiją sukeliančių medžiagų.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="hu">
+        <seg>A beton, a malter és a vakolat például cementet tartalmaz, amely hos- szabb idejű érintkezés esetén kimarhatja a bőrt.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Pavyzdžiui, betono, mūro ir tinko skiedinio sudėtyje yra cemento, kuris per ilgesnį sąlytį su oda gali išgraužti žaizdas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="hu">
+        <seg>Egyéb olyan termékek, amelyek gyakran tartalmaznak káros anyagokat: a ragasztók, festékek, kétkomponenses termékek, stb.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Kiti produktai, kurių sudėtyje dažnai pasitaiko pavojingų medžiagų, yra klijai, dažai, dviejų komponentų produktai ir kt.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="hu">
+        <seg>Az építési port és az ásványi gyapot rostjait is veszélyesnek te- kintjük, mert belélegzés esetén károsíthatják a légutakat.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Taip pat statybinės dulkės bei mineralinės vatos pluoštas laikomi pavojingais, nes juos įkvepiant jie gali veikti kvėpavimo takus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="hu">
+        <seg>Az olyan vegyi termékekről, amelyek egy vagy több veszélyes anyagot tartalmaz- nak, lennie kell egy, a szállító által kiállított, biztonsági adatlapnak a munkahelyen.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Dėl cheminių produktų, kurių sudėtyje yra viena ar keletas pavojingų medžiagų, darbo vietoje turi būti tiekėjo lapas su saugumo technikos taisyklėmis.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="hu">
+        <seg>A Svédországban vásárolt termékek adatlapja svédül kell, hogy legyen írva.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Produktams, pirktiems Švedijoje, lapas su saugumo technikos taisyklėmis turi būti švedų kalba.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="hu">
+        <seg>Az a cég, amely veszélyes vegyi terméket hoz be Svédországba saját használatra, felelős azért, hogy erről írott kockázati és védelmi információ legyen a munka- helyen, olyan nyelven, amit a felhasználók is értenek.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Įmonė, įvežusi pavojingą cheminį produktą į Švediją savam naudojimui, yra atsakinga už tai, kad darbo vietoje būtų raštiška rizikos ir saugos informacija apie tą produktą ta kalba, kurią supranta produkto naudotojai.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="hu">
+        <seg>Az építőtelepen lennie kell egy feljegyzésnek az összes veszélyes vegyi termékekről.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Statybvietėje turi būti visų pavojingų cheminių produktų sąrašas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="hu">
+        <seg>Ez minden munkaadó felelőssége.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Už tai atsako darbdavys.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="hu">
+        <seg>A munkaadónak tájékoztatnia kell a munkavállalókat a veszélyes vegyi termékek- kel járó kockázatokról, és meg kell győződnie arról, hogy a munkavállaló meg is értette azt.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Darbdavys privalo darbuotojus informuoti apie pavojingų cheminių produktų riziką ir įsitikinti, kad darbuotojai tą informaciją suprato.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="hu">
+        <seg>Bizonyos veszélyes anyagokra különösen szigorú előírások vonatkoznak:</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Kai kurioms pavojingoms medžiagoms galioja ypač griežtos taisyklės:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="hu">
+        <seg>Azbeszt: Az azbeszt kezeléséhez és bontásához az azt elvégző cégnek a Mun- kavédelmi Hivatal engedélyével kell rendelkeznie.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Asbestas: Darbą su asbestu ir asbesto griovimą atliekanti įmonė tam darbui turi gauti Valstybinės darbo aplinkos inspekcijos leidimą.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="hu">
+        <seg>Az engedélyhez hivatalosan igazolt külön kiképzésre és orvosi igazolványra van szükség.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Leidimui gauti reikalingas dokumentuotas išsilavinimas ir gydytojo pažyma.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="hu">
+        <seg>Az előírások megszegése büntetendő cselekmény és nagy pénzbírsággal járhat.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Už šių taisyklių pažeidimą yra baudžiama ir gali būti skiriama didelė bauda.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="hu">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="hu">
+        <seg>Közlekedési utak és anyagmozgatás</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Judėjimo keliai ir transportas</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="hu">
+        <seg>Egy építőtelepen biztonságos közlekedési utaknak, pl. lépcsőknek vagy rámpáknak kell a különböző szintek között lenniük.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Statybvietėje turi būti saugūs judėjimo keliai, pavyzdžiui, laiptai ar rampos tarp įvairių aukštų.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="hu">
+        <seg>Tíz méternél nagyobb szintkülönbség esetén felvonónak is kell lennie, ha a munkavállaló egyébként sok lépcsőjárásra kényszerülne.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Jei lygių skirtumas yra didesnis nei dešimt metrų, reikia keltuvo, jei darbuotojams ir taip daug reikia laipioti laiptais.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="hu">
+        <seg>Az építőtelepen belüli autóutak mentén megfelelő biztonsági távolságoknak vagy védőeszközöknek kell lenniük.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Statybose turi būti pakankamai saugus atstumas nuo automobilių kelių arba saugi įranga prie jų.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="hu">
+        <seg>A különböző szintek közötti anyagmozgatást úgy kell megszervezni, hogy ne legyen szükség a védőkorlátok vagy egyéb védelmi eszközök eltávolítására.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Transportas tarp įvairių aukštų turi vykti taip, kad nereikėtų nuimti apsauginių aptvarų ar kitos saugos įrangos.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="hu">
+        <seg>Ha ez nem lehetséges, akkor az anyagmozgatásnak rakodóállások, a homlokzaton levő rakodónyílások, rámpák vagy különleges anyagmozgatási rendszerek segítségével kell történnie.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Jei tai neįmanoma, transportas turi vykti per įleidimo tiltą, krovinių angas fasaduose, rampas ar per ypatingas transporto sistemas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="hu">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="hu">
+        <seg>Emelőszerkezetek, gépek és bizonyos egyéb termékek használati utasításai</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Naudojimosi instrukcija kėlimo mechanizmais, mašinomis ir kai kuriais kitais produktais</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="hu">
+        <seg>Ha egy gépet vagy emelőszerkezetet Svédországba szállítanak, vagy itt vesznek használatba, akkor annak svéd nyelven írott használati utasítással kell rendelkez- nie.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Kai mašina ar kėlimo mechanizmas yra atvežamas į Švediją ar imamas Švedijoje naudoti, prie jo turi būti raštiška naudojimosi instrukcija švedų kalba.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="hu">
+        <seg>Ezért a szállító felelős.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Už tai atsakingas yra tiekėjas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="hu">
+        <seg>Szállítónak számít az is, aki Svédországban történő használatra hoz be egy gépet az országba.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Tiekėju yra laikomas ir tas, kas įveža mašiną naudoti Švedijoje.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="hu">
+        <seg>A Munkavédelmi Hivatal gépekre vonatkozó előírásaiban tájákoztatást lehet kapni arról, hogy mit kell a használati utasításoknak tartalmazniuk.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Informacija apie tai, kas turi būti naudojimosi instrukcijos turinyje, yra Valstybinės darbo aplinkos inspekcijos nuostatose apie mašinas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="hu">
+        <seg>Az előregyártott munkaállványokhoz is kell leszállításkor svéd használati utasítást mellékelni, amelyet azután a munkahelyen kell tartani.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Atvežus pastolių fabrikatus, prie jų taip pat turi būti pridėtos raštiškos instrukcijos švedų kalba, o po to jos turi būti prieinamos darbo vietoje.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="hu">
+        <seg>A Munkavédelmi Hivatal munkaállványokra vonatkozó előírásaiban megtalálható, hogy mit kell a használati utasításnak tartalmaznia.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Valstybinės darbo aplinkos inspekcijos nuostatos apie pastolius nurodo, kas turi būti instrukcijų turinyje.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="hu">
+        <seg>Egy gép, emelőszerkezet, állványzat, stb. építési munkához való használatakor, az érintett munkaadónak rendelkeznie kell az ezekhez tartozó használati utasítások- kal.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Kai statybose yra naudojama mašina, kėlimo mechanizmas, pastoliai ir kt., su jais dirbančiam darbuotojui turi būti prieinamos naudojimosi instrukcijos.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="hu">
+        <seg>A használati utasításoknak a munkavállaló által is értett nyelven írottnak kell lenniük.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Instrukcijos turi būti ta kalba, kurią supranta darbuotojas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="hu">
+        <seg>CE-jelölés, típusbizonyítvány és műszaki vizsga, emelőszerkezetek, gépek és bizonyos egyéb termékek számára</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Kėlimo mechanizmų, mašinų ir tam tikrų kitų produktų CE ženklinimas, atitikties aprobavimas ir techninė apžiūra</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="hu">
+        <seg>Sok gépet és emelőszerkezetet rendszeres műszaki vizsgának kell alávetni ahhoz, hogy használatuk engedélyezett legyen.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Daugelis mašinų ir kėlimo mechanizmų reguliariai turi pereiti techninę apžiūrą, kad juos būtų galima naudoti.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="hu">
+        <seg>Műszaki vizsgával nem rendelkező, vagy az észrevételezett hiányosságoktól nem mentesített gépek és emelőszerkezetek használata büntetendő.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Jei techninė apžiūra nebuvo atlikta ir jei nurodyti trūkumai nebuvo ištaisyti, už tokių mašinų ir kėlimo mechanizmų naudojimą yra baudžiama.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="hu">
+        <seg>A műszaki vizsgát a svéd előírások szerint kell elvégezni.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Techninė apžiūra turi būti atliekama pagal Švedijos taisykles.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="hu">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="hu">
+        <seg>Erre is kell gondolni…</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Pagalvoti reikia ir apie tai...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="hu">
+        <seg>Súlyos balesetek történhetnek, ha a lerakott építőanyag, pl. erős szél következté- ben, mozgásba jön.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Rimti nelaimingi atsitikimai gali įvykti, jei sluoksniais sudėtos statybinės medžiagos imtų slinkti, pavyzdžiui, dėl stipraus vėjo.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="hu">
+        <seg>Fontos ezért az építőanyag rögzítése.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Todėl svarbu tokias medžiagas sutvirtinti.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="86">
+      <tuv xml:lang="hu">
+        <seg>Néha az építőmunkások számára is szükség lehet szél és hideg elleni védőeszközökre.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Statybų darbuotojams kartais taip pat gali prireikti apsaugos nuo vėjo ir šalčio.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="87">
+      <tuv xml:lang="hu">
+        <seg>Kerítsék el és jelöljék meg azokat a területeket, ahol leeső tárgyak kockázata forog fenn.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Aptverkite ir paženklinkite teritorijas, kur egzistuoja daiktų kritimo rizika.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="88">
+      <tuv xml:lang="hu">
+        <seg>Ha mégis kell ott járni, akkor építsenek felé védőfedelet.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Jei ten reikia vaikščioti vis vien, reikalingas apsauginis stogas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="89">
+      <tuv xml:lang="hu">
+        <seg>A földmunkák megszervezésénél figyelni kell arra, hogy a talaj ne legyen nagyobb megterhelésnek kitéve, mint amit kibír.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Planuokite žemės darbus taip, kad žemė nebūtų apkrauta daugiau nei ji pakelia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="90">
+      <tuv xml:lang="hu">
+        <seg>Szükség esetén omlás elleni védőeszközt kell használni.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Jei to reikia, turi būti apsauga nuo įgriuvų.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="91">
+      <tuv xml:lang="hu">
+        <seg>Ellenőrizzék azt, hogy vannak-e vezetékek vagy veszélyes anyagok a földben, és, hogy a gépek nem csúsznak-e be a gödörbe.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Patikrinkite, ar žemėje nėra laidų ir pavojingų medžiagų ir ar nėra pavojaus mašinoms įgriūti į duobę.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="92">
+      <tuv xml:lang="hu">
+        <seg>A kiásott gödröktől a járműforgalmat távol kell tartani.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Transporto priemonių eismas turi vykti toliau nuo šachtos.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="93">
+      <tuv xml:lang="hu">
+        <seg>Az építőtelep melletti járműforgalom kockázatot jelent.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Pravažiuojančių transporto priemonių eismas prie statybvietės sudaro riziką.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="94">
+      <tuv xml:lang="hu">
+        <seg>A forgalmat elsősorban el kell terelni.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Pirmiausia reikia eismą nukreipti.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="95">
+      <tuv xml:lang="hu">
+        <seg>A járműforgalomtól nem mentes helyeken dolgozóknak fényvisszaverő biztonsági ruhát kell viselniük.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Dirbantys vietoje, neatskirtoje nuo eismo, turi būti apsirengę įspėjamaisiais drabužiais su atšvaitais.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="96">
+      <tuv xml:lang="hu">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="97">
+      <tuv xml:lang="hu">
+        <seg>Ha valami történik</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Jei ištiktų nelaimė</seg>
+      </tuv>
+    </tu>
+    <tu tuid="98">
+      <tuv xml:lang="hu">
+        <seg>Mindenkinek gyors és biztonságos módon el kell tudnia hagyni a munkahelyét pl. tűz esetén.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Visi turi turėti galimybę greitai ir saugiai palikti statybvietę, pavyzdžiui, gaisro atveju.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="99">
+      <tuv xml:lang="hu">
+        <seg>A menekülési utakat és találkozási pontokat táblákkal kell jelezni.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Evakuacijos kelius ir susirinkimo zonas reikia pažymėti ženklais.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="100">
+      <tuv xml:lang="hu">
+        <seg>A menekülési úton levő ajtóknak kifelé kell nyílniuk, és a tűzoltófelszerelésnek könnyen hozzáférhetőnek kell lennie.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Evakuacijos durys turi atsidaryti į išorę, priešgaisrinės priemonės turi būti lengvai pasiekiamos.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="101">
+      <tuv xml:lang="hu">
+        <seg>Mindig kell elsősegélynyújtási lehetőségnek lennie, és táblákkal kell jelezni, hogy hol van erre hely és felszerelés.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Visada turi būti galimybė suteikti pirmąją pagalbą, turi būti ženklai, rodantys, kur yra pirmosios pagalbos patalpos ir įranga.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="102">
+      <tuv xml:lang="hu">
+        <seg>Kifüggesztve kell lennie a mentők és tűzoltók telefonszáma, a munkahely címe, és esetleg az oda vezető út leírása is.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Taip pat reikalinga lenta su greitosios pagalbos ir gelbėjimo tarnybos numeriais, darbovietės adresu ir galbūt kelio aprašymu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="103">
+      <tuv xml:lang="hu">
+        <seg>Arra is kell gondolni, hogy a telefonálónak tudnia kell értekezni a mentőszolgálattal.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Pagalvokite apie tai, kad skambinantis turi mokėti susikalbėti su Švedijos gelbėjimo tarnyba.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="104">
+      <tuv xml:lang="hu">
+        <seg>Ott rendszerint tudnak angolul is.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Paprastai anglų kalbą jie supranta.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="105">
+      <tuv xml:lang="hu">
+        <seg>Ha egy áramszünet külön kockázattal jár, akkor vészvilágításnak is kell lennie.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Jei dingusi elektra darbe sukeltų ypatingos rizikos, turi būti avarinis apšvietimas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="106">
+      <tuv xml:lang="hu">
+        <seg>Ilyen eset forog fenn pl. villanyfűrész használatakor, vagy állványzat építésénél.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Tai taikoma, pavyzdžiui, darbams su statybiniais pjūklais ir pastolių statymui.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="107">
+      <tuv xml:lang="hu">
+        <seg>Munkavédelmi terv</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Darbo aplinkos planas</seg>
+      </tuv>
+    </tu>
+    <tu tuid="108">
+      <tuv xml:lang="hu">
+        <seg>Már az építőtelep beindítása előtt el kell készíteni az egész építkezésre érvényes munkavédelmi tervet.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Viso objekto darbo aplinkos planas turi būti sudarytas prieš įkuriant statybvietę.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="109">
+      <tuv xml:lang="hu">
+        <seg>Elsősorban a tervezési munkavédelmi koordinátornak a fe- ledata ez.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Tuo pasirūpinti pirmiausia turi saugos ir sveikatos koordinatorius projekto parengiamuoju laikotarpiu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="110">
+      <tuv xml:lang="hu">
+        <seg>Az építtető, vagy a tőle a megbízatást átvállaló személy is felelős a terv elkészítéséért.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Statytojas ar jo atsakomybę perėmęs statinio statybos valdytojas taip pat yra atsakingi už tokio plano sudarymą.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="111">
+      <tuv xml:lang="hu">
+        <seg>Az a cél, hogy a munkavédelmi tervet azután az építkezés teljes folyamata alatt alkalmazzák.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Darbo aplinkos planas yra skirtas naudoti per visus statybų etapus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="112">
+      <tuv xml:lang="hu">
+        <seg>Az építési munkavédelmi koordinátor feladata gon- doskodni arról, hogy az építőtelep beindításától fogva a terv rendelkezésre álljon a munkahelyen.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Kai tik planas būna sudarytas, saugos ir sveikatos koordinatorius statybų laikotarpiu turi pasirūpinti, kad jis būtų prieinamas statybvietėje.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="113">
+      <tuv xml:lang="hu">
+        <seg>A koordinátornak kell elvégeznie a terv szükséges módosításait is.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Koordinatorius prireikus turi planą pritaikyti.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="114">
+      <tuv xml:lang="hu">
+        <seg>Ha az építési munkálatok olyan helyen történnek, ahol azzal egyidejűleg más tevékenység is folyik, akkor a munkavédelmi tervben azt is figyelembe kell venni.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Jei statybų darbai bus vykdomi ten, kur tuo pat metu vyks kiti darbai, į tai turi būti atsižvelgiama darbo aplinkos plane.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="115">
+      <tuv xml:lang="hu">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="116">
+      <tuv xml:lang="hu">
+        <seg>A munkavédelmi tervnek az alábbiakat kell tartalmaznia:</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Planą turi sudaryti:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="117">
+      <tuv xml:lang="hu">
+        <seg>Az építőtelepen érvényes szabályokat</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Taisyklės, kurios bus taikomos statybvietėje</seg>
+      </tuv>
+    </tu>
+    <tu tuid="118">
+      <tuv xml:lang="hu">
+        <seg>A munkavédelmi tevékenység megszervezésének módját</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Aprašymas, kaip bus organizuojamas darbo aplinkos darbas</seg>
+      </tuv>
+    </tu>
+    <tu tuid="119">
+      <tuv xml:lang="hu">
+        <seg>Az építkezés ideje alatt a legjobb munkakörnyezet érdekében foganatosítandó munkavédelmi intézkedések leírását.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Aprašymas darbo aplinkos priemonių, kurios bus įgyvendintos statybų etape, kad būtų užtikrinta gera darbo aplinka.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="120">
+      <tuv xml:lang="hu">
+        <seg>Ez többek között a következő típusú munkákat érinti:</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Tai be kita ko taikoma tokiems darbams:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="121">
+      <tuv xml:lang="hu">
+        <seg>lezuhanás kockázatával járó munka</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>darbams su kritimo iš aukštai rizika</seg>
+      </tuv>
+    </tu>
+    <tu tuid="122">
+      <tuv xml:lang="hu">
+        <seg>beomlás kockázatával járó földmunka</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>žemės kasimo darbams su įgriuvų rizika</seg>
+      </tuv>
+    </tu>
+    <tu tuid="123">
+      <tuv xml:lang="hu">
+        <seg>vegyi vagy biológiai anyagokkal végzett munka</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>darbams su kai kuriomis cheminėmis arba biologinėmis medžiagomis</seg>
+      </tuv>
+    </tu>
+    <tu tuid="124">
+      <tuv xml:lang="hu">
+        <seg>magasfeszültségű vezetékek közelében végzett munka</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>darbams prie aukštos įtampos elektros linijų</seg>
+      </tuv>
+    </tu>
+    <tu tuid="125">
+      <tuv xml:lang="hu">
+        <seg>vízbefulladás veszélyével járó munka</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>darbams, kuriuos atliekant gresia pavojus nuskęsti,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="126">
+      <tuv xml:lang="hu">
+        <seg>aknákban és alagútakban végzett munka</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>darbams šuliniuose ir tuneliuose</seg>
+      </tuv>
+    </tu>
+    <tu tuid="127">
+      <tuv xml:lang="hu">
+        <seg>robbanóanyagok használatával egybekötött munka</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>darbams, naudojant sprogstamąsias medžiagas,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="128">
+      <tuv xml:lang="hu">
+        <seg>súlyos építőelemekkel végzett munka</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>sunkių statybos elementų montavimo darbams</seg>
+      </tuv>
+    </tu>
+    <tu tuid="129">
+      <tuv xml:lang="hu">
+        <seg>gépjárműforgalom közelében végzett munka, valamint statikai megterhelésnek kitett szerkezetek vagy egészségre káros anyagok bontása</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>darbams vietoje ar teritorijoje, pro kurią vyksta transporto priemonių eismas bei laikančių konstrukcijų ar sveikatai pavojingų medžiagų griovimo darbams.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="130">
+      <tuv xml:lang="hu">
+        <seg>Előzetes bejelentés</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Išankstinis pranešimas</seg>
+      </tuv>
+    </tu>
+    <tu tuid="131">
+      <tuv xml:lang="hu">
+        <seg>Az építtetőnek (kisebb munkálatok kivételével) előzetes bejelentést kell tennie az Országos Munkavédelmi Hivatal legközelebbi kirendeltségén, még a munkálatok megkezdése előtt (lásd az előírások 7. cikkét).</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Statytojas prieš darbų pradžią (išskyrus mažesnės apimties darbus) Valstybinei darbo aplinkos inspekcijai (artimiausio rajono) turi pateikti išankstinį pranešimą pagal nuostatų 7 §.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="132">
+      <tuv xml:lang="hu">
+        <seg>Az építtető feledata az is, hogy a bejelentés másolatát az építkezés helyén kitűzze és annak aktualitását megőrizze.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Statytojas taip pat turi pasirūpinti, kad pranešimo kopija būtų iškabinta statybvietėje ir kad ji būtų nuolat tikslinama.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="133">
+      <tuv xml:lang="hu">
+        <seg>11</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="134">
+      <tuv xml:lang="hu">
+        <seg>Szervezés és tájékoztatás</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Planavimas ir informacija</seg>
+      </tuv>
+    </tu>
+    <tu tuid="135">
+      <tuv xml:lang="hu">
+        <seg>A biztonságos munkavégzés érdekében minden munkálatot időben meg kell szervezni, és az azzal járó kockázatokat elemezni.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Visi darbai turi būti planuojami ir rizikos prasme įvertinami laiku, kad galėtų būti saugiai atliekami.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="136">
+      <tuv xml:lang="hu">
+        <seg>Meg kell tervezni a felvonulási épületek, műhelyek és raktározási helyek, valamint az összekötő és anyagmoz- gatási utak elhelyezését.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Reikia suplanuoti vietą būdelėms, dirbtuvėms bei sandėliams, taip pat reikia suplanuoti judėjimo kelius bei transportą.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="137">
+      <tuv xml:lang="hu">
+        <seg>Fontos tudni, hogy hogyan lehet az összes munkahelyre eljutni.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Svarbu išspręsti klausimą, kokiu būdu pasiekti visas darbo vietas.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="138">
+      <tuv xml:lang="hu">
+        <seg>A munkát úgy kell megszervezni, hogy a különböző munkálatok ne ütköz- zenek egymással egészségi károsodás vagy baleset kockázatát előidéző módon.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Darbą reikia suplanuoti taip, kad skirtingų įmonių veikla netrukdytų viena kitai tuo būdu, kad nekiltų pavojus sveikatai ar nelaimingų atsitikimų pavojus.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="139">
+      <tuv xml:lang="hu">
+        <seg>Az időrend megtervezése különösen fontos, ha nagyobb terjedelmű munkáról és rövid időről van szó.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Laiko planavimas yra ypač svarbus tuo atveju, jei darbas yra didelės apimties, o laiko statyboms yra nedaug.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="140">
+      <tuv xml:lang="hu">
+        <seg>Olyan munkamódszereket és felszerelést kell választani, amelyek</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Reikia pasirinkti tokią darbo įrangą ir tokius darbo metodus, kurie:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="141">
+      <tuv xml:lang="hu">
+        <seg>megakadályozzák a lezuhanás vagy beomlás okozta baleseteket</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>padėtų išvengti nelaimingų atsitikimų dėl kritimų iš aukštai ir dėl įgriuvų,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="142">
+      <tuv xml:lang="hu">
+        <seg>kiküszöbölik a test egészségtelen vagy fárasztó megterhelését alacsony szinten tartják a munkások zajnak, rezgéseknek, veszélyes anyagoknak és levegőszennyeződésnek való kitételét .</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>reikštų, kad vengiama sveikatai pavojingų ir be reikalo varginančių kūno apkrovų, reikštų, kad triukšmo, vibracijų, pavojingų medžiagų bei užteršto oro apsuptyje bus praleidžiama nedaug laiko.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="143">
+      <tuv xml:lang="hu">
+        <seg>A munkavállalókat tájékoztatni kell a munkáról, a megvalósított vagy eltervezett munkavédelmi intézkedésekről, és az érvényes szabályokról.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Darbuotojai turi būti informuojami apie darbą, kokios darbo aplinkos priemonės yra įgyvendintos ir planuojamos ir kokios taisyklės galioja.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="144">
+      <tuv xml:lang="hu">
+        <seg>Külön kiképzésre vagy eligazításra is lehet szükségük új termékek vagy munkamódszerek használata esetén.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Jiems gali prireikti atskiro apmokymo ar instrukcijos, jei bus naudojami nauji produktai ar darbo metodai.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="145">
+      <tuv xml:lang="hu">
+        <seg>Egy építőtelepen folyamatosan és gyorsan történnek a sok kockázattal járó vál- tozások.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Statybvietėje visą laiką vyksta greitų pasikeitimų, sukeliančių daug pavojų.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="146">
+      <tuv xml:lang="hu">
+        <seg>Ezért fontos a rendszeres munkavédelmi ellenörző körút.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Todėl yra svarbūs reguliarūs darbo saugos reidai.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="147">
+      <tuv xml:lang="hu">
+        <seg>12</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu tuid="148">
+      <tuv xml:lang="hu">
+        <seg>Kire milyen felelősség hárul?</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Kas už ką atsakingas?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="149">
+      <tuv xml:lang="hu">
+        <seg>Ahhoz, hogy az építőtelepen jó munkakörnyezetet biztosítsunk, fontos a megelőző munkavédelmi munka, és, hogy minden résztvevő vállalja a rá háruló felelősséget.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Kad statybvietėje būtų sukurta gera darbo aplinka, labai svarbus yra prevencinis darbo aplinkos darbas ir kad kiekvienas atsakingas asmuo prisiimtų atsakomybę.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="150">
+      <tuv xml:lang="hu">
+        <seg>Fontos az is, hogy a résztvevők együttműködjenek, és, hogy az építőmunkások is részt vállaljanak a munkavédelmi tevékenységből.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Be to, svarbu, kad atsakingi asmenys koordinuotų veiklą ir kad prie darbo aplinkos prisidėtų statybų darbuotojai.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="151">
+      <tuv xml:lang="hu">
+        <seg>Az építési munkát végeztetőre (az építtetőre) hárul a fő felelősség azért, hogy az építkezés során létrejövő munkakörnyezetet már az építési munkálatok előkészítésekor (a szervezésnél és a tervezésnél) figyelembe vegyék.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Tas, kas leidžia vykdyti statybų darbus (statytojas), yra pirmiausia atsakingas už tai, kad į darbo aplinką būtų atsižvelgiama statybų etape ruošiant statybų projektą (planuojant ir projektuojant).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="152">
+      <tuv xml:lang="hu">
+        <seg>Az építtető felelős az előzetes bejelentés, a munkavédelmi terv és a dokumentáció elkészíté- séért, valamint egy tervezési és szervezési munkavédelmi koordinátor kinevezé- séért.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Statytojas taip pat yra atsakingas už tai, kad būtų sudarytas išankstinis pranešimas, darbo aplinkos planas ir dokumentacija ir kad būtų paskirtas saugos ir sveikatos koordinatorius projekto parengiamuoju laikotarpiu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="153">
+      <tuv xml:lang="hu">
+        <seg>Az építtetőé a felelősség az építési munkálatok koordinálása és az azok idején működő építési munkavédelmi koordinátor kinevezéséért is.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Statytojas be to yra atsakingas už tai, kad statybos darbų atlikimas būtų koordinuojamas darbo aplinkos prasme, jis taip pat turi paskirti saugos ir sveikatos koordinatorių statybų laikotarpiu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="154">
+      <tuv xml:lang="hu">
+        <seg>Az építtető egyes esetekben írásbeli szerződés alapján átruházhatja a munka- védelmi felelősséget egy vállakozóra, az építkezésnek a vállalkozás által magába foglalt részére.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Kai kuriais atvejais statytojas raštiška sutartimi savo atsakomybę dėl darbo aplinkos gali perleisti statybos valdytojui, kuris atsakingas už jo valdomą statybų projekto dalį.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="155">
+      <tuv xml:lang="hu">
+        <seg>Ez akkor lehetséges, ha a vállalkozás önálló felelősséggel jár az építkezés teljes megszervezése, megtervezése és/vagy véghezvitele tekintetében, pl. fővállalkozás esetén.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Tai galima padaryti, jei būdamas statybos valdytoju, jis savarankiškai atsako už visą planavimą ir projektavimą ir/ar viso projekto vykdymą, pavyzdžiui, generalinės ar pilnos rangos atveju.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="156">
+      <tuv xml:lang="hu">
+        <seg>Megosztott vállakozásnál az építtető felelőssége nem ruházható át.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Kai ranga yra padalinta, statytojo atsakomybės perduoti negalima.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="157">
+      <tuv xml:lang="hu">
+        <seg>A tervezési és szervezési munkavédelmi koordinátor feladata, hogy munkavé- delmi szempontok szerint egybehangolja a tervezést, és, hogy gondoskodjon a munkavédelmi terv és dokumentáció elkészítéséről.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Saugos ir sveikatos koordinatorius projekto parengiamuoju laikotarpiu koordinuoja projektavimą darbo aplinkos prasme ir pasirūpina, kad būtų sudarytas darbo aplinkos planas ir dokumentacija.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="158">
+      <tuv xml:lang="hu">
+        <seg>A tervezőkre (műépítészekre, tanácsadókra, stb.)</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Projektuotojai (architektai, konsultantai ir kt.)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="159">
+      <tuv xml:lang="hu">
+        <seg>is hárul az a felelősség, hogy a megbízatásuk keretein belül már az építkezés előkészítése során figyelembe vegyék az építéskor létrejövő munkakörnyezetet.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>taip pat yra atsakingi, savo užduoties ribose, kad būtų atsižvelgiama į darbo aplinką statybų etape ruošiant statybų projektą.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="160">
+      <tuv xml:lang="hu">
+        <seg>Az építési munkavédelmi koordinátor feladata munkavédelmi szempontból egybehangolni az építési munkálatokat, a munkavédelmi tervet hozzáigazítani a munka gyakorlati elvégzéséhez, ellenőrizni, hogy a munkások munkavédelmi szempontból helyesen végzik el munkát, és, hogy tiszteletben tartják a munkavé- delmi tervet.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Saugos ir sveikatos koordinatorius statybų laikotarpiu koordinuoja darbus darbo aplinkos prasme, pritaiko darbo aplinkos planą prie to, kaip darbai yra vykdomi iš tikrųjų, kontroliuoja, ar darbai vykdomi teisingai darbo aplinkos prasme ir ar laikomasi darbo aplinkos plano.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="161">
+      <tuv xml:lang="hu">
+        <seg>13</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>13</seg>
+      </tuv>
+    </tu>
+    <tu tuid="162">
+      <tuv xml:lang="hu">
+        <seg>A közös munkahelyen dolgozó többi cégnek tájékoztatniuk kell a munkavédelmi koordinátort az általuk elvégzendő munkáról és az azzal járó esetleges kockáza- tokról.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Kitos įmonės bendroje darbo vietoje saugos ir sveikatos koordinatoriui statybų laikotarpiu turi pateikti duomenis apie ypatingą pavojų, kuris gali kilti dėl jų veiklos.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="163">
+      <tuv xml:lang="hu">
+        <seg>Mindenki, aki a közös munkahelyen tevékenykedik, köteles tiszteletben tartani azokat a rend- és biztonsági szabályokat, amelyeket a munkavédelmi koordinátor előír.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Visi, dirbantys bendroje darbo vietoje, turi laikytis tvarkos ir saugos taisyklių, kurias išleidžia saugos ir sveikatos koordinatorius.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="164">
+      <tuv xml:lang="hu">
+        <seg>A munkaadóké a fő felelősség a munkavállalóik munkakörnyezetéért.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Kiekvienas darbdavys yra atsakingas už darbuotojų darbo aplinką pirmiausia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="165">
+      <tuv xml:lang="hu">
+        <seg>A mun- kaadó felelőssége a saját munkavállalóival szemben akkor is teljes, ha ugyanakkor még más valaki, például a munkagép tervezője vagy a munkavédelmi koordinátor is tartozik bizonyos felelősséggel.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Darbdavys yra pilnai atsakingas už darbuotojus, nors tuo pat metu jis atsakingas, pavyzdžiui, už projektuotoją, už darbe naudojamos mašinos gamintoją, ir už saugos ir sveikatos koordinatorių.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="166">
+      <tuv xml:lang="hu">
+        <seg>A magánvállalkozók, és azok, akik alkalmazottak nélküli családi vállalkozás- ban végeznek építőmunkát, kötelesek ugyanazokat az előírásokat követni, mint amelyek a munkaadókra és munkavállalókra érvényesek.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Savarankiškai dirbantys asmenys ir asmenys, dirbantys šeimos įmonėse be samdomų darbuotojų, atlikdami statybų darbus turi laikytis tų pačių nuostatų, kurios galioja darbdaviui ir darbuotojui.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="167">
+      <tuv xml:lang="hu">
+        <seg>Az építőmunkásoknak is közre kell működniük a munkavédelemben, tisztelet- ben kell tartaniuk az érvényes előírásokat, és használniuk kell a rendelkezésükre álló védelmi eszközöket.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Statybininkai turi prisidėti prie darbo aplinkos, laikytis galiojančių nuostatų ir naudotis esamais saugos įrenginiais.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="168">
+      <tuv xml:lang="hu">
+        <seg>A munkavédelmi bizalmi a munkavállalók képviselője munkavédelmi kérdé- sekben.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Saugos atstovas atstovauja darbuotojus saugos klausimais.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="169">
+      <tuv xml:lang="hu">
+        <seg>Ha egy munka emberéletre vagy egészségre azonnali és komoly veszély jelent, és a munkaadó nem hárítja el azonnal a kockázatot, akkor a munkavédelmi bizalminak joga van, a Munkavédelmi Hivatal hozzáállására várva, leállítani a munkát.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Jei darbas kelia ūmų ir rimtą pavojų gyvybei ar sveikatai ir jei darbdavys panaikina pavojų neiškart, saugos atstovas turi teisę nutraukti darbus, kol bus gauta Valstybinės darbo aplinkos inspekcijos pozicija.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="170">
+      <tuv xml:lang="hu">
+        <seg>A műszaki felszerelés gyártói, importálói és bérbeadói felelősek azért, hogy a termékeik biztonságosak legyenek.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Gamintojai, importuotojai ir nuomotojai techninės įrangos yra atsakingi už tai, kad jų produktai būtų saugūs.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="171">
+      <tuv xml:lang="hu">
+        <seg>Vegyszerek és egyéb anyagok gyártóinak és importálóinak hasonló felelősségük van.</seg>
+      </tuv>
+      <tuv xml:lang="lt">
+        <seg>Cheminių produktų ir kitų medžiagų gamintojų ir importuotojų atsakomybė panaši.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

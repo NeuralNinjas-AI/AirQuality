@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T125441Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="en">
+    <prop type="x-tucount">85</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="en">
+        <seg>A posted</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Zgłaszanie pracowników delegowanych w Szwecji</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="en">
+        <seg>Reporting posted workers in Sweden</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Przedsiębiorstwa zagraniczne delegujące pracowników do Szwecji na okres przekraczający pięć dni mają obowiązek</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="en">
+        <seg>Areas covered by posted workers’ rights are: working environment, minimum wages and holiday pay, regulations on working hours, workplace discrimination and parental leave.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Pracownikiem delegowanym jest osoba wysyłana przez pracodawcę do innego kraju na określony czas w celu wykonywania tam pracy. Osoby delegowane do pracy w Szwecji objęte są podczas pracy w kraju niektórymi przepisami prawa szwedzkiego oraz porozumień zbiorowych.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="en">
+        <seg>The employer is also required to appoint a contact person in Sweden.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Pracy. Obowiązek ten dotyczy zarówno pracowników z krajów Unii Europejskiej, jak i spoza niej.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="en">
+        <seg>List of Contents</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Spis treści</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="en">
+        <seg>Shovelling snow from roofs is a risky business 3</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odśnieżanie dachów to niebezpieczne przedsięwzięcie 3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="en">
+        <seg>Company responsibility when shovelling roofs 4</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odpowiedzialność firmy podczas odśnieżania dachów 4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="en">
+        <seg>Employer liability 4</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odpowiedzialność wykonawcy 4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="en">
+        <seg>Personal fall projection 5</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Ochrona osobista przed upadkiem 5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="en">
+        <seg>Teamwork 5</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Praca zespołowa 5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="en">
+        <seg>Safer shovelling 6</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Bezpieczniejsze odśnieżanie 6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="en">
+        <seg>Snow slides/avalanches 8</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Lawiny śnieżne 8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="en">
+        <seg>Working on roofs with shallow pitches e tak 9</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Praca na dachach o małym nachyleniu 9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="en">
+        <seg>Cordoning off the area of risk 10</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odgradzanie obszaru zagrożenia 10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="en">
+        <seg>Importance of a signalling system 11</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Znaczenie systemu sygnalizacji 11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="en">
+        <seg>Injuries to third parties 11</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Obrażenia u osób trzecich 11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="en">
+        <seg>This brochure has been produced in cooperation with the central working- environment committee for the iron and ventilation industry.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Niniejsza broszura została przygotowana we współpracy z centralną komisją ds. środowiska pracy branży żelaznej i wentylacyjnej.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="en">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="en">
+        <seg>This brochure is intended to improve safety precautions for persons shovelling snow from the roofs of buildings.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Celem niniejszej broszury jest ulepszenie środków ostrożności dla osób odśnieżających dachy budynków.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="en">
+        <seg>Shovelling snow from roofs - a risky business</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odśnieżanie dachów — ryzykowne przedsięwzięcie</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="en">
+        <seg>Many serious accidents have been caused by snow and ice falling from roofs.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Przyczyną wielu poważnych wypadków był śnieg i lód spadający z dachów.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="en">
+        <seg>That's why it is so important that there are approved fixed access and protective devices for anchoring of safety harnesses together with a team of trustworthy workmates.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>To dlatego w przypadku osób pracujących na dachach tak ważne jest stosowanie odpowiednich urządzeń zapewniających dostęp i ochronę, umożliwiających mocowanie uprzęży ochronnych, oraz godni zaufania współpracownicy.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="en">
+        <seg>Stipulations on planning and executing the clearance of snow on roofs can be found in Building and Civil Engineering Work, AFS 1999:3</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Postanowienia dotyczące planowania i realizacji prac związanych z odśnieżaniem dachów można znaleźć w dokumencie Building and Civil Engineering Work, AFS 1999:3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="en">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="en">
+        <seg>Company responsibility when shovelling roofs</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odpowiedzialność firmy podczas odśnieżania dachów</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="en">
+        <seg>A business that undertakes clearing snow from the roofs of buildings must do so under the liabilities set out in the Swedish Work Environment Act (SFS 1977:1160) and establish a written risk assessment in compliance with Systematic Work Environment Management AFS 2001:01, Sect. 8.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Przedsięwzięcia związane z usuwaniem śniegu z dachów budynków muszą być realizowane zgodnie z obowiązkami określonymi w szwed­ zkiej ustawie o środowisku pracy (SFS 1977:1160) i powinny zawierać pisemną ocenę ryzyka zgodnie z ustawą Systematic Work Environment Management AFS 2001:01, sekcja 8.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="en">
+        <seg>Employer liability</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odpowiedzialność zleceniodawcy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="en">
+        <seg>The following points are the responsibility of an employer undertaking the shovelling of snow from the roofs of buildings:</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Poniżej przedstawiono punkty związane z odpowiedzialnością zlecenio­ dawcy w zakresie odśnieżania dachów budynków:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="en">
+        <seg>Inspect the roof prior to personnel beginning work.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Dach należy sprawdzić przed rozpoczęciem pracy przez personel.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="en">
+        <seg>Inform the workers of the risks involved with shovelling snow from the roof.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Należy informować pracowników o ryzyku związanym z odśnieżaniem dachów.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="en">
+        <seg>Ensure employees possess knowledge of and are necessarily familiarised with what they must observe in order to avoid risks.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Należy się upewnić, że pracownicy dysponują wiedzą i są zaznajomieni z elementami, które należy obserwować w celu uniknięcia niebezpieczeństwa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="en">
+        <seg>Provide personal protective equipment that is suitable and approved for the work in hand – fall protection, protective helmet, protective goggles – and verify that the equipment is used.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Należy zapewnić środki ochrony indywidualnej, które są odpowiednie dla wykonywanej pracy – ochronę przed upadkiem, kask ochronny i gogle – i sprawdza, czy sprzęt jest używany.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="en">
+        <seg>Provide high-vis jackets and communication equipment for workers on the roof and watchmen if necessary.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Należy zapewnić kamizelki odblaskowe i środki łączności dla pracowników na dachu, a w razie konieczności wyznaczyć dodatkowego obserwatora.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="en">
+        <seg>A major safety factor is that the work is carried out by a well-drilled team with two knowledgeable people on the roof and at least one traffic guard on the ground.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Głównym czynnikiem bezpieczeństwa jest fakt, że praca jest wykony­ wana przez dwie doświadczone osoby na dachu i przynajmniej jednego nadzorcę ruchu na ziemi. Ważne jest również nadzorowanie pracy przez personel o dużej wiedzy na temat pracy na dachach.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="en">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="en">
+        <seg>Employee liability</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odpowiedzialność wykonawcy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="en">
+        <seg>The employee shall follow the rules that apply, use protective devices supplied and observe necessary caution.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Wykonawca powinien przestrzegać stosownych przepisów, korzystać ze sprzętu ochronnego i zachowywać niezbędną uwagę.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="en">
+        <seg>Personal fall protection – life insurance</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Ochrona osobista przed upadkiem — ubezpieczenie na życie</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="en">
+        <seg>Make sure the seams on safety harnesses are in good condition and that other details are not damaged.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Należy się upewnić, że szwy na uprzęży bezpieczeństwa są w dobrym stanie i że inne elementy nie są uszkodzone.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="en">
+        <seg>Make sure lines and adjustment devices are not damaged and are in working order.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Należy się upewnić, że liny i urządzenia regulujące nie są uszkodzone, a ich stan jest dobry.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="en">
+        <seg>Harnesses and lines shall be stored suspended dry, dark and ventilated.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Uprzęże i liny powinny być przechowywane w suchym, ciemnym i przewietrzonym miejscu, w zawieszeniu.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="en">
+        <seg>Equipment that is torn, has damaged seams, mechanical faults or is rusty must be destroyed.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Wyposażenie, które jest naderwane, ma wadliwe szwy, uszkodzenia mechaniczne lub rdzę, musi zostać zniszczone.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="en">
+        <seg>Lines that have been dropped over the edge of a roof must be destroyed.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Liny, które zostały opuszczone zza krawędzi dachu, muszą zostać zniszczone.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="en">
+        <seg>Teamwork</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Praca zespołowa</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="en">
+        <seg>“The man in the street”</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>„Człowiek na ulicy”</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="en">
+        <seg>Is to be equipped with protective helmet, high-vis jacket and signalling device as well as communication equipment to the workers on the roof, a whistle, siren or telephone.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Musi być wyposażony w kask ochronny, kamizelkę odblaskową i urządzenie sygnalizacyjne w celu zachowania łączności z ludźmi na dachu, gwizdek, syrenę lub telefon.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="en">
+        <seg>“Workers on the roof”</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>„Pracownicy na dachu”</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="en">
+        <seg>Are to be equipped with line and safety harness, eye protection against ice fragments, snow shovel with wrist strap, small sledge hammer with wrist strap for cracking ice and warm, flexible clothing, suitable footwear and communication equipment to the guard on the street.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Muszą być wyposażeni w liny i uprzęże bezpieczeństwa, ochronę wzroku przed odłamkami lodu, łopatę z paskiem na nadgarstek, mały młotek do kruszenia lodu z paskiem na nadgarstek, ciepłą, elastyczną odzież, odpowiednie obuwie i sprzęt do łączności ze strażnikiem na ulicy.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="en">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="en">
+        <seg>Safer shovelling from roofs</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Bezpieczniejsze odśnieżanie dachów</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="en">
+        <seg>If so, there must be warning signs concerning heating cables at the point of ascent to the roof.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>W takim przypadku należy zastosować znaki ostrzegawcze, informujące o przewodach cieplnych w punkcie wejścia na dach.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="en">
+        <seg>Any skylights that have been covered by snow must be marked.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Stałe urządzenia zabezpieczające muszą zostać sprawdzone przed rozpoczęciem prac. Wszelkie świetliki pokryte śniegiem muszą zostać oznaczone.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="en">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="en">
+        <seg>There should be catwalks installed all along the ridge of the roof if the face of the building is at least 8 m high and the roof pitch greater than or equal to 6˚.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>W zależności od pochylenia i wysokości, dach musi zostać wyposażony w urządzenia stałego dostępu i zabezpieczające, takie jak punkty kotwienia dla lin zabezpieczających. Wzdłuż krawędzi dachu należy zainstalować kładki, jeśli fasada budynku ma przynajmniej 8 metrów wysokości i nachylenie dachu jest większe lub równe 6˚.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="en">
+        <seg>One person is to move the anchorage points for the line and keep it taut while the other is to carry out the actual shovelling.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>W normalnych okolicznościach dach powinny odśnieżać dwie osoby. Jedna osoba powinna przesuwać punkty mocowania lin i zachowywać naprężenie, natomiast druga powinna prowadzić prace związane z odśnieżaniem.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="en">
+        <seg>The person not shovelling must always have signal contact with the traffic guard on the road/ground to avoid accidents.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Osoba, która nie odśnieża, powinna zawsze mieć kontakt z nadzorcą ruchu na ulicy/ziemi, aby unikać wypadków.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="en">
+        <seg>Hand-held tools, such as shovels and light sledge hammers for cracking ice, should have wrist straps to prevent them from accidentally sliding off the roof and becoming a risk factor.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Narzędzia ręczne, takie jak łopaty i młotki do kruszenia lodu, powinny być zawsze wyposażone w paski na nadgarstek, aby uniknąć przypadkowego ześlizgnięcia się z dachu i wywołania zagrożenia w dole.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="en">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="en">
+        <seg>Snow slides and avalanches</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Lawiny śnieżne</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="en">
+        <seg>The risk of snow slides and the formation of ice in gutters and pipes are also affected by the direction of the roof and solar radiation.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Na ryzyko lawin i formowania się lodu w rynnach i rurach ma wpływ również kierunek dachu i promieniowanie słoneczne.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="en">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="en">
+        <seg>Shallow pitch roofs below 6˚</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Dachy o nachyleniu płaskim poniżej 6˚</seg>
+      </tuv>
+    </tu>
+    <tu tuid="63">
+      <tuv xml:lang="en">
+        <seg>Consider the pendulum effect when working from side to side!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Podczas pracy z boku na bok należy wziąć pod uwagę efekt wahadła!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="64">
+      <tuv xml:lang="en">
+        <seg>A safety line used for work on a roof should normally not exceed 10 metres in length.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Liny należy mocować jak najbliżej pionu. Lina zabezpieczająca używana do pracy nie powinna być dłuższa niż 10 metrów.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="65">
+      <tuv xml:lang="en">
+        <seg>The worker can adjust the length of the safety line using an adjuster shackle.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Pracownik może regulować długość liny zabezpieczającej za pomocą klamry regulującej.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="66">
+      <tuv xml:lang="en">
+        <seg>NB!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>NB!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="67">
+      <tuv xml:lang="en">
+        <seg>Use a safety harness, not a waist belt.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Należy używać uprzęży bezpieczeństwa, a nie pasa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="68">
+      <tuv xml:lang="en">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="69">
+      <tuv xml:lang="en">
+        <seg>Cordoning off the area of risk</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odgradzanie obszaru zagrożenia</seg>
+      </tuv>
+    </tu>
+    <tu tuid="70">
+      <tuv xml:lang="en">
+        <seg>Shovelling snow from roofs places great demands on safety zones, signing and safety guards.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Odśnieżanie dachów to duże wymogi w zakresie bezpieczeństwa stref zagrożenia, sygnalizacji i nadzorców.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="71">
+      <tuv xml:lang="en">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="72">
+      <tuv xml:lang="en">
+        <seg>Good signalling system essential</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Najważniejszy jest dobry system sygnalizacji</seg>
+      </tuv>
+    </tu>
+    <tu tuid="73">
+      <tuv xml:lang="en">
+        <seg>Signalling between workers on the roof and the traffic guard on the street is extremely important to avoid accidents.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Sygnalizacja między pracownikami na dachu i nadzorcą ruchu na ulicy jest wyjątkowo ważna, aby możliwe było unikanie wypadków.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="74">
+      <tuv xml:lang="en">
+        <seg>In order to do this, a whistle, siren, telephone or comm radio will be needed.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Sygnały należy przekazywać wyraźnie. W tym celu należy korzystać z gwizdka, syreny, telefonu lub radia.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="75">
+      <tuv xml:lang="en">
+        <seg>Every member of the team must know how to interpret the signals.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Każdy członek zespołu musi wiedzieć, jak interpretować takie sygnały. Aby bezpiecznie odśnieżać dach i usuwać lód, można używać następujących sygnałów:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="76">
+      <tuv xml:lang="en">
+        <seg>One signal – Stop!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Jeden sygnał – Stop!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="77">
+      <tuv xml:lang="en">
+        <seg>Two signals – Get going!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Dwa sygnały – Praca!</seg>
+      </tuv>
+    </tu>
+    <tu tuid="78">
+      <tuv xml:lang="en">
+        <seg>Injuries to third parties</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Obrażenia u osób trzecich</seg>
+      </tuv>
+    </tu>
+    <tu tuid="79">
+      <tuv xml:lang="en">
+        <seg>Accidents do not need to happen if everything has been done correctly from start to finish.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Wypadki nie muszą mieć miejsca, jeśli wszystko od początku do końca wykonywane było prawidłowo.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="80">
+      <tuv xml:lang="en">
+        <seg>11</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="81">
+      <tuv xml:lang="en">
+        <seg>Further copies of this publication can be ordered from:</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Kolejne kopie tej publikacji należy zamówić w:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="82">
+      <tuv xml:lang="en">
+        <seg>Work Environment Authority Publication Service</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Work Environment Authority Publication Service</seg>
+      </tuv>
+    </tu>
+    <tu tuid="83">
+      <tuv xml:lang="en">
+        <seg>S112 79 Stockholm</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>S112 79 Sztokholm</seg>
+      </tuv>
+    </tu>
+    <tu tuid="84">
+      <tuv xml:lang="en">
+        <seg>+46 (0)10-730 90 00 www.av.se</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Tel.: +46 (0)10-730 90 00 www.av.se</seg>
+      </tuv>
+    </tu>
+    <tu tuid="85">
+      <tuv xml:lang="en">
+        <seg>ADI 660 Our vision: Everyone is willing and able to create a good working environment</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>ADI 660 Nasza wizja: Każdy chce i może stworzyć dobre środowisko pracy</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

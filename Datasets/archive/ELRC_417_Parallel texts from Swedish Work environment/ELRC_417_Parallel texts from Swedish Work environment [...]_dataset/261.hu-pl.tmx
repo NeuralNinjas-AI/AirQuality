@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header adminlang="en" creationdate="20170531T130028Z" creationid="TLDJanisS\janis.slapins" creationtool="Tilde Plaintext-to-TMX Converter" creationtoolversion="1.0" datatype="plaintext" o-tmf="Moses file pair" segtype="sentence" srclang="hu">
+    <prop type="x-tucount">62</prop>
+  </header>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="hu">
+        <seg>2</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="hu">
+        <seg>Csökkentse a lezuhanás kockázatát</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Ograniczenie ryzyka upadku z wysokości</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="hu">
+        <seg>A védőkorlátnak</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Balustrady ochronne powinny:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="hu">
+        <seg>szilárdnak kell lennie,</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>być stabilne i wytrzymałe</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="hu">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="hu">
+        <seg>Fennáll annak a kockázata, hogy a munkás alatt egy nem elégséges teherbírású felület beszakad.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Powierzchnie, których wytrzymałość nie zapewnia bezpiecznego przebywania na nich pracowników należy odgrodzić. Jeżeli praca na takich powierzchniach jest jednak konieczna, należy zastosować specjalne środki ochrony.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="hu">
+        <seg>Néha védőszemüvegre, hallásvédőre és munkakesztyűre is szükség van.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Należy zawsze używać hełmów ochronnych i obuwia ochronnego. Czasami konieczne jest zastosowanie okularów, słuchawek i rękawic ochronnych.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="hu">
+        <seg>4</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu tuid="9">
+      <tuv xml:lang="hu">
+        <seg>Súlyos tárgyak emelése és hibás testhelyzet megterheli a testet</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Podnoszenie ciężarów i nieodpowiednia pozycja ciała przy pracy obciążają organizm</seg>
+      </tuv>
+    </tu>
+    <tu tuid="10">
+      <tuv xml:lang="hu">
+        <seg>5</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu tuid="11">
+      <tuv xml:lang="hu">
+        <seg>Vegyi anyagokra vonatkozó szabályok Svédországban</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Szwedzkie przepisy dotyczące substancji chemicznych</seg>
+      </tuv>
+    </tu>
+    <tu tuid="12">
+      <tuv xml:lang="hu">
+        <seg>A Svédországban vásárolt termékek adatlapja svédül kell, hogy legyen írva.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Na placu budowy powinien być dostępny wykaz wszystkich szkodliwych produktów chemicznych. Leży to w obowiązku każdego pracodawcy.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="13">
+      <tuv xml:lang="hu">
+        <seg>Az építőtelepen lennie kell egy feljegyzésnek az összes veszélyes vegyi termékekről.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Pracodawca powinien poinformować pracowników o zagrożeniach, jakie niosą ze sobą szkodliwe produkty chemiczne oraz powinien on upewnić się, że pracownicy zrozumieli te informacje.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="14">
+      <tuv xml:lang="hu">
+        <seg>Ez minden munkaadó felelőssége.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Niektóre ze szkodliwych substancji podlegają szczególnie surowym przepisom:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="15">
+      <tuv xml:lang="hu">
+        <seg>Az engedélyhez hivatalosan igazolt külön kiképzésre és orvosi igazolványra van szükség.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Azbest: Dokonywanie wyburzania obiektów i pozbycia się gruzu, w którym znajduje się azbest nie jest możliwe bez zezwolenia Arbetsmiljöverket.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="16">
+      <tuv xml:lang="hu">
+        <seg>orvosi vizsgálatra és kiképzésre van szükség, a munka megkezdése előtt.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Do otrzymania zezwolenia niezbędne jest posiadanie udokumentowanego specjalnego wyszkolenia oraz zaświadczenie lekarskie.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="17">
+      <tuv xml:lang="hu">
+        <seg>Az előírások megszegése büntetendő cselekmény és nagy pénzbírsággal járhat.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Złamanie powyższych przepisów jest karalne i podlega wysokiej karze grzywny.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="18">
+      <tuv xml:lang="hu">
+        <seg>6</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu tuid="19">
+      <tuv xml:lang="hu">
+        <seg>Közlekedési utak és anyagmozgatás</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Połączenia między poziomami i transport materiałów</seg>
+      </tuv>
+    </tu>
+    <tu tuid="20">
+      <tuv xml:lang="hu">
+        <seg>Tíz méternél nagyobb szintkülönbség esetén felvonónak is kell lennie, ha a munkavállaló egyébként sok lépcsőjárásra kényszerülne.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Na placu budowy powinny znajdować się bezpieczne połączenia i przejścia między różnymi poziomami, np. schody lub rampy. Przy różnicy poziomów większej niż dziesięć metrów, na miejscu powinna znajdować się winda, aby pracownicy nie musieli pokonywać takich wysokości schodami.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="21">
+      <tuv xml:lang="hu">
+        <seg>Az építőtelepen belüli autóutak mentén megfelelő biztonsági távolságoknak vagy védőeszközöknek kell lenniük.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Drogi dojazdowe na placu budowy powinny być położone w bezpiecznej odległości od stanowisk pracy lub odpowiednio odgrodzone i oznakowane.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="22">
+      <tuv xml:lang="hu">
+        <seg>A különböző szintek közötti anyagmozgatást úgy kell megszervezni, hogy ne legyen szükség a védőkorlátok vagy egyéb védelmi eszközök eltávolítására.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Transport materiałów budowlanych pomiędzy poszczególnymi poziomami powinien odbywać się bez potrzeby demontażu balustrad ochronnych lub innych środków bezpieczeństwa. W przeciwnym przypadku transport materiałów powinien odbywać się przy pomocy platform załadowczych, otworów ładowniczych w fasadach obiektów, ramp lub specjalnych środków transportowych.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="23">
+      <tuv xml:lang="hu">
+        <seg>7</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu tuid="24">
+      <tuv xml:lang="hu">
+        <seg>Emelőszerkezetek, gépek és bizonyos egyéb termékek használati utasításai</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Instrukcje obsługi urządzeń dźwigowych, maszyn i innego sprzętu</seg>
+      </tuv>
+    </tu>
+    <tu tuid="25">
+      <tuv xml:lang="hu">
+        <seg>A Munkavédelmi Hivatal gépekre vonatkozó előírásaiban tájákoztatást lehet kapni arról, hogy mit kell a használati utasításoknak tartalmazniuk.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Nawet prefabrykaty rusztowań powinny być dostarczane włącznie z pisemną instrukcją obsługi w języku szwedzkim, a instrukcje te powinny być potem dostępne w miejscu pracy. Przepisy Arbetsmiljöverket dotyczące rusztowań mówią o wymogach dotyczących treści instrukcji obsługi.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="26">
+      <tuv xml:lang="hu">
+        <seg>A használati utasításoknak a munkavállaló által is értett nyelven írottnak kell lenniük.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Pracownicy posługujący się w swojej pracy maszynami, urządzeniami dźwigowymi, rusztowaniami, itp. powinni mieć dostęp do instrukcji obsługi powyższych urządzeń. Instrukcje te powinny być dostępne w języku, którym mówią pracownicy.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="27">
+      <tuv xml:lang="hu">
+        <seg>Új emelőszerkezeteknek és gépeknek svédországi használatához általában</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Oznakowanie CE, homologacja i inspekcja urządzeń dźwigowych, maszyn i innego sprzętu</seg>
+      </tuv>
+    </tu>
+    <tu tuid="28">
+      <tuv xml:lang="hu">
+        <seg>Műszaki vizsgával nem rendelkező, vagy az észrevételezett hiányosságoktól nem mentesített gépek és emelőszerkezetek használata büntetendő.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Dopuszczenie wielu maszyn i urządzeń dźwigowych do użytku wymaga periodycznych inspekcji. Używanie maszyn i urządzeń dźwigowych, które nie zostały poddane inspekcji, lub których wady nie zostały naprawione jest karalne. Inspekcji dokonuje się według szwedzkich norm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="29">
+      <tuv xml:lang="hu">
+        <seg>8</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu tuid="30">
+      <tuv xml:lang="hu">
+        <seg>Erre is kell gondolni…</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Co więcej ...</seg>
+      </tuv>
+    </tu>
+    <tu tuid="31">
+      <tuv xml:lang="hu">
+        <seg>9</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu tuid="32">
+      <tuv xml:lang="hu">
+        <seg>Ha valami történik</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Gdy zdarzy się wypadek</seg>
+      </tuv>
+    </tu>
+    <tu tuid="33">
+      <tuv xml:lang="hu">
+        <seg>Munkavédelmi terv</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Plan organizacji warunków pracy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="34">
+      <tuv xml:lang="hu">
+        <seg>10</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu tuid="35">
+      <tuv xml:lang="hu">
+        <seg>A munkavédelmi tervnek az alábbiakat kell tartalmaznia:</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Plan powinien składać się następujące części:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="36">
+      <tuv xml:lang="hu">
+        <seg>Az építőtelepen érvényes szabályokat</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Zasad, które będą stosowane na placu budowy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="37">
+      <tuv xml:lang="hu">
+        <seg>A munkavédelmi tevékenység megszervezésének módját</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Opisu sposobu organizacji warunków pracy</seg>
+      </tuv>
+    </tu>
+    <tu tuid="38">
+      <tuv xml:lang="hu">
+        <seg>Az építkezés ideje alatt a legjobb munkakörnyezet érdekében foganatosítandó munkavédelmi intézkedések leírását.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Opisu odpowiednich środków, jakie zostaną podjęte podczas trwania bu dowy, w celu zapewnienia pracownikom dobrych warunków pracy. Dotyczy to między innymi następujących robót:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="39">
+      <tuv xml:lang="hu">
+        <seg>lezuhanás kockázatával járó munka</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>prac na wysokości (ryzyko upadku)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="40">
+      <tuv xml:lang="hu">
+        <seg>beomlás kockázatával járó földmunka</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>robót ziemnych (ryzyko zawalenia ścian wykopu)</seg>
+      </tuv>
+    </tu>
+    <tu tuid="41">
+      <tuv xml:lang="hu">
+        <seg>vegyi vagy biológiai anyagokkal végzett munka</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>prac z zastosowaniem szkodliwych substancji chemicznych lub biologicznych</seg>
+      </tuv>
+    </tu>
+    <tu tuid="42">
+      <tuv xml:lang="hu">
+        <seg>magasfeszültségű vezetékek közelében végzett munka</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>prac w sąsiedztwie przewodów wysokiego napięcia</seg>
+      </tuv>
+    </tu>
+    <tu tuid="43">
+      <tuv xml:lang="hu">
+        <seg>vízbefulladás veszélyével járó munka</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>prac, które niosą ze sobą ryzyko utonięcia</seg>
+      </tuv>
+    </tu>
+    <tu tuid="44">
+      <tuv xml:lang="hu">
+        <seg>aknákban és alagútakban végzett munka</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>robót w studniach i tunelach</seg>
+      </tuv>
+    </tu>
+    <tu tuid="45">
+      <tuv xml:lang="hu">
+        <seg>robbanóanyagok használatával egybekötött munka</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>prac z zastosowaniem środków wybuchowych</seg>
+      </tuv>
+    </tu>
+    <tu tuid="46">
+      <tuv xml:lang="hu">
+        <seg>súlyos építőelemekkel végzett munka</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>prac przy montażu ciężkich elementów budowlanych</seg>
+      </tuv>
+    </tu>
+    <tu tuid="47">
+      <tuv xml:lang="hu">
+        <seg>gépjárműforgalom közelében végzett munka, valamint statikai megterhelésnek kitett szerkezetek vagy egészségre káros anyagok bontása</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>robót w miejscach lub na obszarach czynnego ruchu drogowego oraz przy wyburzaniu elementów nośnych konstrukcji budynków lub wyburzaniu obiektów zawierających szkodliwe dla zdrowia materiały lub substancje.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="48">
+      <tuv xml:lang="hu">
+        <seg>Előzetes bejelentés</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Zgłoszenie rozpoczęcia prac budowlanych</seg>
+      </tuv>
+    </tu>
+    <tu tuid="49">
+      <tuv xml:lang="hu">
+        <seg>Az építtető feledata az is, hogy a bejelentés másolatát az építkezés helyén kitűzze és annak aktualitását megőrizze.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Przed rozpoczęciem prac budowlanych (z wyjątkiem małych projektów) inwestor jest zobowiązany złożyć do najbliższego okręgowego urzędu Arbetsmiljöverket pismo zgłaszające rozpoczęcie planowanego projektu (zobacz w § 7 przepisów).</seg>
+      </tuv>
+    </tu>
+    <tu tuid="50">
+      <tuv xml:lang="hu">
+        <seg>11</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>11</seg>
+      </tuv>
+    </tu>
+    <tu tuid="51">
+      <tuv xml:lang="hu">
+        <seg>Szervezés és tájékoztatás</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Planowanie i informacja</seg>
+      </tuv>
+    </tu>
+    <tu tuid="52">
+      <tuv xml:lang="hu">
+        <seg>Olyan munkamódszereket és felszerelést kell választani, amelyek</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Należy wybierać metody pracy i wyposażenie, które:</seg>
+      </tuv>
+    </tu>
+    <tu tuid="53">
+      <tuv xml:lang="hu">
+        <seg>megakadályozzák a lezuhanás vagy beomlás okozta baleseteket</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>zapobiegają wypadkom spowodowanym przez upadek z wysokości lub zawalenie wykopu,</seg>
+      </tuv>
+    </tu>
+    <tu tuid="54">
+      <tuv xml:lang="hu">
+        <seg>A munkavállalókat tájékoztatni kell a munkáról, a megvalósított vagy eltervezett munkavédelmi intézkedésekről, és az érvényes szabályokról.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>nie narażają pracowników na niebezpieczne dla zdrowia lub powodujące nadmierne zmęczenie obciążenia ciała, zapewniają niski poziom hałasu, wibracji, szkodliwych substancji i zanieczyszczeń powietrza.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="55">
+      <tuv xml:lang="hu">
+        <seg>Ezért fontos a rendszeres munkavédelmi ellenörző körút.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Na placu budowy zachodzą nieustannie szybkie zmiany niosące ze sobą różne rodzaje ryzyka. Dlatego niezbędne są regularne obchody w celu kontroli bezpieczeństwa pracy.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="56">
+      <tuv xml:lang="hu">
+        <seg>12</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu tuid="57">
+      <tuv xml:lang="hu">
+        <seg>Kire milyen felelősség hárul?</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Kto i za co jest odpowiedzialny?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="58">
+      <tuv xml:lang="hu">
+        <seg>13</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>13</seg>
+      </tuv>
+    </tu>
+    <tu tuid="59">
+      <tuv xml:lang="hu">
+        <seg>A munkaadóké a fő felelősség a munkavállalóik munkakörnyezetéért.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Robotnicy budowlani powinni przyczynić się tworzenia dobrych warunków pracy poprzez przestrzeganie obowiązujących przepisów oraz stosowanie wyznaczonych środków bezpieczeństwa.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="60">
+      <tuv xml:lang="hu">
+        <seg>munkaerőt bérelnek, vagy akik egy munkahely felett rendelkeznek.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Swedish Work Environment Authority, publication services, 112 79 Stockholm.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="61">
+      <tuv xml:lang="hu">
+        <seg>14</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Tel. +46-(0)8-730 97 00</seg>
+      </tuv>
+    </tu>
+    <tu tuid="62">
+      <tuv xml:lang="hu">
+        <seg>15</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Fax +46-(0)8-735 85 55 www.av.se</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
