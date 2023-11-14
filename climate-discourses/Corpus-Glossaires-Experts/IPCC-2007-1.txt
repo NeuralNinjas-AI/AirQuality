@@ -1,0 +1,63 @@
+Palaeoclimate
+Coordinating Lead Authors:
+Eystein Jansen (Norway), Jonathan Overpeck (USA)
+
+This chapter should be cited as:
+Jansen, E., J. Overpeck, K.R. Briffa, J.-C. Duplessy, F. Joos, V. Masson-Delmotte, D. Olago, B. Otto-Bliesner, W.R. Peltier, S. Rahmstorf, R. Ramesh, D. Raynaud, D. Rind, O. Solomina, R. Villalba and D. Zhang, 2007: Palaeoclimate. In: Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change [Solomon, S., D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. Averyt, M. Tignor and H.L. Miller (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
+6
+Supplementary Materials
+SM.6-
+Palaeoclimate Supplementary Material: Chapter 6
+Appendix 6.A:
+Glossary of Terms Specific to Chapter 6
+Alkenones
+Complex organic molecules found in fossil shells of plant plankton and used to reconstruct past sea surface temperatures.
+Allerød
+An abrupt warming event around 13,000 years ago seen in Greenland and elsewhere. See also the Bølling event; the two are often referred to together as the Bølling-Allerød Period: 14,500-12,900 years ago, characterized by warmer conditions in many places and for much of the time.
+Bølling
+An abrupt warming event around 14,500 years ago. See also the Allerød event.
+Calendar-based time
+Age determination in actual years, distinguished from 14C based time
+Carbonate compensation depth
+The level in the oceans at which the rate of supply of calcium carbonate (calcite and aragonite) equals the rate of dissolution, such that no calcium carbonate is preserved.
+Diatom
+Silt-sized algae that live in surface waters of lakes, rivers, and oceans and form shells of opal. Their species distribution in ocean cores is often related to past sea surface temperatures.
+Eocene
+The Eocene epoch (55-34 million years ago) is a major division of the geologic timescale and the second epoch of the Palaeogene period in the Cenozoic era.
+Foraminifera (planktonic)
+Sand-sized organisms (protozoans) that live in ocean surface waters and form shells made out of CaCO3. Their species distribution in ocean cores is often used as an indication of sea surface temperatures in past climates.
+Heinrich event
+An interval of rapid flow of icebergs from the margins of ice sheets into the North Atlantic characterized by deposition of sediment eroded from the land.
+Holocene
+The latter of two Quaternary epochs, extending from about 11,600 years ago to and including the present.
+Holocene Climate Optimum
+The Holocene Climate Optimum is vague term used to denote a warm period during roughly the interval 9,000 to 5,000 years ago. This event has also been known by many other names, including: Hypisthermal, Altithermal, Climatic Optimum, Holocene Optimum, Holocene Thermal Maximum, and Holocene Megathermal. In reality the warming was primarily during Northern Hemisphere summer, and was not synchronous across the hemisphere.
+Holocene Thermal Optimum (HTO)
+See Holocene Climatic Optimum
+Ice Age
+An ice age or glacial period is characterized by a long-term reduction in the temperature of Earth’s climate, resulting in growth of continental ice sheets and mountain glaciers (“glaciation”).
+Lake Agassiz
+Once the largest proglacial lake in North America. Evidence of glacial Lake Agassiz occurs over an area of roughly 365,000 square miles, an area five times the size of the state of North Dakota, although at no single time did the lake ever cover this entire area. Ice margin positions and lowering of outlets by erosion combined to limit the size of the lake at any given time. Glacial Lake Agassiz was the latest in a series of proglacial lakes that must have formed in the Red River Valley many times during the Ice Age, each time north-draining rivers were impounded by ice sheets spreading south out of Canada and again as the glaciers receded.
+Laurentide ice sheet
+The largest of the Northern Hemisphere ice sheets that grow and shrink at orbital cycles, covering east-central Canada and the northern United States east of the Rockies.
+Megadrought
+Long-drawn out and pervasive drought much longer than normal, usually lasting a decade or more.
+O-isotopes [oxygen isotope ratio]
+Isotopes of Oxygen occur with molecular weights of 16, 17 and 18, of which 16 is the most abundant, and 18 the next. Their fractionation during phase changes is dependent on temperature, and so the ratio of oxygen-18 to oxygen-16 in forams, coral skeletons, ice layers of ice sheets, and other types of paleoclimatic samples can be related to temperature.
+Ocean plankton
+Organisms that live in the upper layers of oceans.
+
+Paleocene
+The Paleocene epoch (65-55 million years ago) is the first geologic epoch of the Palaeogene period in the modern Cenozoic era.
+Paleocene-Eocene Thermal Maximum (PETM)
+Beginning at the end of the Paleocene the PETM (55.5 to 54.8 million years before present), was one of the most rapid and extreme global warming events recorded in geologic history.
+Paleosols
+A soil horizon that formed on the surface during the geologic past, that is, an ancient soil. Also know as a buried soil; fossil soil.
+Pliocene
+The Pliocene epoch is the period in the geologic timescale that extends from 5.3 million to 1.8 million years before present.
+Radiometric dating
+A technique used to determine the absolute age of materials, such as organic materials or rocks, from the decay rates of naturally occurring radioactive isotopes. Examples are the decay of 14C with a half-life of about 5700 years, or the decay of 231Pa with a half-life of 32,000 years.
+Sr/Ca ratios
+The ratio between strontium and calcium in biologically-precipitated CaCO3 that has been successfully used as a temperature proxy (e.g., in corals and sclerosponges) to reconstruct past ocean temperature variations.
+231Pa/230Th
+As part of the uranium radioactive decay, Protactinium-231 decays to Thorium-230 with a half-life of 32,000 yrs; used for longer-term dating.

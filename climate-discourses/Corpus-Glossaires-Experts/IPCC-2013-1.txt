@@ -1,0 +1,1954 @@
+
+AIII
+Editor:
+Serge Planton (France)
+Annex III: Glossary
+This annex should be cited as:
+IPCC, 2013: Annex III: Glossary [Planton, S. (ed.)]. In: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.
+
+
+This glossary defines some specific terms as the Lead Authors intend
+them to be interpreted in the context of this report. Red, italicized
+words indicate that the term is defined in the Glossary.
+Abrupt climate change A large-scale change in the climate system
+that takes place over a few decades or less, persists (or is anticipated to
+persist) for at least a few decades and causes substantial disruptions in
+human and natural systems.
+Active layer The layer of ground that is subject to annual thawing and
+freezing in areas underlain by permafrost.
+Adjustment time See Lifetime. See also Response time.
+Advection Transport of water or air along with its properties (e.g., temperature,
+chemical tracers) by winds or currents. Regarding the general
+distinction between advection and convection, the former describes transport
+by large-scale motions of the atmosphere or ocean, while convection
+describes the predominantly vertical, locally induced motions.
+Aerosol A suspension of airborne solid or liquid particles, with a typical
+size between a few nanometres and 10 μm that reside in the atmosphere
+for at least several hours. For convenience the term aerosol, which includes
+both the particles and the suspending gas, is often used in this report in
+its plural form to mean aerosol particles. Aerosols may be of either natural
+or anthropogenic origin. Aerosols may influence climate in several ways:
+directly through scattering and absorbing radiation (see Aerosol–radiation
+interaction) and indirectly by acting as cloud condensation nuclei or ice
+nuclei, modifying the optical properties and lifetime of clouds (see Aerosol–
+cloud interaction).
+Aerosol–cloud interaction A process by which a perturbation to
+aerosol affects the microphysical properties and evolution of clouds
+through the aerosol role as cloud condensation nuclei or ice nuclei, particularly
+in ways that affect radiation or precipitation; such processes can
+also include the effect of clouds and precipitation on aerosol. The aerosol
+perturbation can be anthropogenic or come from some natural source. The
+radiative forcing from such interactions has traditionally been attributed
+to numerous indirect aerosol effects, but in this report, only two levels of
+radiative forcing (or effect) are distinguished:
+Radiative forcing (or effect) due to aerosol–cloud interactions
+(RFaci) The radiative forcing (or radiative effect, if the perturbation is
+internally generated) due to the change in number or size distribution
+of cloud droplets or ice crystals that is the proximate result of an aerosol
+perturbation, with other variables (in particular total cloud water
+content) remaining equal. In liquid clouds, an increase in cloud droplet
+concentration and surface area would increase the cloud albedo. This
+effect is also known as the cloud albedo effect, first indirect effect, or
+Twomey effect. It is a largely theoretical concept that cannot readily be
+isolated in observations or comprehensive process models due to the
+rapidity and ubiquity of rapid adjustments.
+Effective radiative forcing (or effect) due to aerosol–cloud interactions
+(ERFaci) The final radiative forcing (or effect) from the aerosol
+perturbation including the rapid adjustments to the initial change
+in droplet or crystal formation rate. These adjustments include changes
+in the strength of convection, precipitation efficiency, cloud fraction,
+lifetime or water content of clouds, and the formation or suppression
+of clouds in remote areas due to altered circulations.
+The total effective radiative forcing due to both aerosol–cloud and
+aerosol–radiation interactions is denoted aerosol effective radiative
+forcing (ERFari+aci). See also Aerosol–radiation interaction.
+Aerosol–radiation interaction An interaction of aerosol directly
+with radiation produce radiative effects. In this report two levels of radiative
+forcing (or effect) are distinguished:
+Radiative forcing (or effect) due to aerosol–radiation interactions
+(RFari) The radiative forcing (or radiative effect, if the perturbation
+is internally generated) of an aerosol perturbation due directly
+to aerosol–radiation interactions, with all environmental variables
+remaining unaffected. Traditionally known in the literature as the direct
+aerosol forcing (or effect).
+Effective radiative forcing (or effect) due to aerosol-radiation
+interactions (ERFari) The final radiative forcing (or effect) from
+the aerosol perturbation including the rapid adjustments to the initial
+change in radiation. These adjustments include changes in cloud
+caused by the impact of the radiative heating on convective or largerscale
+atmospheric circulations, traditionally known as semi-direct aerosol
+forcing (or effect).
+The total effective radiative forcing due to both aerosol–cloud and
+aerosol–radiation interactions is denoted aerosol effective radiative
+forcing (ERFari+aci). See also Aerosol–cloud interaction.
+Afforestation Planting of new forests on lands that historically have
+not contained forests. For a discussion of the term forest and related terms
+such as afforestation, reforestation and deforestation, see the IPCC Special
+Report on Land Use, Land-Use Change and Forestry (IPCC, 2000). See also
+the report on Definitions and Methodological Options to Inventory Emissions
+from Direct Human-induced Degradation of Forests and Devegetation
+of Other Vegetation Types (IPCC, 2003).
+Airborne fraction The fraction of total CO2 emissions (from fossil fuel
+and land use change) remaining in the atmosphere.
+Air mass A widespread body of air, the approximately homogeneous
+properties of which (1) have been established while that air was situated
+over a particular region of the Earth’s surface, and (2) undergo specific
+modifications while in transit away from the source region (AMS, 2000).
+Albedo The fraction of solar radiation reflected by a surface or object,
+often expressed as a percentage. Snow-covered surfaces have a high
+albedo, the albedo of soils ranges from high to low, and vegetation-covered
+surfaces and oceans have a low albedo. The Earth’s planetary albedo
+varies mainly through varying cloudiness, snow, ice, leaf area and and
+cover changes.
+Alkalinity A measure of the capacity of an aqueous solution to neutralize
+acids.
+Altimetry A technique for measuring the height of the Earth’s surface
+with respect to the geocentre of the Earth within a defined terrestrial reference
+frame (geocentric sea level).
+Annular modes See Northern Annular Mode (NAM) and Southern
+Annular Mode (SAM).
+Anthropogenic Resulting from or produced by human activities.
+Atlantic Multi-decadal Oscillation/Variability (AMO/AMV) A
+multi-decadal (65- to 75-year) fluctuation in the North Atlantic, in which
+sea surface temperatures showed warm phases during roughly 1860 to
+and 1930 to 1960 and cool phases during 1905 to 1925 and 1970 to
+with a range of approximately 0.4°C. See AMO Index, Box 2.5.
+Atmosphere The gaseous envelope surrounding the Earth. The dry
+atmosphere consists almost entirely of nitrogen (78.1% volume mixing
+ratio) and oxygen (20.9% volume mixing ratio), together with a number
+of trace gases, such as argon (0.93% volume mixing ratio), helium and
+radiatively active greenhouse gases such as carbon dioxide (0.035%
+
+
+volume mixing ratio) and ozone. In addition, the atmosphere contains the
+greenhouse
+gas water vapour, whose amounts are highly variable but typically
+around 1% volume mixing ratio. The atmosphere also contains clouds
+and aerosols.
+Atmosphere–Ocean General Circulation Model (AOGCM) See
+Climate model.
+Atmospheric boundary layer The atmospheric layer adjacent to the
+Earth’s surface that is affected by friction against that boundary surface,
+and possibly by transport of heat and other variables across that surface
+(AMS, 2000). The lowest 100 m of the boundary layer (about 10% of the
+boundary layer thickness), where mechanical generation of turbulence is
+dominant, is called the surface boundary layer or surface layer.
+Atmospheric lifetime See Lifetime.
+Attribution See Detection and attribution.
+Autotrophic respiration Respiration by photosynthetic (see photosynthesis)
+organisms (e.g., plants and algaes).
+Basal lubrication Reduction of friction at the base of an ice sheet
+or glacier due to lubrication by meltwater. This can allow the glacier or
+ice sheet to slide over its base. Meltwater may be produced by pressureinduced
+melting, friction or geothermal heat, or surface melt may drain to
+the base through holes in the ice.
+Baseline/reference The baseline (or reference) is the state against
+which change is measured. A baseline period is the period relative to which
+anomalies are computed. The baseline concentration of a trace gas is that
+measured at a location not influenced by local anthropogenic emissions.
+Bayesian method/approach A Bayesian method is a method by
+which a statistical analysis of an unknown or uncertain quantity(ies) is carried
+out in two steps. First, a prior probability distribution for the uncertain
+quantity(ies) is formulated on the basis of existing knowledge (either by
+eliciting expert opinion or by using existing data and studies). At this first
+stage, an element of subjectivity may influence the choice, but in many
+cases, the prior probability distribution can be chosen as neutrally as possible,
+in order not to influence the final outcome of the analysis. In the
+second step, newly acquired data are used to update the prior distribution
+into a posterior distribution. The update is carried out either through an
+analytic computation or though numeric approximation, using a theorem
+formulated by and named after the British mathematician Thomas Bayes
+(1702–1761).
+Biological pump The process of transporting carbon from the ocean’s
+surface layers to the deep ocean by the primary production of marine phytoplankton,
+which converts dissolved inorganic carbon (DIC) and nutrients
+into organic matter through photosynthesis. This natural cycle is limited
+primarily by the availability of light and nutrients such as phosphate, nitrate
+and silicic acid, and micronutrients, such as iron. See also Solubility pump.
+Biomass The total mass of living organisms in a given area or volume;
+dead plant material can be included as dead biomass. Biomass burning is
+the burning of living and dead vegetation.
+Biome A biome is a major and distinct regional element of the biosphere,
+typically consisting of several ecosystems (e.g., forests, rivers,
+ponds, swamps within a region). Biomes are characterized by typical communities
+of plants and animals.
+Biosphere (terrestrial and marine) The part of the Earth system
+comprising all ecosystems and living organisms, in the atmosphere, on
+land (terrestrial biosphere) or in the oceans (marine biosphere), including
+derived dead organic matter, such as litter, soil organic matter and oceanic
+detritus.
+Black carbon (BC) Operationally defined aerosol species based on
+measurement of light absorption and chemical reactivity and/or thermal
+stability. It is sometimes referred to as soot.
+Blocking Associated with persistent, slow-moving high-pressure systems
+that obstruct the prevailing westerly winds in the middle and high
+latitudes and the normal eastward progress of extratropical transient
+storm systems. It is an important component of the intraseasonal climate
+variability in the extratropics and can cause long-lived weather conditions
+such as cold spells in winter and summer heat waves.
+Brewer–Dobson circulation The meridional overturning circulation
+of the stratosphere transporting air upward in the tropics, poleward to the
+winter hemisphere, and downward at polar and subpolar latitudes. The
+Brewer–Dobson circulation is driven by the interaction between upward
+propagating planetary waves and the mean flow.
+Burden The total mass of a gaseous substance of concern in the atmosphere.
+C Stable isotope of carbon having an atomic weight of approximately
+. Measurements of the ratio of 13C/12C in carbon dioxide molecules are
+used to infer the importance of different carbon cycle and climate processes
+and the size of the terrestrial carbon reservoir.
+C Unstable isotope of carbon having an atomic weight of approximately
+, and a half-life of about 5700 years. It is often used for dating
+purposes going back some 40 kyr. Its variation in time is affected by the
+magnetic fields of the Sun and Earth, which influence its production from
+cosmic rays (see Cosmogenic radioisotopes).
+Calving The breaking off of discrete pieces of ice from a glacier, ice
+sheet or an ice shelf into lake or seawater, producing icebergs. This is a
+form of mass loss from an ice body. See also Mass balance/budget (of
+glaciers or ice sheets).
+Carbonaceous aerosol Aerosol consisting predominantly of organic
+substances and black carbon.
+Carbon cycle The term used to describe the flow of carbon (in various
+forms, e.g., as carbon dioxide) through the atmosphere, ocean, terrestrial
+and marine biosphere and lithosphere. In this report, the reference unit for
+the global carbon cycle is GtC or equivalently PgC (1015g).
+Carbon dioxide (CO2) A naturally occurring gas, also a by-product of
+burning fossil fuels from fossil carbon deposits, such as oil, gas and coal,
+of burning biomass, of land use changes and of industrial processes (e.g.,
+cement production). It is the principal anthropogenic greenhouse gas that
+affects the Earth’s radiative balance. It is the reference gas against which
+other greenhouse gases are measured and therefore has a Global Warming
+Potential of 1.
+Carbon dioxide (CO2) fertilization The enhancement of the growth
+of plants as a result of increased atmospheric carbon dioxide (CO2) concentration.
+Carbon Dioxide Removal (CDR) Carbon Dioxide Removal methods
+refer to a set of techniques that aim to remove CO2 directly from the
+atmosphere by either (1) increasing natural sinks for carbon or (2) using
+chemical engineering to remove the CO2, with the intent of reducing the
+atmospheric CO2 concentration. CDR methods involve the ocean, land and
+technical systems, including such methods as iron fertilization, large-scale
+afforestation and direct capture of CO2 from the atmosphere using engineered
+chemical means. Some CDR methods fall under the category of
+geoengineering, though this may not be the case for others, with the distinction
+being based on the magnitude, scale, and impact of the particular
+CDR activities. The boundary between CDR and mitigation is not clear and
+
+
+there could be some overlap between the two given current definitions
+(IPCC, 2012, p. 2). See also Solar Radiation Management (SRM).
+CFC See Halocarbons.
+Chaotic A dynamical system such as the climate system, governed by
+nonlinear deterministic equations (see Nonlinearity), may exhibit erratic or
+chaotic behaviour in the sense that very small changes in the initial state
+of the system in time lead to large and apparently unpredictable changes
+in its temporal evolution. Such chaotic behaviour limits the predictability
+of the state of a nonlinear dynamical system at specific future times,
+although changes in its statistics may still be predictable given changes in
+the system parameters or boundary conditions.
+Charcoal Material resulting from charring of biomass, usually retaining
+some of the microscopic texture typical of plant tissues; chemically it
+consists mainly of carbon with a disturbed graphitic structure, with lesser
+amounts of oxygen and hydrogen.
+Chronology Arrangement of events according to dates or times of
+occurrence.
+Clathrate (methane) A partly frozen slushy mix of methane gas and
+ice, usually found in sediments.
+Clausius–Clapeyron equation/relationship The thermodynamic
+relationship between small changes in temperature and vapour pressure
+in an equilibrium system with condensed phases present. For trace gases
+such as water vapour, this relation gives the increase in equilibrium (or
+saturation) water vapour pressure per unit change in air temperature.
+Climate Climate in a narrow sense is usually defined as the average
+weather, or more rigorously, as the statistical description in terms of the
+mean and variability of relevant quantities over a period of time ranging
+from months to thousands or millions of years. The classical period for
+averaging these variables is 30 years, as defined by the World Meteorological
+Organization. The relevant quantities are most often surface variables
+such as temperature, precipitation and wind. Climate in a wider sense is
+the state, including a statistical description, of the climate system.
+Climate–carbon cycle feedback A climate feedback involving
+changes in the properties of land and ocean carbon cycle in response to climate
+change. In the ocean, changes in oceanic temperature and circulation
+could affect the atmosphere–ocean CO2 flux; on the continents, climate
+change could affect plant photosynthesis and soil microbial respiration
+and hence the flux of CO2 between the atmosphere and the land biosphere.
+Climate change Climate change refers to a change in the state of the
+climate that can be identified (e.g., by using statistical tests) by changes
+in the mean and/or the variability of its properties, and that persists for an
+extended period, typically decades or longer. Climate change may be due
+to natural internal processes or external forcings such as modulations of
+the solar cycles, volcanic eruptions and persistent anthropogenic changes
+in the composition of the atmosphere or in land use. Note that the Framework
+Convention on Climate Change (UNFCCC), in its Article 1, defines
+climate change as: ‘a change of climate which is attributed directly or indirectly
+to human activity that alters the composition of the global atmosphere
+and which is in addition to natural climate variability observed over
+comparable time periods’. The UNFCCC thus makes a distinction between
+climate change attributable to human activities altering the atmospheric
+composition, and climate variability attributable to natural causes. See also
+Climate change commitment, Detection and Attribution.
+Climate change commitment Due to the thermal inertia of the
+ocean and slow processes in the cryosphere and land surfaces, the climate
+would continue to change even if the atmospheric composition were held
+fixed at today’s values. Past change in atmospheric composition leads to
+a committed climate change, which continues for as long as a radiative
+imbalance persists and until all components of the climate system have
+adjusted to a new state. The further change in temperature after the composition
+of the atmosphere is held constant is referred to as the constant
+composition temperature commitment or simply committed warming or
+warming commitment. Climate change commitment includes other future
+changes, for example, in the hydrological cycle, in extreme weather events,
+in extreme climate events, and in sea level change. The constant emission
+commitment is the committed climate change that would result from keeping
+anthropogenic emissions constant and the zero emission commitment
+is the climate change commitment when emissions are set to zero. See also
+Climate change.
+Climate feedback An interaction in which a perturbation in one
+climate quantity causes a change in a second, and the change in the
+second quantity ultimately leads to an additional change in the first. A
+negative feedback is one in which the initial perturbation is weakened
+by the changes it causes; a positive feedback is one in which the initial
+perturbation is enhanced. In this Assessment Report, a somewhat narrower
+definition is often used in which the climate quantity that is perturbed is
+the global mean surface temperature, which in turn causes changes in the
+global radiation budget. In either case, the initial perturbation can either
+be externally forced or arise as part of internal variability. See also Climate
+Feedback Parameter.
+Climate Feedback Parameter A way to quantify the radiative
+response of the climate system to a global mean surface temperature
+change induced by a radiative forcing. It varies as the inverse of the effective
+climate sensitivity. Formally, the Climate Feedback Parameter (a; units:
+W m–2 °C–1) is defined as: a = (ΔQ – ΔF)/ΔT, where Q is the global mean
+radiative forcing, T is the global mean air surface temperature, F is the
+heat flux into the ocean and Δ represents a change with respect to an
+unperturbed climate.
+Climate forecast See Climate prediction.
+Climate index A time series constructed from climate variables that
+provides an aggregate summary of the state of the climate system. For
+example, the difference between sea level pressure in Iceland and the
+Azores provides a simple yet useful historical NAO index. Because of their
+optimal properties, climate indices are often defined using principal components—
+linear combinations of climate variables at different locations
+that have maximum variance subject to certain normalisation constraints
+(e.g., the NAM and SAM indices which are principal components of Northern
+Hemisphere and Southern Hemisphere gridded pressure anomalies,
+respectively). See Box 2.5 for a summary of definitions for established
+observational indices. See also Climate pattern.
+Climate model (spectrum or hierarchy) A numerical representation
+of the climate system based on the physical, chemical and biological
+properties of its components, their interactions and feedback processes,
+and accounting for some of its known properties. The climate system can
+be represented by models of varying complexity, that is, for any one component
+or combination of components a spectrum or hierarchy of models
+can be identified, differing in such aspects as the number of spatial dimensions,
+the extent to which physical, chemical or biological processes are
+explicitly represented or the level at which empirical parametrizations
+are involved. Coupled Atmosphere–Ocean General Circulation Models
+(AOGCMs) provide a representation of the climate system that is near or
+at the most comprehensive end of the spectrum currently available. There
+is an evolution towards more complex models with interactive chemistry
+and biology. Climate models are applied as a research tool to study and
+simulate the climate, and for operational purposes, including monthly, seasonal
+and interannual climate predictions. See also Earth System Model,
+Earth-System Model of Intermediate Complexity, Energy Balance Model,
+Process-based Model, Regional Climate Model and Semi-empirical model.
+
+
+Climate pattern A set of spatially varying coefficients obtained by
+“projection” (regression) of climate variables onto a climate index time
+series. When the climate index is a principal component, the climate pattern
+is an eigenvector of the covariance matrix, referred to as an Empirical
+Orthogonal Function (EOF) in climate science.
+Climate prediction A climate prediction or climate forecast is the
+result of an attempt to produce (starting from a particular state of the
+climate system) an estimate of the actual evolution of the climate in
+the future, for example, at seasonal, interannual or decadal time scales.
+Because the future evolution of the climate system may be highly sensitive
+to initial conditions, such predictions are usually probabilistic in nature. See
+also Climate projection, Climate scenario, Model initialization and Predictability.
+Climate projection A climate projection is the simulated response of
+the climate system to a scenario of future emission or concentration of
+greenhouse gases and aerosols, generally derived using climate models.
+Climate projections are distinguished from climate predictions by their
+dependence on the emission/concentration/radiative forcing scenario
+used, which is in turn based on assumptions concerning, for example,
+future socioeconomic and technological developments that may or may
+not be realized. See also Climate scenario.
+Climate regime A state of the climate system that occurs more frequently
+than nearby states due to either more persistence or more frequent
+recurrence. In other words, a cluster in climate state space associated with
+a local maximum in the probability density function.
+Climate response See Climate sensitivity.
+Climate scenario A plausible and often simplified representation of
+the future climate, based on an internally consistent set of climatological
+relationships that has been constructed for explicit use in investigating
+the potential consequences of anthropogenic climate change, often serving
+as input to impact models. Climate projections often serve as the raw
+material for constructing climate scenarios, but climate scenarios usually
+require additional information such as the observed current climate. A climate
+change scenario is the difference between a climate scenario and the
+current climate. See also Emission scenario, scenario.
+Climate sensitivity In IPCC reports, equilibrium climate sensitivity
+(units: °C) refers to the equilibrium (steady state) change in the annual
+global mean surface temperature following a doubling of the atmospheric
+equivalent carbon dioxide concentration. Owing to computational constraints,
+the equilibrium climate sensitivity in a climate model is sometimes
+estimated by running an atmospheric general circulation model coupled
+to a mixed-layer ocean model, because equilibrium climate sensitivity is
+largely determined by atmospheric processes. Efficient models can be run
+to equilibrium with a dynamic ocean. The climate sensitivity parameter
+(units: °C (W m–2)–1) refers to the equilibrium change in the annual global
+mean surface temperature following a unit change in radiative forcing.
+The effective climate sensitivity (units: °C) is an estimate of the global
+mean surface temperature response to doubled carbon dioxide concentration
+that is evaluated from model output or observations for evolving
+non-equilibrium conditions. It is a measure of the strengths of the
+climate feedbacks at a particular time and may vary with forcing history
+and climate state, and therefore may differ from equilibrium climate
+sensitivity.
+The transient climate response (units: °C) is the change in the global
+mean surface temperature, averaged over a 20-year period, centred at
+the time of atmospheric carbon dioxide doubling, in a climate model
+simulation in which CO2 increases at 1% yr–1. It is a measure of the
+strength and rapidity of the surface temperature response to greenhouse
+gas forcing.
+Climate sensitivity parameter See climate sensitivity.
+Climate system The climate system is the highly complex system
+consisting of five major components: the atmosphere, the hydrosphere,
+the cryosphere, the lithosphere and the biosphere, and the interactions
+between them. The climate system evolves in time under the influence of
+its own internal dynamics and because of external forcings such as volcanic
+eruptions, solar variations and anthropogenic forcings such as the
+changing composition of the atmosphere and land use change.
+Climate variability Climate variability refers to variations in the mean
+state and other statistics (such as standard deviations, the occurrence of
+extremes, etc.) of the climate on all spatial and temporal scales beyond
+that of individual weather events. Variability may be due to natural internal
+processes within the climate system (internal variability), or to variations
+in natural or anthropogenic external forcing (external variability). See also
+Climate change.
+Cloud condensation nuclei (CCN) The subset of aerosol particles
+that serve as an initial site for the condensation of liquid water, which can
+lead to the formation of cloud droplets, under typical cloud formation conditions.
+The main factor that determines which aerosol particles are CCN at
+a given supersaturation is their size.
+Cloud feedback A climate feedback involving changes in any of the
+properties of clouds as a response to a change in the local or global mean
+surface temperature. Understanding cloud feedbacks and determining
+their magnitude and sign require an understanding of how a change in climate
+may affect the spectrum of cloud types, the cloud fraction and height,
+the radiative properties of clouds, and finally the Earth’s radiation budget.
+At present, cloud feedbacks remain the largest source of uncertainty in
+climate sensitivity estimates. See also Cloud radiative effect.
+Cloud radiative effect The radiative effect of clouds relative to the
+identical situation without clouds. In previous IPCC reports this was called
+cloud radiative forcing, but that terminology is inconsistent with other uses
+of the forcing term and is not maintained in this report. See also Cloud
+feedback.
+CO2-equivalent See Equivalent carbon dioxide.
+Cold days/cold nights Days where maximum temperature, or nights
+where minimum temperature, falls below the 10th percentile, where the
+respective temperature distributions are generally defined with respect to
+the 1961–1990 reference period. For the corresponding indices, see Box
+.4.
+Compatible emissions Earth System Models that simulate the land
+and ocean carbon cycle can calculate CO2 emissions that are compatible
+with a given atmospheric CO2 concentration trajectory. The compatible
+emissions over a given period of time are equal to the increase of carbon
+over that same period of time in the sum of the three active reservoirs: the
+atmosphere, the land and the ocean.
+Confidence The validity of a finding based on the type, amount, quality,
+and consistency of evidence (e.g., mechanistic understanding, theory, data,
+models, expert judgment) and on the degree of agreement. Confidence is
+expressed qualitatively (Mastrandrea et al., 2010). See Figure 1.11 for the
+levels of confidence and Table 1.1 for the list of likelihood qualifiers. See
+also Uncertainty.
+Convection Vertical motion driven by buoyancy forces arising from
+static instability, usually caused by near-surface cooling or increases in
+salinity in the case of the ocean and near-surface warming or cloud-top
+radiative cooling in the case of the atmosphere. In the atmosphere convection
+gives rise to cumulus clouds and precipitation and is effective at
+both scavenging and vertically transporting chemical species. In the ocean
+convection can carry surface waters to deep within the ocean.
+
+
+Cosmogenic radioisotopes Rare radioactive isotopes that are created
+by the interaction of a high-energy cosmic ray particles with atoms
+nuclei. They are often used as indicator of solar activity which modulates
+the cosmic rays intensity or as tracers of atmospheric transport processes,
+and are also called cosmogenic radionuclides.
+Cryosphere All regions on and beneath the surface of the Earth and
+ocean where water is in solid form, including sea ice, lake ice, river ice,
+snow cover, glaciers and ice sheets, and frozen ground (which includes
+permafrost).
+Dansgaard–Oeschger events Abrupt events characterized in Greenland
+ice cores and in palaeoclimate records from the nearby North Atlantic
+by a cold glacial state, followed by a rapid transition to a warmer phase,
+and a slow cooling back to glacial conditions. Counterparts of Dansgaard–
+Oeschger events are observed in other regions as well.
+Deforestation Conversion of forest to non-forest. For a discussion of
+the term forest and related terms such as afforestation, reforestation, and
+deforestation see the IPCC Special Report on Land Use, Land-Use Change
+and Forestry (IPCC, 2000). See also the report on Definitions and Methodological
+Options to Inventory Emissions from Direct Human-induced
+Degradation of Forests and Devegetation of Other Vegetation Types (IPCC,
+).
+Deglaciation/glacial termination Transitions from full glacial conditions
+(ice age) to warm interglacials characterized by global warming
+and sea level rise due to change in continental ice volume.
+Detection and attribution Detection of change is defined as the
+process of demonstrating that climate or a system affected by climate has
+changed in some defined statistical sense, without providing a reason for
+that change. An identified change is detected in observations if its likelihood
+of occurrence by chance due to internal variability alone is determined
+to be small, for example, <10%. Attribution is defined as the process
+of evaluating the relative contributions of multiple causal factors to
+a change or event with an assignment of statistical confidence (Hegerl et
+al., 2010).
+Diatoms Silt-sized algae that live in surface waters of lakes, rivers and
+oceans and form shells of opal. Their species distribution in ocean cores is
+often related to past sea surface temperatures.
+Direct (aerosol) effect See Aerosol–radiation interaction.
+Direct Air Capture Chemical process by which a pure CO2 stream is
+produced by capturing CO2 from the ambient air.
+Diurnal temperature range The difference between the maximum
+and minimum temperature during a 24-hour period.
+Dobson Unit (DU) A unit to measure the total amount of ozone in a
+vertical column above the Earth’s surface (total column ozone). The number
+of Dobson Units is the thickness in units of 10–5 m that the ozone column
+would occupy if compressed into a layer of uniform density at a pressure
+of 1013 hPa and a temperature of 0°C. One DU corresponds to a column of
+ozone containing 2.69 × 1020 molecules per square metre. A typical value
+for the amount of ozone in a column of the Earth’s atmosphere, although
+very variable, is 300 DU.
+Downscaling Downscaling is a method that derives local- to regionalscale
+(10 to 100 km) information from larger-scale models or data analyses.
+Two main methods exist: dynamical downscaling and empirical/statistical
+downscaling. The dynamical method uses the output of regional climate
+models, global models with variable spatial resolution or high-resolution
+global models. The empirical/statistical methods develop statistical relationships
+that link the large-scale atmospheric variables with local/
+regional
+climate variables. In all cases, the quality of the driving model remains an
+important limitation on the quality of the downscaled information.
+Drought A period of abnormally dry weather long enough to cause a
+serious hydrological imbalance. Drought is a relative term; therefore any
+discussion in terms of precipitation deficit must refer to the particular
+precipitation-related activity that is under discussion. For example, shortage
+of precipitation during the growing season impinges on crop production
+or ecosystem function in general (due to soil moisture drought, also
+termed agricultural drought), and during the runoff and percolation season
+primarily affects water supplies (hydrological drought). Storage changes
+in soil moisture and groundwater are also affected by increases in actual
+evapotranspiration in addition to reductions in precipitation. A period with
+an abnormal precipitation deficit is defined as a meteorological drought. A
+megadrought is a very lengthy and pervasive drought, lasting much longer
+than normal, usually a decade or more. For the corresponding indices, see
+Box 2.4.
+Dynamical system A process or set of processes whose evolution in
+time is governed by a set of deterministic physical laws. The climate system
+is a dynamical system. See also Abrupt climate change, Chaotic, Nonlinearity
+and Predictability.
+Earth System Model (ESM) A coupled atmosphere–ocean general
+circulation model in which a representation of the carbon cycle is included,
+allowing for interactive calculation of atmospheric CO2 or compatible
+emissions. Additional components (e.g., atmospheric chemistry, ice sheets,
+dynamic vegetation, nitrogen cycle, but also urban or crop models) may be
+included. See also Climate model.
+Earth System Model of Intermediate Complexity (EMIC) A climate
+model attempting to include all the most important earth system
+processes as in ESMs but at a lower resolution or in a simpler, more idealized
+fashion.
+Earth System sensitivity The equilibrium temperature response of
+the coupled atmosphere–ocean–cryosphere–vegetation–carbon cycle
+system to a doubling of the atmospheric CO2 concentration is referred to
+as Earth System sensitivity. Because it allows slow components (e.g., ice
+sheets, vegetation) of the climate system to adjust to the external perturbation,
+it may differ substantially from the climate sensitivity derived from
+coupled atmosphere–ocean models.
+Ecosystem An ecosystem is a functional unit consisting of living
+organisms, their non-living environment, and the interactions within and
+between them. The components included in a given ecosystem and its spatial
+boundaries depend on the purpose for which the ecosystem is defined:
+in some cases they are relatively sharp, while in others they are diffuse.
+Ecosystem boundaries can change over time. Ecosystems are nested within
+other ecosystems, and their scale can range from very small to the entire
+biosphere. In the current era, most ecosystems either contain people as
+key organisms, or are influenced by the effects of human activities in their
+environment.
+Effective climate sensitivity See Climate sensitivity.
+Effective radiative forcing See Radiative forcing.
+Efficacy A measure of how effective a radiative forcing from a given
+anthropogenic or natural mechanism is at changing the equilibrium global
+mean surface temperature compared to an equivalent radiative forcing
+from carbon dioxide. A carbon dioxide increase by definition has an
+efficacy
+of 1.0. Variations in climate efficacy may result from rapid adjustments
+to the applied forcing, which differ with different forcings.
+Ekman pumping Frictional stress at the surface between two fluids
+(atmosphere and ocean) or between a fluid and the adjacent solid surface
+(the Earth’s surface) forces a circulation. When the resulting mass
+
+
+transport
+is converging, mass conservation requires a vertical flow away
+from the surface. This is called Ekman pumping. The opposite effect, in case
+of divergence, is called Ekman suction. The effect is important in both the
+atmosphere and the ocean.
+Ekman transport The total transport resulting from a balance between
+the Coriolis force and the frictional stress due to the action of the wind on
+the ocean surface. See also Ekman pumping.
+Electromagnetic spectrum Wavelength or energy range of all electromagnetic
+radiation. In terms of solar radiation, the spectral irradiance is
+the power arriving at the Earth per unit area, per unit wavelength.
+El Niño-Southern Oscillation (ENSO) The term El Niño was initially
+used to describe a warm-water current that periodically flows along the
+coast of Ecuador and Peru, disrupting the local fishery. It has since become
+identified with a basin-wide warming of the tropical Pacific Ocean east of
+the dateline. This oceanic event is associated with a fluctuation of a globalscale
+tropical and subtropical surface pressure pattern called the Southern
+Oscillation. This coupled atmosphere–ocean phenomenon, with preferred
+time scales of two to about seven years, is known as the El Niño-Southern
+Oscillation (ENSO). It is often measured by the surface pressure anomaly
+difference between Tahiti and Darwin or the sea surface temperatures in
+the central and eastern equatorial Pacific. During an ENSO event, the prevailing
+trade winds weaken, reducing upwelling and altering ocean currents
+such that the sea surface temperatures warm, further weakening the
+trade winds. This event has a great impact on the wind, sea surface temperature
+and precipitation patterns in the tropical Pacific. It has climatic
+effects throughout the Pacific region and in many other parts of the world,
+through global teleconnections. The cold phase of ENSO is called La Niña.
+For the corresponding indices, see Box 2.5.
+Emission scenario A plausible representation of the future development
+of emissions of substances that are potentially radiatively active
+(e.g., greenhouse gases, aerosols) based on a coherent and internally consistent
+set of assumptions about driving forces (such as demographic and
+socioeconomic development, technological change) and their key relationships.
+Concentration scenarios, derived from emission scenarios, are used
+as input to a climate model to compute climate projections. In IPCC (1992)
+a set of emission scenarios was presented which were used as a basis
+for the climate projections in IPCC (1996). These emission scenarios are
+referred to as the IS92 scenarios. In the IPCC Special Report on Emission
+Scenarios (Nakićenović and Swart, 2000) emission scenarios, the so-called
+SRES scenarios, were published, some of which were used, among others,
+as a basis for the climate projections presented in Chapters 9 to 11 of IPCC
+(2001) and Chapters 10 and 11 of IPCC (2007). New emission scenarios
+for climate change, the four Representative Concentration Pathways, were
+developed for, but independently of, the present IPCC assessment. See also
+Climate scenario and Scenario.
+Energy balance The difference between the total incoming and total
+outgoing energy. If this balance is positive, warming occurs; if it is negative,
+cooling occurs. Averaged over the globe and over long time periods,
+this balance must be zero. Because the climate system derives virtually all
+its energy from the Sun, zero balance implies that, globally, the absorbed
+solar radiation, that is, incoming solar radiation minus reflected solar radiation
+at the top of the atmosphere and outgoing longwave radiation emitted
+by the climate system are equal. See also Energy budget.
+Energy Balance Model (EBM) An energy balance model is a simplified
+model that analyses the energy budget of the Earth to compute
+changes in the climate. In its simplest form, there is no explicit spatial
+dimension and the model then provides an estimate of the changes in
+globally averaged temperature computed from the changes in radiation.
+This zero-dimensional energy balance model can be extended to a onedimensional
+or two-dimensional model if changes to the energy budget
+with respect to latitude, or both latitude and longitude, are explicitly considered.
+See also Climate model.
+Energy budget (of the Earth) The Earth is a physical system with
+an energy budget that includes all gains of incoming energy and all losses
+of outgoing energy. The Earth’s energy budget is determined by measuring
+how much energy comes into the Earth system from the Sun, how
+much energy is lost to space, and accounting for the remainder on Earth
+and its atmosphere. Solar radiation is the dominant source of energy into
+the Earth system. Incoming solar energy may be scattered and reflected
+by clouds and aerosols or absorbed in the atmosphere. The transmitted
+radiation is then either absorbed or reflected at the Earth’s surface. The
+average albedo of the Earth is about 0.3, which means that 30% of the
+incident solar energy is reflected into space, while 70% is absorbed by
+the Earth. Radiant solar or shortwave energy is transformed into sensible
+heat, latent energy (involving different water states), potential energy, and
+kinetic energy before being emitted as infrared radiation. With the average
+surface temperature of the Earth of about 15°C (288 K), the main outgoing
+energy flux is in the infrared part of the spectrum. See also Energy balance,
+Latent heat flux, Sensible heat flux.
+Ensemble A collection of model simulations characterizing a climate
+prediction or projection. Differences in initial conditions and model formulation
+result in different evolutions of the modelled system and may give
+information on uncertainty associated with model error and error in initial
+conditions in the case of climate forecasts and on uncertainty associated
+with model error and with internally generated climate variability in the
+case of climate projections.
+Equilibrium and transient climate experiment An equilibrium
+climate experiment is a climate model experiment in which the model is
+allowed to fully adjust to a change in radiative forcing. Such experiments
+provide information on the difference between the initial and final states
+of the model, but not on the time-dependent response. If the forcing is
+allowed to evolve gradually according to a prescribed emission scenario,
+the time-dependent response of a climate model may be analysed. Such
+an experiment is called a transient climate experiment. See also Climate
+projection.
+Equilibrium climate sensitivity See Climate sensitivity.
+Equilibrium line The spatially averaged boundary at a given moment,
+usually chosen as the seasonal mass budget minimum at the end of
+summer, between the region on a glacier where there is a net annual loss
+of ice mass (ablation area) and that where there is a net annual gain (accumulation
+area). The altitude of this boundary is referred to as equilibrium
+line altitude (ELA).
+Equivalent carbon dioxide (CO2) concentration The concentration
+of carbon dioxide that would cause the same radiative forcing as
+a given mixture of carbon dioxide and other forcing components. Those
+values may consider only greenhouse gases, or a combination of greenhouse
+gases and aerosols. Equivalent carbon dioxide concentration is a
+metric for comparing radiative forcing of a mix of different greenhouse
+gases at a particular time but does not imply equivalence of the corresponding
+climate change responses nor future forcing. There is generally
+no connection between equivalent carbon dioxide emissions and resulting
+equivalent carbon dioxide concentrations.
+Equivalent carbon dioxide (CO2) emission The amount of carbon
+dioxide emission that would cause the same integrated radiative forcing,
+over a given time horizon, as an emitted amount of a greenhouse gas or
+a mixture of greenhouse gases. The equivalent carbon dioxide emission is
+obtained by multiplying the emission of a greenhouse gas by its Global
+Warming Potential for the given time horizon. For a mix of greenhouse
+
+
+gases it is obtained by summing the equivalent carbon dioxide emissions
+of each gas. Equivalent carbon dioxide emission is a common scale for
+comparing emissions of different greenhouse gases but does not imply
+equivalence of the corresponding climate change responses. See also
+Equivalent carbon dioxide concentration.
+Evapotranspiration The combined process of evaporation from the
+Earth’s surface and transpiration from vegetation.
+Extended Concentration Pathways See Representative Concentration
+Pathways.
+External forcing External forcing refers to a forcing agent outside the
+climate system causing a change in the climate system. Volcanic eruptions,
+solar variations and anthropogenic changes in the composition of the
+atmosphere and land use change are external forcings. Orbital forcing is
+also an external forcing as the insolation changes with orbital parameters
+eccentricity, tilt and precession of the equinox.
+Extratropical cyclone A large-scale (of order 1000 km) storm in
+the middle or high latitudes having low central pressure and fronts with
+strong horizontal gradients in temperature and humidity. A major cause
+of extreme wind speeds and heavy precipitation especially in wintertime.
+Extreme climate event See Extreme weather event.
+Extreme sea level See Storm surge.
+Extreme weather event An extreme weather event is an event that
+is rare at a particular place and time of year. Definitions of rare vary, but
+an extreme weather event would normally be as rare as or rarer than the
+th or 90th percentile of a probability density function estimated from
+observations. By definition, the characteristics of what is called extreme
+weather may vary from place to place in an absolute sense. When a pattern
+of extreme weather persists for some time, such as a season, it may
+be classed as an extreme climate event, especially if it yields an average or
+total that is itself extreme (e.g., drought or heavy rainfall over a season).
+Faculae Bright patches on the Sun. The area covered by faculae is greater
+during periods of high solar activity.
+Feedback See Climate feedback.
+Fingerprint The climate response pattern in space and/or time to a specific
+forcing is commonly referred to as a fingerprint. The spatial patterns of
+sea level response to melting of glaciers or ice sheets (or other changes in
+surface loading) are also referred to as fingerprints. Fingerprints are used
+to detect the presence of this response in observations and are typically
+estimated using forced climate model simulations.
+Flux adjustment To avoid the problem of coupled Atmosphere–Ocean
+General Circulation Models (AOGCMs) drifting into some unrealistic climate
+state, adjustment terms can be applied to the atmosphere-ocean
+fluxes of heat and moisture (and sometimes the surface stresses resulting
+from the effect of the wind on the ocean surface) before these fluxes are
+imposed on the model ocean and atmosphere. Because these adjustments
+are pre-computed and therefore independent of the coupled model integration,
+they are uncorrelated with the anomalies that develop during the
+integration.
+Forest A vegetation type dominated by trees. Many definitions of the
+term forest are in use throughout the world, reflecting wide differences in
+biogeophysical conditions, social structure and economics. For a discussion
+of the term forest and related terms such as afforestation, reforestation and
+deforestation see the IPCC Report on Land Use, Land-Use Change and Forestry
+(IPCC, 2000). See also the Report on Definitions and Methodological
+Options to Inventory Emissions from Direct Human-induced Degradation of
+Forests and Devegetation of Other Vegetation Types (IPCC, 2003).
+Fossil fuel emissions Emissions of greenhouse gases (in particular
+carbon dioxide), other trace gases and aerosols resulting from the combustion
+of fuels from fossil carbon deposits such as oil, gas and coal.
+Framework Convention on Climate Change See United Nations
+Framework Convention on Climate Change (UNFCCC).
+Free atmosphere The atmospheric layer that is negligibly affected by
+friction against the Earth’s surface, and which is above the atmospheric
+boundary layer.
+Frozen ground Soil or rock in which part or all of the pore water is
+frozen. Frozen ground includes permafrost. Ground that freezes and thaws
+annually is called seasonally frozen ground.
+General circulation The large-scale motions of the atmosphere and
+the ocean as a consequence of differential heating on a rotating Earth.
+General circulation contributes to the energy balance of the system
+through transport of heat and momentum.
+General Circulation Model (GCM) See Climate model.
+Geoengineering Geoengineering refers to a broad set of methods and
+technologies that aim to deliberately alter the climate system in order to
+alleviate the impacts of climate change. Most, but not all, methods seek
+to either (1) reduce the amount of absorbed solar energy in the climate
+system (Solar Radiation Management) or (2) increase net carbon sinks
+from the atmosphere at a scale sufficiently large to alter climate (Carbon
+Dioxide Removal). Scale and intent are of central importance. Two key
+characteristics of geoengineering methods of particular concern are that
+they use or affect the climate system (e.g., atmosphere, land or ocean)
+globally or regionally and/or could have substantive unintended effects
+that cross national boundaries. Geoengineering is different from weather
+modification and ecological engineering, but the boundary can be fuzzy
+(IPCC, 2012, p. 2).
+Geoid The equipotential surface having the same geopotential at each
+latitude and longitude around the world (geodesists denoting this potential
+W0) that best approximates the mean sea level. It is the surface of
+reference for measurement of altitude. In practice, several variations of
+definitions of the geoid exist depending on the way the permanent tide
+(the zero-frequency gravitational tide due to the Sun and Moon) is considered
+in geodetic studies.
+Geostrophic winds or currents A wind or current that is in balance
+with the horizontal pressure gradient and the Coriolis force, and thus is outside
+of the influence of friction. Thus, the wind or current is directly parallel
+to isobars and its speed is proportional to the horizontal pressure gradient.
+Glacial–interglacial cycles Phase of the Earth’s history marked by
+large changes in continental ice volume and global sea level. See also Ice
+age and Interglacials.
+Glacial isostatic adjustment (GIA) The deformation of the Earth
+and its gravity field due to the response of the earth–ocean system to
+changes in ice and associated water loads. It is sometimes referred to as
+glacio-hydro isostasy. It includes vertical and horizontal deformations of
+the Earth’s surface and changes in geoid due to the redistribution of mass
+during the ice–ocean mass exchange.
+Glacier A perennial mass of land ice that originates from compressed
+snow, shows evidence of past or present flow (through internal deformation
+and/or sliding at the base) and is constrained by internal stress and
+friction at the base and sides. A glacier is maintained by accumulation of
+snow at high altitudes, balanced by melting at low altitudes and/or discharge
+into the sea. An ice mass of the same origin as glaciers, but of
+continental size, is called an ice sheet. For the purpose of simplicity in this
+Assessment Report, all ice masses other than ice sheets are referred to as
+
+
+glaciers. See also Equilibrium line and Mass balance/budget (of glaciers or
+ice sheets).
+Global dimming Global dimming refers to a widespread reduction of
+solar radiation received at the surface of the Earth from about the year
+to around 1990.
+Global mean surface temperature An estimate of the global mean
+surface air temperature. However, for changes over time, only anomalies,
+as departures from a climatology, are used, most commonly based on the
+area-weighted global average of the sea surface temperature anomaly and
+land surface air temperature anomaly.
+Global Warming Potential (GWP) An index, based on radiative
+properties of greenhouse gases, measuring the radiative forcing following
+a pulse emission of a unit mass of a given greenhouse gas in the presentday
+atmosphere integrated over a chosen time horizon, relative to that of
+carbon dioxide. The GWP represents the combined effect of the differing
+times these gases remain in the atmosphere and their relative effectiveness
+in causing radiative forcing. The Kyoto Protocol is based on GWPs
+from pulse emissions over a 100-year time frame.
+Greenhouse effect The infrared radiative effect of all infrared-absorbing
+constituents in the atmosphere. Greenhouse gases, clouds, and (to a
+small extent) aerosols absorb terrestrial radiation emitted by the Earth’s
+surface and elsewhere in the atmosphere. These substances emit infrared
+radiation in all directions, but, everything else being equal, the net
+amount emitted to space is normally less than would have been emitted
+in the absence of these absorbers because of the decline of temperature
+with altitude in the troposphere and the consequent weakening of emission.
+An increase in the concentration of greenhouse gases increases the
+magnitude of this effect; the difference is sometimes called the enhanced
+greenhouse effect. The change in a greenhouse gas concentration because
+of anthropogenic emissions contributes to an instantaneous radiative forcing.
+Surface temperature and troposphere warm in response to this forcing,
+gradually restoring the radiative balance at the top of the atmosphere.
+Greenhouse gas (GHG) Greenhouse gases are those gaseous constituents
+of the atmosphere, both natural and anthropogenic, that absorb
+and emit radiation at specific wavelengths within the spectrum of terrestrial
+radiation emitted by the Earth’s surface, the atmosphere itself, and by
+clouds. This property causes the greenhouse effect. Water vapour (H2O),
+carbon dioxide (CO2), nitrous oxide (N2O), methane (CH4) and ozone (O3)
+are the primary greenhouse gases in the Earth’s atmosphere. Moreover,
+there are a number of entirely human-made greenhouse gases in the
+atmosphere, such as the halocarbons and other chlorine- and brominecontaining
+substances, dealt with under the Montreal Protocol. Beside CO2,
+N2O and CH4, the Kyoto Protocol deals with the greenhouse gases sulphur
+hexafluoride (SF6), hydrofluorocarbons (HFCs) and perfluorocarbons
+(PFCs). For a list of well-mixed greenhouse gases, see Table 2.A.1.
+Gross Primary Production (GPP) The amount of carbon fixed by the
+autotrophs (e.g. plants and algaes).
+Grounding line The junction between a glacier or ice sheet and ice
+shelf; the place where ice starts to float. This junction normally occurs over
+a finite zone, rather than at a line.
+Gyre Basin-scale ocean horizontal circulation pattern with slow flow
+circulating around the ocean basin, closed by a strong and narrow (100 to
+km wide) boundary current on the western side. The subtropical gyres
+in each ocean are associated with high pressure in the centre of the gyres;
+the subpolar gyres are associated with low pressure.
+Hadley Circulation A direct, thermally driven overturning cell in the
+atmosphere consisting of poleward flow in the upper troposphere, subsiding
+air into the subtropical anticyclones, return flow as part of the trade
+winds near the surface, and with rising air near the equator in the so-called
+Inter-Tropical Convergence Zone.
+Halocarbons A collective term for the group of partially halogenated
+organic species, which includes the chlorofluorocarbons (CFCs), hydrochlorofluorocarbons
+(HCFCs), hydrofluorocarbons (HFCs), halons, methyl
+chloride and methyl bromide. Many of the halocarbons have large Global
+Warming Potentials. The chlorine and bromine-containing halocarbons are
+also involved in the depletion of the ozone layer.
+Halocline A layer in the oceanic water column in which salinity changes
+rapidly with depth. Generally saltier water is denser and lies below less
+salty water. In some high latitude oceans the surface waters may be colder
+than the deep waters and the halocline is responsible for maintaining
+water column stability and isolating the surface waters from the deep
+waters. See also Thermocline.
+Halosteric See Sea level change.
+HCFC See Halocarbons.
+Heat wave A period of abnormally and uncomfortably hot weather. See
+also Warm spell.
+Heterotrophic respiration The conversion of organic matter to
+carbon dioxide by organisms other than autotrophs.
+HFC See Halocarbons.
+Hindcast or retrospective forecast A forecast made for a period in
+the past using only information available before the beginning of the forecast.
+A sequence of hindcasts can be used to calibrate the forecast system
+and/or provide a measure of the average skill that the forecast system has
+exhibited in the past as a guide to the skill that might be expected in the
+future.
+Holocene The Holocene Epoch is the latter of two epochs in the Quaternary
+System, extending from 11.65 ka (thousand years before 1950) to
+the present. It is also known as Marine Isotopic Stage (MIS) 1 or current
+interglacial.
+Hydroclimate Part of the climate pertaining to the hydrology of a
+region.
+Hydrological cycle The cycle in which water evaporates from the
+oceans and the land surface, is carried over the Earth in atmospheric
+circulation as water vapour, condenses to form clouds, precipitates over
+ocean and land as rain or snow, which on land can be intercepted by trees
+and vegetation, provides runoff on the land surface, infiltrates into soils,
+recharges groundwater, discharges into streams and ultimately flows out
+into the oceans, from which it will eventually evaporate again. The various
+systems involved in the hydrological cycle are usually referred to as
+hydrological systems.
+Hydrosphere The component of the climate system comprising liquid
+surface and subterranean water, such as oceans, seas, rivers, fresh water
+lakes, underground water, etc.
+Hypsometry The distribution of land or ice surface as a function of
+altitude.
+Ice age An ice age or glacial period is characterized by a long-term
+reduction in the temperature of the Earth’s climate, resulting in growth of
+ice sheets and glaciers.
+Ice–albedo feedback A climate feedback involving changes in the
+Earth’s surface albedo. Snow and ice have an albedo much higher (up to
+~0.8) than the average planetary albedo (~0.3). With increasing temperatures,
+it is anticipated that snow and ice extent will decrease, the Earth’s
+overall albedo will decrease and more solar radiation will be absorbed,
+warming the Earth further.
+
+
+Ice core A cylinder of ice drilled out of a glacier or ice sheet.
+Ice sheet A mass of land ice of continental size that is sufficiently thick
+to cover most of the underlying bed, so that its shape is mainly determined
+by its dynamics (the flow of the ice as it deforms internally and/or slides at
+its base). An ice sheet flows outward from a high central ice plateau with
+a small average surface slope. The margins usually slope more steeply, and
+most ice is discharged through fast flowing ice streams or outlet glaciers,
+in some cases into the sea or into ice shelves floating on the sea. There are
+only two ice sheets in the modern world, one on Greenland and one on
+Antarctica. During glacial periods there were others.
+Ice shelf A floating slab of ice of considerable thickness extending from
+the coast (usually of great horizontal extent with a very gently sloping
+surface), often filling embayments in the coastline of an ice sheet. Nearly
+all ice shelves are in Antarctica, where most of the ice discharged into the
+ocean flows via ice shelves.
+Ice stream A stream of ice with strongly enhanced flow that is part of
+an ice sheet. It is often separated from surrounding ice by strongly sheared,
+crevassed margins. See also Outlet glacier.
+Incoming solar radiation See Insolation.
+Indian Ocean Dipole (IOD) Large–scale mode of interannual variability
+of sea surface temperature in the Indian Ocean. This pattern manifests
+through a zonal gradient of tropical sea surface temperature, which in one
+extreme phase in boreal autumn shows cooling off Sumatra and warming
+off Somalia in the west, combined with anomalous easterlies along the
+equator.
+Indirect aerosol effect See Aerosol-cloud interaction.
+Industrial Revolution A period of rapid industrial growth with farreaching
+social and economic consequences, beginning in Britain during
+the second half of the 18th century and spreading to Europe and later to
+other countries including the United States. The invention of the steam
+engine was an important trigger of this development. The industrial revolution
+marks the beginning of a strong increase in the use of fossil fuels and
+emission of, in particular, fossil carbon dioxide. In this report the terms preindustrial
+and industrial refer, somewhat arbitrarily, to the periods before
+and after 1750, respectively.
+Infrared radiation See Terrestrial radiation.
+Insolation The amount of solar radiation reaching the Earth by latitude
+and by season measured in W m–2. Usually insolation refers to the
+radiation arriving at the top of the atmosphere. Sometimes it is specified
+as referring to the radiation arriving at the Earth’s surface. See also Total
+Solar Irradiance.
+Interglacials or interglaciations The warm periods between ice age
+glaciations. Often defined as the periods at which sea levels were close
+to present sea level. For the Last Interglacial (LIG) this occurred between
+about 129 and 116 ka (thousand years) before present (defined as 1950)
+although the warm period started in some areas a few thousand years
+earlier. In terms of the oxygen isotope record interglaciations are defined
+as the interval between the midpoint of the preceding termination and
+the onset of the next glaciation. The present interglaciation, the Holocene,
+started at 11.65 ka before present although globally sea levels did not
+approach their present position until about 7 ka before present.
+Internal variability See Climate variability.
+Inter-Tropical Convergence Zone (ITCZ) The Inter-Tropical Convergence
+Zone is an equatorial zonal belt of low pressure, strong convection
+and heavy precipitation near the equator where the northeast trade winds
+meet the southeast trade winds. This band moves seasonally.
+Iron fertilization Deliberate introduction of iron to the upper ocean
+intended to enhance biological productivity which can sequester additional
+atmospheric carbon dioxide into the oceans.
+Irreversibility A perturbed state of a dynamical system is defined as
+irreversible on a given timescale, if the recovery timescale from this state
+due to natural processes is significantly longer than the time it takes for the
+system to reach this perturbed state. In the context of WGI, the time scale
+of interest is centennial to millennial. See also Tipping point.
+Isostatic or Isostasy Isostasy refers to the response of the earth to
+changes in surface load. It includes the deformational and gravitational
+response. This response is elastic on short time scales, as in the earth–
+ocean response to recent changes in mountain glaciation, or viscoelastic
+on longer time scales, as in the response to the last deglaciation following
+the Last Glacial Maximum. See also Glacial Isostatic Adjustment (GIA).
+Isotopes Atoms of the same chemical element that have the same the
+number of protons but differ in the number of neutrons. Some proton–
+neutron configurations are stable (stable isotopes), others are unstable
+undergoing spontaneous radioactive decay (radioisotopes). Most elements
+have more than one stable isotope. Isotopes can be used to trace transport
+processes or to study processes that change the isotopic ratio. Radioisotopes
+provide in addition time information that can be used for radiometric
+dating.
+Kyoto Protocol The Kyoto Protocol to the United Nations Framework
+Convention on Climate Change (UNFCCC) was adopted in 1997 in Kyoto,
+Japan, at the Third Session of the Conference of the Parties (COP) to the
+UNFCCC. It contains legally binding commitments, in addition to those
+included in the UNFCCC. Countries included in Annex B of the Protocol
+(most Organisation for Economic Cooperation and Development countries
+and countries with economies in transition) agreed to reduce their anthropogenic
+greenhouse gas emissions (carbon dioxide, methane, nitrous
+oxide, hydrofluorocarbons, perfluorocarbons, and sulphur hexafluoride) by
+at least 5% below 1990 levels in the commitment period 2008–2012. The
+Kyoto Protocol entered into force on 16 February 2005.
+Land surface air temperature The surface air temperature as measured
+in well-ventilated screens over land at 1.5 m above the ground.
+Land use and Land use change Land use refers to the total of
+arrangements, activities and inputs undertaken in a certain land cover type
+(a set of human actions). The term land use is also used in the sense of the
+social and economic purposes for which land is managed (e.g., grazing,
+timber extraction and conservation). Land use change refers to a change
+in the use or management of land by humans, which may lead to a change
+in land cover. Land cover and land use change may have an impact on
+the surface albedo, evapotranspiration, sources and sinks of greenhouse
+gases, or other properties of the climate system and may thus give rise to
+radiative forcing and/or other impacts on climate, locally or globally. See
+also the IPCC Report on Land Use, Land-Use Change, and Forestry (IPCC,
+).
+Land water storage Water stored on land other than in glaciers and
+ice sheets (that is water stored in rivers, lakes, wetlands, the vadose zone,
+aquifers, reservoirs, snow and permafrost). Changes in land water storage
+driven by climate and human activities contribute to sea level change.
+La Niña See El Niño-Southern Oscillation.
+Lapse rate The rate of change of an atmospheric variable, usually temperature,
+with height. The lapse rate is considered positive when the variable
+decreases with height.
+Last Glacial Maximum (LGM) The period during the last ice age when
+the glaciers and ice sheets reached their maximum extent, approximately
+
+
+ka ago. This period has been widely studied because the radiative forcings
+and boundary conditions are relatively well known.
+Last Interglacial (LIG) See Interglacials.
+Latent heat flux The turbulent flux of heat from the Earth’s surface
+to the atmosphere that is associated with evaporation or condensation of
+water vapour at the surface; a component of the surface energy budget.
+Lifetime Lifetime is a general term used for various time scales characterizing
+the rate of processes affecting the concentration of trace gases.
+The following lifetimes may be distinguished:
+Turnover time (T) (also called global atmospheric lifetime) is the
+ratio of the mass M of a reservoir (e.g., a gaseous compound in the
+atmosphere) and the total rate of removal S from the reservoir: T = M/S.
+For each removal process, separate turnover times can be defined. In
+soil carbon biology, this is referred to as Mean Residence Time.
+Adjustment time or response time (Ta) is the time scale characterizing
+the decay of an instantaneous pulse input into the reservoir. The
+term adjustment time is also used to characterize the adjustment of
+the mass of a reservoir following a step change in the source strength.
+Half-life or decay constant is used to quantify a first-order exponential
+decay process. See Response time for a different definition pertinent to
+climate variations.
+The term lifetime is sometimes used, for simplicity, as a surrogate for
+adjustment time.
+In simple cases, where the global removal of the compound is directly
+proportional to the total mass of the reservoir, the adjustment time
+equals the turnover time: T = Ta. An example is CFC-11, which is
+removed from the atmosphere only by photochemical processes in the
+stratosphere. In more complicated cases, where several reservoirs are
+involved or where the removal is not proportional to the total mass,
+the equality T = Ta no longer holds. Carbon dioxide (CO2) is an extreme
+example. Its turnover time is only about 4 years because of the rapid
+exchange between the atmosphere and the ocean and terrestrial biota.
+However, a large part of that CO2 is returned to the atmosphere within
+a few years. Thus, the adjustment time of CO2 in the atmosphere is
+actually determined by the rate of removal of carbon from the surface
+layer of the oceans into its deeper layers. Although an approximate
+value of 100 years may be given for the adjustment time of CO2 in the
+atmosphere, the actual adjustment is faster initially and slower later
+on. In the case of methane (CH4), the adjustment time is different from
+the turnover time because the removal is mainly through a chemical
+reaction with the hydroxyl radical (OH), the concentration of which
+itself depends on the CH4 concentration. Therefore, the CH4 removal
+rate S is not proportional to its total mass M.
+Likelihood The chance of a specific outcome occurring, where this
+might be estimated probabilistically. This is expressed in this report using a
+standard terminology, defined in Table 1.1. See also Confidence and Uncertainty.
+Lithosphere The upper layer of the solid Earth, both continental and
+oceanic, which comprises all crustal rocks and the cold, mainly elastic
+part of the uppermost mantle. Volcanic activity, although part of the lithosphere,
+is not considered as part of the climate system, but acts as an
+external forcing factor. See also Isostatic.
+Little Ice Age (LIA) An interval during the last millennium characterized
+by a number of extensive expansions of mountain glaciers and
+moderate retreats in between them, both in the Northern and Southern
+Hemispheres. The timing of glacial advances differs between regions and
+the LIA is, therefore, not clearly defined in time. Most definitions lie in the
+period 1400 CE and 1900 CE. Currently available reconstructions of average
+Northern Hemisphere temperature indicate that the coolest periods at
+the hemispheric scale may have occurred from 1450 to 1850 CE.
+Longwave radiation See Terrestrial radiation.
+Madden–Julian Oscillation (MJO) The largest single component of
+tropical atmospheric intraseasonal variability (periods from 30 to 90 days).
+The MJO propagates eastwards at around 5 m s–1 in the form of a largescale
+coupling between atmospheric circulation and deep convection. As it
+progresses, it is associated with large regions of both enhanced and suppressed
+rainfall, mainly over the Indian and western Pacific Oceans. Each
+MJO event lasts approximately 30 to 60 days, hence the MJO is also known
+as the 30- to 60-day wave, or the intraseasonal oscillation.
+Marine-based ice sheet An ice sheet containing a substantial region
+that rests on a bed lying below sea level and whose perimeter is in contact
+with the ocean. The best known example is the West Antarctic ice sheet.
+Mass balance/budget (of glaciers or ice sheets) The balance
+between the mass input to the ice body (accumulation) and the mass loss
+(ablation and iceberg calving) over a stated period of time, which is often
+a year or a season. Point mass balance refers to the mass balance at a
+particular location on the glacier or ice sheet. Surface mass balance is the
+difference between surface accumulation and surface ablation. The input
+and output terms for mass balance are:
+Accumulation All processes that add to the mass of a glacier. The
+main contribution to accumulation is snowfall. Accumulation also
+includes deposition of hoar, freezing rain, other types of solid precipitation,
+gain of wind-blown snow, and avalanching.
+Ablation Surface processes that reduce the mass of a glacier. The
+main contributor to ablation is melting with runoff but on some glaciers
+sublimation, loss of wind-blown snow and avalanching are also
+significant processes of ablation.
+Discharge/outflow Mass loss by iceberg calving or ice discharge
+across the grounding line of a floating ice shelf. Although often treated
+as an ablation term, in this report iceberg calving and discharge is considered
+separately from surface ablation.
+Mean sea level The surface level of the ocean at a particular point
+averaged over an extended period of time such as a month or year. Mean
+sea level is often used as a national datum to which heights on land are
+referred.
+Medieval Climate Anomaly (MCA) See Medieval Warm Period.
+Medieval Warm Period (MWP) An interval of relatively warm conditions
+and other notable climate anomalies such as more extensive
+drought in some continental regions. The timing of this interval is not
+clearly defined, with different records showing onset and termination of
+the warmth at different times, and some showing intermittent warmth.
+Most definitions lie within the period 900 to 1400 CE. Currently available
+reconstructions of average Northern Hemisphere temperature indicate that
+the warmest period at the hemispheric scale may have occurred from 950
+to 1250 CE. Currently available records and temperature reconstructions
+indicate that average temperatures during parts of the MWP were indeed
+warmer in the context of the last 2 kyr, though the warmth may not have
+been as ubiquitous across seasons and geographical regions as the 20th
+century warming. It is also called Medieval Climate Anomaly.
+Meridional Overturning Circulation (MOC) Meridional (north–
+south) overturning circulation in the ocean quantified by zonal (east–west)
+sums of mass transports in depth or density layers. In the North Atlantic,
+away from the subpolar regions, the MOC (which is in principle an observable
+quantity) is often identified with the thermohaline circulation (THC),
+
+
+which is a conceptual and incomplete interpretation. It must be borne in
+mind that the MOC is also driven by wind, and can also include shallower
+overturning cells such as occur in the upper ocean in the tropics and subtropics,
+in which warm (light) waters moving poleward are transformed to
+slightly denser waters and subducted equatorward at deeper levels.
+Metadata Information about meteorological and climatological data
+concerning how and when they were measured, their quality, known problems
+and other characteristics.
+Methane (CH4) Methane is one of the six greenhouse gases to be mitigated
+under the Kyoto Protocol and is the major component of natural gas
+and associated with all hydrocarbon fuels, animal husbandry and agriculture.
+Metric A consistent measurement of a characteristic of an object or
+activity that is otherwise difficult to quantify. Within the context of the
+evaluation of climate models, this is a quantitative measure of agreement
+between a simulated and observed quantity which can be used to assess
+the performance of individual models.
+Microwave Sounding Unit (MSU) A microwave sounder on National
+Oceanic and Atmospheric Administration (NOAA) polar orbiter satellites,
+that estimates the temperature of thick layers of the atmosphere by measuring
+the thermal emission of oxygen molecules from a complex of emission
+lines near 60 GHz. A series of nine MSUs began making this kind
+of measurement in late 1978. Beginning in mid 1998, a follow-on series
+of instruments, the Advanced Microwave Sounding Units (AMSUs), began
+operation.
+Mineralization/Remineralization The conversion of an element
+from its organic form to an inorganic form as a result of microbial decomposition.
+In nitrogen mineralization, organic nitrogen from decaying plant
+and animal residues (proteins, nucleic acids, amino sugars and urea) is
+converted to ammonia (NH3) and ammonium (NH4
++) by biological activity.
+Mitigation A human intervention to reduce the sources or enhance the
+sinks of greenhouse gases.
+Mixing ratio See Mole fraction.
+Model drift Since model climate differs to some extent from observed
+climate, climate forecasts will typically ‘drift’ from the initial observationbased
+state towards the model’s climate. This drift occurs at different time
+scales for different variables, can obscure the initial-condition forecast
+information and is usually removed a posteriori by an empirical, usually
+linear, adjustment.
+Model hierarchy See Climate model (spectrum or hierarchy).
+Model initialization A climate forecast typically proceeds by integrating
+a climate model forward in time from an initial state that is intended
+to reflect the actual state of the climate system. Available observations of
+the climate system are ‘assimilated’ into the model. Initialization is a complex
+process that is limited by available observations, observational errors
+and, depending on the procedure used, may be affected by uncertainty in
+the history of climate forcing. The initial conditions will contain errors that
+grow as the forecast progresses, thereby limiting the time for which the
+forecast will be useful. See also Climate prediction.
+Model spread The range or spread in results from climate models,
+such as those assembled for Coupled Model Intercomparison Project
+Phase 5 (CMIP5). Does not necessarily provide an exhaustive and formal
+estimate
+of the uncertainty in feedbacks, forcing or projections even when
+expressed numerically, for example, by computing a standard deviation of
+the models’ responses. In order to quantify uncertainty, information from
+observations, physical constraints and expert judgement must be combined,
+using a statistical framework.
+Mode of climate variability Underlying space–time structure with
+preferred spatial pattern and temporal variation that helps account for the
+gross features in variance and for teleconnections. A mode of variability
+is often considered to be the product of a spatial climate pattern and an
+associated climate index time series.
+Mole fraction Mole fraction, or mixing ratio, is the ratio of the number
+of moles of a constituent in a given volume to the total number of moles
+of all constituents in that volume. It is usually reported for dry air. Typical
+values for well-mixed greenhouse gases are in the order of μmol mol–1
+(parts per million: ppm), nmol mol–1 (parts per billion: ppb), and fmol mol–1
+(parts per trillion: ppt). Mole fraction differs from volume mixing ratio,
+often expressed in ppmv etc., by the corrections for non-ideality of gases.
+This correction is significant relative to measurement precision for many
+greenhouse gases (Schwartz and Warneck, 1995).
+Monsoon A monsoon is a tropical and subtropical seasonal reversal in
+both the surface winds and associated precipitation, caused by differential
+heating between a continental-scale land mass and the adjacent ocean.
+Monsoon rains occur mainly over land in summer.
+Montreal Protocol The Montreal Protocol on Substances that Deplete
+the Ozone Layer was adopted in Montreal in 1987, and subsequently
+adjusted and amended in London (1990), Copenhagen (1992), Vienna
+(1995), Montreal (1997) and Beijing (1999). It controls the consumption
+and production of chlorine- and bromine-containing chemicals that
+destroy stratospheric ozone, such as chlorofluorocarbons, methyl chloroform,
+carbon tetrachloride and many others.
+Near-surface permafrost A term frequently used in climate model
+applications to refer to permafrost at depths close to the ground surface
+(typically down to 3.5 m). In modelling studies, near-surface permafrost
+is usually diagnosed from 20 or 30 year climate averages, which is different
+from the conventional definition of permafrost. Disappearance of
+near-surface permafrost in a location does not preclude the longer-term
+persistence of permafrost at greater depth. See also Active layer, Frozen
+ground and Thermokarst.
+Near-term climate forcers (NTCF) Near-term climate forcers (NTCF)
+refer to those compounds whose impact on climate occurs primarily within
+the first decade after their emission. This set of compounds is primarily
+composed of those with short lifetimes in the atmosphere compared to
+well-mixed greenhouse gases, and has been sometimes referred to as
+short lived climate forcers or short-lived climate pollutants. However, the
+common property that is of greatest interest to a climate assessment is
+the timescale over which their impact on climate is felt. This set of compounds
+includes methane, which is also a well-mixed greenhouse gas, as
+well as ozone and aerosols, or their precursors, and some halogenated
+species that are not well-mixed greenhouse gases. These compounds do
+not accumulate in the atmosphere at decadal to centennial timescales,
+and so their effect on climate is predominantly in the near term following
+their emission.
+Nitrogen deposition Nitrogen deposition is defined as the nitrogen
+transferred from the atmosphere to the Earth’s surface by the processes of
+wet deposition and dry deposition.
+Nitrous oxide (N2O) One of the six greenhouse gases to be mitigated
+under the Kyoto Protocol. The main anthropogenic source of nitrous
+oxide is agriculture (soil and animal manure management), but important
+contributions
+also come from sewage treatment, combustion of fossil fuel,
+and chemical industrial processes. Nitrous oxide is also produced naturally
+from a wide variety of biological sources in soil and water, particularly
+microbial action in wet tropical forests.
+
+
+Nonlinearity A process is called nonlinear when there is no simple proportional
+relation between cause and effect. The climate system contains
+many such nonlinear processes, resulting in a system with potentially very
+complex behaviour. Such complexity may lead to abrupt climate change.
+See also Chaotic and Predictability.
+North Atlantic Oscillation (NAO) The North Atlantic Oscillation consists
+of opposing variations of surface pressure near Iceland and near the
+Azores. It therefore corresponds to fluctuations in the strength of the main
+westerly winds across the Atlantic into Europe, and thus to fluctuations in
+the embedded extratropical cyclones with their associated frontal systems.
+See NAO Index, Box 2.5.
+Northern Annular Mode (NAM) A winter fluctuation in the amplitude
+of a pattern characterized by low surface pressure in the Arctic and
+strong mid-latitude westerlies. The NAM has links with the northern polar
+vortex into the stratosphere. Its pattern has a bias to the North Atlantic and
+its index has a large correlation with the North Atlantic Oscillation index.
+See NAM Index, Box 2.5.
+Ocean acidification Ocean acidification refers to a reduction in the pH
+of the ocean over an extended period, typically decades or longer, which
+is caused primarily by uptake of carbon dioxide from the atmosphere, but
+can also be caused by other chemical additions or subtractions from the
+ocean. Anthropogenic ocean acidification refers to the component of pH
+reduction that is caused by human activity (IPCC, 2011, p. 37).
+Ocean heat uptake efficiency This is a measure (W m–2 °C–1) of
+the rate at which heat storage by the global ocean increases as global
+mean surface temperature rises. It is a useful parameter for climate change
+experiments in which the radiative forcing is changing monotonically,
+when it can be compared with the Climate Feedback Parameter to gauge
+the relative importance of climate response and ocean heat uptake in
+determining the rate of climate change. It can be estimated from such an
+experiment as the ratio of the rate of increase of ocean heat content to the
+global mean surface air temperature change.
+Organic aerosol Component of the aerosol that consists of organic
+compounds, mainly carbon, hydrogen, oxygen and lesser amounts of other
+elements. See also Carbonaceous aerosol.
+Outgoing longwave radiation Net outgoing radiation in the infrared
+part of the spectrum at the top of the atmosphere. See also Terrestrial
+radiation.
+Outlet glacier A glacier, usually between rock walls, that is part of, and
+drains an ice sheet. See also Ice stream.
+Ozone Ozone, the triatomic form of oxygen (O3), is a gaseous atmospheric
+constituent. In the troposphere, it is created both naturally and by photochemical
+reactions involving gases resulting from human activities (smog).
+Tropospheric ozone acts as a greenhouse gas. In the stratosphere, it is created
+by the interaction between solar ultraviolet radiation and molecular
+oxygen (O2). Stratospheric ozone plays a dominant role in the stratospheric
+radiative balance. Its concentration is highest in the ozone layer.
+Ozone hole See Ozone layer.
+Ozone layer The stratosphere contains a layer in which the concentration
+of ozone is greatest, the so-called ozone layer. The layer extends from
+about 12 to 40 km above the Earth’s surface. The ozone concentration
+reaches a maximum between about 20 and 25 km. This layer has been
+depleted by human emissions of chlorine and bromine compounds. Every
+year, during the Southern Hemisphere spring, a very strong depletion of
+the ozone layer takes place over the Antarctic, caused by anthropogenic
+chlorine and bromine compounds in combination with the specific meteorological
+conditions of that region. This phenomenon is called the Ozone
+hole. See also Montreal Protocol.
+Pacific Decadal Oscillation (PDO) The pattern and time series of
+the first empirical orthogonal function of sea surface temperature over the
+North Pacific north of 20°N. The PDO broadened to cover the whole Pacific
+Basin is known as the Inter-decadal Pacific Oscillation. The PDO and IPO
+exhibit similar temporal evolution. See also Pacific Decadal Variability.
+Pacific decadal variability Coupled decadal-to-inter-decadal variability
+of the atmospheric circulation and underlying ocean in the Pacific
+Basin. It is most prominent in the North Pacific, where fluctuations in the
+strength of the winter Aleutian Low pressure system co-vary with North
+Pacific sea surface temperatures, and are linked to decadal variations in
+atmospheric circulation, sea surface temperatures and ocean circulation
+throughout the whole Pacific Basin. Such fluctuations have the effect of
+modulating the El Niño-Southern Oscillation cycle. Key measures of Pacific
+decadal variability are the North Pacific Index (NPI), the Pacific Decadal
+Oscillation (PDO) index and the Inter-decadal Pacific Oscillation (IPO)
+index, all defined in Box 2.5.
+Pacific–North American (PNA) pattern An atmospheric large-scale
+wave pattern featuring a sequence of tropospheric high and low pressure
+anomalies stretching from the subtropical west Pacific to the east coast of
+North America. See PNA pattern index, Box 2.5.
+Paleoclimate Climate during periods prior to the development of measuring
+instruments, including historic and geologic time, for which only
+proxy climate records are available.
+Parameterization In climate models, this term refers to the technique
+of representing processes that cannot be explicitly resolved at the spatial
+or temporal resolution of the model (sub-grid scale processes) by relationships
+between model-resolved larger-scale variables and the area- or timeaveraged
+effect of such subgrid scale processes.
+Percentiles The set of partition values which divides the total population
+of a distribution into 100 equal parts, the 50th percentile corresponding
+to the median of the population.
+Permafrost Ground (soil or rock and included ice and organic material)
+that remains at or below 0°C for at least two consecutive years. See also
+Near-surface permafrost.
+pH pH is a dimensionless measure of the acidity of water (or any solution)
+given by its concentration of hydrogen ions (H+). pH is measured on
+a logarithmic scale where pH = –log10(H+). Thus, a pH decrease of 1 unit
+corresponds to a 10-fold increase in the concentration of H+, or acidity.
+Photosynthesis The process by which plants take carbon dioxide from
+the air (or bicarbonate in water) to build carbohydrates, releasing oxygen
+in the process. There are several pathways of photosynthesis with different
+responses to atmospheric carbon dioxide concentrations. See also Carbon
+dioxide fertilization.
+Plankton Microorganisms living in the upper layers of aquatic systems.
+A distinction is made between phytoplankton, which depend on photosynthesis
+for their energy supply, and zooplankton, which feed on phytoplankton.
+Pleistocene The Pleistocene Epoch is the earlier of two epochs in the
+Quaternary System, extending from 2.59 Ma to the beginning of the Holocene
+at 11.65 ka.
+Pliocene The Plionece Epoch is the last epoch of the Neogene System
+and extends from 5.33 Ma to the beginning of the Pleistocene at 2.59 Ma.
+Pollen analysis A technique of both relative dating and environmental
+reconstruction, consisting of the identification and counting of pollen types
+preserved in peat, lake sediments and other deposits. See also Proxy.
+
+
+Precipitable water The total amount of atmospheric water vapour in
+a vertical column of unit cross-sectional area. It is commonly expressed in
+terms of the height of the water if completely condensed and collected in
+a vessel of the same unit cross section.
+Precursors Atmospheric compounds that are not greenhouse gases or
+aerosols, but that have an effect on greenhouse gas or aerosol concentrations
+by taking part in physical or chemical processes regulating their
+production or destruction rates.
+Predictability The extent to which future states of a system may be
+predicted based on knowledge of current and past states of the system.
+Because knowledge of the climate system’s past and current states is generally
+imperfect, as are the models that utilize this knowledge to produce a
+climate prediction, and because the climate system is inherently nonlinear
+and chaotic, predictability of the climate system is inherently limited. Even
+with arbitrarily accurate models and observations, there may still be limits
+to the predictability of such a nonlinear system (AMS, 2000).
+Prediction quality/skill Measures of the success of a prediction
+against observationally based information. No single measure can summarize
+all aspects of forecast quality and a suite of metrics is considered.
+Metrics will differ for forecasts given in deterministic and probabilistic
+form. See also Climate prediction.
+Pre-industrial See Industrial Revolution.
+Probability Density Function (PDF) A probability density function
+is a function that indicates the relative chances of occurrence of different
+outcomes of a variable. The function integrates to unity over the domain
+for which it is defined and has the property that the integral over a subdomain
+equals the probability that the outcome of the variable lies within
+that sub-domain. For example, the probability that a temperature anomaly
+defined in a particular way is greater than zero is obtained from its PDF
+by integrating the PDF over all possible temperature anomalies greater
+than zero. Probability density functions that describe two or more variables
+simultaneously are similarly defined.
+Process-based Model Theoretical concepts and computational methods
+that represent and simulate the behaviour of real-world systems
+derived from a set of functional components and their interactions with
+each other and the system environment, through physical and mechanistic
+processes occurring over time. See also Climate model.
+Projection A projection is a potential future evolution of a quantity or
+set of quantities, often computed with the aid of a model. Unlike predictions,
+projections are conditional on assumptions concerning, for example,
+future socioeconomic and technological developments that may or may
+not be realized. See also Climate prediction and Climate projection.
+Proxy A proxy climate indicator is a record that is interpreted, using
+physical and biophysical principles, to represent some combination of
+climate-related variations back in time. Climate-related data derived in
+this way are referred to as proxy data. Examples of proxies include pollen
+analysis, tree ring records, speleothems, characteristics of corals and various
+data derived from marine sediments and ice cores. Proxy-data can be
+calibrated to provide quantitative climate information.
+Quasi-Biennal Oscillation (QBO) A near-periodic oscillation of the
+equatorial zonal wind between easterlies and westerlies in the tropical
+stratosphere with a mean period of around 28 months. The alternating
+wind maxima descend from the base of the mesosphere down to the tropopause,
+and are driven by wave energy that propagates up from the troposphere.
+Quaternary The Quaternary System is the latter of three systems that
+make up the Cenozoic Era (65 Ma to present), extending from 2.59 Ma to
+the present, and includes the Pleistocene and Holocene epochs.
+Radiative effect The impact on a radiation flux or heating rate (most
+commonly, on the downward flux at the top of atmosphere) caused by
+the interaction of a particular constituent with either the infrared or solar
+radiation fields through absorption, scattering and emission, relative to
+an otherwise identical atmosphere free of that constituent. This quantifies
+the impact of the constituent on the climate system. Examples include
+the aerosol–radiation interactions, cloud radiative effect, and greenhouse
+effect. In this report, the portion of any top-of-atmosphere radiative effect
+that is due to anthropogenic or other external influences (e.g., volcanic
+eruptions or changes in the sun) is termed the instantaneous radiative forcing.
+Radiative forcing Radiative forcing is the change in the net, downward
+minus upward, radiative flux (expressed in W m–2) at the tropopause
+or top of atmosphere due to a change in an external driver of climate
+change, such as, for example, a change in the concentration of carbon dioxide
+or the output of the Sun. Sometimes internal drivers are still treated as
+forcings even though they result from the alteration in climate, for example
+aerosol or greenhouse gas changes in paleoclimates. The traditional radiative
+forcing is computed with all tropospheric properties held fixed at their
+unperturbed values, and after allowing for stratospheric temperatures, if
+perturbed, to readjust to radiative-dynamical equilibrium. Radiative forcing
+is called instantaneous if no change in stratospheric temperature is
+accounted for. The radiative forcing once rapid adjustments are accounted
+for is termed the effective radiative forcing. For the purposes of this report,
+radiative forcing is further defined as the change relative to the year 1750
+and, unless otherwise noted, refers to a global and annual average value.
+Radiative forcing is not to be confused with cloud radiative forcing, which
+describes an unrelated measure of the impact of clouds on the radiative
+flux at the top of the atmosphere.
+Rapid adjustment The response to an agent perturbing the climate
+system that is driven directly by the agent, independently of any change
+in the global mean surface temperature. For example, carbon dioxide and
+aerosols, by altering internal heating and cooling rates within the atmosphere,
+can each cause changes to cloud cover and other variables thereby
+producing a radiative effect even in the absence of any surface warming or
+cooling. Adjustments are rapid in the sense that they begin to occur right
+away, before climate feedbacks which are driven by warming (although
+some adjustments may still take significant time to proceed to completion,
+for example those involving vegetation or ice sheets). It is also called the
+rapid response or fast adjustment. For further explanation on the concept,
+see Sections 7.1 and 8.1.
+Rapid climate change See Abrupt climate change.
+Rapid dynamical change (of glaciers or ice sheets) Changes in
+glacier or ice sheet mass controlled by changes in flow speed and discharge
+rather than by accumulation or ablation. This can result in a rate
+of mass change larger than that due to any imbalance between accumulation
+and ablation. Rapid dynamical change may be initiated by a climatic
+trigger,
+such as incursion of warm ocean water beneath an ice shelf, or
+thinning of a grounded tidewater terminus, which may lead to reactions
+within the glacier system, that may result in rapid ice loss. See also Mass
+balance/budget (of glaciers or ice sheets).
+Reanalysis Reanalyses are estimates of historical atmospheric temperature
+and wind or oceanographic temperature and current, and other
+quantities, created by processing past meteorological or oceanographic
+data using fixed state-of-the-art weather forecasting or ocean circulation
+models with data assimilation techniques. Using fixed data assimilation
+avoids effects from the changing analysis system that occur in operational
+analyses. Although continuity is improved, global reanalyses still suffer
+from changing coverage and biases in the observing systems.
+
+
+Rebound effect When CO2 is removed from the atmosphere, the CO2
+concentration gradient between atmospheric and land/ocean carbon reservoirs
+is reduced. This leads to a reduction or reversal in subsequent inherent
+rate of removal of CO2 from the atmosphere by natural carbon cycle
+processes on land and ocean.
+Reconstruction (of climate variable) Approach to reconstructing
+the past temporal and spatial characteristics of a climate variable from
+predictors. The predictors can be instrumental data if the reconstruction is
+used to infill missing data or proxy data if it is used to develop paleoclimate
+reconstructions. Various techniques have been developed for this purpose:
+linear multivariate regression based methods and nonlinear Bayesian and
+analog methods.
+Reforestation Planting of forests on lands that have previously
+contained forests but that have been converted to some other use. For
+a discussion of the term forest and related terms such as afforestation,
+reforestation and deforestation, see the IPCC Report on Land Use, Land-
+Use Change and Forestry (IPCC, 2000). See also the Report on Definitions
+and Methodological Options to Inventory Emissions from Direct Humaninduced
+Degradation of Forests and Devegetation of Other Vegetation
+Types (IPCC, 2003).
+Region A region is a territory characterized by specific geographical
+and climatological features. The climate of a region is affected by regional
+and local scale features like topography, land use characteristics and lakes,
+as well as remote influences from other regions. See also Teleconnection.
+Regional Climate Model (RCM) A climate model at higher resolution
+over a limited area. Such models are used in downscaling global climate
+results over specific regional domains.
+Relative humidity The relative humidity specifies the ratio of actual
+water vapour pressure to that at saturation with respect to liquid water or
+ice at the same temperature. See also Specific humidity.
+Relative sea level Sea level measured by a tide gauge with respect to
+the land upon which it is situated. See also Mean sea level and Sea level
+change.
+Representative Concentration Pathways (RCPs) Scenarios that
+include time series of emissions and concentrations of the full suite of
+greenhouse gases and aerosols and chemically active gases, as well as land
+use/land cover (Moss et al., 2008). The word representative signifies that
+each RCP provides only one of many possible scenarios that would lead to
+the specific radiative forcing characteristics. The term pathway emphasizes
+that not only the long-term concentration levels are of interest, but also
+the trajectory taken over time to reach that outcome. (Moss et al., 2010).
+RCPs usually refer to the portion of the concentration pathway extending
+up to 2100, for which Integrated Assessment Models produced
+corresponding emission scenarios. Extended Concentration Pathways
+(ECPs) describe extensions of the RCPs from 2100 to 2500 that were
+calculated using simple rules generated by stakeholder consultations,
+and do not represent fully consistent scenarios.
+Four RCPs produced from Integrated Assessment Models were selected
+from the published literature and are used in the present IPCC Assessment
+as a basis for the climate predictions and projections presented
+in Chapters 11 to 14:
+RCP2.6 One pathway where radiative forcing peaks at approximately
+W m–2 before 2100 and then declines (the corresponding ECP
+assuming constant emissions after 2100)
+RCP4.5 and RCP6.0 Two intermediate stabilization pathways in
+which radiative forcing is stabilized at approximately 4.5 W m–2 and
+.0 W m–2 after 2100 (the corresponding ECPs assuming constant concentrations
+after 2150)
+RCP8.5 One high pathway for which radiative forcing reaches greater
+than 8.5 W m–2 by 2100 and continues to rise for some amount of
+time (the corresponding ECP assuming constant emissions after 2100
+and constant concentrations after 2250)
+For further description of future scenarios, see Box 1.1.
+Reservoir A component of the climate system, other than the atmosphere,
+which has the capacity to store, accumulate or release a substance
+of concern, for example, carbon, a greenhouse gas or a precursor. Oceans,
+soils and forests are examples of reservoirs of carbon. Pool is an equivalent
+term (note that the definition of pool often includes the atmosphere). The
+absolute quantity of the substance of concern held within a reservoir at a
+specified time is called the stock.
+Resolution In climate models, this term refers to the physical distance
+(metres or degrees) between each point on the grid used to compute the
+equations. Temporal resolution refers to the time step or time elapsed
+between each model computation of the equations.
+Respiration The process whereby living organisms convert organic
+matter to carbon dioxide, releasing energy and consuming molecular
+oxygen.
+Response time The response time or adjustment time is the time
+needed for the climate system or its components to re-equilibrate to a
+new state, following a forcing resulting from external processes. It is very
+different for various components of the climate system. The response time
+of the troposphere is relatively short, from days to weeks, whereas the
+stratosphere reaches equilibrium on a time scale of typically a few months.
+Due to their large heat capacity, the oceans have a much longer response
+time: typically decades, but up to centuries or millennia. The response
+time of the strongly coupled surface–troposphere system is, therefore,
+slow compared to that of the stratosphere, and mainly determined by the
+oceans. The biosphere may respond quickly (e.g., to droughts), but also
+very slowly to imposed changes. See lifetime for a different definition of
+response time pertinent to the rate of processes affecting the concentration
+of trace gases.
+Return period An estimate of the average time interval between
+occurrences of an event (e.g., flood or extreme rainfall) of (or below/above)
+a defined size or intensity. See also Return value.
+Return value The highest (or, alternatively, lowest) value of a given
+variable, on average occurring once in a given period of time (e.g., in 10
+years). See also Return period.
+River discharge See Streamflow.
+Runoff That part of precipitation that does not evaporate and is not
+transpired, but flows through the ground or over the ground surface and
+returns to bodies of water. See also Hydrological cycle.
+Scenario A plausible description of how the future may develop based
+on a coherent and internally consistent set of assumptions about key driving
+forces (e.g., rate of technological change, prices) and relationships.
+Note that scenarios are neither predictions nor forecasts, but are useful to
+provide a view of the implications of developments and actions. See also
+Climate scenario, Emission scenario, Representative Concentration Pathways
+and SRES scenarios.
+Sea ice Ice found at the sea surface that has originated from the freezing
+of seawater. Sea ice may be discontinuous pieces (ice floes) moved on
+the ocean surface by wind and currents (pack ice), or a motionless sheet
+attached to the coast (land-fast ice). Sea ice concentration is the fraction
+of the ocean covered by ice. Sea ice less than one year old is called firstyear
+ice. Perennial ice is sea ice that survives at least one summer. It may
+be subdivided into second-year ice and multi-year ice, where multiyear ice
+has survived at least two summers.
+
+
+Sea level change Sea level can change, both globally and locally due
+to (1) changes in the shape of the ocean basins, (2) a change in ocean
+volume as a result of a change in the mass of water in the ocean, and (3)
+changes in ocean volume as a result of changes in ocean water density.
+Global mean sea level change resulting from change in the mass of the
+ocean is called barystatic. The amount of barystatic sea level change due to
+the addition or removal of a mass of water is called its sea level equivalent
+(SLE). Sea level changes, both globally and locally, resulting from changes
+in water density are called steric. Density changes induced by temperature
+changes only are called thermosteric, while density changes induced
+by salinity changes are called halosteric. Barystatic and steric sea level
+changes do not include the effect of changes in the shape of ocean basins
+induced by the change in the ocean mass and its distribution. See also
+Relative Sea Level and Thermal expansion.
+Sea level equivalent (SLE) The sea level equivalent of a mass of
+water (ice, liquid or vapour) is that mass, converted to a volume using a
+density of 1000 kg m–3, and divided by the present-day ocean surface area
+of 3.625 × 1014 m2. Thus, 362.5 Gt of water mass added to the ocean will
+cause 1 mm of global mean sea level rise. See also Sea level change.
+Seasonally frozen ground See Frozen ground.
+Sea surface temperature (SST) The sea surface temperature is the
+subsurface bulk temperature in the top few metres of the ocean, measured
+by ships, buoys and drifters. From ships, measurements of water samples in
+buckets were mostly switched in the 1940s to samples from engine intake
+water. Satellite measurements of skin temperature (uppermost layer; a
+fraction of a millimetre thick) in the infrared or the top centimetre or so in
+the microwave are also used, but must be adjusted to be compatible with
+the bulk temperature.
+Semi-direct (aerosol) effect See Aerosol–radiation interaction.
+Semi-empirical model Model in which calculations are based on a
+combination of observed associations between variables and theoretical
+considerations relating variables through fundamental principles (e.g.,
+conservation of energy). For example, in sea level studies, semi-empirical
+models refer specifically to transfer functions formulated to project future
+global mean sea level change, or contributions to it, from future global
+mean surface temperature change or radiative forcing.
+Sensible heat flux The turbulent or conductive flux of heat from the
+Earth’s surface to the atmosphere that is not associated with phase changes
+of water; a component of the surface energy budget.
+Sequestration See Uptake.
+Shortwave radiation See Solar radiation.
+Significant wave height The average trough-to-crest height of the
+highest one third of the wave heights (sea and swell) occurring in a particular
+time period.
+Sink Any process, activity or mechanism that removes a greenhouse
+gas, an aerosol or a precursor of a greenhouse gas or aerosol from the
+atmosphere.
+Slab-ocean model A simplified representation in a climate model of
+the ocean as a motionless layer of water with a depth of 50 to 100 m.
+Climate models with a slab ocean can be used only for estimating the equilibrium
+response of climate to a given forcing, not the transient evolution
+of climate. See also Equilibrium and transient climate experiment.
+Snow cover extent The areal extent of snow covered ground.
+Snow water equivalent (SWE) The depth of liquid water that would
+result if a mass of snow melted completely.
+Soil moisture Water stored in the soil in liquid or frozen form.
+Soil temperature The temperature of the soil. This can be measured or
+modelled at multiple levels within the depth of the soil.
+Solar activity General term describing a variety of magnetic phenomena
+on the Sun such as sunspots, faculae (bright areas), and flares (emission
+of high-energy particles). It varies on time scales from minutes to millions
+of years. See also Solar cycle.
+Solar (‘11-year’) cycle A quasi-regular modulation of solar activity
+with varying amplitude and a period of between 8 and 14 years.
+Solar radiation Electromagnetic radiation emitted by the Sun with a
+spectrum close to the one of a black body with a temperature of 5770 K.
+The radiation peaks in visible wavelengths. When compared to the terrestrial
+radiation it is often referred to as shortwave radiation. See also
+Insolation and Total solar irradiance (TSI).
+Solar Radiation Management (SRM) Solar Radiation Management
+refers to the intentional modification of the Earth’s shortwave radiative
+budget with the aim to reduce climate change according to a given metric
+(e.g., surface temperature, precipitation, regional impacts, etc). Artificial
+injection of stratospheric aerosols and cloud brightening are two examples
+of SRM techniques. Methods to modify some fast-responding elements of
+the longwave radiative budget (such as cirrus clouds), although not strictly
+speaking SRM, can be related to SRM. SRM techniques do not fall within
+the usual definitions of mitigation and adaptation (IPCC, 2012, p. 2). See
+also Solar radiation, Carbon Dioxide Removal (CDR) and Geoengineering.
+Solubility pump Solubility pump is an important physicochemical process
+that transports dissolved inorganic carbon from the ocean’s surface
+to its interior. This process controls the inventory of carbon in the ocean.
+The solubility of gaseous carbon dioxide can alter carbon dioxide concentrations
+in the oceans and the overlying atmosphere. See also Biological
+pump.
+Source Any process, activity or mechanism that releases a greenhouse
+gas, an aerosol or a precursor of a greenhouse gas or aerosol into the
+atmosphere.
+Southern Annular Mode (SAM) The leading mode of variability of
+Southern Hemisphere geopotential height, which is associated with shifts
+in the latitude of the midlatitude jet. See SAM Index, Box 2.5.
+Southern Oscillation See El Niño-Southern Oscillation (ENSO).
+South Pacific Convergence Zone (SPCZ) A band of low-level convergence,
+cloudiness and precipitation ranging from the west Pacific warm
+pool south-eastwards towards French Polynesia, which is one of the most
+significant features of subtropical Southern Hemisphere climate. It shares
+some characteristics with the ITCZ, but is more extratropical in nature,
+especially east of the Dateline.
+Spatial and temporal scales Climate may vary on a large range of
+spatial and temporal scales. Spatial scales may range from local (less than
+000 km2), through regional (100 000 to 10 million km2) to continental
+(10 to 100 million km2). Temporal scales may range from seasonal to geological
+(up to hundreds of millions of years).
+Specific humidity The specific humidity specifies the ratio of the mass
+of water vapour to the total mass of moist air. See also Relative humidity.
+SRES scenarios SRES scenarios are emission scenarios developed by
+Nakićenović and Swart (2000) and used, among others, as a basis for some
+of the climate projections shown in Chapters 9 to 11 of IPCC (2001) and
+Chapters 10 and 11 of IPCC (2007). The following terms are relevant for a
+better understanding of the structure and use of the set of SRES scenarios:
+Scenario family Scenarios that have a similar demographic, societal,
+economic and technical change storyline. Four scenario families
+comprise the SRES scenario set: A1, A2, B1 and B2.
+
+
+Illustrative Scenario A scenario that is illustrative for each of
+the six scenario groups reflected in the Summary for Policymakers of
+Nakićenović and Swart (2000). They include four revised marker scenarios
+for the scenario groups A1B, A2, B1, B2 and two additional scenarios
+for the A1FI and A1T groups. All scenario groups are equally sound.
+Marker Scenario A scenario that was originally posted in draft form
+on the SRES website to represent a given scenario family. The choice of
+markers was based on which of the initial quantifications best reflected
+the storyline, and the features of specific models. Markers are no more
+likely than other scenarios, but are considered by the SRES writing team
+as illustrative of a particular storyline. They are included in revised form
+in Nakićenović and Swart (2000). These scenarios received the closest
+scrutiny of the entire writing team and via the SRES open process. Scenarios
+were also selected to illustrate the other two scenario groups.
+Storyline A narrative description of a scenario (or family of scenarios),
+highlighting the main scenario characteristics, relationships
+between key driving forces and the dynamics of their evolution.
+Steric See Sea level change.
+Stock See Reservoir.
+Storm surge The temporary increase, at a particular locality, in the
+height of the sea due to extreme meteorological conditions (low atmospheric
+pressure and/or strong winds). The storm surge is defined as being
+the excess above the level expected from the tidal variation alone at that
+time and place.
+Storm tracks Originally, a term referring to the tracks of individual
+cyclonic weather systems, but now often generalized to refer to the main
+regions where the tracks of extratropical disturbances occur as sequences
+of low (cyclonic) and high (anticyclonic) pressure systems.
+Stratosphere The highly stratified region of the atmosphere above the
+troposphere extending from about 10 km (ranging from 9 km at high latitudes
+to 16 km in the tropics on average) to about 50 km altitude.
+Streamflow Water flow within a river channel, for example expressed
+in m3 s–1. A synonym for river discharge.
+Subduction Ocean process in which surface waters enter the ocean
+interior from the surface mixed layer through Ekman pumping and lateral
+advection. The latter occurs when surface waters are advected to a region
+where the local surface layer is less dense and therefore must slide below
+the surface layer, usually with no change in density.
+Sunspots Dark areas on the Sun where strong magnetic fields reduce
+the convection causing a temperature reduction of about 1500 K compared
+to the surrounding regions. The number of sunspots is higher during
+periods of higher solar activity, and varies in particular with the solar cycle.
+Surface layer See Atmospheric boundary layer.
+Surface temperature See Global mean surface temperature, Land
+surface air temperature and Sea surface temperature.
+Talik A layer of year-round unfrozen ground that lies in permafrost
+areas.
+Teleconnection A statistical association between climate variables at
+widely separated, geographically-fixed spatial locations. Teleconnections
+are caused by large spatial structures such as basin-wide coupled modes
+of ocean–atmosphere variability, Rossby wave-trains, mid-latitude jets and
+storm tracks, etc. See also Teleconnection pattern.
+Teleconnection pattern A correlation map obtained by calculating
+the correlation between variables at different spatial locations and a climate
+index. It is the special case of a climate pattern obtained for standardized
+variables and a standardized climate index, that is, the variables
+and index are each centred and scaled to have zero mean and unit variance.
+One-point teleconnection maps are made by choosing a variable at
+one of the locations to be the climate index. See also Teleconnection.
+Terrestrial radiation Radiation emitted by the Earth’s surface, the
+atmosphere and the clouds. It is also known as thermal infrared or longwave
+radiation, and is to be distinguished from the near-infrared radiation
+that is part of the solar spectrum. Infrared radiation, in general, has a
+distinctive range of wavelengths (spectrum) longer than the wavelength of
+the red light in the visible part of the spectrum. The spectrum of terrestrial
+radiation is almost entirely distinct from that of shortwave or solar radiation
+because of the difference in temperature between the Sun and the
+Earth–atmosphere system. See also Outgoing longwave radiation.
+Thermal expansion In connection with sea level, this refers to the
+increase in volume (and decrease in density) that results from warming
+water. A warming of the ocean leads to an expansion of the ocean volume
+and hence an increase in sea level. See also Sea level change.
+Thermocline The layer of maximum vertical temperature gradient in
+the ocean, lying between the surface ocean and the abyssal ocean. In subtropical
+regions, its source waters are typically surface waters at higher
+latitudes that have subducted (see Subduction) and moved equatorward.
+At high latitudes, it is sometimes absent, replaced by a halocline, which is
+a layer of maximum vertical salinity gradient.
+Thermohaline circulation (THC) Large-scale circulation in the ocean
+that transforms low-density upper ocean waters to higher-density intermediate
+and deep waters and returns those waters back to the upper ocean.
+The circulation is asymmetric, with conversion to dense waters in restricted
+regions at high latitudes and the return to the surface involving slow
+upwelling and diffusive processes over much larger geographic regions.
+The THC is driven by high densities at or near the surface, caused by cold
+temperatures and/or high salinities, but despite its suggestive though
+common name, is also driven by mechanical forces such as wind and tides.
+Frequently, the name THC has been used synonymously with Meridional
+Overturning Circulation.
+Thermokarst The process by which characteristic landforms result from
+the thawing of ice-rich permafrost or the melting of massive ground ice.
+Thermosteric See Sea level change.
+Tide gauge A device at a coastal or deep-sea location that continuously
+measures the level of the sea with respect to the adjacent land. Time
+averaging of the sea level so recorded gives the observed secular changes
+of the relative sea level.
+Tipping point In climate, a hypothesized critical threshold when global
+or regional climate changes from one stable state to another stable state.
+The tipping point event may be irreversible. See also Irreversibility.
+Total solar irradiance (TSI) The total amount of solar radiation in
+watts per square metre received outside the Earth’s atmosphere on a
+surface
+normal to the incident radiation, and at the Earth’s mean distance
+from the Sun.
+Reliable measurements of solar radiation can only be made from space
+and the precise record extends back only to 1978. The generally accepted
+value is 1368 W m−2 with an accuracy of about 0.2%. It has recently
+been estimated to 1360.8 ± 0.5 W m–2 for the solar minimum of 2008.
+Variations of a few tenths of a percent are common, usually associated
+with the passage of sunspots across the solar disk. The solar cycle
+variation of TSI is of the order of 0.1% (AMS, 2000). Changes in the
+ultraviolet part of the spectrum during a solar cycle are comparatively
+larger (percent) than in TSI. See also Insolation.
+
+
+Transient climate response See Climate sensitivity.
+Transient climate response to cumulative CO2 emissions (TCRE)
+The transient global average surface temperature change per unit cumulated
+CO2 emissions, usually 1000 PgC. TCRE combines both information
+on the airborne fraction of cumulated CO2 emissions (the fraction of the
+total CO2 emitted that remains in the atmosphere), and on the transient
+climate response (TCR).
+Tree rings Concentric rings of secondary wood evident in a cross section
+of the stem of a woody plant. The difference between the dense, smallcelled
+late wood of one season and the wide-celled early wood of the
+following spring enables the age of a tree to be estimated, and the ring
+widths or density can be related to climate parameters such as temperature
+and precipitation. See also Proxy.
+Trend In this report, the word trend designates a change, generally
+monotonic in time, in the value of a variable.
+Tropopause The boundary between the troposphere and the stratosphere.
+Troposphere The lowest part of the atmosphere, from the surface to
+about 10 km in altitude at mid-latitudes (ranging from 9 km at high latitudes
+to 16 km in the tropics on average), where clouds and weather phenomena
+occur. In the troposphere, temperatures generally decrease with
+height. See also Stratosphere.
+Turnover time See Lifetime.
+Uncertainty A state of incomplete knowledge that can result from a
+lack of information or from disagreement about what is known or even
+knowable. It may have many types of sources, from imprecision in the data
+to ambiguously defined concepts or terminology, or uncertain projections
+of human behaviour. Uncertainty can therefore be represented by quantitative
+measures (e.g., a probability density function) or by qualitative statements
+(e.g., reflecting the judgment of a team of experts) (see Moss and
+Schneider, 2000; Manning et al., 2004; Mastrandrea et al., 2010). See also
+Confidence and Likelihood.
+United Nations Framework Convention on Climate Change
+(UNFCCC) The Convention was adopted on 9 May 1992 in New York
+and signed at the 1992 Earth Summit in Rio de Janeiro by more than 150
+countries and the European Community. Its ultimate objective is the ‘stabilisation
+of greenhouse gas concentrations in the atmosphere at a level
+that would prevent dangerous anthropogenic interference with the climate
+system’. It contains commitments for all Parties. Under the Convention,
+Parties included in Annex I (all OECD countries and countries with economies
+in transition) aim to return greenhouse gas emissions not controlled
+by the Montreal Protocol to 1990 levels by the year 2000. The convention
+entered in force in March 1994. In 1997, the UNFCCC adopted the Kyoto
+Protocol.
+Uptake The addition of a substance of concern to a reservoir. The
+uptake of carbon containing substances, in particular carbon dioxide, is
+often called (carbon) sequestration.
+Urban heat island (UHI) The relative warmth of a city compared with
+surrounding rural areas, associated with changes in runoff, effects on heat
+retention, and changes in surface albedo.
+Ventilation The exchange of ocean properties with the atmospheric
+surface layer such that property concentrations are brought closer to equilibrium
+values with the atmosphere (AMS, 2000), and the processes that
+propagate these properties into the ocean interior.
+Volatile Organic Compounds (VOC) Important class of organic
+chemical air pollutants that are volatile at ambient air conditions. Other
+terms used to represent VOCs are hydrocarbons (HCs), reactive organic
+gases (ROGs) and non-methane volatile organic compounds (NMVOCs).
+NMVOCs are major contributors (together with NOx and CO) to the formation
+of photochemical oxidants such as ozone.
+Walker Circulation Direct thermally driven zonal overturning circulation
+in the atmosphere over the tropical Pacific Ocean, with rising air in the
+western and sinking air in the eastern Pacific.
+Warm days/warm nights Days where maximum temperature, or
+nights where minimum temperature, exceeds the 90th percentile, where
+the respective temperature distributions are generally defined with respect
+to the 1961–1990 reference period. For the corresponding indices, see Box
+.4.
+Warm spell A period of abnormally hot weather. For the corresponding
+indices, see Box 2.4. See also Heat wave.
+Water cycle See Hydrological cycle.
+Water mass A body of ocean water with identifiable properties (temperature,
+salinity, density, chemical tracers) resulting from its unique formation
+process. Water masses are often identified through a vertical or
+horizontal extremum of a property such as salinity. North Pacific Intermediate
+Water (NPIW) and Antarctic Intermediate Water (AAIW) are examples
+of water masses.
+Weathering The gradual removal of atmospheric CO2 through dissolution
+of silicate and carbonate rocks. Weathering may involve physical
+processes (mechanical weathering) or chemical activity (chemical weathering).
+Well-mixed greenhouse gas See Greenhouse gas.
+Younger Dryas A period 12.85 to 11.65 ka (thousand years before
+), during the deglaciation, characterized by a temporary return to
+colder conditions in many locations, especially around the North Atlantic.
