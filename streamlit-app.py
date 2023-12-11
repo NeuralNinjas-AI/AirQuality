@@ -25,36 +25,26 @@ def process_response(response_str):
         # Parse the string response into a dictionary
         response = json.loads(response_str)
 
-        # Rest of the code from the previous example
-        sentiment_counts = {}
+        # Extract overall sentiment
+        overall_sentiment = response.get("sentiment", "neutral")
+
+        # Extract words and their sentiments
+        words = response.get("words", {})
+
+        # Prepare highlighted text parts
         highlighted_text_parts = []
+        for phrase, sentiment in words.items():
+            highlighted_phrase = f"{phrase} ({sentiment})"
+            highlighted_text_parts.append(highlighted_phrase)
 
-        for sentiment, phrases in response.items():
-            for phrase in phrases:
-                # Update sentiment counts
-                if sentiment not in sentiment_counts:
-                    sentiment_counts[sentiment] = 0
-                sentiment_counts[sentiment] += 1
+        # Combine highlighted text parts
+        highlighted_text = ", ".join(highlighted_text_parts)
 
-                # Prepare highlighted text
-                if sentiment != "neutral":  # Ignore neutral sentiments
-                    highlighted_phrase = f"{phrase} ({sentiment})"
-                else:
-                    highlighted_phrase = phrase
+        return overall_sentiment, highlighted_text
 
-                highlighted_text_parts.append(highlighted_phrase)
-            
     except json.JSONDecodeError:
         print("Error decoding the JSON response")
         return "Error", "Invalid response"
-
-    # Determine the most common sentiment
-    overall_sentiment = max(sentiment_counts, key=sentiment_counts.get)
-
-    # Combine highlighted text parts
-    highlighted_text = ", ".join(highlighted_text_parts)
-
-    return overall_sentiment, highlighted_text
 
 def highlight_words(text):
     if not isinstance(text, str):
@@ -70,7 +60,7 @@ def analyze_sentiment(text):
     messages = [
         {"role": "system", "content": "You need to determine the sentiment of a text the user inputs about the climate. The sentiment can be the following:"},
         {"role": "system", "content": "admiration, amusement, anger, annoyance, approval, caring, confusion, curiosity, desire, disappointment, disapproval, disgust, embarrassment, excitement, fear, gratitude, grief, joy, love, nervousness, optimism, pride, realization, relief, remorse, sadness, surprise, neutral"},
-        { "role": "system", "content": "Analyze the following text. The words containing sentiment need to be labeled, you can ignore neutral words, don't label them and don't send them back. Only highlight words that are important sentiment value to humans. The rest needs to be returned in a dictonary format in JSON."},
+        { "role": "system", "content": "Analyze the following text. The words containing sentiment need to be labeled, you can ignore neutral words, don't label them and don't send them back. Only highlight words that are important sentiment value to humans. The rest needs to be returned in a dictonary format in JSON. Like for example: {\"sentiment\":\"disapproval\",\"words\":{\"not so bad\":\"disapproval\",\"don\’t need\":\"disapproval\"}}"},
         {"role": "user", "content": text}
     ]
     try:
@@ -81,7 +71,7 @@ def analyze_sentiment(text):
             temperature=0.3,
         )
 
-        #print(response)
+        print(response)
 
         # Extract sentiment and highlighted text from the response
         sentiment, highlighted_text = process_response(response.choices[0].message.content)
@@ -100,7 +90,7 @@ def modify_text(original_text, new_sentiment, highlighted_text):
         {"role": "system", "content": new_sentiment},
         { "role": "system", "content": "You classified the original text as the following sentiment:"},
         { "role": "system", "content": highlighted_text },
-        { "role": "system", "content": "Modify the following text. The words containing sentiment need to be labeled, you can ignore neutral words, don't label them and don't send them back. Only highlight words that are important sentiment value to humans, put the modified words in []. The rest needs to be returned in a dictonary format in JSON."},
+        { "role": "system", "content": "Modify the following text. The words containing sentiment need to be labeled, you can ignore neutral words, don't label them and don't send them back. Only highlight words that are important sentiment value to humans, put the modified words in []. The rest needs to be returned in a dictonary format in JSON. You can return it like this for example: {'modified_text': 'The environment is [remarkable], we [must admire] its resilience'}"},
         {"role": "user", "content": original_text}
     ]
 
@@ -156,4 +146,4 @@ if st.button("Modify Text"):
     highlighted_text = highlight_words(modified_text)
     print("Highlighted Text: ", highlighted_text)
     st.markdown("Modified Text:", unsafe_allow_html=True)
-    st.markdown(highlighted_text, unsafe_allow_html=True)
+    st.markdown(modified_text, unsafe_allow_html=True)
