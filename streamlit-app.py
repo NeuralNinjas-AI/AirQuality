@@ -20,49 +20,16 @@ if 'sentiment' not in st.session_state:
 if 'highlighted_text' not in st.session_state:
     st.session_state['highlighted_text'] = ""
 
-def process_response(response_str):
-    try:
-        # Parse the string response into a dictionary
-        response = json.loads(response_str)
-
-        # Extract overall sentiment
-        overall_sentiment = response.get("sentiment", "neutral")
-
-        # Extract words and their sentiments
-        words = response.get("words", {})
-
-        # Prepare highlighted text parts
-        highlighted_text_parts = []
-        for phrase, sentiment in words.items():
-            highlighted_phrase = f"{phrase} ({sentiment})"
-            highlighted_text_parts.append(highlighted_phrase)
-
-        # Combine highlighted text parts
-        highlighted_text = ", ".join(highlighted_text_parts)
-
-        return overall_sentiment, highlighted_text
-
-    except json.JSONDecodeError:
-        print("Error decoding the JSON response")
-        return "Error", "Invalid response"
-
-def highlight_words(text):
-    if not isinstance(text, str):
-        return ""  # Return an empty string if text is not a string
-    # Process the text to highlight words
-    return re.sub(r'\[(\w+)\]', r'<span style="color: orange;">\1</span>', text)
-
-
+# Function to analyze sentiment
 def analyze_sentiment(text):
-    # Call OpenAI API to analyze sentiment
     model = "gpt-4-1106-preview"
-    response_format = { "type": "json_object"}
+    response_format = {"type": "json_object"}
     messages = [
-        {"role": "system", "content": "You need to determine the sentiment of a text the user inputs about the climate. The sentiment can be the following:"},
-        {"role": "system", "content": "admiration, amusement, anger, annoyance, approval, caring, confusion, curiosity, desire, disappointment, disapproval, disgust, embarrassment, excitement, fear, gratitude, grief, joy, love, nervousness, optimism, pride, realization, relief, remorse, sadness, surprise, neutral"},
-        { "role": "system", "content": "Analyze the following text. The words containing sentiment need to be labeled, you can ignore neutral words, don't label them and don't send them back. Only highlight words that are important sentiment value to humans. The rest needs to be returned in a dictonary format in JSON. Like for example: {\"sentiment\":\"disapproval\",\"words\":{\"not so bad\":\"disapproval\",\"don\’t need\":\"disapproval\"}}"},
+        {"role": "system", "content": "You need to analyze the sentiment of a text the user inputs about the climate. Return the analysis as a json object. The sentiment can be admiration, amusement, anger, annoyance, approval, caring, confusion, curiosity, desire, disappointment, disapproval, disgust, embarrassment, excitement, fear, gratitude, grief, joy, love, nervousness, optimism, pride, realization, relief, remorse, sadness, surprise, or neutral."},
+        {"role": "system", "content": "Directly modify the text by highlighting words with significant sentiment using HTML styling, by using a background-color with a corner radius of 5px. Apply colors as follows: Red for 'anger', Blue for 'sadness', Yellow for 'joy', Green for 'disgust', Gold for 'admiration', Orange for 'amusement', DarkRed for 'annoyance', LightGreen for 'approval', Pink for 'caring', Gray for 'confusion', Violet for 'curiosity', Crimson for 'desire', LightSlateGray for 'disappointment', DarkSlateGray for 'disapproval', RosyBrown for 'embarrassment', YellowGreen for 'excitement', Indigo for 'fear', Lavender for 'gratitude', SlateBlue for 'grief', DeepPink for 'love', DarkOrange for 'nervousness', LightCoral for 'optimism', SkyBlue for 'pride', Khaki for 'realization', PaleGreen for 'relief', Olive for 'remorse', Orchid for 'surprise', and White for 'neutral'. For darker colors, use white font color. Leave the rest of the text unstyled. Return the result as an HTML-formatted string within a json object."},
         {"role": "user", "content": text}
     ]
+
     try:
         response = client.chat.completions.create(
             model=model,
@@ -71,26 +38,48 @@ def analyze_sentiment(text):
             temperature=0.3,
         )
 
-        print(response)
+        if response.choices:
+            response_json = json.loads(response.choices[0].message.content)
+            modified_html_text = response_json.get("text", "") 
+            return infer_sentiments_from_highlighted_text(modified_html_text), modified_html_text
+        else:
+            return "Error", "No choices available in the response"
 
-        # Extract sentiment and highlighted text from the response
-        sentiment, highlighted_text = process_response(response.choices[0].message.content)
-
-        return sentiment, highlighted_text
     except Exception as e:
         print(e)
-        return "Error", "No text available"
+        return "Error", str(e)
+
+# Function to infer sentiment from highlighted text
+def infer_sentiments_from_highlighted_text(html_text):
+    sentiments_detected = []
+    sentiment_colors = {
+        "Blue": "sadness", "Red": "anger", "Yellow": "joy", "Green": "disgust", "Gold": "admiration",
+        "Orange": "amusement", "DarkRed": "annoyance", "LightGreen": "approval", "Pink": "caring",
+        "Gray": "confusion", "Violet": "curiosity", "Crimson": "desire", "LightSlateGray": "disappointment",
+        "DarkSlateGray": "disapproval", "RosyBrown": "embarrassment", "YellowGreen": "excitement",
+        "Indigo": "fear", "Lavender": "gratitude", "SlateBlue": "grief", "DeepPink": "love",
+        "DarkOrange": "nervousness", "LightCoral": "optimism", "SkyBlue": "pride", "Khaki": "realization",
+        "PaleGreen": "relief", "Olive": "remorse", "Orchid": "surprise", "White": "neutral"
+    }
+
+    for color, sentiment in sentiment_colors.items():
+        if f"<span style='background-color: {color};" in html_text:
+            sentiments_detected.append(sentiment)
+
+    return ', '.join(sentiments_detected) if sentiments_detected else "Unknown"
 
 
+# Function to modify text
 def modify_text(original_text, new_sentiment, highlighted_text):
     model = "gpt-4-1106-preview"
-    response_format = { "type": "json_object"}
+    response_format = {"type": "json_object"}
     messages = [
         {"role": "system", "content": "You need to modify the text the user inputs about the climate. The sentiment of the text needs to be changed to the following:"},
         {"role": "system", "content": new_sentiment},
-        { "role": "system", "content": "You classified the original text as the following sentiment:"},
-        { "role": "system", "content": highlighted_text },
-        { "role": "system", "content": "Modify the following text. The words containing sentiment need to be labeled, you can ignore neutral words, don't label them and don't send them back. Only highlight words that are important sentiment value to humans, put the modified words in []. The rest needs to be returned in a dictonary format in JSON. You can return it like this for example: {'modified_text': 'The environment is [remarkable], we [must admire] its resilience'}"},
+        {"role": "system", "content": "You classified the original text as the following sentiment:"},
+        {"role": "system", "content": highlighted_text},
+        {"role": "system", "content": "Please format the output as a JSON object. Modify the text as follows:"},
+        {"role": "system", "content": "Apply HTML styling to highlight words, by using a background-color with a corner radius of 5px, with sentiment using specific colors. Use Red for 'anger', Blue for 'sadness', Yellow for 'joy', Green for 'disgust', Gold for 'admiration', Orange for 'amusement', DarkRed for 'annoyance', LightGreen for 'approval', Pink for 'caring', Gray for 'confusion', Violet for 'curiosity', Crimson for 'desire', LightSlateGray for 'disappointment', DarkSlateGray for 'disapproval', RosyBrown for 'embarrassment', YellowGreen for 'excitement', Indigo for 'fear', Lavender for 'gratitude', SlateBlue for 'grief', DeepPink for 'love', DarkOrange for 'nervousness', LightCoral for 'optimism', SkyBlue for 'pride', Khaki for 'realization', PaleGreen for 'relief', Olive for 'remorse', Orchid for 'surprise', and White for 'neutral'. For the darker colors, the font color of the sentiment needs to be white. Return the result as an HTML-formatted string within a JSON object."},
         {"role": "user", "content": original_text}
     ]
 
@@ -102,25 +91,39 @@ def modify_text(original_text, new_sentiment, highlighted_text):
             temperature=0.5,
         )
 
-        # Directly extract the modified text from the response
-        modified_text = json.loads(response.choices[0].message.content)
-        #modified_text = modified_text_json.get("modified_text", "No modified text available")
-        print(modified_text)
+        response_json = json.loads(response.choices[0].message.content)
+        modified_html_text = response_json.get("modified_text", "")
 
-        return modified_text
+        return modified_html_text
     
     except Exception as e:
         print(e)
-        return "Error"
-    
+        return "Error" 
 
 # Streamlit app layout
 st.title("Sentiment Analysis and Modification App")
 
-# Text input
-user_input = st.text_area("Enter your text test:", height=150)
+# sentiment colors with their corresponding sentiments
+sentiment_colors = {
+    "Gold": "Admiration", "Orange": "Amusement", "Red": "Anger", "DarkRed": "Annoyance", "LightGreen": "Approval", "Pink": "Caring", "Gray": "Confusion", "Violet": "Curiosity", "Crimson": "Desire", "LightSlateGray": "Disappointment", "DarkSlateGray": "Disapproval", "Green": "Disgust",  "RosyBrown": "Embarrassment", "YellowGreen": "Excitement", "Indigo": "Fear", "Lavender": "Gratitude", "SlateBlue": " Grief", "Yellow": "Joy", "DeepPink": "Love", "DarkOrange": "Nervousness", "LightCoral": "Optimism", "SkyBlue": "Pride", "Khaki": "Realization", "PaleGreen": "Relief", "Olive": "Remorse", "Blue": "Sadness","Orchid": "Surprise", "White": "Neutral"
+}
 
-# Sentiment labels
+# dark colors for which the font color needs to be white
+dark_colors = ["DarkRed", "Blue", "Green", "DarkSlateGray", "Indigo", "SlateBlue", "Olive"]
+
+# join the sentiment colors into an HTML string
+sentiment_color_html = "".join(
+    [f"<div style='background-color: {color}; color: {'white' if color in dark_colors else 'black'};margin-bottom: 5px;display: flex; justify-content: center; border-radius: 5px; width: 150px;'>{sentiment}</div>"
+     for color, sentiment in sentiment_colors.items()]
+)
+
+# sidebar with the sentiment colors
+st.sidebar.markdown("<h1 style='display: flex; align-items: center; margin-top: -40px; margin-bottom: 25px;'>" + "Sentiment Colors" + "</h1>", unsafe_allow_html=True)
+# st.sidebar.markdown(sentiment_color_html, unsafe_allow_html=True)
+st.sidebar.markdown("<div style='display: flex; flex-direction: column; align-items: center;'>" + sentiment_color_html + "</div>", unsafe_allow_html=True)
+
+user_input = st.text_area("Enter your text:", height=150)
+
 sentiment_labels = {
     0: 'admiration', 1: 'amusement', 2: 'anger', 3: 'annoyance', 4: 'approval', 5: 'caring',
     6: 'confusion', 7: 'curiosity', 8: 'desire', 9: 'disappointment', 10: 'disapproval',
@@ -128,22 +131,23 @@ sentiment_labels = {
     16: 'grief', 17: 'joy', 18: 'love', 19: 'nervousness', 20: 'optimism', 21: 'pride',
     22: 'realization', 23: 'relief', 24: 'remorse', 25: 'sadness', 26: 'surprise', 27: 'neutral'
 }
-# Analyze sentiment button
-if st.button("Analyze Sentiment"):
-    st.session_state['sentiment'], st.session_state['highlighted_text'] = analyze_sentiment(user_input)
-    st.write("Sentiment: ", st.session_state['sentiment'])
-    st.write("Highlighted Text: ", st.session_state['highlighted_text'])
 
-# Select box for new sentiment
+# display the sentiment and highlighted text after clicking the button
+if st.button("Analyze Sentiment"):
+    sentiment, highlighted_text = analyze_sentiment(user_input)
+    st.session_state['sentiment'] = sentiment
+    st.session_state['highlighted_text'] = highlighted_text
+    st.markdown("**Sentiment:** " + sentiment, unsafe_allow_html=True)
+    st.markdown("**Highlighted Text:**", unsafe_allow_html=True)
+    st.markdown(highlighted_text, unsafe_allow_html=True)
+
 new_sentiment = st.selectbox("Choose a new sentiment:", list(sentiment_labels.values()))
 
-# Modify text button
+# display the modified text after clicking the button
 if st.button("Modify Text"):
     modified_text = modify_text(user_input, new_sentiment, st.session_state['highlighted_text'])
-    st.write("Original Text: ", user_input)
-    st.write("Original Sentiment: ", st.session_state['sentiment'])
-    print("Modified Text: ", modified_text)
-    highlighted_text = highlight_words(modified_text)
-    print("Highlighted Text: ", highlighted_text)
-    st.markdown("Modified Text:", unsafe_allow_html=True)
+    st.markdown("**Original Text:**", unsafe_allow_html=True)
+    st.markdown(st.session_state['highlighted_text'], unsafe_allow_html=True)
+    st.markdown("**Original Sentiment:** " + st.session_state['sentiment'], unsafe_allow_html=True)
+    st.markdown("**Modified Text:**", unsafe_allow_html=True)
     st.markdown(modified_text, unsafe_allow_html=True)
