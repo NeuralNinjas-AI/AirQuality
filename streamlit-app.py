@@ -4,7 +4,7 @@ import json
 import re
 
 # Initialize the OpenAI API key
-client = OpenAI( api_key='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', organization='org-U5E8gWOvXpUOgvpP4vfcgTO4' )
+client = OpenAI( api_key='', organization='' )
 
 # Initialize variables
 highlighted_text = ""
