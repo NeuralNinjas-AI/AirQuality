@@ -4,10 +4,7 @@ import json
 import re
 
 # Initialize the OpenAI API key
-client = OpenAI(
-    api_key='#',
-    organization='#'
-)
+client = OpenAI( api_key='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', organization='org-U5E8gWOvXpUOgvpP4vfcgTO4' )
 
 # Initialize variables
 highlighted_text = ""
@@ -76,10 +73,7 @@ def modify_text(original_text, new_sentiment, highlighted_text):
     messages = [
         {"role": "system", "content": "You need to modify the text the user inputs about the climate. The sentiment of the text needs to be changed to the following:"},
         {"role": "system", "content": new_sentiment},
-        {"role": "system", "content": "You classified the original text as the following sentiment:"},
-        {"role": "system", "content": highlighted_text},
-        {"role": "system", "content": "Please format the output as a JSON object. Modify the text as follows:"},
-        {"role": "system", "content": "Apply HTML styling to highlight words, by using a background-color with a corner radius of 5px, with sentiment using specific colors. Use Red for 'anger', Blue for 'sadness', Yellow for 'joy', Green for 'disgust', Gold for 'admiration', Orange for 'amusement', DarkRed for 'annoyance', LightGreen for 'approval', Pink for 'caring', Gray for 'confusion', Violet for 'curiosity', Crimson for 'desire', LightSlateGray for 'disappointment', DarkSlateGray for 'disapproval', RosyBrown for 'embarrassment', YellowGreen for 'excitement', Indigo for 'fear', Lavender for 'gratitude', SlateBlue for 'grief', DeepPink for 'love', DarkOrange for 'nervousness', LightCoral for 'optimism', SkyBlue for 'pride', Khaki for 'realization', PaleGreen for 'relief', Olive for 'remorse', Orchid for 'surprise', and White for 'neutral'. For the darker colors, the font color of the sentiment needs to be white. Return the result as an HTML-formatted string within a JSON object."},
+        {"role": "system", "content": "Modify the text as follows without losing the original facts. Stay as close as possible to the original text. You are not allowed to go against the facts and meaning in the sentence, but you are allowed to use words with different sentiment with the same meaning to change the overall sentiment of the text: Apply HTML styling to highlight words, by using a background-color with a corner radius of 5px, with sentiment using specific colors. Use Red for 'anger', Blue for 'sadness', Yellow for 'joy', Green for 'disgust', Gold for 'admiration', Orange for 'amusement', DarkRed for 'annoyance', LightGreen for 'approval', Pink for 'caring', Gray for 'confusion', Violet for 'curiosity', Crimson for 'desire', LightSlateGray for 'disappointment', DarkSlateGray for 'disapproval', RosyBrown for 'embarrassment', YellowGreen for 'excitement', Indigo for 'fear', Lavender for 'gratitude', SlateBlue for 'grief', DeepPink for 'love', DarkOrange for 'nervousness', LightCoral for 'optimism', SkyBlue for 'pride', Khaki for 'realization', PaleGreen for 'relief', Olive for 'remorse', Orchid for 'surprise', and White for 'neutral'. For the darker colors, the font color of the sentiment needs to be white. Return the result as an HTML-formatted string within a JSON object."},
         {"role": "user", "content": original_text}
     ]
 
