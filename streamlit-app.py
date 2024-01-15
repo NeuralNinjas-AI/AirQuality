@@ -23,7 +23,7 @@ def analyze_sentiment(text):
     response_format = {"type": "json_object"}
     messages = [
         {"role": "system", "content": "You need to analyze the sentiment of a text the user inputs about the climate. Return the analysis as a json object. The sentiment can be admiration, amusement, anger, annoyance, approval, caring, confusion, curiosity, desire, disappointment, disapproval, disgust, embarrassment, excitement, fear, gratitude, grief, joy, love, nervousness, optimism, pride, realization, relief, remorse, sadness, surprise, or neutral."},
-        {"role": "system", "content": "Directly modify the text by highlighting words with significant sentiment using HTML styling, by using a background-color with a corner radius of 5px. Apply colors as follows: Red for 'anger', Blue for 'sadness', Yellow for 'joy', Green for 'disgust', Gold for 'admiration', Orange for 'amusement', DarkRed for 'annoyance', LightGreen for 'approval', Pink for 'caring', Gray for 'confusion', Violet for 'curiosity', Crimson for 'desire', LightSlateGray for 'disappointment', DarkSlateGray for 'disapproval', RosyBrown for 'embarrassment', YellowGreen for 'excitement', Indigo for 'fear', Lavender for 'gratitude', SlateBlue for 'grief', DeepPink for 'love', DarkOrange for 'nervousness', LightCoral for 'optimism', SkyBlue for 'pride', Khaki for 'realization', PaleGreen for 'relief', Olive for 'remorse', Orchid for 'surprise', and White for 'neutral'. For darker colors, use white font color. Leave the rest of the text unstyled. Return the result as an HTML-formatted string within a json object."},
+        {"role": "system", "content": "Directly modify the text by highlighting words with significant sentiment using HTML styling, by using a background-color with a corner radius of 5px. Apply colors as follows: Red for 'anger', Blue for 'sadness', Yellow for 'joy', Green for 'disgust', Gold for 'admiration', Orange for 'amusement', DarkRed for 'annoyance', LightGreen for 'approval', Pink for 'caring', Gray for 'confusion', Violet for 'curiosity', Crimson for 'desire', LightSlateGray for 'disappointment', DarkSlateGray for 'disapproval', RosyBrown for 'embarrassment', YellowGreen for 'excitement', Indigo for 'fear', Lavender for 'gratitude', SlateBlue for 'grief', DeepPink for 'love', DarkOrange for 'nervousness', LightCoral for 'optimism', SkyBlue for 'pride', Khaki for 'realization', PaleGreen for 'relief', Olive for 'remorse', Orchid for 'surprise', and White for 'neutral'. For darker colors, use white font color. Leave the rest of the text unstyled. Return the result as an HTML-formatted string within a json object. Example: {\"sentiment\": <sentiment>,\"text\":<html>}}"},
         {"role": "user", "content": text}
     ]
 
@@ -35,10 +35,13 @@ def analyze_sentiment(text):
             temperature=0.3,
         )
 
+        print(response.choices[0].message.content)
+
         if response.choices:
             response_json = json.loads(response.choices[0].message.content)
-            modified_html_text = response_json.get("text", "") 
-            return infer_sentiments_from_highlighted_text(modified_html_text), modified_html_text
+            modified_html_text = response_json.get("text", "")
+            average_sentiment = response_json.get("sentiment", "") 
+            return infer_sentiments_from_highlighted_text(modified_html_text), modified_html_text, average_sentiment
         else:
             return "Error", "No choices available in the response"
 
@@ -73,7 +76,7 @@ def modify_text(original_text, new_sentiment, highlighted_text):
     messages = [
         {"role": "system", "content": "You need to modify the text the user inputs about the climate. The sentiment of the text needs to be changed to the following:"},
         {"role": "system", "content": new_sentiment},
-        {"role": "system", "content": "Modify the text as follows without losing the original facts. Stay as close as possible to the original text. You are not allowed to go against the facts and meaning in the sentence, but you are allowed to use words with different sentiment with the same meaning to change the overall sentiment of the text: Apply HTML styling to highlight words, by using a background-color with a corner radius of 5px, with sentiment using specific colors. Use Red for 'anger', Blue for 'sadness', Yellow for 'joy', Green for 'disgust', Gold for 'admiration', Orange for 'amusement', DarkRed for 'annoyance', LightGreen for 'approval', Pink for 'caring', Gray for 'confusion', Violet for 'curiosity', Crimson for 'desire', LightSlateGray for 'disappointment', DarkSlateGray for 'disapproval', RosyBrown for 'embarrassment', YellowGreen for 'excitement', Indigo for 'fear', Lavender for 'gratitude', SlateBlue for 'grief', DeepPink for 'love', DarkOrange for 'nervousness', LightCoral for 'optimism', SkyBlue for 'pride', Khaki for 'realization', PaleGreen for 'relief', Olive for 'remorse', Orchid for 'surprise', and White for 'neutral'. For the darker colors, the font color of the sentiment needs to be white. Return the result as an HTML-formatted string within a JSON object."},
+        {"role": "system", "content": "Modify the text as follows without losing the original facts. Stay as close as possible to the original text. You are not allowed to go against the facts and meaning in the sentence, but you are allowed to use words with different sentiment with the same meaning to change the overall sentiment of the text: Apply HTML styling to highlight words, by using a background-color with a corner radius of 5px, with sentiment using specific colors. Use Red for 'anger', Blue for 'sadness', Yellow for 'joy', Green for 'disgust', Gold for 'admiration', Orange for 'amusement', DarkRed for 'annoyance', LightGreen for 'approval', Pink for 'caring', Gray for 'confusion', Violet for 'curiosity', Crimson for 'desire', LightSlateGray for 'disappointment', DarkSlateGray for 'disapproval', RosyBrown for 'embarrassment', YellowGreen for 'excitement', Indigo for 'fear', Lavender for 'gratitude', SlateBlue for 'grief', DeepPink for 'love', DarkOrange for 'nervousness', LightCoral for 'optimism', SkyBlue for 'pride', Khaki for 'realization', PaleGreen for 'relief', Olive for 'remorse', Orchid for 'surprise', and White for 'neutral'. For the darker colors, the font color of the sentiment needs to be white. Return the result as an HTML-formatted string within a JSON object.  Example: {\"modified_text\": <html>}}"},
         {"role": "user", "content": original_text}
     ]
 
@@ -84,7 +87,7 @@ def modify_text(original_text, new_sentiment, highlighted_text):
             response_format=response_format,
             temperature=0.5,
         )
-
+        print(response.choices[0].message.content)
         response_json = json.loads(response.choices[0].message.content)
         modified_html_text = response_json.get("modified_text", "")
 
@@ -128,8 +131,8 @@ sentiment_labels = {
 
 # display the sentiment and highlighted text after clicking the button
 if st.button("Analyze Sentiment"):
-    sentiment, highlighted_text = analyze_sentiment(user_input)
-    st.session_state['sentiment'] = sentiment
+    sentiment, highlighted_text, average_sentiment = analyze_sentiment(user_input)
+    st.session_state['sentiment'] = average_sentiment
     st.session_state['highlighted_text'] = highlighted_text
     st.markdown("**Sentiment:** " + sentiment, unsafe_allow_html=True)
     st.markdown("**Highlighted Text:**", unsafe_allow_html=True)
